@@ -1,20 +1,26 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
-Q20675880,Eduardo Año,Eduardo Año,male,1960-01-01,9,,,Q7444421,Secretary of the Interior and Local Government,2018-01-05,Q20675880-ad9a4da1-4e84-ecb8-14b8-86a7a397a70c
-Q24810051,Arthur Tugade,Arthur Tugade,male,1946-01-09,11,,,Q7444401,Secretary of Transportation and Communications,2016-06-30,Q24810051-E1BE0A6D-5196-48E7-8B8B-9E4DB89F1DD1
+Q110013408,Tina Rose Marie Canda,Tina Rose Marie Canda,female,,,,,Q7444285,Secretary of Budget and Management,2021-08-13,Q110013408-7F0A77C1-297D-4F46-AFD6-09AD379369EB
+Q110013426,Elmer Distor,Elmer Distor,male,,,,,Q7444282,Secretary of Agrarian Reform,2021-10-08,Q110013426-3E499B00-0A72-4D90-9741-639D4F17DEA7
+Q110013431,Jose Arturo de Castro,Jose Arturo de Castro,male,,,,,Q110013432,Secretary of Information and Communications Technology,2021-10-10,Q110013431-8FCAABB6-FF4F-41E4-9BAC-BEC49A7E4E4F
+Q12970094,Roger Mercado,Roger Mercado,male,,,,,Q7444321,Secretary of Public Works and Highways,2021-10-13,Q12970094-20E3C41C-9693-48E7-B288-5222263549E0
+Q20675880,Eduardo Año,Eduardo Año,male,1960-01-01,9,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444421,Interior and Local Government,2018-01-05,Q20675880-ad9a4da1-4e84-ecb8-14b8-86a7a397a70c
+Q24810051,Arthur Tugade,Arthur Tugade,male,1946-01-09,11,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444401,Transportation,2016-06-30,Q24810051-E1BE0A6D-5196-48E7-8B8B-9E4DB89F1DD1
 Q24852544,Salvador Medialdea,Salvador Medialdea,male,1951-10-14,11,,,Q30995,Executive Secretary,2016-06-30,Q24852544-F83045E9-E07B-452C-98D4-EF1AF1AC845F
-Q25136908,Silvestre Bello III,Silvestre Bello III,male,1944-06-23,11,,,Q7444316,Secretary of Labor and Employment,2016-06-30,Q25136908-318b306e-46a2-b6bd-31e6-553d12245341
-Q25350219,Fortunato de la Peña,Fortunato de la Peña,male,1949-11-12,11,,,Q7444322,Secretary of Science and Technology,2016-06-30,Q25350219-AA7810DF-D5FE-4461-B67A-9D738E897E8E
-Q25350470,Carlos Dominguez III,Carlos Dominguez III,male,1945-09-16,11,,,Q7444305,Secretary of Finance,2016-07-01,Q25350470-D3284C18-2FB8-4B74-A527-3800E38DAB32
-Q25351017,Delfin Lorenzana,Delfin Lorenzana,male,1948-10-28,11,,,Q7444318,Secretary of National Defense,2016-06-30,Q25351017-1e56ea67-48f9-4ef5-a990-1eaf5c3a2c1d
-Q25706643,Alfonso Cusi,Alfonso Cusi,male,1949-12-04,11,,,Q7444301,Secretary of Energy,2016-06-30,Q25706643-E644B6F2-D61D-4FCB-9A52-A7A6D493C7D6
-Q28421676,Ramon Lopez,Ramon Lopez,male,,,,,Q7444399,Secretary of Trade and Industry,2016-06-30,Q28421676-7BEAA490-4EDD-4D0D-A58F-F34E9BC8C8DA
-Q29913372,Roy Cimatu,Roy Cimatu,male,1946-07-04,11,,,Q7444302,Secretary of Environment and Natural Resources,2017-05-08,Q29913372-70A0831D-DFBD-4AED-A0D2-1B3D013A360C
-Q339811,Francisco Duque,Francisco Duque,male,1957-02-13,11,,,Q7444312,Secretary of Health,2017-10-26,Q339811-289e8b48-439c-da5b-b779-4b22250028a1
+Q25136908,Silvestre Bello III,Silvestre Bello III,male,1944-06-23,11,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444316,Labor and Employment,2016-06-30,Q25136908-318b306e-46a2-b6bd-31e6-553d12245341
+Q25350219,Fortunato de la Peña,Fortunato de la Peña,male,1949-11-12,11,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444322,Science and Technology,2016-06-30,Q25350219-AA7810DF-D5FE-4461-B67A-9D738E897E8E
+Q25350470,Carlos Dominguez III,Carlos Dominguez III,male,1945-09-16,11,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444305,Finance,2016-07-01,Q25350470-D3284C18-2FB8-4B74-A527-3800E38DAB32
+Q25351017,Delfin Lorenzana,Delfin Lorenzana,male,1948-10-28,11,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444318,National Defense,2016-06-30,Q25351017-1e56ea67-48f9-4ef5-a990-1eaf5c3a2c1d
+Q25706643,Alfonso Cusi,Alfonso Cusi,male,1949-12-04,11,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444301,Energy,2016-06-30,Q25706643-E644B6F2-D61D-4FCB-9A52-A7A6D493C7D6
+Q28421676,Ramon Lopez,Ramon Lopez,male,,,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444399,Trade and Industry,2016-06-30,Q28421676-7BEAA490-4EDD-4D0D-A58F-F34E9BC8C8DA
+Q29913372,Roy Cimatu,Roy Cimatu,male,1946-07-04,11,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444302,Environment,2017-05-08,Q29913372-70A0831D-DFBD-4AED-A0D2-1B3D013A360C
+Q339811,Francisco Duque,Francisco Duque,male,1957-02-13,11,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444312,Health,2017-10-26,Q339811-289e8b48-439c-da5b-b779-4b22250028a1
 Q457786,Rodrigo Duterte,Rodrigo Duterte,male,1945-03-28,11,,,Q1209571,President of the Philippines,2016-06-30,Q457786-29621d4f-4059-8240-40b3-85200d7ab5ce
-Q53871378,Bernadette Romulo-Puyat,Bernadette Romulo-Puyat,female,1971-01-01,9,,,Q7444400,Secretary of Tourism,2018-05-08,Q53871378-3da2f328-4e58-0604-dfc2-e51ea6f4bec7
-Q64746899,Rolando Joselito Bautista,Rolando Joselito Bautista,male,1961-01-01,9,,,Q7444323,Secretary of Social Welfare and Development,2018-10-17,Q64746899-CFB58E35-CCDF-4D56-8FEC-2EC16C82E66E
-Q6526653,Leonor Briones,Leonor Briones,female,1940-10-16,11,,,Q7444298,Secretary of Education,2016-06-30,Q6526653-de996ec5-4f2c-2972-b4d3-4f7a56fb8b7f
-Q66221363,Menardo Guevarra,Menardo Guevarra,male,1954-05-23,11,,,Q7444314,Secretary of Justice,2018-04-05,Q66221363-45B30005-C152-4EA2-A68B-7DCC589B4E79
+Q53871378,Bernadette Romulo-Puyat,Bernadette Romulo-Puyat,female,1971-01-01,9,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444400,Tourism,2018-05-08,Q53871378-3da2f328-4e58-0604-dfc2-e51ea6f4bec7
+Q64746899,Rolando Joselito Bautista,Rolando Joselito Bautista,male,1961-01-01,9,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444323,Social Welfare & Development,2018-10-17,Q64746899-CFB58E35-CCDF-4D56-8FEC-2EC16C82E66E
+Q6526653,Leonor Briones,Leonor Briones,female,1940-10-16,11,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444298,Education,2016-06-30,Q6526653-de996ec5-4f2c-2972-b4d3-4f7a56fb8b7f
+Q66221363,Menardo Guevarra,Menardo Guevarra,male,1954-05-23,11,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444314,Justice,2018-04-05,Q66221363-45B30005-C152-4EA2-A68B-7DCC589B4E79
 Q6761357,Leni Robredo,Leni Robredo,female,1964-04-23,11,,,Q2723485,Vice President of the Philippines,2016-06-30,Q6761357-844a818b-4072-363e-8461-80ada2bfbcfd
-Q7701087,"Teodoro Locsin, Jr.","Teodoro Locsin, Jr.",male,1948-11-15,11,,,Q17088037,Secretary of Foreign Affairs,2018-10-17,Q7701087-393fb972-4cc9-51c1-19f2-22a750b042d2
-Q8007583,William Dar,William Dar,male,1953-04-10,11,,,Q7444283,Secretary of Agriculture,2019-08-05,Q8007583-d3f7fd68-4ee0-872f-ff45-1f1a5dd661a7
+Q7701087,Teodoro Locsin Jr.,"Teodoro Locsin, Jr.",male,1948-11-15,11,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q17088037,Foreign Affairs,2018-10-17,Q7701087-393fb972-4cc9-51c1-19f2-22a750b042d2
+Q8007583,William Dar,William Dar,male,1953-04-10,11,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444283,Agriculture,2019-08-05,Q8007583-d3f7fd68-4ee0-872f-ff45-1f1a5dd661a7
+Q81815059,Eduardo del Rosario,Eduardo del Rosario,male,1956-11-22,11,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q110013349,Human Settlements and Urban Development,2020-01-02,Q81815059-0A8A7825-274F-4AD6-8087-EDF947C34E66
+Q95176372,Karl Kendrick Chua,Karl Kendrick Chua,male,1978-07-14,11,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q110013323,National Economic Development Authority,2021-04-17,Q95176372-2278866C-9099-46F2-A8F9-2CC00A46B766
