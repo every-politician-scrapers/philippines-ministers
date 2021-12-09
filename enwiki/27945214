@@ -1,0 +1,216 @@
+{
+  "title": "William Dar",
+  "pageID": 27945214,
+  "categories": [
+    "Living people",
+    "1953 births",
+    "Secretaries of Agriculture of the Philippines",
+    "University of the Philippines Los Baños alumni",
+    "People from Ilocos Sur",
+    "Duterte Administration cabinet members",
+    "Estrada Administration cabinet members"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "William Dollente Dar (born April 10, 1953) is a Filipino horticulturist and public servant who is the 45th Secretary of Agriculture of the Philippines.",
+              "links": [
+                {
+                  "text": "Filipino",
+                  "type": "internal",
+                  "page": "Filipino people"
+                },
+                {
+                  "text": "Secretary of Agriculture",
+                  "type": "internal",
+                  "page": "Secretary of Agriculture (Philippines)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "William Dollente Dar"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed by President Rodrigo Duterte on August 5, 2019 to replace Emmanuel Piñol.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rodrigo Duterte"
+                },
+                {
+                  "type": "internal",
+                  "page": "Emmanuel Piñol"
+                }
+              ]
+            },
+            {
+              "text": "Dar held the same position under President Joseph Estrada from 1998 to 1999.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Joseph Estrada"
+                }
+              ]
+            },
+            {
+              "text": "He is also a former Director General of ICRISAT.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "ICRISAT"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Dollente",
+            "Dar"
+          ],
+          "template": "philippine name"
+        },
+        {
+          "year": "1953",
+          "month": "4",
+          "day": "10",
+          "template": "birth date and age"
+        },
+        {
+          "template": "phi"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "William Dar"
+          },
+          "image": {
+            "text": "Agriculture Secretary William Dar - November 2019 (cropped).jpg"
+          },
+          "caption": {
+            "text": "Dar in 2019"
+          },
+          "office": {
+            "text": "Secretary of Agriculture",
+            "links": [
+              {
+                "text": "Secretary of Agriculture",
+                "type": "internal",
+                "page": "Secretary of Agriculture (Philippines)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "August 5, 2019"
+          },
+          "president": {
+            "text": "Rodrigo Duterte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rodrigo Duterte"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Emmanuel Piñol",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emmanuel Piñol"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Salvador Escudero",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Salvador Escudero"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Edgardo Angara",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edgardo Angara"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "June 30, 1998"
+          },
+          "term_end2": {
+            "text": "May 24, 1999"
+          },
+          "president2": {
+            "text": "Joseph Estrada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joseph Estrada"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "William Dollente Dar"
+          },
+          "birth_date": {
+            "text": "April 10, 1953"
+          },
+          "birth_place": {
+            "text": "Santa Maria, Ilocos Sur",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santa Maria, Ilocos Sur"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Horticulturist, Civil Servant"
+          },
+          "party": {
+            "text": "LAMMP PDP–Laban",
+            "links": [
+              {
+                "text": "LAMMP",
+                "type": "internal",
+                "page": "Laban ng Makabayang Masang Pilipino"
+              },
+              {
+                "type": "internal",
+                "page": "PDP–Laban"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Benguet State University University of the Philippines Los Baños",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Benguet State University"
+              },
+              {
+                "type": "internal",
+                "page": "University of the Philippines Los Baños"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

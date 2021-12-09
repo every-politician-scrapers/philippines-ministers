@@ -1,0 +1,178 @@
+{
+  "title": "Bernadette Romulo-Puyat",
+  "pageID": 57468042,
+  "categories": [
+    "Living people",
+    "Secretaries of Tourism of the Philippines",
+    "Duterte Administration cabinet members",
+    "Women members of the Cabinet of the Philippines",
+    "University of the Philippines alumni",
+    "Benigno Aquino III Administration personnel",
+    "Arroyo Administration personnel",
+    "1971 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bernadette Fatima Tecson Romulo-Puyat (born May 14, 1971) is a Filipino government official, who has been appointed by President Rodrigo Duterte as the Secretary of the Department of Tourism.",
+              "links": [
+                {
+                  "text": "President Rodrigo Duterte",
+                  "type": "internal",
+                  "page": "Rodrigo Duterte"
+                },
+                {
+                  "text": "Department of Tourism",
+                  "type": "internal",
+                  "page": "Department of Tourism (Philippines)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Bernadette Fatima Tecson Romulo-Puyat"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Filipino government official",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Tecson",
+            "Romulo",
+            "Puyat"
+          ],
+          "ph": "married",
+          "template": "philippine name"
+        },
+        {
+          "year": "1971",
+          "month": "05",
+          "day": "14",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Bernadette Romulo-Puyat"
+          },
+          "image": {
+            "text": "Bernadette Romulo-Puyat - 2019 (cropped).jpg"
+          },
+          "image_size": {
+            "text": "220px"
+          },
+          "caption": {
+            "text": "Romulo-Puyat in 2019"
+          },
+          "office": {
+            "text": "Secretary of Tourism",
+            "links": [
+              {
+                "text": "Secretary of Tourism",
+                "type": "internal",
+                "page": "Secretary of Tourism (Philippines)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "May 11, 2018"
+          },
+          "president": {
+            "text": "Rodrigo Duterte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rodrigo Duterte"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Wanda Tulfo Teo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wanda Tulfo Teo"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Bernadette Fatima Romulo"
+          },
+          "birth_date": {
+            "text": "May 14, 1971"
+          },
+          "birth_place": {
+            "text": "Quezon City, Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Quezon City"
+              },
+              {
+                "type": "internal",
+                "page": "Philippines"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Filipino",
+            "links": [
+              {
+                "text": "Filipino",
+                "type": "internal",
+                "page": "Filipino people"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of the Philippines (B.S. Ec)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of the Philippines"
+              }
+            ]
+          },
+          "relations": {
+            "text": "Carlos P. Romulo (granduncle) Roman Romulo (brother)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carlos P. Romulo"
+              },
+              {
+                "type": "internal",
+                "page": "Roman Romulo"
+              }
+            ]
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "parents": {
+            "text": "Alberto Romulo and Lovely Tecson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alberto Romulo"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

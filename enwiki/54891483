@@ -1,0 +1,239 @@
+{
+  "title": "Alexander Gesmundo",
+  "pageID": 54891483,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "Associate Justices of the Supreme Court of the Philippines",
+    "Ateneo de Manila University alumni",
+    "Chief Justices of the Supreme Court of the Philippines"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alexander Gahon Gesmundo (born November 6, 1956) is serving as the Chief Justice of the Philippines since April 5, 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chief Justice of the Philippines"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alexander Gahon Gesmundo"
+                ]
+              }
+            },
+            {
+              "text": "He replaced Diosdado Peralta, who retired early on March 27, 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Diosdado Peralta"
+                }
+              ]
+            },
+            {
+              "text": "He previously served as an Associate Justice of the Supreme Court of the Philippines from 2017 to 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Associate Justice of the Supreme Court of the Philippines"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Gahon",
+            "Gesmundo"
+          ],
+          "template": "philippine name"
+        },
+        {
+          "description": "chief justice of the Supreme Court of the Philippines",
+          "template": "short description"
+        },
+        {
+          "year": "1956",
+          "month": "11",
+          "day": "6",
+          "mf": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Alexander G. Gesmundo"
+          },
+          "image": {
+            "text": "CJ Alexander Gesmundo (2021).jpg"
+          },
+          "imagesize": {
+            "text": "200px"
+          },
+          "order": {
+            "text": "27th"
+          },
+          "office": {
+            "text": "Chief Justice of the Philippines"
+          },
+          "appointer": {
+            "text": "Rodrigo Duterte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rodrigo Duterte"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "April 5, 2021"
+          },
+          "predecessor": {
+            "text": "Diosdado Peralta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Diosdado Peralta"
+              }
+            ]
+          },
+          "order1": {
+            "text": "178th"
+          },
+          "office1": {
+            "text": "Associate Justice of the Supreme Court of the Philippines"
+          },
+          "term_start1": {
+            "text": "August 14, 2017"
+          },
+          "term_end1": {
+            "text": "April 5, 2021"
+          },
+          "appointer1": {
+            "text": "Rodrigo Duterte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rodrigo Duterte"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Jose C. Mendoza",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jose C. Mendoza"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Japar Dimaampao",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Japar Dimaampao"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Associate Justice and Chair of the 7th Division of the Sandiganbayan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sandiganbayan"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "October 15, 2005"
+          },
+          "term_end2": {
+            "text": "August 14, 2017"
+          },
+          "appointer2": {
+            "text": "Gloria Macapagal Arroyo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gloria Macapagal Arroyo"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Alexander Gahon Gesmundo"
+          },
+          "birth_date": {
+            "text": "November 6, 1956"
+          },
+          "birth_place": {
+            "text": "San Pablo, Laguna, Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "San Pablo, Laguna"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Lyceum of the Philippines University Ateneo Law School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lyceum of the Philippines University"
+              },
+              {
+                "type": "internal",
+                "page": "Ateneo Law School"
+              }
+            ]
+          },
+          "blank1": {
+            "text": "Affiliation"
+          },
+          "data1": {
+            "text": "Fraternal Order of Utopia"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://sb.judiciary.gov.ph/justices.html",
+          "title": "SANDIGANBAYAN INCUMBENT JUSTICES",
+          "accessdate": "14 August 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2 April 2021",
+          "title": "Duterte appoints Alexander Gesmundo Chief Justice",
+          "url": "https://www.manilatimes.net/2021/04/02/news/duterte-appoints-alexander-gesmundo-chief-justice/858796",
+          "website": "manilatimes.net",
+          "accessdate": "2 April 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
