@@ -37,16 +37,12 @@
         {
           "sentences": [
             {
-              "text": "Rodrigo Roa Duterte (born March 28, 1945), also known as Digong, Rody and by the initials PRRD, is a Filipino politician who is the 16th and incumbent president of the Philippines and the first from Mindanao to hold the office.",
+              "text": "Rodrigo Roa Duterte (born March 28, 1945), also known as Digong, Rody and by the initials PRRD, is a Filipino politician who is the 16th and incumbent president of the Philippines.",
               "links": [
                 {
                   "text": "president of the Philippines",
                   "type": "internal",
                   "page": "president of the Philippines"
-                },
-                {
-                  "type": "internal",
-                  "page": "Mindanao"
                 }
               ],
               "formatting": {
@@ -57,11 +53,7 @@
                   "PRRD"
                 ]
               }
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "He is the chairperson of PDP–Laban, the ruling political party in the Philippines.",
               "links": [
@@ -72,14 +64,27 @@
               ]
             },
             {
-              "text": "Duterte took office at age 71 on June 30, 2016, making him the oldest person to assume the Philippine presidency; the record was previously held by Sergio Osmeña at the age of 65.",
+              "text": "Duterte is the first president of the Philippines to be from Mindanao and is the oldest, beginning his term at age 71; the record was previously held by Sergio Osmeña at the age of 65.",
               "links": [
+                {
+                  "text": "the first president of the Philippines",
+                  "type": "internal",
+                  "page": "List of presidents of the Philippines by province"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mindanao"
+                },
                 {
                   "type": "internal",
                   "page": "Sergio Osmeña"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "Born in Maasin, Leyte (now in Southern Leyte), Duterte moved to Davao as a child where his father, Vicente Duterte, served as provincial governor.",
               "links": [
@@ -963,24 +968,6 @@
           "work": "MindaNews",
           "url": "http://www.mindanews.com/top-stories/2016/05/rodrigo-roa-duterte-16th-president-first-mindanawon-to-lead-the-country/",
           "access-date": "November 16, 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "May 27, 2016",
-          "title": "Duterte seals presidency in Congress official tally",
-          "work": "Philippine Daily Inquirer",
-          "url": "http://newsinfo.inquirer.net/787870/duterte-seals-presidency-in-congress-official-tally",
-          "access-date": "May 27, 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "May 27, 2016",
-          "title": "Duterte, Robredo win in final, official tally",
-          "work": "Philstar.com",
-          "url": "http://www.philstar.com/headlines/2016/05/27/1587569/duterte-robredo-win-final-official-tally",
-          "access-date": "May 27, 2016",
           "template": "citation",
           "type": "news"
         },
