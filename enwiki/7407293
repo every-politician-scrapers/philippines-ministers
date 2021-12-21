@@ -37,8 +37,13 @@
         {
           "sentences": [
             {
-              "text": "Rodrigo Roa Duterte (born March 28, 1945), also known as Digong, Rody and by the initials PRRD, is a Filipino politician who is the 16th and incumbent president of the Philippines.",
+              "text": "Rodrigo Roa Duterte, KGCR(born March 28, 1945), also known as Digong, Rody and by the initials PRRD, is a Filipino politician who is the 16th and incumbent president of the Philippines.",
               "links": [
+                {
+                  "text": "KGCR",
+                  "type": "internal",
+                  "page": "Knights of Rizal"
+                },
                 {
                   "text": "president of the Philippines",
                   "type": "internal",
@@ -864,6 +869,16 @@
           },
           "signature": {
             "text": "Rodrigo Duterte signature.svg"
+          },
+          "honorific_suffix": {
+            "text": "KGCR",
+            "links": [
+              {
+                "text": "KGCR",
+                "type": "internal",
+                "page": "Knights of Rizal"
+              }
+            ]
           }
         }
       ],
