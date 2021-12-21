@@ -215,16 +215,6 @@
       ],
       "infoboxes": [
         {
-          "honorific-prefix": {
-            "text": "Her Excellency",
-            "links": [
-              {
-                "text": "Her Excellency",
-                "type": "internal",
-                "page": "Excellency"
-              }
-            ]
-          },
           "name": {
             "text": "Leni Robredo"
           },
