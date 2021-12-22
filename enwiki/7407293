@@ -879,6 +879,9 @@
                 "page": "Knights of Rizal"
               }
             ]
+          },
+          "honorific_prefix": {
+            "text": "His Excellency"
           }
         }
       ],
