@@ -79,6 +79,13 @@
           "template": "philippine name"
         },
         {
+          "list": [
+            "Chua (蔡)"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
           "year": "1978",
           "month": "07",
           "day": "14",
@@ -88,6 +95,20 @@
           "spouse": "Alanna Chua",
           "from": "2009",
           "template": "marriage"
+        },
+        {
+          "list": [
+            "蔡",
+            "榮",
+            "富"
+          ],
+          "template": "linktext"
+        },
+        {
+          "p": "Cài Róngfù",
+          "poj": "Chhòâ Êng-hù",
+          "first": "poj",
+          "template": "zh"
         }
       ],
       "infoboxes": [
@@ -225,6 +246,17 @@
           "date": "June 2, 2021",
           "archive-url": "https://web.archive.org/web/20210602070205/https://newsinfo.inquirer.net/1440316/a-nerd-with-k-pop-looks-neda-chief-karl-chua-breezes-through-ca",
           "archive-date": "June 2, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "總統令新國家經濟發展署長加快實施國家身份證",
+          "trans-title": "President Orders New National Economic Development Administrator to Expedite Implementation of National ID Card",
+          "url": "https://www.shangbao.com.ph/fgyw/2020/04-22/90805.shtml",
+          "lang": "zh",
+          "work": "Chinese Commercial News",
+          "date": "April 22, 2020",
+          "access-date": "December 22, 2021",
           "template": "citation",
           "type": "news"
         },
