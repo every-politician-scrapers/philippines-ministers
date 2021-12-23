@@ -23,8 +23,18 @@
         {
           "sentences": [
             {
-              "text": "Delfin Negrillo Lorenzana (born October 28, 1948) is a retired Philippine Army general serving as the Secretary of National Defense in the Cabinet of President Rodrigo Duterte.",
+              "text": "Delfin Negrillo Lorenzana, OLH, KGOR (born October 28, 1948) is a retired Philippine Army general serving as the Secretary of National Defense in the Cabinet of President Rodrigo Duterte.",
               "links": [
+                {
+                  "text": "OLH",
+                  "type": "internal",
+                  "page": "Philippine Legion of Honor"
+                },
+                {
+                  "text": "KGOR",
+                  "type": "internal",
+                  "page": "Knights of Rizal"
+                },
                 {
                   "type": "internal",
                   "page": "Philippine Army"
@@ -258,6 +268,21 @@
                 "text": "Gold Cross",
                 "type": "internal",
                 "page": "Gold Cross (Philippines)"
+              }
+            ]
+          },
+          "honorific_suffix": {
+            "text": "OLH, KGOR",
+            "links": [
+              {
+                "text": "OLH",
+                "type": "internal",
+                "page": "Philippine Legion of Honor"
+              },
+              {
+                "text": "KGOR",
+                "type": "internal",
+                "page": "Knights of Rizal"
               }
             ]
           }

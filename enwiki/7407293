@@ -440,6 +440,16 @@
           "name": {
             "text": "Rodrigo Duterte"
           },
+          "honorific_suffix": {
+            "text": "KGCR",
+            "links": [
+              {
+                "text": "KGCR",
+                "type": "internal",
+                "page": "Knights of Rizal"
+              }
+            ]
+          },
           "image": {
             "text": "President Rodrigo Duterte 2019.jpg"
           },
@@ -869,19 +879,6 @@
           },
           "signature": {
             "text": "Rodrigo Duterte signature.svg"
-          },
-          "honorific_suffix": {
-            "text": "KGCR",
-            "links": [
-              {
-                "text": "KGCR",
-                "type": "internal",
-                "page": "Knights of Rizal"
-              }
-            ]
-          },
-          "honorific_prefix": {
-            "text": "His Excellency"
           }
         }
       ],
