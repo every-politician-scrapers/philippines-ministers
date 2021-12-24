@@ -127,6 +127,15 @@
       ],
       "infoboxes": [
         {
+          "honorific-prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honorable"
+              }
+            ]
+          },
           "honorific-suffix": {
             "text": "GOLH",
             "links": [
