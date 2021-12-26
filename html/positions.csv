@@ -1,0 +1,35 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q1209571,President of the Philippines,Q928,Q928,Q2723485,Q269860,1935-11-15,,,,President of the Philippines
+Q2723485,Vice President of the Philippines,Q928,Q928,,,1935-11-15,,,,Vice President of the Philippines
+Q1139938,Prime Minister of the Philippines,Q928,Q928,,,1899-01-02,1986-03-25,,,Prime Minister of the Philippines
+Q30995,Executive Secretary,Q928,Q928,,,1936-10-12,,,,Executive Secretary (Philippines)
+Q7444282,Secretary of Agrarian Reform,Q928,Q928,,,1971-09-10,,,,Secretary of Agrarian Reform
+Q7444283,Secretary of Agriculture,Q928,Q928,,,1898-06-23,,,,Secretary of Agriculture (Philippines)
+Q7444285,Secretary of Budget and Management,Q928,Q928,,,1978-06-11,,,,Secretary of Budget and Management
+Q7444298,Secretary of Education,Q928,Q928,,,1901-01-21,,,,Secretary of Education (Philippines)
+Q7444301,Secretary of Energy,Q928,Q928,,,1978,,,,Secretary of Energy (Philippines)
+Q7444302,Secretary of Environment and Natural Resources,Q928,Q928,,,1917-01-01,,,,Secretary of Environment and Natural Resources
+Q7444305,Secretary of Finance,Q928,Q928,,,1897-04,,,,Secretary of Finance (Philippines)
+Q17088037,Secretary of Foreign Affairs,Q928,Q928,,,1899-01-21,,,,Secretary of Foreign Affairs (Philippines)
+Q7444312,Secretary of Health,Q928,Q928,,,1941-12-24,,,,Secretary of Health (Philippines)
+Q110013349,Secretary of Human Settlements and Urban Development,,,,,,,,,
+Q110013432,Secretary of Information and Communications Technology,Q928,Q928,,,,,,,
+Q7444421,Secretary of the Interior and Local Government,Q928,Q928,,,1897-03-22,,,,Secretary of the Interior and Local Government
+Q7444314,Secretary of Justice,Q928,Q928,,,1851-04-17,,,,Secretary of Justice (Philippines)
+Q7444316,Secretary of Labor and Employment,Q928,Q928,,,1933-12-08,,,,Secretary of Labor and Employment (Philippines)
+Q7444318,Secretary of National Defense,Q928,Q928,,,1939-11-01,,,,Secretary of National Defense (Philippines)
+Q7444321,Secretary of Public Works and Highways,Q928,Q928,,,1899-01-21,,,,Secretary of Public Works and Highways
+Q7444322,Secretary of Science and Technology,Q928,Q928,,,1987-01-30,,,,Secretary of Science and Technology (Philippines)
+Q7444323,Secretary of Social Welfare and Development,Q928,Q928,,,1899-01-21,,,,Secretary of Social Welfare and Development
+Q7444400,Secretary of Tourism,Q928,Q928,,,1973-05-11,,,,Secretary of Tourism (Philippines)
+Q7444401,Secretary of Transportation and Communications,Q928,Q928,,,1899-01-23,,,,Secretary of Transportation (Philippines)
+Q7444399,Secretary of Trade and Industry,Q928,Q928,,,1901-09-06,,,,Secretary of Trade and Industry (Philippines)
+Q3410551,President of the Senate of the Philippines,Q928,Q928,,,1916-10-16,,,,President of the Senate of the Philippines
+Q7241402,President pro tempore of the Senate of the Philippines,Q928,Q928,,,1916-10-16,,,,President pro tempore of the Senate of the Philippines
+Q3409782,Speaker of the House of Representatives of the Philippines,Q928,Q928,,,1907-10-16,,,,Speaker of the House of Representatives of the Philippines
+Q3409778,Chief Justice of the Supreme Court of the Philippines,Q928,Q928,,,1901-06-11,,,,Chief Justice of the Philippines
+Q18089012,Solicitor General of the Philippines,Q928,Q928,,,,,,,Solicitor General of the Philippines
+Q28407294,Governor of the Bangko Sentral ng Pilipinas,,,,,1949-01-03,,,,Governor of the Bangko Sentral ng Pilipinas
+Q88779285,Chairman of the Joint Chiefs,,,,,,,,,Chief of Staff of the Armed Forces of the Philippines
+Q110013576,National Security Adviser of the Philippines,,,,,,,,,
+Q6797749,Mayor of Manila,,Q1461,,,1901,,,,Mayor of Manila
