@@ -484,56 +484,6 @@
             "number": 5
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://newsinfo.inquirer.net/776387/party-list-rep-cdo-lawmaker-go-for-duterte",
-          "title": "Party-list rep, CDO lawmaker go for Duterte",
-          "work": "Philippine Daily Inquirer",
-          "date": "March 28, 2016",
-          "access-date": "June 30, 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Silvestre Bello III",
-          "publisher": "Scribd",
-          "url": "https://www.scribd.com/doc/27963951/Silvestre-Bello-III",
-          "access-date": "June 29, 2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Maitem",
-          "first1": "Jeoffrey",
-          "title": "CPP-NPA prepares list of nominees to posts in Duterte Cabinet",
-          "url": "http://newsinfo.inquirer.net/786598/cpp-npa-prepares-list-of-nominees-to-posts-in-duterte-cabinet",
-          "access-date": "June 29, 2016",
-          "work": "Philippine Daily Inquirer",
-          "date": "May 19, 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "More changes seen in selection of Duterte Cabinet; Bello concurrent as DOLE chief",
-          "url": "http://interaksyon.com/article/128097/more-changes-seen-in-selection-of-duterte-cabinet-bello-concurrent-as-dole-chief",
-          "access-date": "June 29, 2016",
-          "work": "Interaksyon",
-          "date": "May 22, 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.rappler.com/nation/133874-bebot-bello-dole-ernesto-pernia-neda-duterte-cabinet",
-          "title": "Duterte eyes Bebot Bello for DOLE, Pernia for NEDA",
-          "last": "Ranada",
-          "first": "Pia",
-          "work": "Rappler",
-          "date": "May 22, 2016",
-          "access-date": "June 29, 2016",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

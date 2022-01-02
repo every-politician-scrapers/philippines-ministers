@@ -304,23 +304,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.philstar.com/headlines/2016/05/23/1586095/esperon-nsc-bello-dole",
-          "title": "Esperon to NSC; Bello to DOLE",
-          "work": "The Philippine Star",
-          "date": "23 May 2016",
-          "access-date": "31 May 2016",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

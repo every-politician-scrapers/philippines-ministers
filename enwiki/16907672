@@ -293,36 +293,6 @@
             "text": "Economist, public servant, university professor"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.gmanetwork.com/news/story/568254/news/nation/estrada-era-budget-sec-diokno-accepts-duterte-offer-to-return-to-post",
-          "title": "Estrada-era Budget Sec. Diokno accepts Duterte offer to return to post",
-          "work": "GMA News",
-          "date": "31 May 2016",
-          "access-date": "31 May 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://news.abs-cbn.com/news/03/04/19/duterte-picks-diokno-as-new-bangko-sentral-chief",
-          "title": "Duterte picks Diokno as new Bangko Sentral chief",
-          "date": "March 4, 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
