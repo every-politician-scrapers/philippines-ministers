@@ -258,39 +258,6 @@
             "text": "Francisco Duque III Signature.svg"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "author1": "Commission on Audit",
-          "title": "Report on Salaries and Allowances CY 2015",
-          "url": "https://www.coa.gov.ph/phocadownloadpap/userupload/report-on-salaries-and-allowances/CY2015_%20Report_on_Salaries_and_Allowances.pdf",
-          "website": "coa.gov.ph",
-          "publisher": "Commission on Audit",
-          "access-date": "January 21, 2018",
-          "archive-url": "https://web.archive.org/web/20180121035823/https://www.coa.gov.ph/phocadownloadpap/userupload/report-on-salaries-and-allowances/CY2015_%20Report_on_Salaries_and_Allowances.pdf",
-          "archive-date": "January 21, 2018",
-          "page": "131",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

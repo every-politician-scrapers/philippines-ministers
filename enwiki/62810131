@@ -372,54 +372,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://newsinfo.inquirer.net/913844/ex-general-is-new-housing-czar",
-          "title": "Ex-general is new housing czar",
-          "work": "Philippine Daily Inquirer",
-          "author": "Tubeza, P.C.",
-          "date": "14 July 2017",
-          "access-date": "12 January 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.philstar.com/headlines/2020/01/08/1983041/department-human-settlements-gets-secretary",
-          "title": "Department of human settlements gets secretary",
-          "work": "The Philippine Star",
-          "author": "Mendez, C.",
-          "date": "8 January 2020",
-          "access-date": "12 January 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.pna.gov.ph/articles/1090209",
-          "title": "Duterte names heads of new housing dep't, space agency",
-          "work": "Philippine News Agency",
-          "author": "Gita-Carlos, R.A.",
-          "date": "7 January 2020",
-          "access-date": "12 January 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://rcmanila.org/profile-of-hudcc-sec-eduardo-d-del-rosario/",
-          "title": "Profile of HUDCC Sec. Eduardo D. Del Rosario",
-          "publisher": "Rotary Club of Manila",
-          "access-date": "12 January 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.pagibigfund.gov.ph/cv/DelRosario.html",
-          "title": "Eduardo D. del Rosario",
-          "publisher": "Home Development Mutual Fund",
-          "access-date": "12 January 2020",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

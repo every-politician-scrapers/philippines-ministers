@@ -256,43 +256,6 @@
             "number": 5
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://dbmp.philrice.gov.ph/dms_records/docs/PhilRice_Issuances/13003CES.pdf",
-          "title": "29th National Rice R&D Conference",
-          "publisher": "Philippine Rice Research Institute",
-          "access-date": "11 May 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://interaksyon.com/article/128887/profile--incoming-dost-chief-envisions-science-for-the-countryside-may-drop-diwata-if-too-costly",
-          "title": "Incoming DOST chief envisions science for the countryside, may drop Diwata if too costly",
-          "publisher": "Interaksyon",
-          "author": "Santos, J.B.F.",
-          "date": "10 June 2016",
-          "access-date": "4 July 2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://news.pia.gov.ph/article/view/2131465130768/former-nrcp-president-is-the-new-dost-secretary",
-          "title": "Former NRCP president is the new DOST secretary",
-          "publisher": "Philippine Information Agency",
-          "date": "5 June 2016",
-          "access-date": "4 July 2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.un.org/en/ecosoc/cybersecurity/bio_page.pdf",
-          "title": "Biographies",
-          "publisher": "United Nations Economic and Social Council",
-          "access-date": "4 July 2016",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

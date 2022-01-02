@@ -244,44 +244,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.rappler.com/newsbreak/iq/199689-things-to-know-menardo-guevarra-justice-secretary",
-          "title": "Who is new justice chief Menardo Guevarra?",
-          "work": "Rappler",
-          "author": "Ranada, P.",
-          "date": "6 April 2018",
-          "accessdate": "6 August 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.doj.gov.ph/secretary-profile.html",
-          "title": "Secretary's Profile",
-          "publisher": "Department of Justice (Philippines)",
-          "accessdate": "6 August 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.mabgslaw.com.ph/Site/partners/menardo-i-guevarra",
-          "title": "Partners",
-          "publisher": "MBS Law",
-          "accessdate": "6 August 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://newsinfo.inquirer.net/995686/breaking-ca-confirms-guevarras-ad-interim-appointment-as-justice-secretary/amp",
-          "title": "CA confirms Guevarra’s ad interim appointment as justice secretary",
-          "work": "Philippine Daily Inquirer",
-          "author": "Ager, M.",
-          "date": "30 May 2018",
-          "accessdate": "6 August 2019",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
