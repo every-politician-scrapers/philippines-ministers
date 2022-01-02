@@ -19,25 +19,16 @@
         {
           "sentences": [
             {
-              "text": "Lieutenant General Andres Castor Centino (born February 4, 1967 in Tacloban, Philippines) is a Philippine Army general who serves as the 57th Chief of Staff of the Armed Forces of the Philippines since November 12, 2021.",
+              "text": "General Andres Castor Centino (born February 4, 1967) is a Philippine Army officer who serves as the 57th Chief of Staff of the Armed Forces of the Philippines.",
               "links": [
                 {
-                  "text": "Lieutenant General",
+                  "text": "General",
                   "type": "internal",
-                  "page": "Lieutenant general"
-                },
-                {
-                  "type": "internal",
-                  "page": "Tacloban"
+                  "page": "General officer"
                 },
                 {
                   "type": "internal",
                   "page": "Philippine Army"
-                },
-                {
-                  "text": "general",
-                  "type": "internal",
-                  "page": "General officer"
                 },
                 {
                   "type": "internal",
@@ -223,12 +214,12 @@
             "text": "1988–present"
           },
           "rank": {
-            "text": "PA_LTGEN_Svc.svg Lieutenant General",
+            "text": "PA_GEN_Svc.svg General",
             "links": [
               {
-                "text": "Lieutenant General",
+                "text": "General",
                 "type": "internal",
-                "page": "Lieutenant general"
+                "page": "General officer"
               }
             ]
           },
