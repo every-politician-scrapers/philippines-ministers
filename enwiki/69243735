@@ -1,0 +1,245 @@
+{
+  "title": "Dionardo Carlos",
+  "pageID": 69243735,
+  "categories": [
+    "People from Lucena, Philippines",
+    "Filipino police chiefs",
+    "Philippine Military Academy alumni",
+    "Asian Institute of Management alumni",
+    "Philippine Christian University alumni",
+    "University of the Philippines Diliman alumni",
+    "Living people",
+    "People from Eastern Samar",
+    "United Nations military personnel",
+    "1966 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Police General Dionardo Bernardo Carlos (born May 8, 1966 in Lucena, Philippines) is a Filipino police officer who is currently serving as the 27th Chief of the Philippine National Police since November 12, 2021.",
+              "links": [
+                {
+                  "text": "Police General",
+                  "type": "internal",
+                  "page": "Police ranks of the Philippines"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lucena"
+                },
+                {
+                  "text": "Chief",
+                  "type": "internal",
+                  "page": "Chief of the Philippine National Police"
+                },
+                {
+                  "type": "internal",
+                  "page": "Philippine National Police"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Dionardo Bernardo Carlos"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed by President Rodrigo Duterte.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rodrigo Duterte"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chief of the Philippine National Police",
+          "template": "short description"
+        },
+        {
+          "date": "November 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "mf": "yes",
+          "year": "1966",
+          "month": "05",
+          "day": "08",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Bernardo",
+            "Carlos"
+          ],
+          "ph": "default",
+          "template": "philippine name"
+        }
+      ],
+      "infoboxes": [
+        {
+          "child": {
+            "text": "yes"
+          },
+          "allegiance": {
+            "text": "🇵🇭 Philippines",
+            "links": [
+              {
+                "text": "Philippines",
+                "type": "internal",
+                "page": "philippines"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1988–present"
+          },
+          "branch": {
+            "text": "Integrated National Police Philippine National Police\n* PNP Public Information Office\n* PNP AVSEGROUP\n* Police Regional Office 8\n* PNP HPG\n* PNP DICTM\n* PNP DPCR\n* DIPO Southern Luzon \n* DIPO Visayas\n* PNP Directorial Staff",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Integrated National Police"
+              },
+              {
+                "type": "internal",
+                "page": "Philippine National Police"
+              },
+              {
+                "text": "AVSEGROUP",
+                "type": "internal",
+                "page": "Philippine National Police Aviation Security Group"
+              }
+            ]
+          },
+          "rank": {
+            "text": "PNP_GEN_Svc.svg Police General"
+          },
+          "otherwork": {
+            "text": "UNTAC (Cambodia) UNMIT (East Timor)",
+            "links": [
+              {
+                "text": "UNTAC",
+                "type": "internal",
+                "page": "United Nations Transitional Authority in Cambodia"
+              },
+              {
+                "type": "internal",
+                "page": "Cambodia"
+              },
+              {
+                "text": "UNMIT",
+                "type": "internal",
+                "page": "United Nations Integrated Mission in East Timor"
+              },
+              {
+                "type": "internal",
+                "page": "East Timor"
+              }
+            ]
+          }
+        },
+        {
+          "honorific_prefix": {
+            "text": "Police General"
+          },
+          "name": {
+            "text": "Dionardo B. Carlos"
+          },
+          "image": {
+            "text": "PDG Dionardo Carlos.jpg"
+          },
+          "birth_name": {
+            "text": "Dionardo Bernardo Carlos"
+          },
+          "birth_date": {
+            "text": "May 8, 1966"
+          },
+          "birth_place": {
+            "text": "Lucena, Quezon, Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lucena"
+              },
+              {
+                "type": "internal",
+                "page": "Quezon"
+              }
+            ]
+          },
+          "office": {
+            "text": "27th Chief of the Philippine National Police",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chief of the Philippine National Police"
+              }
+            ]
+          },
+          "president": {
+            "text": "Rodrigo Duterte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rodrigo Duterte"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "PGEN Guillermo Eleazar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guillermo Eleazar"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "November 12, 2021"
+          },
+          "alma_mater": {
+            "text": "Philippine Military Academy Asian Institute of Management Philippine Christian University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Philippine Military Academy"
+              },
+              {
+                "type": "internal",
+                "page": "Asian Institute of Management"
+              },
+              {
+                "type": "internal",
+                "page": "Philippine Christian University"
+              }
+            ]
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "honorific_suffix": {
+            "text": "PNP",
+            "links": [
+              {
+                "text": "PNP",
+                "type": "internal",
+                "page": "Philippine National Police"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
