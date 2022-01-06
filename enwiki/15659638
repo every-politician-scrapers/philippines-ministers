@@ -186,13 +186,6 @@
           "template": "recentism"
         },
         {
-          "list": [
-            "Moreno",
-            "Domagoso"
-          ],
-          "template": "philippine name"
-        },
-        {
           "template": "redirect",
           "redirect": "Yorme",
           "links": [
@@ -201,6 +194,13 @@
               "desc": "the film about the life story of the politician"
             }
           ]
+        },
+        {
+          "list": [
+            "Moreno",
+            "Domagoso"
+          ],
+          "template": "philippine name"
         },
         {
           "date": "November 2021",
@@ -420,9 +420,10 @@
             ]
           },
           "children": {
-            "text": "5, including Joaquin Domagoso",
+            "text": "5, including Joaquin",
             "links": [
               {
+                "text": "Joaquin",
                 "type": "internal",
                 "page": "Joaquin Domagoso"
               }
@@ -431,6 +432,10 @@
           "education": {
             "text": "International Academy of Management and Economics\n\nUniversity of the City of Manila\n\nArellano University",
             "links": [
+              {
+                "type": "internal",
+                "page": "International Academy of Management and Economics"
+              },
               {
                 "type": "internal",
                 "page": "University of the City of Manila"
