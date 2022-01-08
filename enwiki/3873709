@@ -103,6 +103,11 @@
               "text": "Sotto is a former actor, comedian, music producer, songwriter, golfer and bowler.",
               "links": [
                 {
+                  "text": "golfer",
+                  "type": "internal",
+                  "page": "Golf"
+                },
+                {
                   "text": "bowler",
                   "type": "internal",
                   "page": "Bowling"
@@ -196,7 +201,7 @@
           "template": "birth date and age"
         },
         {
-          "transcription": "ˈbiˈsente ˈsɔtɔ",
+          "transcription": "ˈsɔtɔ",
           "template": "ipa"
         }
       ],
@@ -388,7 +393,13 @@
             "text": "Aquilino Pimentel, Jr."
           },
           "office8": {
-            "text": "Chairman of the Dangerous Drugs Board"
+            "text": "Chairman of the Dangerous Drugs Board",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dangerous Drugs Board"
+              }
+            ]
           },
           "term_start8": {
             "text": "2008",
@@ -447,10 +458,6 @@
               {
                 "type": "internal",
                 "page": "Manila"
-              },
-              {
-                "type": "internal",
-                "page": "Philippines"
               }
             ]
           },
@@ -539,6 +546,9 @@
           "signature": {
             "text": "Vicente Tito Castelo Sotto III signature.svg"
           },
+          "nickname": {
+            "text": "Tito"
+          },
           "allegiance": {
             "text": "🇵🇭 Philippines",
             "links": [
@@ -571,6 +581,10 @@
               {
                 "type": "internal",
                 "page": "Lieutenant Colonel"
+              },
+              {
+                "type": "internal",
+                "page": "Major"
               }
             ]
           },
