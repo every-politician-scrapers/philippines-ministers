@@ -201,6 +201,11 @@
           "template": "birth date and age"
         },
         {
+          "spouse": "Helen Gamboa",
+          "from": "1969",
+          "template": "marriage"
+        },
+        {
           "transcription": "ˈsɔtɔ",
           "template": "ipa"
         }
@@ -487,13 +492,7 @@
             ]
           },
           "spouse": {
-            "text": "Helen Gamboa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Helen Gamboa"
-              }
-            ]
+            "text": "Helen Gamboa (m. 1969)"
           },
           "relations": {
             "text": "Vic Sotto (brother)\nVal Sotto (brother)",
