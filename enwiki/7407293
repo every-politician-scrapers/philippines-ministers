@@ -400,6 +400,12 @@
           "template": "use mdy dates"
         },
         {
+          "list": [
+            "Officer-in-charge from 1986 to 1987"
+          ],
+          "template": "efn"
+        },
+        {
           "year": "1945",
           "month": "3",
           "day": "28",
@@ -605,7 +611,7 @@
             "text": "May 2, 1986"
           },
           "term_end5": {
-            "text": "November 27, 1987\nOfficer in charge"
+            "text": "November 27, 1987"
           },
           "1blankname5": {
             "text": "Mayor"
