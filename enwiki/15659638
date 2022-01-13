@@ -117,7 +117,7 @@
         {
           "sentences": [
             {
-              "text": "Politically, Moreno is identified as a populist.",
+              "text": "Identified as a populist, Moreno has described his leadership style as akin to that of his predecessor Alfredo Lim, citing their shared commitment in reducing crime and maintaining cleanliness of the capital.",
               "links": [
                 {
                   "text": "populist",
@@ -127,13 +127,10 @@
               ]
             },
             {
-              "text": "Moreno himself described his leadership style as akin to that of his predecessor Alfredo Lim, citing their shared commitment in reducing crime and maintaining cleanliness of the capital."
+              "text": "Moreno is also noted for his streetwise public image due to his use of colorful language coupled with Manila street slang."
             },
             {
-              "text": "Moreno is also noted for his brash demeanor (which has misconstrued him with having an uncouth behavior) and streetwise public image due to his use of colorful language coupled with Manila street slang."
-            },
-            {
-              "text": "As a result, he catapulted into a prominent politician and is colloquially referred to as Yorme, a metathesis of the Filipino-language word meyor (mayor) that has been in existence as a street slang.",
+              "text": "As a result, he was catapulted into prominence and is colloquially referred to as Yorme, a metathesis of the Filipino-language word meyor (mayor) that has been in existence as a street slang.",
               "links": [
                 {
                   "text": "metathesis",
@@ -160,12 +157,8 @@
         {
           "sentences": [
             {
-              "text": "On September 22, 2021, Moreno capitalized the national attention he amassed and announced his candidacy for President of the Philippines in the 2022 election.",
+              "text": "On September 22, 2021, Moreno announced his bid for the presidential post in the 2022 election.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "President of the Philippines"
-                },
                 {
                   "text": "2022 election",
                   "type": "internal",
@@ -182,16 +175,12 @@
           "template": "short description"
         },
         {
-          "date": "August 2021",
-          "template": "recentism"
-        },
-        {
           "template": "redirect",
           "redirect": "Yorme",
           "links": [
             {
               "page": "Yorme: The Isko Domagoso Story",
-              "desc": "the film about the life story of the politician"
+              "desc": "the autobiographical film about the politician"
             }
           ]
         },
