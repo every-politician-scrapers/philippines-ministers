@@ -246,14 +246,10 @@
             "text": "December 4, 1949"
           },
           "birth_place": {
-            "text": "Naujan, Oriental Mindoro, Naujan, Philippines",
+            "text": "Naujan, Oriental Mindoro, Philippines",
             "links": [
               {
                 "text": "Naujan, Oriental Mindoro",
-                "type": "internal",
-                "page": "Naujan, Naujan"
-              },
-              {
                 "type": "internal",
                 "page": "Naujan"
               }
