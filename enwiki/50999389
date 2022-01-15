@@ -187,7 +187,7 @@
             "text": "Editha Aguilar"
           },
           "alma_mater": {
-            "text": "Philippine Military Academy Ateneo de Manila University",
+            "text": "Philippine Military Academy\nAteneo de Manila University",
             "links": [
               {
                 "type": "internal",
@@ -231,7 +231,7 @@
             ]
           },
           "commands": {
-            "text": "Special Operations Command Presidential Security Group 2nd Scout Ranger Battalion\nLight Armored Brigade",
+            "text": "Special Operations Command\nPresidential Security Group\n2nd Scout Ranger Battalion\nLight Armored Brigade",
             "links": [
               {
                 "text": "Special Operations Command",
@@ -250,7 +250,7 @@
             ]
           },
           "awards": {
-            "text": "Philippine Legion of Honor Legion of Merit Distinguished Service Star Gold Cross Feb. 86 Revolution Ribbon",
+            "text": "Philippine Legion of Honor\nLegion of Merit\nDistinguished Service Star\nGold Cross\nFeb. 86 Revolution Ribbon",
             "links": [
               {
                 "type": "internal",

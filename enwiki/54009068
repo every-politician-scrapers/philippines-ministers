@@ -241,7 +241,7 @@
             "text": "PA GEN Svc.svg General"
           },
           "commands": {
-            "text": "Chief of Staff, Armed Forces of the Philippines AFP Southern Command 4th Infantry Division, PA 11th Infantry Brigade, 3ID, PA",
+            "text": "Chief of Staff,\nArmed Forces of the Philippines\nAFP Southern Command\n4th Infantry Division, PA\n11th Infantry Brigade, 3ID, PA",
             "links": [
               {
                 "text": "AFP Southern Command",
@@ -256,7 +256,7 @@
             ]
           },
           "battles": {
-            "text": "Moro conflict Communist rebellion in the Philippines Operation Enduring Freedom",
+            "text": "Moro conflict\nCommunist rebellion in the Philippines\nOperation Enduring Freedom",
             "links": [
               {
                 "type": "internal",
@@ -305,7 +305,7 @@
             "text": "Dennis Cimatu"
           },
           "alma_mater": {
-            "text": "Philippine Military Academy United States Army Command and General Staff College Ateneo de Manila University",
+            "text": "Philippine Military Academy\nUnited States Army Command and General Staff College\nAteneo de Manila University",
             "links": [
               {
                 "type": "internal",
