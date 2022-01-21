@@ -107,6 +107,26 @@
           "name": {
             "text": "Francisco T. Duque III"
           },
+          "honorific_prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "text": "The Honorable",
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "honorific_suffix": {
+            "text": "M.D., MSc",
+            "links": [
+              {
+                "text": "M.D.",
+                "type": "internal",
+                "page": "Medical Doctor"
+              }
+            ]
+          },
           "image": {
             "text": "Secretary_Dr._Francisco_Duque_-_2018_(cropped).jpg"
           },
