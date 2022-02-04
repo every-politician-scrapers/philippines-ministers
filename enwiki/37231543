@@ -181,10 +181,6 @@
           "template": "short description"
         },
         {
-          "small": "yes",
-          "template": "pp-pc"
-        },
-        {
           "date": "October 2021",
           "template": "use mdy dates"
         },
