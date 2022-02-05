@@ -32,7 +32,7 @@
         {
           "sentences": [
             {
-              "text": "Maria Leonor \"Leni\" Gerona Robredo (born Maria Leonor Santo Tomas Gerona; April 23, 1965) is a Filipina lawyer, politician, and social activist who is the 14th and incumbent vice president of the Philippines.",
+              "text": "Maria Leonor \"Leni\" Gerona Robredo (born Maria Leonor Santo Tomas Gerona; April 23, 1965) is a Filipino lawyer, politician, and social activist who is the 14th and incumbent vice president of the Philippines.",
               "links": [
                 {
                   "text": "14th and incumbent",
@@ -88,11 +88,11 @@
               ]
             },
             {
-              "text": "In the vice presidential election, Robredo defeated Bongbong Marcos by a narrow margin of 263,473 votes.",
+              "text": "In the vice presidential election, Robredo defeated Magnanakaw Marcos by a narrow margin of 263,473 votes.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Bongbong Marcos"
+                  "page": "Magnanakaw Marcos"
                 }
               ]
             },
