@@ -589,14 +589,7 @@
             ]
           },
           "commands": {
-            "text": "G4, 1502IBDE, 15ID(RR)",
-            "links": [
-              {
-                "text": "G4, 1502IBDE, 15ID(RR)",
-                "type": "internal",
-                "page": "1502nd Infantry Brigade (Ready Reserve)"
-              }
-            ]
+            "text": "1502nd Infantry Brigade (Ready Reserve) Unit Seal.jpg 1502nd Infantry Brigade (Ready Reserve)"
           }
         }
       ]

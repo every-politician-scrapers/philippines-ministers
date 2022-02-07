@@ -42,7 +42,7 @@
               }
             },
             {
-              "text": "He previously served as the 64th Commanding General of the Philippine Army from May 14, 2021 to December 7, 2021, and has held multiple command positions throughout his military career, including commander of the 4th Infantry Division in Northern Mindanao.",
+              "text": "He previously served as the 64th Commanding General of the Philippine Army from May 14, 2021, to December 7, 2021, and has held multiple command positions throughout his military career, including commander of the 4th Infantry Division in Northern Mindanao.",
               "links": [
                 {
                   "text": "Commanding General of the Philippine Army",
@@ -136,15 +136,15 @@
       ],
       "templates": [
         {
+          "description": "Chief of Staff of the Armed Forces of the Philippines",
+          "template": "short description"
+        },
+        {
           "list": [
             "Castor",
             "Centino"
           ],
           "template": "philippine name"
-        },
-        {
-          "description": "Chief of Staff of the Armed Forces of the Philippines",
-          "template": "short description"
         },
         {
           "year": "1967",
