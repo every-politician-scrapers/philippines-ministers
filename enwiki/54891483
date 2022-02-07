@@ -52,15 +52,15 @@
       ],
       "templates": [
         {
+          "description": "Chief justice of the Supreme Court of the Philippines",
+          "template": "short description"
+        },
+        {
           "list": [
             "Gahon",
             "Gesmundo"
           ],
           "template": "philippine name"
-        },
-        {
-          "description": "chief justice of the Supreme Court of the Philippines",
-          "template": "short description"
         },
         {
           "year": "1956",
