@@ -181,7 +181,7 @@
           "template": "short description"
         },
         {
-          "date": "October 2021",
+          "date": "February 2022",
           "template": "use mdy dates"
         },
         {
@@ -416,7 +416,7 @@
             ]
           },
           "education": {
-            "text": "University of the Philippines Diliman (BA)\nUniversity of Nueva Caceres (LLB)\nSan Beda University (MBA)",
+            "text": "University of the Philippines Diliman (BA)\nUniversity of Nueva Caceres (LLB)",
             "links": [
               {
                 "type": "internal",
@@ -435,20 +435,11 @@
                 "text": "LLB",
                 "type": "internal",
                 "page": "Bachelor of Laws"
-              },
-              {
-                "type": "internal",
-                "page": "San Beda University"
-              },
-              {
-                "text": "MBA",
-                "type": "internal",
-                "page": "Master in Business Administration"
               }
             ]
           },
           "website": {
-            "text": "Official website\nGovernment website"
+            "text": "Campaign website\nVice Presidential website"
           },
           "signature": {
             "text": "Leni Robredo Signature.svg"
