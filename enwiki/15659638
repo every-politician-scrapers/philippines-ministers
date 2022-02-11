@@ -110,17 +110,51 @@
               "text": "Moreno is also noted for his streetwise public image due to his use of colorful language coupled with Manila street slang."
             },
             {
-              "text": "As a result, he was catapulted into prominence and is colloquially referred to as Yorme, a metathesis of the Filipino-language word meyor (mayor) that has been in existence as a street slang.",
+              "text": "As a result, he was catapulted into prominence and is colloquially referred to as Yorme, a verlan backslang metathesis of the English word, mayor, used in Taglish and reversed phonemically as part of Filipino/Tagalog street slang.",
               "links": [
+                {
+                  "text": "verlan",
+                  "type": "internal",
+                  "page": "Verlan"
+                },
+                {
+                  "text": "backslang",
+                  "type": "internal",
+                  "page": "Back slang"
+                },
                 {
                   "text": "metathesis",
                   "type": "internal",
                   "page": "Metathesis (linguistics)"
                 },
                 {
-                  "text": "Filipino-language",
+                  "text": "English",
+                  "type": "internal",
+                  "page": "English language"
+                },
+                {
+                  "text": "mayor",
+                  "type": "internal",
+                  "page": "Mayor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Taglish"
+                },
+                {
+                  "text": "phonemically",
+                  "type": "internal",
+                  "page": "Phoneme"
+                },
+                {
+                  "text": "Filipino",
                   "type": "internal",
                   "page": "Filipino language"
+                },
+                {
+                  "text": "Tagalog",
+                  "type": "internal",
+                  "page": "Tagalog language"
                 }
               ],
               "formatting": {
@@ -128,7 +162,7 @@
                   "Yorme"
                 ],
                 "italic": [
-                  "meyor"
+                  "mayor"
                 ]
               }
             }
