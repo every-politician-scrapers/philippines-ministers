@@ -55,10 +55,10 @@
               }
             },
             {
-              "text": "Robredo was the wife of the late Interior Secretary Jesse Robredo.",
+              "text": "Robredo was the wife of the late interior secretary Jesse Robredo.",
               "links": [
                 {
-                  "text": "Interior Secretary",
+                  "text": "interior secretary",
                   "type": "internal",
                   "page": "Secretary of the Interior and Local Government (Philippines)"
                 },
@@ -124,15 +124,15 @@
               ]
             },
             {
-              "text": "In 2016, Robredo was awarded by the Thai government for her work and advocacy in women empowerment and gender equality.",
+              "text": "In 2016, Robredo was awarded by the government of Thailand for her work and advocacy in women's empowerment and gender equality.",
               "links": [
                 {
-                  "text": "Thai",
+                  "text": "government of Thailand",
                   "type": "internal",
-                  "page": "Thailand"
+                  "page": "government of Thailand"
                 },
                 {
-                  "text": "women empowerment",
+                  "text": "women's empowerment",
                   "type": "internal",
                   "page": "women's empowerment"
                 },
@@ -144,8 +144,13 @@
               ]
             },
             {
-              "text": "Under her leadership, the OVP also received the ISO 9001: 2015 certification for the office's quality management systems.",
+              "text": "Under her leadership, the Office of the Vice President also received the ISO 9001: 2015 certification for the office's quality management systems.",
               "links": [
+                {
+                  "text": "Office of the Vice President",
+                  "type": "internal",
+                  "page": "Office of the Vice President of the Philippines"
+                },
                 {
                   "text": "ISO 9001: 2015 certification",
                   "type": "internal",
