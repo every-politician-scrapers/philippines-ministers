@@ -96,6 +96,10 @@
       ],
       "templates": [
         {
+          "description": "Philippine general and politician",
+          "template": "short description"
+        },
+        {
           "list": [
             "Drueco",
             "del Rosario"
