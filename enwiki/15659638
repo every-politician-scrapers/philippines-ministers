@@ -31,7 +31,7 @@
         {
           "sentences": [
             {
-              "text": "Francisco \"Isko\" Moreno Domagoso (born October 24, 1974), also known by his stage name Isko Moreno, is a Filipino politician and actor currently serving as the 22nd Mayor of Manila since 2019.",
+              "text": "Francisco Domagoso (born October 24, 1974), also known by his stage name Isko Moreno, is a Filipino politician and actor currently serving as the 22nd Mayor of Manila since 2019.",
               "links": [
                 {
                   "type": "internal",
@@ -40,7 +40,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Francisco \"Isko\" Moreno Domagoso",
+                  "Francisco Domagoso",
                   "Isko Moreno"
                 ]
               }
@@ -171,7 +171,7 @@
         {
           "sentences": [
             {
-              "text": "On September 22, 2021, Moreno announced his bid for the presidential post in the 2022 election.",
+              "text": "On September 22, 2021, Moreno announced his bid for the Philippine presidency in the 2022 election.",
               "links": [
                 {
                   "text": "2022 election",
