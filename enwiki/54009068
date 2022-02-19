@@ -28,7 +28,7 @@
         {
           "sentences": [
             {
-              "text": "Roy Agullana Cimatu (, born July 4, 1946) is a retired Philippine Army general serving as the Secretary of Environment and Natural Resources since 2017 in the Cabinet of President Rodrigo Duterte.",
+              "text": "Roy Agullana Cimatu (, born July 4, 1946) is a retired Philippine Army general who served as the Secretary of Environment and Natural Resources from 2017 to 2022 in the Cabinet of President Rodrigo Duterte.",
               "links": [
                 {
                   "type": "internal",
@@ -164,6 +164,9 @@
           "term_start": {
             "text": "May 8, 2017"
           },
+          "term_end": {
+            "text": "February 18, 2022"
+          },
           "predecessor": {
             "text": "Gina Lopez (Ad interim)",
             "links": [
@@ -172,6 +175,9 @@
                 "page": "Gina Lopez"
               }
             ]
+          },
+          "successor": {
+            "text": "Jim Sampluna (Acting)"
           },
           "office2": {
             "text": "30th Chief of Staff of the Armed Forces of the Philippines",
