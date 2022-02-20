@@ -2,6 +2,7 @@ wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,p
 Q110013408,Tina Rose Marie Canda,Tina Rose Marie Canda,female,,,,,Q7444285,Secretary of Budget and Management,2021-08-13,Q110013408-7F0A77C1-297D-4F46-AFD6-09AD379369EB
 Q110408318,Emmanuel Rey R. Caintic,Emmanuel Rey R. Caintic,male,,,,,Q110013432,Secretary of Information and Communications Technology,2021-12-17,Q110408318-CEE890B6-64F4-4EBA-9CFF-16690EA2AD4B
 Q110914870,Bernie F. Cruz,Bernie F. Cruz,male,,,,,Q7444282,Secretary of Agrarian Reform,2021-10-28,Q110914870-3EC71C32-C676-4B85-9795-A524D080B577
+Q110961423,Jim Sampluna,Jim Sampluna,male,,,,,Q7444302,Secretary of Environment and Natural Resources,2022-02-18,Q110961423-C07F619F-9742-44B9-B5AE-081E3D559420
 Q12970094,Roger Mercado,Roger Mercado,male,,,,,Q7444321,Secretary of Public Works and Highways,2021-10-13,Q12970094-20E3C41C-9693-48E7-B288-5222263549E0
 Q20675880,Eduardo Año,Eduardo Año,male,1960-01-01,9,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444421,Interior and Local Government,2018-01-05,Q20675880-ad9a4da1-4e84-ecb8-14b8-86a7a397a70c
 Q24810051,Arthur Tugade,Arthur Tugade,male,1946-01-09,11,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444401,Transportation,2016-06-30,Q24810051-E1BE0A6D-5196-48E7-8B8B-9E4DB89F1DD1
@@ -12,7 +13,6 @@ Q25350470,Carlos Dominguez III,Carlos Dominguez III,male,1945-09-16,11,https://a
 Q25351017,Delfin Lorenzana,Delfin Lorenzana,male,1948-10-28,11,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444318,National Defense,2016-06-30,Q25351017-1e56ea67-48f9-4ef5-a990-1eaf5c3a2c1d
 Q25706643,Alfonso Cusi,Alfonso Cusi,male,1949-12-04,11,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444301,Energy,2016-06-30,Q25706643-E644B6F2-D61D-4FCB-9A52-A7A6D493C7D6
 Q28421676,Ramon Lopez,Ramon Lopez,male,,,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444399,Trade and Industry,2016-06-30,Q28421676-7BEAA490-4EDD-4D0D-A58F-F34E9BC8C8DA
-Q29913372,Roy Cimatu,Roy Cimatu,male,1946-07-04,11,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444302,Environment,2017-05-08,Q29913372-70A0831D-DFBD-4AED-A0D2-1B3D013A360C
 Q339811,Francisco Duque,Francisco Duque,male,1957-02-13,11,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444312,Health,2017-10-26,Q339811-289e8b48-439c-da5b-b779-4b22250028a1
 Q457786,Rodrigo Duterte,Rodrigo Duterte,male,1945-03-28,11,,,Q1209571,President of the Philippines,2016-06-30,Q457786-29621d4f-4059-8240-40b3-85200d7ab5ce
 Q53871378,Bernadette Romulo-Puyat,Bernadette Romulo-Puyat,female,1971-01-01,9,https://aganapcg.dfa.gov.ph/96-cabinet-and-other-officials,2021-12-09,Q7444400,Tourism,2018-05-08,Q53871378-3da2f328-4e58-0604-dfc2-e51ea6f4bec7
