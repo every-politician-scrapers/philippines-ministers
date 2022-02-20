@@ -2,20 +2,19 @@
 +++,Ernesto M. Maceda,Q674209,1986-02-26,1986-03-25
 +++,Ernesto M. Maceda,,1986-03-25,1986-12-01
 ->,Carlos Dominguez III->Carlos G. Dominguez,Q25350470,1986-10-25->1986-12-02,1987-03-09
-+++,Fulgencio S. Factoran,Q91450052,1987-03-10,1992-06-30
+->,Jun Factoran->Fulgencio S. Factoran,Q91450052,1987-03-10,1992-06-30
 +++,Ricardo M. Umali,,1992-07-01,1992-08-31
-+++,Angel C. Alcala,Q1908578,1992-09-08,1995-06-30
+->,Angel Alcala->Angel C. Alcala,Q1908578,1992-09-08,1995-06-30
 +++,Victor O. Ramos,,1995-07-01,1998-06-30
-+++,Antonio H. Cerilles,Q4776523,1998-06-30,2001-01-20
-+++,Antonio H. Cerilles,Q4776523,2001-01-20,2001-01-25
-+++,Joemari D. Gerochi,,2001-01-25,2001-03-28
-+++,Heherson T. Alvarez,Q5618246,2001-03-29,2002-12-13
-+++,Elisea G. Gozun,,2002-12-13,2004-08-31
-+++,Michael T. Defensor,Q6846534,2004-08-31,2006-02-15
-+++,Angelo Reyes,Q530701,2006-02-15,2007-07-31
+->,Antonio Cerilles->Antonio H. Cerilles,Q4776523,1998-06-30,2001-01-20
+->,Antonio Cerilles->Antonio H. Cerilles,Q4776523,2001-01-20,2001-01-25
+->,Joemari D. Gerochi,Q110961429->NULL,2001-01-25,2001-03-28
+->,Heherson Alvarez->Heherson T. Alvarez,Q5618246,2001-03-29,2002-12-13
+->,"Elisea ""Bebet"" Gillera Gozun->Elisea G. Gozun",Q109817277->NULL,2002-12-13,2004-08-31
+->,Mike Defensor->Michael T. Defensor,Q6846534,2004-08-31,2006-02-15
 ->,"Lito Atienza->Jose L. Atienza, Jr.",Q2648928,2007-07-18->2007-07-31,2009-12-28
-+++,Eleazar P. Quinto,,2010-01-04,2010-02-12
-+++,Horacio C. Ramos,,2010-02-12,2010-06-30
-+++,Ramon Jesus P. Paje,Q768345,2010-06-30,2016-06-30
+->,Eleazar P. Quinto,Q110961431->NULL,2010-01-04,2010-02-12
+->,Horacio C. Ramos,Q110961433->NULL,2010-02-12,2010-06-30
+->,Ramon Paje->Ramon Jesus P. Paje,Q768345,2010-06-30,2016-06-30
 ->,Gina Lopez->Regina Paz L. López,Q24852114,2016-06-30,2017-05-03
 ->,Jim Sampluna,Q110961423->NULL,2022-02-18,
