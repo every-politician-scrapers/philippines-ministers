@@ -45,6 +45,8 @@
     "Senators of the 17th Congress of the Philippines",
     "Senators of the 18th Congress of the Philippines",
     "Sotto family",
+    "Anti-abortion activists",
+    "Anti-same-sex-marriage activists",
     "Visayan people",
     "Candidates in the 2022 Philippine vice-presidential election"
   ],
@@ -538,11 +540,16 @@
             ]
           },
           "alma_mater": {
-            "text": "Colegio de San Juan de Letran",
+            "text": "Colegio de San Juan de Letran (B.A)",
             "links": [
               {
                 "type": "internal",
                 "page": "Colegio de San Juan de Letran"
+              },
+              {
+                "text": "B.A",
+                "type": "internal",
+                "page": "Bachelor of Arts"
               }
             ]
           },

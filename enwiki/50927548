@@ -232,15 +232,25 @@
             ]
           },
           "alma_mater": {
-            "text": "Colegio de San Juan de Letran\nSan Beda College",
+            "text": "Colegio de San Juan de Letran (BS)\nSan Beda College (LL.B.)",
             "links": [
               {
                 "type": "internal",
                 "page": "Colegio de San Juan de Letran"
               },
               {
+                "text": "BS",
+                "type": "internal",
+                "page": "Bachelor of Science"
+              },
+              {
                 "type": "internal",
                 "page": "San Beda College"
+              },
+              {
+                "text": "LL.B.",
+                "type": "internal",
+                "page": "Bachelor of Laws"
               }
             ]
           },

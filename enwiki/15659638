@@ -31,11 +31,12 @@
         {
           "sentences": [
             {
-              "text": "Francisco Moreno Domagoso (born October 24, 1974), also known by his stage name Isko Moreno, is a Filipino politician and actor currently serving as the 22nd Mayor of Manila since 2019.",
+              "text": "Francisco Moreno Domagoso (born October 24, 1974), also known by his stage name Isko Moreno, is a Filipino politician and actor currently serving as the 22nd mayor of Manila since 2019.",
               "links": [
                 {
+                  "text": "mayor of Manila",
                   "type": "internal",
-                  "page": "Mayor of Manila"
+                  "page": "mayor of Manila"
                 }
               ],
               "formatting": {
@@ -46,7 +47,7 @@
               }
             },
             {
-              "text": "Before heading the capital of the Philippines, he started to gain notability as an actor and television personality.",
+              "text": "Before heading the capital of the Philippines, he first gained notability as an actor and television personality.",
               "links": [
                 {
                   "type": "internal",
@@ -55,19 +56,19 @@
               ]
             },
             {
-              "text": "He entered politics in 1998 and ran for Councilor and was elected for three consecutive terms."
+              "text": "He entered politics in 1998, and ran for city councilor and was elected for three consecutive terms."
             },
             {
-              "text": "In 2007, he ran as Vice Mayor of Manila and was elected for three consecutive terms."
+              "text": "In 2007, he ran as vice mayor of Manila and was elected for three consecutive terms."
             },
             {
-              "text": "In 2016, He was term-limited as Vice Mayor and unsuccessfully ran for Senator in the 2016 senatorial elections."
+              "text": "In 2016, He was term-limited as vice mayor and unsuccessfully ran for senator in the 2016 senatorial elections."
             },
             {
               "text": "He placed 16th out of 50 candidates."
             },
             {
-              "text": "He then served in the Duterte cabinet as Social Welfare Undersecretary for a few months in 2018 before running and being elected Mayor of Manila in a landslide victory against his former allies, Joseph Estrada and Alfredo Lim in the 2019 local elections.",
+              "text": "He then served in the Duterte cabinet as social welfare undersecretary for a few months in 2018 before running and being elected mayor of Manila in a landslide victory against his former allies Joseph Estrada and Alfredo Lim in the 2019 local elections.",
               "links": [
                 {
                   "text": "Duterte",
@@ -75,13 +76,9 @@
                   "page": "Rodrigo Duterte"
                 },
                 {
-                  "text": "Social Welfare",
+                  "text": "social welfare",
                   "type": "internal",
                   "page": "Department of Social Welfare and Development"
-                },
-                {
-                  "type": "internal",
-                  "page": "Mayor of Manila"
                 },
                 {
                   "text": "Joseph Estrada",
@@ -165,6 +162,9 @@
                   "mayor"
                 ]
               }
+            },
+            {
+              "text": "Whether the word is Tagalog or Taglish, it is the way of reversing or jumbling of syllables so as to create local colloquial words."
             }
           ]
         },

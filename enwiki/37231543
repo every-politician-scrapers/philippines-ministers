@@ -163,12 +163,12 @@
         {
           "sentences": [
             {
-              "text": "On October 7, 2021, Robredo announced her bid for president of the Philippines in the 2022 election.",
+              "text": "On October 7, 2021, Robredo announced her bid for presidency in the 2022 election.",
               "links": [
                 {
-                  "text": "president of the Philippines",
+                  "text": "her bid",
                   "type": "internal",
-                  "page": "president of the Philippines"
+                  "page": "Leni Robredo 2022 presidential campaign"
                 },
                 {
                   "text": "2022 election",

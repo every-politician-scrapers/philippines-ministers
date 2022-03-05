@@ -27,10 +27,10 @@
         {
           "sentences": [
             {
-              "text": "Teodoro \"Teddy Boy\" Lopez Locsin Jr. (born November 15, 1948) is a Filipino politician, diplomat, lawyer, and former journalist serving as the Secretary of Foreign Affairs since October 2018.",
+              "text": "Teodoro \"Teddy Boy\" Lopez Locsin Jr. (born November 15, 1948) is a Filipino politician, diplomat, lawyer, and former journalist serving as the secretary of foreign affairs since October 2018.",
               "links": [
                 {
-                  "text": "Secretary of Foreign Affairs",
+                  "text": "secretary of foreign affairs",
                   "type": "internal",
                   "page": "Secretary of Foreign Affairs (Philippines)"
                 }
@@ -44,7 +44,7 @@
               }
             },
             {
-              "text": "He was a member of the House of Representatives from 2001 to 2010, representing the 1st district of Makati and later served as the Philippine Ambassador to the United Nations from 2017 to 2018.",
+              "text": "He was a member of the House of Representatives from 2001 to 2010, representing the 1st district of Makati and later served as the Philippine ambassador to the United Nations from 2017 to 2018.",
               "links": [
                 {
                   "text": "House of Representatives",
@@ -62,7 +62,7 @@
                   "page": "Makati"
                 },
                 {
-                  "text": "Philippine Ambassador to the United Nations",
+                  "text": "Philippine ambassador to the United Nations",
                   "type": "internal",
                   "page": "Permanent Representative of the Philippines to the United Nations"
                 }
