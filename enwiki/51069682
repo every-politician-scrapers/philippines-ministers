@@ -1,253 +1,28 @@
 {
-  "title": "Jose Calida",
-  "pageID": 51069682,
-  "categories": [
-    "1950 births",
-    "Filipino lawyers",
-    "Filipino business executives",
-    "Living people",
-    "Solicitors General of the Philippines",
-    "Heads of government agencies of the Philippines",
-    "People from Davao de Oro",
-    "People from Davao del Sur",
-    "Ateneo de Davao University alumni",
-    "Ateneo de Manila University alumni",
-    "Arroyo Administration personnel",
-    "Duterte Administration personnel",
-    "Presidency of Rodrigo Duterte"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Jose Callangan Calida (born July 7, 1950) is a Filipino lawyer currently serving as Solicitor General of the Philippines.",
-              "links": [
-                {
-                  "text": "Filipino",
-                  "type": "internal",
-                  "page": "Filipinos"
-                },
-                {
-                  "type": "internal",
-                  "page": "Solicitor General of the Philippines"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Jose Callangan Calida"
-                ]
-              }
-            },
-            {
-              "text": "He was sworn into the post on June 30, 2016, to replace Florin Hilbay.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Florin Hilbay"
-                }
-              ]
-            },
-            {
-              "text": "He previously served in the Arroyo administration as Undersecretary of Justice and as Executive Director of the Dangerous Drugs Board.",
-              "links": [
-                {
-                  "text": "Arroyo administration",
-                  "type": "internal",
-                  "page": "Presidency of Gloria Macapagal Arroyo"
-                },
-                {
-                  "text": "Undersecretary of Justice",
-                  "type": "internal",
-                  "page": "Department of Justice (Philippines)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "Callangan",
-            "Calida"
-          ],
-          "template": "philippine name"
-        },
-        {
-          "year": "1950",
-          "month": "07",
-          "day": "07",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Jose Calida"
-          },
-          "image": {
-            "text": "Jose Calida - 2017 (cropped).jpg"
-          },
-          "caption": {
-            "text": "Calida in May 2017"
-          },
-          "office": {
-            "text": "Solicitor General of the Philippines",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Solicitor General of the Philippines"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "June 30, 2016"
-          },
-          "president": {
-            "text": "Rodrigo Duterte",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rodrigo Duterte"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Florin Hilbay",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Florin Hilbay"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Executive Director of the Dangerous Drugs Board"
-          },
-          "term_start2": {
-            "text": "January 21, 2004"
-          },
-          "term_end2": {
-            "text": "October 31, 2004"
-          },
-          "president2": {
-            "text": "Gloria Macapagal Arroyo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gloria Macapagal Arroyo"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Efren Q. Fernandez"
-          },
-          "successor2": {
-            "text": "Edgar C. Galvante"
-          },
-          "office3": {
-            "text": "Undersecretary of the Department of Justice",
-            "links": [
-              {
-                "text": "Department of Justice",
-                "type": "internal",
-                "page": "Department of Justice (Philippines)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "March 12, 2001"
-          },
-          "term_end3": {
-            "text": "January 20, 2004"
-          },
-          "president3": {
-            "text": "Gloria Macapagal Arroyo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gloria Macapagal Arroyo"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Jose Callangan Calida"
-          },
-          "birth_date": {
-            "text": "July 7, 1950"
-          },
-          "birth_place": {
-            "text": "Nuevo Iloco, Davao, Philippines",
-            "links": [
-              {
-                "text": "Nuevo Iloco",
-                "type": "internal",
-                "page": "Mawab"
-              },
-              {
-                "text": "Davao",
-                "type": "internal",
-                "page": "Davao (province)"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Filipino",
-            "links": [
-              {
-                "text": "Filipino",
-                "type": "internal",
-                "page": "Filipinos"
-              }
-            ]
-          },
-          "party": {
-            "text": "Citizens' Battle Against Corruption",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Citizens' Battle Against Corruption"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Business executive"
-          },
-          "profession": {
-            "text": "Lawyer"
-          },
-          "education": {
-            "text": "Ateneo de Davao University (BA) Ateneo de Manila University (LL.B.)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ateneo de Davao University"
-              },
-              {
-                "text": "BA",
-                "type": "internal",
-                "page": "Bachelor of Arts"
-              },
-              {
-                "type": "internal",
-                "page": "Ateneo de Manila University"
-              },
-              {
-                "text": "LL.B.",
-                "type": "internal",
-                "page": "Bachelor of Laws"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Milagros Parantar Ordaneza"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Jose Calida",
+  "image": "Jose Calida - 2017 (cropped).jpg",
+  "caption": "Calida in May 2017",
+  "office": "Solicitor General of the Philippines",
+  "term_start": "June 30, 2016",
+  "president": "Rodrigo Duterte",
+  "predecessor": "Florin Hilbay",
+  "office2": "Executive Director of the Dangerous Drugs Board",
+  "term_start2": "January 21, 2004",
+  "term_end2": "October 31, 2004",
+  "president2": "Gloria Macapagal Arroyo",
+  "predecessor2": "Efren Q. Fernandez",
+  "successor2": "Edgar C. Galvante",
+  "office3": "Undersecretary of the Department of Justice",
+  "term_start3": "March 12, 2001",
+  "term_end3": "January 20, 2004",
+  "president3": "Gloria Macapagal Arroyo",
+  "birth_name": "Jose Callangan Calida",
+  "birth_date": "July 7, 1950",
+  "birth_place": "Nuevo Iloco, Davao, Philippines",
+  "nationality": "Filipino",
+  "party": "Citizens' Battle Against Corruption",
+  "occupation": "Business executive",
+  "profession": "Lawyer",
+  "education": "Ateneo de Davao University (BA) Ateneo de Manila University (LL.B.)",
+  "spouse": "Milagros Parantar Ordaneza"
 }
