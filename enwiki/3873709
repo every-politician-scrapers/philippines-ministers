@@ -1,606 +1,70 @@
 {
-  "title": "Tito Sotto",
-  "pageID": 3873709,
-  "categories": [
-    "1948 births",
-    "TV5 (Philippine TV network) personalities",
-    "ABS-CBN personalities",
-    "Anti-contraception activists",
-    "Asian Games bronze medalists for the Philippines",
-    "Asian Games medalists in bowling",
-    "Bowlers at the 1978 Asian Games",
-    "Cebuano people",
-    "Colegio de San Juan de Letran alumni",
-    "Filipino actor-politicians",
-    "Filipino male comedians",
-    "Filipino male film actors",
-    "20th-century Filipino male singers",
-    "Filipino male television actors",
-    "Filipino Roman Catholics",
-    "Filipino songwriters",
-    "Filipino film score composers",
-    "Filipino ten-pin bowling players",
-    "Filipino television variety show hosts",
-    "GMA Network personalities",
-    "Intercontinental Broadcasting Corporation personalities",
-    "Laban ng Demokratikong Pilipino politicians",
-    "Living people",
-    "Majority leaders of the Senate of the Philippines",
-    "Medalists at the 1978 Asian Games",
-    "Minority leaders of the Senate of the Philippines",
-    "Nationalist People's Coalition politicians",
-    "People from Cebu",
-    "People from Quezon City",
-    "Tagalog people",
-    "People involved in plagiarism controversies",
-    "Politicians from Metro Manila",
-    "Presidents of the Senate of the Philippines",
-    "Radio Philippines Network personalities",
-    "Senators of the 9th Congress of the Philippines",
-    "Senators of the 10th Congress of the Philippines",
-    "Senators of the 11th Congress of the Philippines",
-    "Senators of the 12th Congress of the Philippines",
-    "Senators of the 15th Congress of the Philippines",
-    "Senators of the 16th Congress of the Philippines",
-    "Senators of the 17th Congress of the Philippines",
-    "Senators of the 18th Congress of the Philippines",
-    "Sotto family",
-    "Visayan people",
-    "Candidates in the 2022 Philippine vice-presidential election"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Vicente \"Tito\" Castelo Sotto III (born August 24, 1948) is a Filipino politician and television presenter serving as the Senate President of the Philippines since 2018.",
-              "links": [
-                {
-                  "text": "Senate President of the Philippines",
-                  "type": "internal",
-                  "page": "President of the Senate of the Philippines"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Vicente",
-                  "Tito",
-                  "Castelo Sotto III"
-                ]
-              }
-            },
-            {
-              "text": "Following the 2016 elections, he is currently serving his fourth term in the Senate, having served two consecutive terms from 1992 to 2004; he was re-elected to the Senate in 2010.",
-              "links": [
-                {
-                  "text": "the 2016 elections",
-                  "type": "internal",
-                  "page": "2016 Philippine Senate election"
-                },
-                {
-                  "text": "Senate",
-                  "type": "internal",
-                  "page": "Senate of the Philippines"
-                }
-              ]
-            },
-            {
-              "text": "Prior to serving in the Senate, Sotto had served as the Vice Mayor of Quezon City from 1988 to 1992.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Quezon City"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Sotto is a former actor, comedian, music producer, songwriter, golfer and bowler.",
-              "links": [
-                {
-                  "text": "golfer",
-                  "type": "internal",
-                  "page": "Golf"
-                },
-                {
-                  "text": "bowler",
-                  "type": "internal",
-                  "page": "Bowling"
-                }
-              ]
-            },
-            {
-              "text": "Sotto founded and produced the musical group VST & Co., one of the pioneers of the Manila sound, which included his brothers Vic and Val Sotto.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "VST & Co."
-                },
-                {
-                  "type": "internal",
-                  "page": "Manila sound"
-                },
-                {
-                  "text": "Vic",
-                  "type": "internal",
-                  "page": "Vic Sotto"
-                },
-                {
-                  "type": "internal",
-                  "page": "Val Sotto"
-                }
-              ]
-            },
-            {
-              "text": "Sotto is a co-host of Eat Bulaga!, the longest-running variety show in Philippine television history.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Eat Bulaga!"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Eat Bulaga!"
-                ]
-              }
-            },
-            {
-              "text": "He is also a grandson and grandnephew of former Senators Vicente Y. Sotto and Filemon Sotto respectively.",
-              "links": [
-                {
-                  "text": "Vicente Y. Sotto",
-                  "type": "internal",
-                  "page": "Vicente Sotto"
-                },
-                {
-                  "type": "internal",
-                  "page": "Filemon Sotto"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Filipino politician and television presenter",
-          "template": "short description"
-        },
-        {
-          "date": "June 2020",
-          "template": "use mdy dates"
-        },
-        {
-          "date": "July 2021",
-          "template": "blp sources"
-        },
-        {
-          "list": [
-            "Castelo",
-            "Sotto"
-          ],
-          "template": "philippine name"
-        },
-        {
-          "template": "oic-philippines"
-        },
-        {
-          "template": "oic-philippines"
-        },
-        {
-          "mf": "y",
-          "year": "1948",
-          "month": "8",
-          "day": "24",
-          "template": "birth date and age"
-        },
-        {
-          "spouse": "Helen Gamboa",
-          "from": "1969",
-          "template": "marriage"
-        },
-        {
-          "transcription": "ˈsɔtɔ",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "background": {
-            "text": "solo_singer"
-          },
-          "instrument": {
-            "text": "Vocals"
-          },
-          "genre": {
-            "text": "OPM, Manila sound",
-            "links": [
-              {
-                "text": "OPM",
-                "type": "internal",
-                "page": "Original Pilipino Music"
-              },
-              {
-                "type": "internal",
-                "page": "Manila sound"
-              }
-            ]
-          },
-          "associated_acts": {
-            "text": "VST & Company",
-            "links": [
-              {
-                "type": "internal",
-                "page": "VST & Company"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Actor, comedian, music producer, songwriter, singer, musician, tv host, politician"
-          },
-          "years_active": {
-            "text": "1960–present"
-          }
-        },
-        {
-          "name": {
-            "text": "Tito Sotto"
-          },
-          "image": {
-            "text": "Sen. Pres Vicente Sotto (cropped).jpg"
-          },
-          "imagesize": {
-            "text": "215px"
-          },
-          "caption": {
-            "text": "Sotto in 2018"
-          },
-          "order": {
-            "text": "23rd"
-          },
-          "office": {
-            "text": "President of the Senate of the Philippines"
-          },
-          "term_start": {
-            "text": "May 22, 2018"
-          },
-          "predecessor": {
-            "text": "Aquilino Pimentel III",
-            "links": [
-              {
-                "text": "Aquilino Pimentel III",
-                "type": "internal",
-                "page": "Koko Pimentel"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Senate Majority Leader",
-            "links": [
-              {
-                "text": "Senate Majority Leader",
-                "type": "internal",
-                "page": "Majority Floor Leader of the Senate of the Philippines"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "July 25, 2016"
-          },
-          "term_end2": {
-            "text": "May 21, 2018"
-          },
-          "predecessor2": {
-            "text": "Alan Peter Cayetano",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alan Peter Cayetano"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Juan Miguel Zubiri",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Juan Miguel Zubiri"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "July 26, 2010"
-          },
-          "term_end3": {
-            "text": "July 23, 2013"
-          },
-          "predecessor3": {
-            "text": "Juan Miguel Zubiri"
-          },
-          "successor3": {
-            "text": "Gregorio Honasan (acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gregorio Honasan"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Senator of the Philippines",
-            "links": [
-              {
-                "text": "Senator of the Philippines",
-                "type": "internal",
-                "page": "Senate of the Philippines"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "June 30, 2010"
-          },
-          "term_start5": {
-            "text": "June 30, 1992"
-          },
-          "term_end5": {
-            "text": "June 30, 2004"
-          },
-          "office6": {
-            "text": "Senate Minority Leader",
-            "links": [
-              {
-                "text": "Senate Minority Leader",
-                "type": "internal",
-                "page": "Minority Floor Leader of the Senate of the Philippines"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "July 28, 2014"
-          },
-          "term_end6": {
-            "text": "August 24, 2015"
-          },
-          "predecessor6": {
-            "text": "Juan Ponce Enrile",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Juan Ponce Enrile"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Juan Ponce Enrile"
-          },
-          "term_start7": {
-            "text": "June 3, 2002"
-          },
-          "term_end7": {
-            "text": "June 26, 2004"
-          },
-          "predecessor7": {
-            "text": "Aquilino Pimentel, Jr.",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aquilino Pimentel, Jr."
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Aquilino Pimentel, Jr."
-          },
-          "office8": {
-            "text": "Chairman of the Dangerous Drugs Board",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dangerous Drugs Board"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "2008",
-            "number": 2008
-          },
-          "term_end8": {
-            "text": "2009",
-            "number": 2009
-          },
-          "predecessor8": {
-            "text": "Anselmo Avenido Jr."
-          },
-          "successor8": {
-            "text": "Antonio Villar Jr."
-          },
-          "office9": {
-            "text": "Vice Mayor of Quezon City",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vice Mayor"
-              },
-              {
-                "type": "internal",
-                "page": "Quezon City"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "February 2, 1988"
-          },
-          "term_end9": {
-            "text": "January 1, 1992"
-          },
-          "1blankname9": {
-            "text": "Mayor"
-          },
-          "1namedata9": {
-            "text": "Brigido Simon, Jr."
-          },
-          "predecessor9": {
-            "text": "Amado Zabala"
-          },
-          "successor9": {
-            "text": "Alicia Herrera"
-          },
-          "birth_name": {
-            "text": "Vicente Castelo Sotto III"
-          },
-          "birth_date": {
-            "text": "August 24, 1948"
-          },
-          "birth_place": {
-            "text": "Manila, Philippines",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Manila"
-              }
-            ]
-          },
-          "party": {
-            "text": "NPC (2007–present)",
-            "links": [
-              {
-                "text": "NPC",
-                "type": "internal",
-                "page": "Nationalist People's Coalition"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "UNA (2013–2015)\nLDP (1987–2007)",
-            "links": [
-              {
-                "text": "UNA",
-                "type": "internal",
-                "page": "United Nationalist Alliance"
-              },
-              {
-                "text": "LDP",
-                "type": "internal",
-                "page": "Laban ng Demokratikong Pilipino"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Helen Gamboa (m. 1969)"
-          },
-          "relations": {
-            "text": "Vic Sotto (brother)\nVal Sotto (brother)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vic Sotto"
-              },
-              {
-                "type": "internal",
-                "page": "Val Sotto"
-              }
-            ]
-          },
-          "children": {
-            "text": "(4) Romina Sotto, Diorella Sotto, Gian Sotto and Ciara Sotto",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gian Sotto"
-              },
-              {
-                "type": "internal",
-                "page": "Ciara Sotto"
-              }
-            ]
-          },
-          "residence": {
-            "text": "Quezon City, Metro Manila",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Quezon City"
-              },
-              {
-                "type": "internal",
-                "page": "Metro Manila"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Colegio de San Juan de Letran (B.A)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Colegio de San Juan de Letran"
-              },
-              {
-                "text": "B.A",
-                "type": "internal",
-                "page": "Bachelor of Arts"
-              }
-            ]
-          },
-          "signature": {
-            "text": "Vicente Tito Castelo Sotto III signature.svg"
-          },
-          "nickname": {
-            "text": "Tito"
-          },
-          "allegiance": {
-            "text": "🇵🇭 Philippines",
-            "links": [
-              {
-                "text": "Philippines",
-                "type": "internal",
-                "page": "philippines"
-              }
-            ]
-          },
-          "branch": {
-            "text": "Philippine Army\nPhilippine Constabulary",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Philippine Army"
-              },
-              {
-                "type": "internal",
-                "page": "Philippine Constabulary"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "2013–present (PAR)\n1998–2013 (PCR)"
-          },
-          "rank": {
-            "text": "AFP Lieutenant Colonel Rank Insignia.jpg Lieutenant Colonel\nAFP Major Rank Insignia.jpg Major",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lieutenant Colonel"
-              },
-              {
-                "type": "internal",
-                "page": "Major"
-              }
-            ]
-          },
-          "commands": {
-            "text": "1502nd Infantry Brigade (Ready Reserve) Unit Seal.jpg 1502nd Infantry Brigade (Ready Reserve)"
-          }
-        }
-      ]
-    }
-  ]
+  "embed": "yes",
+  "background": "solo_singer",
+  "instrument": "Vocals",
+  "genre": "OPM, Manila sound",
+  "associated_acts": "VST & Company",
+  "occupation": "Actor, comedian, music producer, songwriter, singer, musician, tv host, politician",
+  "years_active": "1960–present"
+}
+{
+  "name": "Tito Sotto",
+  "image": "Sen. Pres Vicente Sotto (cropped).jpg",
+  "imagesize": "215px",
+  "caption": "Sotto in 2018",
+  "order": "23rd",
+  "office": "President of the Senate of the Philippines",
+  "term_start": "May 22, 2018",
+  "predecessor": "Aquilino Pimentel III",
+  "office2": "Senate Majority Leader",
+  "term_start2": "July 25, 2016",
+  "term_end2": "May 21, 2018",
+  "predecessor2": "Alan Peter Cayetano",
+  "successor2": "Juan Miguel Zubiri",
+  "term_start3": "July 26, 2010",
+  "term_end3": "July 23, 2013",
+  "predecessor3": "Juan Miguel Zubiri",
+  "successor3": "Gregorio Honasan (acting)",
+  "office4": "Senator of the Philippines",
+  "term_start4": "June 30, 2010",
+  "term_start5": "June 30, 1992",
+  "term_end5": "June 30, 2004",
+  "office6": "Senate Minority Leader",
+  "term_start6": "July 28, 2014",
+  "term_end6": "August 24, 2015",
+  "predecessor6": "Juan Ponce Enrile",
+  "successor6": "Juan Ponce Enrile",
+  "term_start7": "June 3, 2002",
+  "term_end7": "June 26, 2004",
+  "predecessor7": "Aquilino Pimentel, Jr.",
+  "successor7": "Aquilino Pimentel, Jr.",
+  "office8": "Chairman of the Dangerous Drugs Board",
+  "term_start8": "2008",
+  "term_end8": "2009",
+  "predecessor8": "Anselmo Avenido Jr.",
+  "successor8": "Antonio Villar Jr.",
+  "office9": "Vice Mayor of Quezon City",
+  "term_start9": "February 2, 1988",
+  "term_end9": "January 1, 1992",
+  "1blankname9": "Mayor",
+  "1namedata9": "Brigido Simon, Jr.",
+  "predecessor9": "Amado Zabala",
+  "successor9": "Alicia Herrera",
+  "birth_name": "Vicente Castelo Sotto III",
+  "birth_date": "August 24, 1948",
+  "birth_place": "Manila, Philippines",
+  "party": "NPC (2007–present)",
+  "otherparty": "UNA (2013–2015)\nLDP (1987–2007)",
+  "spouse": "Helen Gamboa (m. 1969)",
+  "relations": "Vic Sotto (brother)\nVal Sotto (brother)",
+  "children": "(4) Romina Sotto, Diorella Sotto, Gian Sotto and Ciara Sotto",
+  "residence": "Quezon City, Metro Manila",
+  "alma_mater": "Colegio de San Juan de Letran (B.A)",
+  "signature": "Vicente Tito Castelo Sotto III signature.svg",
+  "nickname": "Tito",
+  "allegiance": "🇵🇭 Philippines",
+  "branch": "Philippine Army\nPhilippine Constabulary",
+  "serviceyears": "2013–present (PAR)\n1998–2013 (PCR)",
+  "rank": "AFP Lieutenant Colonel Rank Insignia.jpg Lieutenant Colonel\nAFP Major Rank Insignia.jpg Major",
+  "commands": "1502nd Infantry Brigade (Ready Reserve) Unit Seal.jpg 1502nd Infantry Brigade (Ready Reserve)"
 }

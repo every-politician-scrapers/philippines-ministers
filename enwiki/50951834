@@ -1,490 +1,56 @@
 {
-  "title": "Silvestre Bello III",
-  "pageID": 50951834,
-  "categories": [
-    "1944 births",
-    "Filipino lawyers",
-    "Filipino businesspeople",
-    "Living people",
-    "Secretaries of Labor and Employment of the Philippines",
-    "Secretaries of Justice of the Philippines",
-    "Solicitors General of the Philippines",
-    "Cabinet Secretaries of the Philippines",
-    "People from Cagayan",
-    "People from Quezon City",
-    "Manuel L. Quezon University alumni",
-    "Ateneo de Manila University alumni",
-    "Corazon Aquino Administration cabinet members",
-    "Ramos Administration cabinet members",
-    "Arroyo Administration cabinet members",
-    "Duterte Administration cabinet members",
-    "Presidential Advisers on the Peace Process of the Philippines",
-    "Heads of government-owned and controlled corporations of the Philippines",
-    "Party-list members of the House of Representatives of the Philippines"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Silvestre \"Bebot\" Hernando Bello III (born June 23, 1944) is a Filipino businessman and lawyer from Isabela.",
-              "links": [
-                {
-                  "text": "Filipino",
-                  "type": "internal",
-                  "page": "Filipino people"
-                },
-                {
-                  "text": "Isabela",
-                  "type": "internal",
-                  "page": "Isabela (province)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Silvestre \"Bebot\" Hernando Bello III"
-                ]
-              }
-            },
-            {
-              "text": "He is the current Secretary of the Philippines' Department of Labor and Employment and concurrently Presidential Adviser on the Peace Process.",
-              "links": [
-                {
-                  "text": "Secretary",
-                  "type": "internal",
-                  "page": "Secretary of Labor and Employment (Philippines)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Philippines"
-                },
-                {
-                  "text": "Department of Labor and Employment",
-                  "type": "internal",
-                  "page": "Department of Labor and Employment (Philippines)"
-                }
-              ]
-            },
-            {
-              "text": "Bello was appointed by President Rodrigo Duterte to replace Rosalinda Baldoz in the secretaryship.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Rodrigo Duterte"
-                },
-                {
-                  "type": "internal",
-                  "page": "Rosalinda Baldoz"
-                }
-              ]
-            },
-            {
-              "text": "Bello was a former Justice Secretary, Solicitor General and representative of 1-BAP party-list during the 16th Congress of the Philippines.",
-              "links": [
-                {
-                  "text": "Justice Secretary",
-                  "type": "internal",
-                  "page": "Secretary of Justice (Philippines)"
-                },
-                {
-                  "text": "Solicitor General",
-                  "type": "internal",
-                  "page": "Office of the Solicitor General of the Philippines",
-                  "anchor": "The Solicitor General"
-                },
-                {
-                  "text": "16th Congress of the Philippines",
-                  "type": "internal",
-                  "page": "16th Congress of the Philippines"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "Hernando",
-            "Bello"
-          ],
-          "template": "philippine name"
-        },
-        {
-          "year": "1944",
-          "month": "06",
-          "day": "23",
-          "mf": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Silvestre H. Bello III"
-          },
-          "image": {
-            "text": "Silvestre Bello - 2018 (38693) (cropped).jpg"
-          },
-          "caption": {
-            "text": "Bello in 2018"
-          },
-          "office": {
-            "text": "Secretary of Labor and Employment",
-            "links": [
-              {
-                "text": "Secretary of Labor and Employment",
-                "type": "internal",
-                "page": "Secretary of Labor and Employment (Philippines)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "June 30, 2016"
-          },
-          "president": {
-            "text": "Rodrigo Duterte",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rodrigo Duterte"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Rosalinda Baldoz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rosalinda Baldoz"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Member of the Philippine House of Representatives for 1 BANAT & AHAPO Partylist",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Philippine House of Representatives"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "June 30, 2013"
-          },
-          "term_end1": {
-            "text": "June 30, 2016"
-          },
-          "president2": {
-            "text": "Gloria Macapagal Arroyo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gloria Macapagal Arroyo"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Cabinet Secretary of the Philippines",
-            "links": [
-              {
-                "text": "Cabinet Secretary of the Philippines",
-                "type": "internal",
-                "page": "Cabinet Secretary (Philippines)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "June 30, 2004"
-          },
-          "term_end2": {
-            "text": "June 30, 2010"
-          },
-          "predecessor2": {
-            "text": "Ricardo Saludo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ricardo Saludo"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Jose Rene Almendras",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jose Rene Almendras"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Solicitor General of the Philippines",
-            "links": [
-              {
-                "text": "Solicitor General of the Philippines",
-                "type": "internal",
-                "page": "Office of the Solicitor General of the Philippines"
-              }
-            ]
-          },
-          "president3": {
-            "text": "Fidel Ramos",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fidel Ramos"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "June 9, 1998"
-          },
-          "term_end3": {
-            "text": "June 30, 1998"
-          },
-          "predecessor3": {
-            "text": "Romeo de la Cruz (acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Romeo de la Cruz"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Ricardo P. Galvez"
-          },
-          "president4": {
-            "text": "Fidel Ramos",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fidel Ramos"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "September 23, 1996"
-          },
-          "term_end4": {
-            "text": "February 3, 1998"
-          },
-          "predecessor4": {
-            "text": "Raul Goco",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Raul Goco"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Romeo de la Cruz (acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Romeo de la Cruz"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Secretary of Justice",
-            "links": [
-              {
-                "text": "Secretary of Justice",
-                "type": "internal",
-                "page": "Secretary of Justice (Philippines)"
-              }
-            ]
-          },
-          "president5": {
-            "text": "Fidel Ramos",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fidel Ramos"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "February 1, 1998"
-          },
-          "term_end5": {
-            "text": "June 30, 1998 (acting)"
-          },
-          "predecessor5": {
-            "text": "Teofisto Guingona Jr.",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Teofisto Guingona Jr."
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Serafin R. Cuevas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Serafin R. Cuevas"
-              }
-            ]
-          },
-          "president6": {
-            "text": "Corazon Aquino",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Corazon Aquino"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "July 15, 1991"
-          },
-          "term_end6": {
-            "text": "February 10, 1992"
-          },
-          "predecessor6": {
-            "text": "Franklin Drilon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Franklin Drilon"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Eduardo G. Montenegro (acting)"
-          },
-          "office7": {
-            "text": "Governor of Isabela",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of Isabela"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "April 4, 1986"
-          },
-          "term_end7": {
-            "text": "February 1, 1988"
-          },
-          "predecessor7": {
-            "text": "Faustino Dy"
-          },
-          "successor7": {
-            "text": "Benjamin Dy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Benjamin Dy"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Silvestre Hernando Bello III"
-          },
-          "birth_date": {
-            "text": "June 23, 1944"
-          },
-          "birth_place": {
-            "text": "Gattaran, Cagayan, Commonwealth of the Philippines",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gattaran, Cagayan"
-              },
-              {
-                "type": "internal",
-                "page": "Commonwealth of the Philippines"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Filipino",
-            "links": [
-              {
-                "text": "Filipino",
-                "type": "internal",
-                "page": "Filipinos"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Lawyer",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lawyer"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Politician",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Politician"
-              }
-            ]
-          },
-          "residence": {
-            "text": "Quezon City",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Quezon City"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Manuel L. Quezon University (AB) Ateneo de Manila University Law School (LLB)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Manuel L. Quezon University"
-              },
-              {
-                "text": "AB",
-                "type": "internal",
-                "page": "Bachelor of Arts"
-              },
-              {
-                "text": "Ateneo de Manila University Law School",
-                "type": "internal",
-                "page": "Ateneo Law School"
-              }
-            ]
-          },
-          "party": {
-            "text": "Lakas–CMD (1992–2015) 1-Banat & Ahapo Partylist (2013–2016) PDP–Laban (2016–present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lakas–CMD"
-              },
-              {
-                "type": "internal",
-                "page": "PDP–Laban"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Regina Gerona"
-          },
-          "children": {
-            "text": "5",
-            "number": 5
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Silvestre H. Bello III",
+  "image": "Silvestre Bello - 2018 (38693) (cropped).jpg",
+  "caption": "Bello in 2018",
+  "office": "Secretary of Labor and Employment",
+  "term_start": "June 30, 2016",
+  "president": "Rodrigo Duterte",
+  "predecessor": "Rosalinda Baldoz",
+  "office1": "Member of the Philippine House of Representatives for 1 BANAT & AHAPO Partylist",
+  "term_start1": "June 30, 2013",
+  "term_end1": "June 30, 2016",
+  "president2": "Gloria Macapagal Arroyo",
+  "office2": "Cabinet Secretary of the Philippines",
+  "term_start2": "June 30, 2004",
+  "term_end2": "June 30, 2010",
+  "predecessor2": "Ricardo Saludo",
+  "successor2": "Jose Rene Almendras",
+  "office3": "Solicitor General of the Philippines",
+  "president3": "Fidel Ramos",
+  "term_start3": "June 9, 1998",
+  "term_end3": "June 30, 1998",
+  "predecessor3": "Romeo de la Cruz (acting)",
+  "successor3": "Ricardo P. Galvez",
+  "president4": "Fidel Ramos",
+  "term_start4": "September 23, 1996",
+  "term_end4": "February 3, 1998",
+  "predecessor4": "Raul Goco",
+  "successor4": "Romeo de la Cruz (acting)",
+  "office5": "Secretary of Justice",
+  "president5": "Fidel Ramos",
+  "term_start5": "February 1, 1998",
+  "term_end5": "June 30, 1998 (acting)",
+  "predecessor5": "Teofisto Guingona Jr.",
+  "successor5": "Serafin R. Cuevas",
+  "president6": "Corazon Aquino",
+  "term_start6": "July 15, 1991",
+  "term_end6": "February 10, 1992",
+  "predecessor6": "Franklin Drilon",
+  "successor6": "Eduardo G. Montenegro (acting)",
+  "office7": "Governor of Isabela",
+  "term_start7": "April 4, 1986",
+  "term_end7": "February 1, 1988",
+  "predecessor7": "Faustino Dy",
+  "successor7": "Benjamin Dy",
+  "birth_name": "Silvestre Hernando Bello III",
+  "birth_date": "June 23, 1944",
+  "birth_place": "Gattaran, Cagayan, Commonwealth of the Philippines",
+  "nationality": "Filipino",
+  "occupation": "Lawyer",
+  "profession": "Politician",
+  "residence": "Quezon City",
+  "alma_mater": "Manuel L. Quezon University (AB) Ateneo de Manila University Law School (LLB)",
+  "party": "Lakas–CMD (1992–2015) 1-Banat & Ahapo Partylist (2013–2016) PDP–Laban (2016–present)",
+  "spouse": "Regina Gerona",
+  "children": "5"
 }

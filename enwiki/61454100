@@ -1,250 +1,27 @@
 {
-  "title": "Menardo Guevarra",
-  "pageID": 61454100,
-  "categories": [
-    "1954 births",
-    "Filipino lawyers",
-    "Living people",
-    "Secretaries of Justice of the Philippines",
-    "Duterte Administration cabinet members",
-    "Benigno Aquino III Administration personnel",
-    "People from Meycauayan",
-    "Ateneo de Manila University faculty",
-    "Ateneo de Manila University alumni",
-    "University of the Philippines Diliman alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Menardo \"Boy\" Ilasco Guevarra (born May 23, 1954) is a Filipino lawyer and public servant who is the 59th Secretary of Justice of the Philippines.",
-              "links": [
-                {
-                  "text": "Filipino",
-                  "type": "internal",
-                  "page": "Filipino people"
-                },
-                {
-                  "text": "Secretary of Justice",
-                  "type": "internal",
-                  "page": "Secretary of Justice (Philippines)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Philippines"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Menardo \"Boy\" Ilasco Guevarra"
-                ]
-              }
-            },
-            {
-              "text": "He previously served as deputy executive secretary under the Rodrigo Duterte and Benigno Aquino III presidential administrations.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Rodrigo Duterte"
-                },
-                {
-                  "type": "internal",
-                  "page": "Benigno Aquino III"
-                }
-              ]
-            },
-            {
-              "text": "Prior to his government stint, he was involved in private litigation practice as a founding partner of the Medialdea Ata Bello Guevarra & Suarez law firm since 1990."
-            },
-            {
-              "text": "He was also an active faculty member at his alma mater Ateneo de Manila University, where he graduated in 1974.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Ateneo de Manila University"
-                }
-              ]
-            },
-            {
-              "text": "Guevarra's appointment to the Justice portfolio was confirmed by the Commission on Appointments on May 30, 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Commission on Appointments"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "Ilasco",
-            "Guevarra"
-          ],
-          "template": "philippine name"
-        },
-        {
-          "year": "1954",
-          "month": "05",
-          "day": "23",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Menardo Guevarra"
-          },
-          "image": {
-            "text": "Menardo Guevarra 2018.jpg"
-          },
-          "office": {
-            "text": "59th Secretary of Justice",
-            "links": [
-              {
-                "text": "Secretary of Justice",
-                "type": "internal",
-                "page": "Secretary of Justice (Philippines)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "April 5, 2018"
-          },
-          "president": {
-            "text": "Rodrigo Duterte",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rodrigo Duterte"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Vitaliano Aguirre II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vitaliano Aguirre II"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Deputy Executive Secretary"
-          },
-          "successor2": {
-            "text": "Michael P. Ong"
-          },
-          "term_start2": {
-            "text": "June 30, 2016"
-          },
-          "term_end2": {
-            "text": "April 4, 2018"
-          },
-          "president2": {
-            "text": "Rodrigo Duterte",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rodrigo Duterte"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Michael G. Aguinaldo"
-          },
-          "term_start3": {
-            "text": "May 27, 2015"
-          },
-          "term_end3": {
-            "text": "January 31, 2016"
-          },
-          "president3": {
-            "text": "Benigno Aquino III",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Benigno Aquino III"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Commissioner of the Philippine Competition Commission",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Philippine Competition Commission"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "February 1, 2016"
-          },
-          "term_end4": {
-            "text": "June 29, 2016"
-          },
-          "president4": {
-            "text": "Benigno Aquino III",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Benigno Aquino III"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Menardo Ilasco Guevarra"
-          },
-          "birth_date": {
-            "text": "May 23, 1954"
-          },
-          "birth_place": {
-            "text": "Meycauayan, Bulacan, Philippines",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Meycauayan"
-              },
-              {
-                "type": "internal",
-                "page": "Bulacan"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Filipino",
-            "links": [
-              {
-                "text": "Filipino",
-                "type": "internal",
-                "page": "Filipino people"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Lawyer, Professor, Civil Servant"
-          },
-          "alma_mater": {
-            "text": "Ateneo de Manila University (A.B., L.L.B.) University of the Philippines Diliman (M.A.)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ateneo de Manila University"
-              },
-              {
-                "type": "internal",
-                "page": "University of the Philippines Diliman"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Menardo Guevarra",
+  "image": "Menardo Guevarra 2018.jpg",
+  "office": "59th Secretary of Justice",
+  "term_start": "April 5, 2018",
+  "president": "Rodrigo Duterte",
+  "predecessor": "Vitaliano Aguirre II",
+  "office2": "Deputy Executive Secretary",
+  "successor2": "Michael P. Ong",
+  "term_start2": "June 30, 2016",
+  "term_end2": "April 4, 2018",
+  "president2": "Rodrigo Duterte",
+  "predecessor3": "Michael G. Aguinaldo",
+  "term_start3": "May 27, 2015",
+  "term_end3": "January 31, 2016",
+  "president3": "Benigno Aquino III",
+  "office4": "Commissioner of the Philippine Competition Commission",
+  "term_start4": "February 1, 2016",
+  "term_end4": "June 29, 2016",
+  "president4": "Benigno Aquino III",
+  "birth_name": "Menardo Ilasco Guevarra",
+  "birth_date": "May 23, 1954",
+  "birth_place": "Meycauayan, Bulacan, Philippines",
+  "nationality": "Filipino",
+  "profession": "Lawyer, Professor, Civil Servant",
+  "alma_mater": "Ateneo de Manila University (A.B., L.L.B.) University of the Philippines Diliman (M.A.)"
 }
