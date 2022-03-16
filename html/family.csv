@@ -1,347 +1,347 @@
 id,name,relationship,relative,relativename
-Q111182546,Maria Luisa Romualdo,spouse,Q12965596,Jurdin Jesus Romualdo
-Q11845136,Lucy Torres-Gomez,spouse,Q6108639,Richard Gomez
-Q123665,Gloria Macapagal Arroyo,child,Q1858359,Mikey Arroyo
-Q123665,Gloria Macapagal Arroyo,child,Q5279602,Diosdado Macapagal–Arroyo
-Q123665,Gloria Macapagal Arroyo,father,Q312539,Diosdado Macapagal
-Q123665,Gloria Macapagal Arroyo,mother,Q5415112,Eva Macapagal
-Q123665,Gloria Macapagal Arroyo,spouse,Q46340,Jose Miguel Arroyo
-Q1284303,Edgardo Angara,child,Q2133872,Juan Edgardo Angara
-Q1284303,Edgardo Angara,relative,Q16150926,Rommel T. Angara
-Q1284303,Edgardo Angara,sibling,Q16104595,Arthur Angara
-Q1284303,Edgardo Angara,sibling,Q4883409,Bellaflor Angara-Castillo
-Q12950817,Joseph Victor Ejercito,father,Q212733,Joseph Estrada
-Q12950817,Joseph Victor Ejercito,mother,Q5615340,Guia Gomez
-Q12950817,Joseph Victor Ejercito,sibling,Q471874,Jinggoy Estrada
-Q12962523,Charlie Cojuangco,father,Q2191695,"Eduardo Cojuangco, Jr."
-Q12962523,Charlie Cojuangco,mother,Q107070439,Gretchen Oppen Cojuangco
-Q12962523,Charlie Cojuangco,spouse,Q59484383,China Jocson
-Q12962523,Charlie Cojuangco,spouse,Q7335189,Rio Diaz
-Q12963488,Douglas Cagas,child,Q12967700,Marc Douglas Cagas IV
-Q12963488,Douglas Cagas,spouse,Q66776985,Mercedes Cagas
-Q12963710,Enrique Cojuangco,sibling,Q2191695,"Eduardo Cojuangco, Jr."
-Q12963915,Faustino Dy Jr.,child,Q12963917,Faustino Michael Carlos Dy III
-Q12963917,Faustino Michael Carlos Dy III,father,Q12963915,Faustino Dy Jr.
-Q12964580,Henedina Abad,spouse,Q1427383,Florencio Abad
-Q12965596,Jurdin Jesus Romualdo,spouse,Q111182546,Maria Luisa Romualdo
-Q12967692,Abigail Binay,father,Q380154,Jejomar Binay
-Q12967692,Abigail Binay,mother,Q5359194,Elenita Binay
-Q12967692,Abigail Binay,sibling,Q6176547,"Jejomar Binay, Jr."
-Q12967692,Abigail Binay,sibling,Q6962562,Nancy Binay
-Q12967700,Marc Douglas Cagas IV,father,Q12963488,Douglas Cagas
-Q12967700,Marc Douglas Cagas IV,mother,Q66776985,Mercedes Cagas
-Q12968454,Mylene Garcia-Albano,spouse,Q59514714,Rodolfo T. Albano III
-Q12968534,Napoleon Dy,child,Q66777013,Ian Paul Dy
-Q12969523,Plaridel Abaya,child,Q57067691,Francis Gerald A. Abaya
-Q12969523,Plaridel Abaya,child,Q6282903,Joseph Emilio Abaya
-Q12969523,Plaridel Abaya,relative,Q12963924,Federico Isabelo Abaya
-Q12970075,Rodolfo B. Albano,child,Q59514714,Rodolfo T. Albano III
-Q12970075,Rodolfo B. Albano,child,Q66776953,Antonio Albano
-Q12970075,Rodolfo B. Albano,relative,Q12968454,Mylene Garcia-Albano
-Q12970122,Ronaldo Zamora,child,Q22121091,Francis Zamora
-Q1396213,Mar Roxas,father,Q517438,Gerry M. Roxas
-Q1396213,Mar Roxas,sibling,Q7463948,Gerardo Roxas Jr.
-Q1396213,Mar Roxas,spouse,Q2482343,Korina Sanchez
-Q1427383,Florencio Abad,father,Q96107304,Jorge Abad
-Q1427383,Florencio Abad,mother,Q96107295,Aurora Barsana-Abad
-Q1427383,Florencio Abad,sibling,Q466654,Pacita Abad
-Q1427383,Florencio Abad,spouse,Q12964580,Henedina Abad
-Q145881,Juan Ponce Enrile,sibling,Q3544581,Armida Siguion-Reyna
-Q1464,Benigno Aquino III,father,Q222805,Benigno Aquino Jr.
-Q1464,Benigno Aquino III,mother,Q1480,Corazon Aquino
-Q1464,Benigno Aquino III,partner,Q7487138,Shalani Soledad
-Q1464,Benigno Aquino III,relative,Q1494832,Mark Cojuangco
-Q1464,Benigno Aquino III,relative,Q16149641,Bimby Aquino Yap
-Q1464,Benigno Aquino III,relative,Q1969579,Tingting Cojuangco
-Q1464,Benigno Aquino III,relative,Q2084711,Teresa Aquino-Oreta
-Q1464,Benigno Aquino III,relative,Q2191695,"Eduardo Cojuangco, Jr."
-Q1464,Benigno Aquino III,relative,Q2368262,Agapito Aquino
-Q1464,Benigno Aquino III,relative,Q27057691,Antolin A. Oreta III
-Q1464,Benigno Aquino III,relative,Q3550706,Herminio Aquino
-Q1464,Benigno Aquino III,relative,Q384309,"Jose Cojuangco, Jr."
-Q1464,Benigno Aquino III,relative,Q4827842,Josephine C. Reyes
-Q1464,Benigno Aquino III,relative,Q4828887,Mikee Cojuangco-Jaworski
-Q1464,Benigno Aquino III,relative,Q4853249,Bam Aquino
-Q1464,Benigno Aquino III,sibling,Q12969468,Pinky Aquino-Abellada
-Q1464,Benigno Aquino III,sibling,Q20573716,Ballsy Aquino-Cruz
-Q1464,Benigno Aquino III,sibling,Q20592389,Viel Aquino-Dee
-Q1464,Benigno Aquino III,sibling,Q466947,Kris Aquino
-Q14917727,Mercedes Arrastia-Tuason,father,Q104537286,José Arrastia y Salgado
-Q14917727,Mercedes Arrastia-Tuason,relative,Q437710,Isabel Preysler
-Q14917727,Mercedes Arrastia-Tuason,sibling,Q107214956,Beatriz Arrastia y Reinares
-Q14917727,Mercedes Arrastia-Tuason,sibling,Q194762,Neile Adams
-Q1612706,Richard Gordon,spouse,Q12966218,Katherine Gordon
-Q16186727,Ramon Jimenez Jr.,father,Q7289878,Ramon T. Jimenez
-Q16186727,Ramon Jimenez Jr.,spouse,Q4664470,Abby Jimenez
-Q16195494,Hilario Davide III,father,Q2176997,"Hilario Davide, Jr."
-Q16232995,Migz Villafuerte,father,Q6701032,Luis Raymond Villafuerte
-Q16232995,Migz Villafuerte,spouse,Q29639932,Rachel Peters
-Q16735147,Regina Ongsiako Reyes,spouse,Q5741535,Hermilando Mandanas
-Q16886227,Sitti Djalia Turabin,spouse,Q6933350,Mujiv Hataman
-Q17370935,Antonio Tinio,father,Q7360587,Rolando Tinio
-Q17370955,Augusto Syjuco Jr.,child,Q1768256,Miguel Syjuco
-Q17371074,Francisco Ortega III,father,Q3183552,Manuel Ortega
-Q17371175,Mark Villar,father,Q561797,Manny Villar
-Q17371175,Mark Villar,mother,Q2192916,Cynthia Villar
-Q17371261,Martin Romualdez,child,Q107293551,Martin Romualdez
-Q17371261,Martin Romualdez,father,Q2058081,Benjamin Romualdez
-Q17371261,Martin Romualdez,spouse,Q20582527,Yedda Marie Romualdez
-Q17371295,Danilo Suarez,child,Q24572501,David C. Suarez
-Q17371295,Danilo Suarez,spouse,Q66777108,Aleta Suarez
-Q1858359,Mikey Arroyo,father,Q46340,Jose Miguel Arroyo
-Q1858359,Mikey Arroyo,mother,Q123665,Gloria Macapagal Arroyo
-Q1858359,Mikey Arroyo,sibling,Q5279602,Diosdado Macapagal–Arroyo
-Q1859989,"Ramon Magsaysay, Jr.",father,Q117096,Ramon Magsaysay
-Q1859989,"Ramon Magsaysay, Jr.",mother,Q6706526,Luz Magsaysay
-Q1898314,Lito Lapid,child,Q16731236,Mark Lapid
-Q1898314,Lito Lapid,child,Q47506227,Ysabel Ortega
-Q1898314,Lito Lapid,relative,Q12965261,"Jess Lapid, Sr."
-Q19960435,Lino Cayetano,father,Q3720363,Rene Cayetano
-Q19960435,Lino Cayetano,sibling,Q442998,Pia Cayetano
-Q19960435,Lino Cayetano,sibling,Q471883,Alan Peter Cayetano
-Q19960435,Lino Cayetano,spouse,Q16233044,Fille Cainglet
-Q20582527,Yedda Marie Romualdez,child,Q107293551,Martin Romualdez
-Q20582527,Yedda Marie Romualdez,spouse,Q17371261,Martin Romualdez
-Q2084711,Teresa Aquino-Oreta,child,Q27057691,Antolin A. Oreta III
-Q2084711,Teresa Aquino-Oreta,father,Q817304,"Benigno Aquino, Sr."
-Q2084711,Teresa Aquino-Oreta,sibling,Q222805,Benigno Aquino Jr.
-Q2084711,Teresa Aquino-Oreta,sibling,Q2368262,Agapito Aquino
-Q212733,Joseph Estrada,child,Q109453557,Jake Ejercito
-Q212733,Joseph Estrada,child,Q12950817,Joseph Victor Ejercito
-Q212733,Joseph Estrada,child,Q471874,Jinggoy Estrada
-Q212733,Joseph Estrada,father,Q106865717,Emilio Ejército
-Q212733,Joseph Estrada,mother,Q5994011,Mary Ejercito
-Q212733,Joseph Estrada,sibling,Q5539032,George Estregan
-Q212733,Joseph Estrada,spouse,Q2483874,Loi Estrada
-Q2133872,Juan Edgardo Angara,father,Q1284303,Edgardo Angara
-Q2139066,Sergio Osmeña III,father,Q2515056,"Sergio Osmeña, Jr."
-Q2176997,"Hilario Davide, Jr.",child,Q16195494,Hilario Davide III
-Q2184714,Raul Roco,sibling,Q25663425,Cho Roco
-Q2184714,Raul Roco,spouse,Q5169098,Sonia Roco
-Q2192916,Cynthia Villar,child,Q17371175,Mark Villar
-Q2192916,Cynthia Villar,child,Q66777135,Camille Villar
-Q2192916,Cynthia Villar,father,Q98840954,Filemon Aguilar
-Q2192916,Cynthia Villar,sibling,Q98840981,Vergel Aguilar
-Q2192916,Cynthia Villar,spouse,Q561797,Manny Villar
-Q2197580,Vilma Santos,child,Q3546728,Luis Manzano
-Q2197580,Vilma Santos,spouse,Q3348165,Edu Manzano
-Q2197580,Vilma Santos,spouse,Q555499,Ralph Recto
-Q2208719,Imee Marcos,child,Q66372258,Matthew Manotoc
-Q2208719,Imee Marcos,father,Q1463,Ferdinand Marcos
-Q2208719,Imee Marcos,mother,Q285536,Imelda Marcos
-Q2208719,Imee Marcos,sibling,Q6069124,Irene Marcos-Araneta
-Q2208719,Imee Marcos,sibling,Q983324,Bongbong Marcos
-Q2208719,Imee Marcos,spouse,Q7819657,Tommy Manotoc
-Q2330049,Michael Marcos Keon,father,Q16017450,Michael Keon
-Q2330049,Michael Marcos Keon,mother,Q104026493,Elizabeth Marcos
-Q23874834,Susan A. Yap-Sulit,father,Q1704132,Jose V. Yap
-Q2399446,Chavit Singson,child,Q65932997,Ryan Luis Singson
-Q2399446,Chavit Singson,child,Q7365285,Ronald Singson
-Q2403374,Robert Jaworski,child,Q4829365,"Robert Jaworski, Jr."
-Q241545,"Aquilino Pimentel, Jr.",child,Q4492601,Aquilino Pimentel III
-Q24250858,Geraldine Roman,father,Q15614280,Antonino P. Roman
-Q24250858,Geraldine Roman,mother,Q3303072,Herminia Roman
-Q24572501,David C. Suarez,father,Q17371295,Danilo Suarez
-Q24572501,David C. Suarez,mother,Q66777108,Aleta Suarez
-Q24572501,David C. Suarez,spouse,Q66777136,Anna Marie Villaraza-Suarez
-Q2483874,Loi Estrada,child,Q471874,Jinggoy Estrada
-Q2483874,Loi Estrada,spouse,Q212733,Joseph Estrada
-Q24851438,Paolo Duterte,father,Q457786,Rodrigo Duterte
-Q24851438,Paolo Duterte,mother,Q24049267,Elizabeth Abellana Zimmerman
-Q24851438,Paolo Duterte,sibling,Q105700332,Sebastian Duterte
-Q24851438,Paolo Duterte,sibling,Q1491004,Sara Duterte
-Q24852423,Manny Piñol,sibling,Q4893944,"Bernardo Piñol, Jr."
-Q2510441,"Feliciano Belmonte, Jr.",child,Q64748125,Joy Belmonte
-Q2510441,"Feliciano Belmonte, Jr.",spouse,Q850343,Betty Go-Belmonte
-Q25341910,Judy Taguiwalo,sibling,Q110629705,Mario Taguiwalo
-Q25663425,Cho Roco,sibling,Q2184714,Raul Roco
-Q2606208,Sherwin Gatchalian,sibling,Q7319383,Rexlon Gatchalian
-Q2606208,Sherwin Gatchalian,sibling,Q96105894,Weslie Gatchalian
-Q2648928,Lito Atienza,child,Q6408346,Kim Atienza
-Q2720262,Gwendolyn Garcia,sibling,Q23304551,Winston Garcia
-Q2720262,Gwendolyn Garcia,sibling,Q7121657,Pablo John Garcia
-Q285536,Imelda Marcos,child,Q2208719,Imee Marcos
-Q285536,Imelda Marcos,child,Q56690518,Aimee Marcos
-Q285536,Imelda Marcos,child,Q6069124,Irene Marcos-Araneta
-Q285536,Imelda Marcos,child,Q983324,Bongbong Marcos
-Q285536,Imelda Marcos,father,Q56668933,Vicente Orestes Romualdez
-Q285536,Imelda Marcos,mother,Q7311603,Remedios T. Romualdez
-Q285536,Imelda Marcos,sibling,Q2058081,Benjamin Romualdez
-Q285536,Imelda Marcos,spouse,Q1463,Ferdinand Marcos
-Q28925129,Enrique Manalo,mother,Q7367400,Rosario Manalo
-Q3058915,Nikki Coseteng,mother,Q24204636,Alice Coseteng
-Q3135561,Grace Poe,father,Q1373770,Fernando Poe
-Q3135561,Grace Poe,mother,Q1870001,Susan Roces
-Q3135561,Grace Poe,sibling,Q3358903,Lovi Poe
-Q3183552,Manuel Ortega,child,Q17371074,Francisco Ortega III
-Q3303072,Herminia Roman,child,Q24250858,Geraldine Roman
-Q3303072,Herminia Roman,spouse,Q15614280,Antonino P. Roman
-Q3720363,Rene Cayetano,child,Q19960435,Lino Cayetano
-Q3720363,Rene Cayetano,child,Q442998,Pia Cayetano
-Q3720363,Rene Cayetano,child,Q471883,Alan Peter Cayetano
-Q380154,Jejomar Binay,child,Q12967692,Abigail Binay
-Q380154,Jejomar Binay,child,Q6176547,"Jejomar Binay, Jr."
-Q380154,Jejomar Binay,child,Q6962562,Nancy Binay
-Q380154,Jejomar Binay,spouse,Q5359194,Elenita Binay
-Q442998,Pia Cayetano,father,Q3720363,Rene Cayetano
-Q442998,Pia Cayetano,sibling,Q19960435,Lino Cayetano
-Q442998,Pia Cayetano,sibling,Q471883,Alan Peter Cayetano
-Q446799,Loren Legarda,spouse,Q4776736,Antonio Leviste
-Q4492601,Aquilino Pimentel III,father,Q241545,"Aquilino Pimentel, Jr."
-Q4492601,Aquilino Pimentel III,spouse,Q57586476,Kathryna Yu-Pimentel
-Q452102,"Amado Espino, Jr.",child,Q65936017,Amado Espino III
-Q457786,Rodrigo Duterte,child,Q105700332,Sebastian Duterte
-Q457786,Rodrigo Duterte,child,Q106865627,Verónica A. Duterte
-Q457786,Rodrigo Duterte,child,Q1491004,Sara Duterte
-Q457786,Rodrigo Duterte,child,Q24851438,Paolo Duterte
-Q457786,Rodrigo Duterte,father,Q24284488,Vicente Duterte
-Q457786,Rodrigo Duterte,mother,Q23035201,Soledad Duterte
-Q457786,Rodrigo Duterte,partner,Q24977370,Honeylet Avanceña
-Q457786,Rodrigo Duterte,sibling,Q106865613,Benjamin Duterte
-Q457786,Rodrigo Duterte,spouse,Q24049267,Elizabeth Abellana Zimmerman
-Q4596779,Prospero Amatong,child,Q7363244,Rommel Amatong
-Q4596779,Prospero Amatong,sibling,Q104767262,Ernesto Amatong
-Q4596779,Prospero Amatong,sibling,Q59515565,Isagani S. Amatong
-Q4596779,Prospero Amatong,sibling,Q96065694,Jacobo Amatong
-Q464255,Margarito Teves,father,Q12964610,Herminio Teves
-Q471874,Jinggoy Estrada,child,Q16207471,Julian Estrada
-Q471874,Jinggoy Estrada,father,Q212733,Joseph Estrada
-Q471874,Jinggoy Estrada,mother,Q2483874,Loi Estrada
-Q471874,Jinggoy Estrada,sibling,Q12950817,Joseph Victor Ejercito
-Q471883,Alan Peter Cayetano,father,Q3720363,Rene Cayetano
-Q471883,Alan Peter Cayetano,sibling,Q19960435,Lino Cayetano
-Q471883,Alan Peter Cayetano,sibling,Q442998,Pia Cayetano
-Q471883,Alan Peter Cayetano,spouse,Q6487031,Lani Cayetano
-Q473096,John Henry Osmeña,father,Q106866133,Jose Emilio Veloso Osmeña
-Q4776725,"Antonio Lagdameo, Jr.",spouse,Q3545747,Dawn Zulueta
-Q486359,Manny Pacquiao,child,Q106504100,Queen Elizabeth Pacquiao
-Q486359,Manny Pacquiao,sibling,Q4926376,Bobby Pacquiao
-Q486359,Manny Pacquiao,sibling,Q66777075,Rogelio Pacquiao
-Q486359,Manny Pacquiao,spouse,Q16218718,Jinkee Pacquiao
-Q4883409,Bellaflor Angara-Castillo,sibling,Q1284303,Edgardo Angara
-Q4883409,Bellaflor Angara-Castillo,sibling,Q16104595,Arthur Angara
-Q4887876,Benhur Salimbangon,spouse,Q66777096,Janice Salimbangon
-Q4888170,"Benjamin Abalos, Jr.",father,Q2347366,Benjamin Abalos
-Q5279602,Diosdado Macapagal–Arroyo,father,Q46340,Jose Miguel Arroyo
-Q5279602,Diosdado Macapagal–Arroyo,mother,Q123665,Gloria Macapagal Arroyo
-Q5279602,Diosdado Macapagal–Arroyo,sibling,Q1858359,Mikey Arroyo
-Q5335744,Edcel Lagman,sibling,Q107426232,Hermón Lagman
-Q5335744,Edcel Lagman,sibling,Q5448378,Filemon Lagman
-Q555481,Francisco Tatad,relative,Q7487138,Shalani Soledad
-Q555499,Ralph Recto,child,Q3546728,Luis Manzano
-Q555499,Ralph Recto,spouse,Q2197580,Vilma Santos
-Q5562939,Gina de Venecia,spouse,Q975642,Jose de Venecia
-Q561797,Manny Villar,child,Q17371175,Mark Villar
-Q561797,Manny Villar,child,Q66777135,Camille Villar
-Q561797,Manny Villar,spouse,Q2192916,Cynthia Villar
-Q57067691,Francis Gerald A. Abaya,father,Q12969523,Plaridel Abaya
-Q57067691,Francis Gerald A. Abaya,sibling,Q6282903,Joseph Emilio Abaya
-Q5741535,Hermilando Mandanas,spouse,Q16735147,Regina Ongsiako Reyes
-Q59513321,Gil P. Acosta,child,Q66776949,Gil A. Acosta
-Q59514714,Rodolfo T. Albano III,father,Q12970075,Rodolfo B. Albano
-Q59514714,Rodolfo T. Albano III,sibling,Q66776953,Antonio Albano
-Q59514714,Rodolfo T. Albano III,spouse,Q12968454,Mylene Garcia-Albano
-Q59515565,Isagani S. Amatong,sibling,Q104767262,Ernesto Amatong
-Q59515565,Isagani S. Amatong,sibling,Q4596779,Prospero Amatong
-Q59515565,Isagani S. Amatong,sibling,Q96065694,Jacobo Amatong
-Q5969936,Lani Mercado,spouse,Q919045,Bong Revilla
-Q6081353,Isko Moreno,child,Q97255259,Joaquin Domagoso
-Q6081353,Isko Moreno,mother,Q12970142,Rosario Moreno
-Q6081353,Isko Moreno,spouse,Q110278671,Diana Lynn Ditan
-Q6282903,Joseph Emilio Abaya,father,Q12969523,Plaridel Abaya
-Q6282903,Joseph Emilio Abaya,mother,Q107287635,Consuelo Bautista Aguinaldo
-Q6282903,Joseph Emilio Abaya,sibling,Q57067691,Francis Gerald A. Abaya
-Q6487031,Lani Cayetano,spouse,Q471883,Alan Peter Cayetano
-Q65932997,Ryan Luis Singson,father,Q2399446,Chavit Singson
-Q65932997,Ryan Luis Singson,sibling,Q7365285,Ronald Singson
-Q65936017,Amado Espino III,father,Q452102,"Amado Espino, Jr."
-Q66372258,Matthew Manotoc,father,Q7819657,Tommy Manotoc
-Q66372258,Matthew Manotoc,mother,Q2208719,Imee Marcos
-Q66372258,Matthew Manotoc,relative,Q1463,Ferdinand Marcos
-Q66391776,Yevgeny Emano,father,Q16105611,Vicente Emano
-Q66776947,Maria Fe Abunda,sibling,Q4952054,Boy Abunda
-Q66776948,Resurreccion Acop,spouse,Q7363071,Romeo Acop
-Q66776949,Gil A. Acosta,father,Q59513321,Gil P. Acosta
-Q66776953,Antonio Albano,father,Q12970075,Rodolfo B. Albano
-Q66776953,Antonio Albano,sibling,Q59514714,Rodolfo T. Albano III
-Q66776954,Samantha Louise Vargas Alfonso,mother,Q66827054,Baby Aline Vargas-Alfonso
-Q66776958,Ma. Lourdes Arroyo,sibling,Q46340,Jose Miguel Arroyo
-Q66776958,Ma. Lourdes Arroyo,sibling,Q5991683,Iggy Arroyo
-Q66776964,Angelo Marcos Barba,mother,Q104027096,Fortuna Marcos-Barba
-Q66776985,Mercedes Cagas,child,Q12967700,Marc Douglas Cagas IV
-Q66776985,Mercedes Cagas,spouse,Q12963488,Douglas Cagas
-Q66777013,Ian Paul Dy,father,Q12968534,Napoleon Dy
-Q66777082,Enrico Pineda,child,Q5381517,Enzo Pineda
-Q66777096,Janice Salimbangon,spouse,Q4887876,Benhur Salimbangon
-Q66777108,Aleta Suarez,child,Q24572501,David C. Suarez
-Q66777108,Aleta Suarez,spouse,Q17371295,Danilo Suarez
-Q66777135,Camille Villar,father,Q561797,Manny Villar
-Q66777135,Camille Villar,mother,Q2192916,Cynthia Villar
-Q66777136,Anna Marie Villaraza-Suarez,spouse,Q24572501,David C. Suarez
-Q6678907,Lord Allan Jay Velasco,father,Q7240707,"Presbitero Velasco, Jr."
-Q6678907,Lord Allan Jay Velasco,mother,Q66905332,Lorna Velasco
-Q6678907,Lord Allan Jay Velasco,sibling,Q66809893,Tricia Nicole Velasco-Catera
-Q66793736,Tomas Joson III,child,Q97664639,Edward Thomas Joson
-Q66793736,Tomas Joson III,sibling,Q5340712,Eduardo Nonato Joson
-Q66809893,Tricia Nicole Velasco-Catera,father,Q7240707,"Presbitero Velasco, Jr."
-Q66809893,Tricia Nicole Velasco-Catera,mother,Q66905332,Lorna Velasco
-Q66809893,Tricia Nicole Velasco-Catera,sibling,Q6678907,Lord Allan Jay Velasco
-Q66827054,Baby Aline Vargas-Alfonso,child,Q66776954,Samantha Louise Vargas Alfonso
-Q66827054,Baby Aline Vargas-Alfonso,father,Q2161827,Florencio Vargas
-Q66905332,Lorna Velasco,child,Q6678907,Lord Allan Jay Velasco
-Q66905332,Lorna Velasco,child,Q66809893,Tricia Nicole Velasco-Catera
-Q66905332,Lorna Velasco,spouse,Q7240707,"Presbitero Velasco, Jr."
-Q6701032,Luis Raymond Villafuerte,child,Q16232995,Migz Villafuerte
-Q6701032,Luis Raymond Villafuerte,father,Q6701198,Luis Villafuerte
-Q6701032,Luis Raymond Villafuerte,mother,Q25663214,Nelly Villafuerte
-Q6701198,Luis Villafuerte,child,Q6701032,Luis Raymond Villafuerte
-Q6701198,Luis Villafuerte,spouse,Q25663214,Nelly Villafuerte
-Q6761357,Leni Robredo,father,Q24680539,Antonio Gerona
-Q6761357,Leni Robredo,spouse,Q716649,Jesse Robredo
-Q6933350,Mujiv Hataman,spouse,Q16886227,Sitti Djalia Turabin
-Q6962562,Nancy Binay,father,Q380154,Jejomar Binay
-Q6962562,Nancy Binay,mother,Q5359194,Elenita Binay
-Q6962562,Nancy Binay,sibling,Q12967692,Abigail Binay
-Q6962562,Nancy Binay,sibling,Q6176547,"Jejomar Binay, Jr."
-Q7121657,Pablo John Garcia,sibling,Q2720262,Gwendolyn Garcia
-Q716649,Jesse Robredo,spouse,Q6761357,Leni Robredo
-Q7240707,"Presbitero Velasco, Jr.",child,Q6678907,Lord Allan Jay Velasco
-Q7240707,"Presbitero Velasco, Jr.",child,Q66809893,Tricia Nicole Velasco-Catera
-Q7240707,"Presbitero Velasco, Jr.",spouse,Q66905332,Lorna Velasco
-Q7289865,"Ramon Revilla, Sr.",child,Q3550636,Strike Revilla
-Q7289865,"Ramon Revilla, Sr.",child,Q7288569,Ram Revilla
-Q7289865,"Ramon Revilla, Sr.",child,Q919045,Bong Revilla
-Q7351859,Roberto Puno,father,Q15634561,Ricardo C. Puno
-Q7351859,Roberto Puno,sibling,Q5295761,Dong Puno
-Q7351859,Roberto Puno,sibling,Q983326,Ronaldo Puno
-Q7363071,Romeo Acop,spouse,Q66776948,Resurreccion Acop
-Q7363162,Miro Quimbo,spouse,Q104082108,Stella Quimbo
-Q7363244,Rommel Amatong,father,Q4596779,Prospero Amatong
-Q7365285,Ronald Singson,father,Q2399446,Chavit Singson
-Q7365285,Ronald Singson,sibling,Q65932997,Ryan Luis Singson
-Q7701087,"Teodoro Locsin, Jr.",father,Q16015004,"Teodoro Locsín, Sr."
-Q919045,Bong Revilla,child,Q16231907,Jolo Revilla
-Q919045,Bong Revilla,father,Q7289865,"Ramon Revilla, Sr."
-Q919045,Bong Revilla,spouse,Q5969936,Lani Mercado
-Q96105894,Weslie Gatchalian,sibling,Q2606208,Sherwin Gatchalian
-Q96105894,Weslie Gatchalian,sibling,Q7319383,Rexlon Gatchalian
-Q975642,Jose de Venecia,spouse,Q5562939,Gina de Venecia
-Q983307,Francis Escudero,father,Q2718322,Salvador Escudero
-Q983307,Francis Escudero,spouse,Q2289801,Heart Evangelista
-Q983315,Tito Sotto,child,Q3543965,Ciara Sotto
-Q983315,Tito Sotto,child,Q66312141,Gian Sotto
-Q983315,Tito Sotto,sibling,Q3543507,Vic Sotto
-Q983315,Tito Sotto,sibling,Q7909153,Val Sotto
-Q983315,Tito Sotto,sibling,Q97613733,Maru Sotto
-Q983315,Tito Sotto,spouse,Q10971495,Helen Gamboa
-Q983317,Teofisto Guingona Jr.,child,Q3550710,Teofisto Guingona III
-Q983324,Bongbong Marcos,father,Q1463,Ferdinand Marcos
-Q983324,Bongbong Marcos,mother,Q285536,Imelda Marcos
-Q983324,Bongbong Marcos,sibling,Q2208719,Imee Marcos
-Q983324,Bongbong Marcos,sibling,Q6069124,Irene Marcos-Araneta
-Q983326,Ronaldo Puno,father,Q15634561,Ricardo C. Puno
-Q983326,Ronaldo Puno,sibling,Q5295761,Dong Puno
-Q983326,Ronaldo Puno,sibling,Q7351859,Roberto Puno
-Q984265,Francis Pangilinan,spouse,Q466942,Sharon Cuneta
-Q99644529,Faustino G. Dy III,father,Q4859261,Faustino Dy
-Q99644529,Faustino G. Dy III,relative,Q15992762,Benjamin Dy
+Q111182546,Maria Luisa Romualdo,spouse,Q12965596,
+Q11845136,Lucy Torres-Gomez,spouse,Q6108639,
+Q123665,Gloria Macapagal Arroyo,child,Q1858359,
+Q123665,Gloria Macapagal Arroyo,child,Q5279602,
+Q123665,Gloria Macapagal Arroyo,father,Q312539,
+Q123665,Gloria Macapagal Arroyo,mother,Q5415112,
+Q123665,Gloria Macapagal Arroyo,spouse,Q46340,
+Q1284303,Edgardo Angara,child,Q2133872,
+Q1284303,Edgardo Angara,relative,Q16150926,
+Q1284303,Edgardo Angara,sibling,Q16104595,
+Q1284303,Edgardo Angara,sibling,Q4883409,
+Q12950817,Joseph Victor Ejercito,father,Q212733,
+Q12950817,Joseph Victor Ejercito,mother,Q5615340,
+Q12950817,Joseph Victor Ejercito,sibling,Q471874,
+Q12962523,Charlie Cojuangco,father,Q2191695,
+Q12962523,Charlie Cojuangco,mother,Q107070439,
+Q12962523,Charlie Cojuangco,spouse,Q59484383,
+Q12962523,Charlie Cojuangco,spouse,Q7335189,
+Q12963488,Douglas Cagas,child,Q12967700,
+Q12963488,Douglas Cagas,spouse,Q66776985,
+Q12963710,Enrique Cojuangco,sibling,Q2191695,
+Q12963915,Faustino Dy Jr.,child,Q12963917,
+Q12963917,Faustino Michael Carlos Dy III,father,Q12963915,
+Q12964580,Henedina Abad,spouse,Q1427383,
+Q12965596,Jurdin Jesus Romualdo,spouse,Q111182546,
+Q12967692,Abigail Binay,father,Q380154,
+Q12967692,Abigail Binay,mother,Q5359194,
+Q12967692,Abigail Binay,sibling,Q6176547,
+Q12967692,Abigail Binay,sibling,Q6962562,
+Q12967700,Marc Douglas Cagas IV,father,Q12963488,
+Q12967700,Marc Douglas Cagas IV,mother,Q66776985,
+Q12968454,Mylene Garcia-Albano,spouse,Q59514714,
+Q12968534,Napoleon Dy,child,Q66777013,
+Q12969523,Plaridel Abaya,child,Q57067691,
+Q12969523,Plaridel Abaya,child,Q6282903,
+Q12969523,Plaridel Abaya,relative,Q12963924,
+Q12970075,Rodolfo B. Albano,child,Q59514714,
+Q12970075,Rodolfo B. Albano,child,Q66776953,
+Q12970075,Rodolfo B. Albano,relative,Q12968454,
+Q12970122,Ronaldo Zamora,child,Q22121091,
+Q1396213,Mar Roxas,father,Q517438,
+Q1396213,Mar Roxas,sibling,Q7463948,
+Q1396213,Mar Roxas,spouse,Q2482343,
+Q1427383,Florencio Abad,father,Q96107304,
+Q1427383,Florencio Abad,mother,Q96107295,
+Q1427383,Florencio Abad,sibling,Q466654,
+Q1427383,Florencio Abad,spouse,Q12964580,
+Q145881,Juan Ponce Enrile,sibling,Q3544581,
+Q1464,Benigno Aquino III,father,Q222805,
+Q1464,Benigno Aquino III,mother,Q1480,
+Q1464,Benigno Aquino III,partner,Q7487138,
+Q1464,Benigno Aquino III,relative,Q1494832,
+Q1464,Benigno Aquino III,relative,Q16149641,
+Q1464,Benigno Aquino III,relative,Q1969579,
+Q1464,Benigno Aquino III,relative,Q2084711,
+Q1464,Benigno Aquino III,relative,Q2191695,
+Q1464,Benigno Aquino III,relative,Q2368262,
+Q1464,Benigno Aquino III,relative,Q27057691,
+Q1464,Benigno Aquino III,relative,Q3550706,
+Q1464,Benigno Aquino III,relative,Q384309,
+Q1464,Benigno Aquino III,relative,Q4827842,
+Q1464,Benigno Aquino III,relative,Q4828887,
+Q1464,Benigno Aquino III,relative,Q4853249,
+Q1464,Benigno Aquino III,sibling,Q12969468,
+Q1464,Benigno Aquino III,sibling,Q20573716,
+Q1464,Benigno Aquino III,sibling,Q20592389,
+Q1464,Benigno Aquino III,sibling,Q466947,
+Q14917727,Mercedes Arrastia-Tuason,father,Q104537286,
+Q14917727,Mercedes Arrastia-Tuason,relative,Q437710,
+Q14917727,Mercedes Arrastia-Tuason,sibling,Q107214956,
+Q14917727,Mercedes Arrastia-Tuason,sibling,Q194762,
+Q1612706,Richard Gordon,spouse,Q12966218,
+Q16186727,Ramon Jimenez Jr.,father,Q7289878,
+Q16186727,Ramon Jimenez Jr.,spouse,Q4664470,
+Q16195494,Hilario Davide III,father,Q2176997,
+Q16232995,Migz Villafuerte,father,Q6701032,
+Q16232995,Migz Villafuerte,spouse,Q29639932,
+Q16735147,Regina Ongsiako Reyes,spouse,Q5741535,
+Q16886227,Sitti Djalia Turabin,spouse,Q6933350,
+Q17370935,Antonio Tinio,father,Q7360587,
+Q17370955,Augusto Syjuco Jr.,child,Q1768256,
+Q17371074,Francisco Ortega III,father,Q3183552,
+Q17371175,Mark Villar,father,Q561797,
+Q17371175,Mark Villar,mother,Q2192916,
+Q17371261,Martin Romualdez,child,Q107293551,
+Q17371261,Martin Romualdez,father,Q2058081,
+Q17371261,Martin Romualdez,spouse,Q20582527,
+Q17371295,Danilo Suarez,child,Q24572501,
+Q17371295,Danilo Suarez,spouse,Q66777108,
+Q1858359,Mikey Arroyo,father,Q46340,
+Q1858359,Mikey Arroyo,mother,Q123665,
+Q1858359,Mikey Arroyo,sibling,Q5279602,
+Q1859989,"Ramon Magsaysay, Jr.",father,Q117096,
+Q1859989,"Ramon Magsaysay, Jr.",mother,Q6706526,
+Q1898314,Lito Lapid,child,Q16731236,
+Q1898314,Lito Lapid,child,Q47506227,
+Q1898314,Lito Lapid,relative,Q12965261,
+Q19960435,Lino Cayetano,father,Q3720363,
+Q19960435,Lino Cayetano,sibling,Q442998,
+Q19960435,Lino Cayetano,sibling,Q471883,
+Q19960435,Lino Cayetano,spouse,Q16233044,
+Q20582527,Yedda Marie Romualdez,child,Q107293551,
+Q20582527,Yedda Marie Romualdez,spouse,Q17371261,
+Q2084711,Teresa Aquino-Oreta,child,Q27057691,
+Q2084711,Teresa Aquino-Oreta,father,Q817304,
+Q2084711,Teresa Aquino-Oreta,sibling,Q222805,
+Q2084711,Teresa Aquino-Oreta,sibling,Q2368262,
+Q212733,Joseph Estrada,child,Q109453557,
+Q212733,Joseph Estrada,child,Q12950817,
+Q212733,Joseph Estrada,child,Q471874,
+Q212733,Joseph Estrada,father,Q106865717,
+Q212733,Joseph Estrada,mother,Q5994011,
+Q212733,Joseph Estrada,sibling,Q5539032,
+Q212733,Joseph Estrada,spouse,Q2483874,
+Q2133872,Juan Edgardo Angara,father,Q1284303,
+Q2139066,Sergio Osmeña III,father,Q2515056,
+Q2176997,"Hilario Davide, Jr.",child,Q16195494,
+Q2184714,Raul Roco,sibling,Q25663425,
+Q2184714,Raul Roco,spouse,Q5169098,
+Q2192916,Cynthia Villar,child,Q17371175,
+Q2192916,Cynthia Villar,child,Q66777135,
+Q2192916,Cynthia Villar,father,Q98840954,
+Q2192916,Cynthia Villar,sibling,Q98840981,
+Q2192916,Cynthia Villar,spouse,Q561797,
+Q2197580,Vilma Santos,child,Q3546728,
+Q2197580,Vilma Santos,spouse,Q3348165,
+Q2197580,Vilma Santos,spouse,Q555499,
+Q2208719,Imee Marcos,child,Q66372258,
+Q2208719,Imee Marcos,father,Q1463,
+Q2208719,Imee Marcos,mother,Q285536,
+Q2208719,Imee Marcos,sibling,Q6069124,
+Q2208719,Imee Marcos,sibling,Q983324,
+Q2208719,Imee Marcos,spouse,Q7819657,
+Q2330049,Michael Marcos Keon,father,Q16017450,
+Q2330049,Michael Marcos Keon,mother,Q104026493,
+Q23874834,Susan A. Yap-Sulit,father,Q1704132,
+Q2399446,Chavit Singson,child,Q65932997,
+Q2399446,Chavit Singson,child,Q7365285,
+Q2403374,Robert Jaworski,child,Q4829365,
+Q241545,"Aquilino Pimentel, Jr.",child,Q4492601,
+Q24250858,Geraldine Roman,father,Q15614280,
+Q24250858,Geraldine Roman,mother,Q3303072,
+Q24572501,David C. Suarez,father,Q17371295,
+Q24572501,David C. Suarez,mother,Q66777108,
+Q24572501,David C. Suarez,spouse,Q66777136,
+Q2483874,Loi Estrada,child,Q471874,
+Q2483874,Loi Estrada,spouse,Q212733,
+Q24851438,Paolo Duterte,father,Q457786,
+Q24851438,Paolo Duterte,mother,Q24049267,
+Q24851438,Paolo Duterte,sibling,Q105700332,
+Q24851438,Paolo Duterte,sibling,Q1491004,
+Q24852423,Manny Piñol,sibling,Q4893944,
+Q2510441,"Feliciano Belmonte, Jr.",child,Q64748125,
+Q2510441,"Feliciano Belmonte, Jr.",spouse,Q850343,
+Q25341910,Judy Taguiwalo,sibling,Q110629705,
+Q25663425,Cho Roco,sibling,Q2184714,
+Q2606208,Sherwin Gatchalian,sibling,Q7319383,
+Q2606208,Sherwin Gatchalian,sibling,Q96105894,
+Q2648928,Lito Atienza,child,Q6408346,
+Q2720262,Gwendolyn Garcia,sibling,Q23304551,
+Q2720262,Gwendolyn Garcia,sibling,Q7121657,
+Q285536,Imelda Marcos,child,Q2208719,
+Q285536,Imelda Marcos,child,Q56690518,
+Q285536,Imelda Marcos,child,Q6069124,
+Q285536,Imelda Marcos,child,Q983324,
+Q285536,Imelda Marcos,father,Q56668933,
+Q285536,Imelda Marcos,mother,Q7311603,
+Q285536,Imelda Marcos,sibling,Q2058081,
+Q285536,Imelda Marcos,spouse,Q1463,
+Q28925129,Enrique Manalo,mother,Q7367400,
+Q3058915,Nikki Coseteng,mother,Q24204636,
+Q3135561,Grace Poe,father,Q1373770,
+Q3135561,Grace Poe,mother,Q1870001,
+Q3135561,Grace Poe,sibling,Q3358903,
+Q3183552,Manuel Ortega,child,Q17371074,
+Q3303072,Herminia Roman,child,Q24250858,
+Q3303072,Herminia Roman,spouse,Q15614280,
+Q3720363,Rene Cayetano,child,Q19960435,
+Q3720363,Rene Cayetano,child,Q442998,
+Q3720363,Rene Cayetano,child,Q471883,
+Q380154,Jejomar Binay,child,Q12967692,
+Q380154,Jejomar Binay,child,Q6176547,
+Q380154,Jejomar Binay,child,Q6962562,
+Q380154,Jejomar Binay,spouse,Q5359194,
+Q442998,Pia Cayetano,father,Q3720363,
+Q442998,Pia Cayetano,sibling,Q19960435,
+Q442998,Pia Cayetano,sibling,Q471883,
+Q446799,Loren Legarda,spouse,Q4776736,
+Q4492601,Aquilino Pimentel III,father,Q241545,
+Q4492601,Aquilino Pimentel III,spouse,Q57586476,
+Q452102,"Amado Espino, Jr.",child,Q65936017,
+Q457786,Rodrigo Duterte,child,Q105700332,
+Q457786,Rodrigo Duterte,child,Q106865627,
+Q457786,Rodrigo Duterte,child,Q1491004,
+Q457786,Rodrigo Duterte,child,Q24851438,
+Q457786,Rodrigo Duterte,father,Q24284488,
+Q457786,Rodrigo Duterte,mother,Q23035201,
+Q457786,Rodrigo Duterte,partner,Q24977370,
+Q457786,Rodrigo Duterte,sibling,Q106865613,
+Q457786,Rodrigo Duterte,spouse,Q24049267,
+Q4596779,Prospero Amatong,child,Q7363244,
+Q4596779,Prospero Amatong,sibling,Q104767262,
+Q4596779,Prospero Amatong,sibling,Q59515565,
+Q4596779,Prospero Amatong,sibling,Q96065694,
+Q464255,Margarito Teves,father,Q12964610,
+Q471874,Jinggoy Estrada,child,Q16207471,
+Q471874,Jinggoy Estrada,father,Q212733,
+Q471874,Jinggoy Estrada,mother,Q2483874,
+Q471874,Jinggoy Estrada,sibling,Q12950817,
+Q471883,Alan Peter Cayetano,father,Q3720363,
+Q471883,Alan Peter Cayetano,sibling,Q19960435,
+Q471883,Alan Peter Cayetano,sibling,Q442998,
+Q471883,Alan Peter Cayetano,spouse,Q6487031,
+Q473096,John Henry Osmeña,father,Q106866133,
+Q4776725,"Antonio Lagdameo, Jr.",spouse,Q3545747,
+Q486359,Manny Pacquiao,child,Q106504100,
+Q486359,Manny Pacquiao,sibling,Q4926376,
+Q486359,Manny Pacquiao,sibling,Q66777075,
+Q486359,Manny Pacquiao,spouse,Q16218718,
+Q4883409,Bellaflor Angara-Castillo,sibling,Q1284303,
+Q4883409,Bellaflor Angara-Castillo,sibling,Q16104595,
+Q4887876,Benhur Salimbangon,spouse,Q66777096,
+Q4888170,"Benjamin Abalos, Jr.",father,Q2347366,
+Q5279602,Diosdado Macapagal–Arroyo,father,Q46340,
+Q5279602,Diosdado Macapagal–Arroyo,mother,Q123665,
+Q5279602,Diosdado Macapagal–Arroyo,sibling,Q1858359,
+Q5335744,Edcel Lagman,sibling,Q107426232,
+Q5335744,Edcel Lagman,sibling,Q5448378,
+Q555481,Francisco Tatad,relative,Q7487138,
+Q555499,Ralph Recto,child,Q3546728,
+Q555499,Ralph Recto,spouse,Q2197580,
+Q5562939,Gina de Venecia,spouse,Q975642,
+Q561797,Manny Villar,child,Q17371175,
+Q561797,Manny Villar,child,Q66777135,
+Q561797,Manny Villar,spouse,Q2192916,
+Q57067691,Francis Gerald A. Abaya,father,Q12969523,
+Q57067691,Francis Gerald A. Abaya,sibling,Q6282903,
+Q5741535,Hermilando Mandanas,spouse,Q16735147,
+Q59513321,Gil P. Acosta,child,Q66776949,
+Q59514714,Rodolfo T. Albano III,father,Q12970075,
+Q59514714,Rodolfo T. Albano III,sibling,Q66776953,
+Q59514714,Rodolfo T. Albano III,spouse,Q12968454,
+Q59515565,Isagani S. Amatong,sibling,Q104767262,
+Q59515565,Isagani S. Amatong,sibling,Q4596779,
+Q59515565,Isagani S. Amatong,sibling,Q96065694,
+Q5969936,Lani Mercado,spouse,Q919045,
+Q6081353,Isko Moreno,child,Q97255259,
+Q6081353,Isko Moreno,mother,Q12970142,
+Q6081353,Isko Moreno,spouse,Q110278671,
+Q6282903,Joseph Emilio Abaya,father,Q12969523,
+Q6282903,Joseph Emilio Abaya,mother,Q107287635,
+Q6282903,Joseph Emilio Abaya,sibling,Q57067691,
+Q6487031,Lani Cayetano,spouse,Q471883,
+Q65932997,Ryan Luis Singson,father,Q2399446,
+Q65932997,Ryan Luis Singson,sibling,Q7365285,
+Q65936017,Amado Espino III,father,Q452102,
+Q66372258,Matthew Manotoc,father,Q7819657,
+Q66372258,Matthew Manotoc,mother,Q2208719,
+Q66372258,Matthew Manotoc,relative,Q1463,
+Q66391776,Yevgeny Emano,father,Q16105611,
+Q66776947,Maria Fe Abunda,sibling,Q4952054,
+Q66776948,Resurreccion Acop,spouse,Q7363071,
+Q66776949,Gil A. Acosta,father,Q59513321,
+Q66776953,Antonio Albano,father,Q12970075,
+Q66776953,Antonio Albano,sibling,Q59514714,
+Q66776954,Samantha Louise Vargas Alfonso,mother,Q66827054,
+Q66776958,Ma. Lourdes Arroyo,sibling,Q46340,
+Q66776958,Ma. Lourdes Arroyo,sibling,Q5991683,
+Q66776964,Angelo Marcos Barba,mother,Q104027096,
+Q66776985,Mercedes Cagas,child,Q12967700,
+Q66776985,Mercedes Cagas,spouse,Q12963488,
+Q66777013,Ian Paul Dy,father,Q12968534,
+Q66777082,Enrico Pineda,child,Q5381517,
+Q66777096,Janice Salimbangon,spouse,Q4887876,
+Q66777108,Aleta Suarez,child,Q24572501,
+Q66777108,Aleta Suarez,spouse,Q17371295,
+Q66777135,Camille Villar,father,Q561797,
+Q66777135,Camille Villar,mother,Q2192916,
+Q66777136,Anna Marie Villaraza-Suarez,spouse,Q24572501,
+Q6678907,Lord Allan Jay Velasco,father,Q7240707,
+Q6678907,Lord Allan Jay Velasco,mother,Q66905332,
+Q6678907,Lord Allan Jay Velasco,sibling,Q66809893,
+Q66793736,Tomas Joson III,child,Q97664639,
+Q66793736,Tomas Joson III,sibling,Q5340712,
+Q66809893,Tricia Nicole Velasco-Catera,father,Q7240707,
+Q66809893,Tricia Nicole Velasco-Catera,mother,Q66905332,
+Q66809893,Tricia Nicole Velasco-Catera,sibling,Q6678907,
+Q66827054,Baby Aline Vargas-Alfonso,child,Q66776954,
+Q66827054,Baby Aline Vargas-Alfonso,father,Q2161827,
+Q66905332,Lorna Velasco,child,Q6678907,
+Q66905332,Lorna Velasco,child,Q66809893,
+Q66905332,Lorna Velasco,spouse,Q7240707,
+Q6701032,Luis Raymond Villafuerte,child,Q16232995,
+Q6701032,Luis Raymond Villafuerte,father,Q6701198,
+Q6701032,Luis Raymond Villafuerte,mother,Q25663214,
+Q6701198,Luis Villafuerte,child,Q6701032,
+Q6701198,Luis Villafuerte,spouse,Q25663214,
+Q6761357,Leni Robredo,father,Q24680539,
+Q6761357,Leni Robredo,spouse,Q716649,
+Q6933350,Mujiv Hataman,spouse,Q16886227,
+Q6962562,Nancy Binay,father,Q380154,
+Q6962562,Nancy Binay,mother,Q5359194,
+Q6962562,Nancy Binay,sibling,Q12967692,
+Q6962562,Nancy Binay,sibling,Q6176547,
+Q7121657,Pablo John Garcia,sibling,Q2720262,
+Q716649,Jesse Robredo,spouse,Q6761357,
+Q7240707,"Presbitero Velasco, Jr.",child,Q6678907,
+Q7240707,"Presbitero Velasco, Jr.",child,Q66809893,
+Q7240707,"Presbitero Velasco, Jr.",spouse,Q66905332,
+Q7289865,"Ramon Revilla, Sr.",child,Q3550636,
+Q7289865,"Ramon Revilla, Sr.",child,Q7288569,
+Q7289865,"Ramon Revilla, Sr.",child,Q919045,
+Q7351859,Roberto Puno,father,Q15634561,
+Q7351859,Roberto Puno,sibling,Q5295761,
+Q7351859,Roberto Puno,sibling,Q983326,
+Q7363071,Romeo Acop,spouse,Q66776948,
+Q7363162,Miro Quimbo,spouse,Q104082108,
+Q7363244,Rommel Amatong,father,Q4596779,
+Q7365285,Ronald Singson,father,Q2399446,
+Q7365285,Ronald Singson,sibling,Q65932997,
+Q7701087,"Teodoro Locsin, Jr.",father,Q16015004,
+Q919045,Bong Revilla,child,Q16231907,
+Q919045,Bong Revilla,father,Q7289865,
+Q919045,Bong Revilla,spouse,Q5969936,
+Q96105894,Weslie Gatchalian,sibling,Q2606208,
+Q96105894,Weslie Gatchalian,sibling,Q7319383,
+Q975642,Jose de Venecia,spouse,Q5562939,
+Q983307,Francis Escudero,father,Q2718322,
+Q983307,Francis Escudero,spouse,Q2289801,
+Q983315,Tito Sotto,child,Q3543965,
+Q983315,Tito Sotto,child,Q66312141,
+Q983315,Tito Sotto,sibling,Q3543507,
+Q983315,Tito Sotto,sibling,Q7909153,
+Q983315,Tito Sotto,sibling,Q97613733,
+Q983315,Tito Sotto,spouse,Q10971495,
+Q983317,Teofisto Guingona Jr.,child,Q3550710,
+Q983324,Bongbong Marcos,father,Q1463,
+Q983324,Bongbong Marcos,mother,Q285536,
+Q983324,Bongbong Marcos,sibling,Q2208719,
+Q983324,Bongbong Marcos,sibling,Q6069124,
+Q983326,Ronaldo Puno,father,Q15634561,
+Q983326,Ronaldo Puno,sibling,Q5295761,
+Q983326,Ronaldo Puno,sibling,Q7351859,
+Q984265,Francis Pangilinan,spouse,Q466942,
+Q99644529,Faustino G. Dy III,father,Q4859261,
+Q99644529,Faustino G. Dy III,relative,Q15992762,
