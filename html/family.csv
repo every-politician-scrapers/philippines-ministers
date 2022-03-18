@@ -17,6 +17,7 @@ Q12962523,Charlie Cojuangco,father,Q2191695,"Eduardo Cojuangco, Jr."
 Q12962523,Charlie Cojuangco,mother,Q107070439,Gretchen Oppen Cojuangco
 Q12962523,Charlie Cojuangco,spouse,Q59484383,China Jocson
 Q12962523,Charlie Cojuangco,spouse,Q7335189,Rio Diaz
+Q12963050,Czarina Umali,spouse,Q17371328,Aurelio Umali
 Q12963488,Douglas Cagas,child,Q12967700,Marc Douglas Cagas IV
 Q12963488,Douglas Cagas,spouse,Q66776985,Mercedes Cagas
 Q12963710,Enrique Cojuangco,sibling,Q2191695,"Eduardo Cojuangco, Jr."
@@ -88,6 +89,7 @@ Q17371261,Martin Romualdez,father,Q2058081,Benjamin Romualdez
 Q17371261,Martin Romualdez,spouse,Q20582527,Yedda Marie Romualdez
 Q17371295,Danilo Suarez,child,Q24572501,David C. Suarez
 Q17371295,Danilo Suarez,spouse,Q66777108,Aleta Suarez
+Q17371328,Aurelio Umali,spouse,Q12963050,Czarina Umali
 Q1858359,Mikey Arroyo,father,Q46340,Jose Miguel Arroyo
 Q1858359,Mikey Arroyo,mother,Q123665,Gloria Macapagal Arroyo
 Q1858359,Mikey Arroyo,sibling,Q5279602,Diosdado Macapagal–Arroyo
@@ -164,8 +166,8 @@ Q285536,Imelda Marcos,child,Q2208719,Imee Marcos
 Q285536,Imelda Marcos,child,Q56690518,Aimee Marcos
 Q285536,Imelda Marcos,child,Q6069124,Irene Marcos-Araneta
 Q285536,Imelda Marcos,child,Q983324,Bongbong Marcos
-Q285536,Imelda Marcos,father,Q56668933,Vicente Orestes Romualdez
-Q285536,Imelda Marcos,mother,Q7311603,Remedios T. Romualdez
+Q285536,Imelda Marcos,father,Q56668933,Vicente Romuáldez
+Q285536,Imelda Marcos,mother,Q7311603,Remedios Romuáldez
 Q285536,Imelda Marcos,sibling,Q2058081,Benjamin Romualdez
 Q285536,Imelda Marcos,spouse,Q1463,Ferdinand Marcos
 Q28925129,Enrique Manalo,mother,Q7367400,Rosario Manalo
