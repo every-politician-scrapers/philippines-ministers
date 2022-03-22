@@ -68,3 +68,10 @@
   "website": "president.gov.ph",
   "signature": "Rodrigo Duterte signature.svg"
 }
+{
+  "name": "Rodrigo Roa Duterte",
+  "image": "Seal of the President of the Philippines.svg",
+  "dipstyle": "President Duterte, His Excellency (rarely used)",
+  "offstyle": "Your Excellency (rarely used)",
+  "altstyle": "Mr. President, President Mayor"
+}
