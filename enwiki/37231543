@@ -13,7 +13,6 @@
 {
   "honorific-prefix": "Her Excellency",
   "name": "Leni Robredo",
-  "image": "Leni Robredo Portrait.png",
   "office1": "14th Vice President of the Philippines",
   "president1": "Rodrigo Duterte",
   "term_start1": "June 30, 2016",
@@ -49,7 +48,6 @@
 }
 {
   "name": "Leni Robredo",
-  "image": "Seal of the Vice President of the Republic of the Philippines.svg",
   "dipstyle": "Her Excellency",
   "offstyle": "Your Excellency",
   "altstyle": "Madame Vice President"
