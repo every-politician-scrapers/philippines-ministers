@@ -1,57 +1,14 @@
 @@,itemlabel,item,startdate,enddate
-+++,Jose Alejandrino,Q2447716,1898-06-23,1899-01-21
-+++,Graciano Gonzaga,,1899-01-21,1899-05-07
-+++,León María Guerrero,Q3549074,1899-05-07,1899-11-13
-+++,Galicano Apacible,Q3707493,1917,1921
-+++,Rafael Corpus,Q7282088,1921,1923
-+++,Silvestre Apostol,,1923,1928
-+++,"Rafael Alunan, Sr.",,1928,1932
-+++,"Rafael Alunan, Sr.",,1932,1932
-+++,Vicente Singson Encarnacion,,1933,1934
-+++,Eulogio Rodriguez,Q1373883,1934-07-26,1935-11-15
-+++,Eulogio Rodriguez,Q1373883,1935-11-15,1938
-+++,"Benigno Aquino, Sr.",Q817304,1938,1941
-+++,"Rafael Alunan, Sr.",,1941,1941
-+++,José Abad Santos,Q3270447,1941-12-26,1942-03-26
-+++,"Rafael Alunan, Sr.",,1942-01-23,1943-10-14
-+++,"Andrés Soriano, Sr.",Q4760271,1942-03-26,1944-07-31
-+++,"Rafael Alunan, Sr.",,1943-10-14,1945-03-20
-+++,Manuel Nieto,,1944-08-08,1945-02-27
-+++,Delfin Jaranilla,Q16009297,1945-02-27,1945-07-12
-+++,Vicente Singson Encarnacion,,1945-07-12,1946
-+++,Mariano Garchitorena,Q6762354,1946-05-28,1947
-+++,Mariano Garchitorena,Q6762354,1947,1948-04-15
-+++,Mariano Garchitorena,Q6762354,1948-04-15,1948-09
-+++,Placido L. Mapa,,1948-09-21,1950
-+++,Fernando Lopez,Q1302327,1950-12-14,1953
-+++,Placido L. Mapa,,1953,1953
-+++,Salvador Z. Araneta,Q2126461,1954-03-10,1955
-+++,Juan G. Rodriguez,,1956-04-12,1957-03-17
-+++,Juan G. Rodriguez,,1957-03-18,1960-08
-+++,Cesar Fortich,,1960,1961
-+++,Jose C. Locsin,Q6279424,1961-09,1961-12-30
-+++,Jose C. Locsin,Q6279424,1961-12-30,1962
-+++,Benjamin M. Gozon,,1962,1963
-+++,Jose Y. Feliciano,,1963,1965
-+++,Fernando Lopez,Q1302327,1965-12-30,1971
-->,"Arturo Tanco->Arturo R. Tanco, Jr",Q715556->NULL,1971,1984-06->1974-05-17
-+++,"Arturo R. Tanco, Jr.",,1974-05-17,1978-06
-+++,"Arturo R. Tanco, Jr.",,1978-06,1981-06-30
-+++,"Arturo R. Tanco, Jr.",,1981-06-30,1984-06
-+++,Salvador H. Escudero III,Q2718322,1984,1986
-+++,"Ramon V. Mitra, Jr.",Q638944,1986-03-25,1987-03-09
 ->,Carlos Dominguez III,Q25350470,1987-03-09,1989-12-31->1989
-->,Senen C. Bacani,Q110915055->NULL,1990,1992-06-30
 ->,Roberto Sebastian->Roberto S. Sebastian,Q7351900,1992-06-30,1996-01-31
 ->,Salvador Escudero->Salvador H. Escudero III,Q2718322,1996-02-01,1998-06-30
 ->,William Dar->William D. Dar,Q8007583,1998-06-30,1999-05-24
-->,Domingo Panganiban->Domingo F. Panganiban,Q1237494->NULL,2001-01-08,2001-02-11->2001-01-20
+->,Domingo Panganiban->Domingo F. Panganiban,Q1237494,2001-01-08,2001-02-11->2001-01-20
 +++,Domingo F. Panganiban,,2001-01-20,2001-02-11
-->,Leonardo Montemayor->Leonardo Q. Montemayor,Q12967208->NULL,2001-02-12,2002-12-08
-->,"Luis P. Lorenzo, Jr->Luis P. Lorenzo, Jr.",Q110915059->NULL,2002-12-09,2004-08-15
+->,Leonardo Montemayor->Leonardo Q. Montemayor,Q12967208,2001-02-12,2002-12-08
+->,"Luis P. Lorenzo, Jr->Luis P. Lorenzo, Jr.",Q110915059,2002-12-09,2004-08-15
 ->,Arthur Yap->Arthur C. Yap,Q712100,2004-08-23,2005-06-30
-->,Domingo Panganiban->Domingo F. Panganiban,Q1237494->NULL,2005-07-16,2006-10-25
+->,Domingo Panganiban->Domingo F. Panganiban,Q1237494,2005-07-16,2006-10-25
 ->,Arthur Yap->Arthur C. Yap,Q712100,2006-10-25,2010-02-24
-->,Bernie Fondevilla,Q110915061->NULL,2010-03-08,2010-06-30
 ->,Manny Piñol->Emmanuel Piñol,Q24852423,2016-06-30,2019-08-05
 ->,William Dar->William D. Dar,Q8007583,2019-08-05,
