@@ -18,8 +18,8 @@ class OfficeholderList < OfficeholderListBase
       %w[no name start end].freeze
     end
 
-    def empty?
-      tds.map(&:text).uniq.count == 1
+    def ignore_before
+      1998
     end
   end
 end
