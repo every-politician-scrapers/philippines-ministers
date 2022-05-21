@@ -178,6 +178,10 @@ Q3135561,Grace Poe,sibling,Q3358903,Lovi Poe
 Q3183552,Manuel Ortega,child,Q17371074,Francisco Ortega III
 Q3303072,Herminia Roman,child,Q24250858,Geraldine Roman
 Q3303072,Herminia Roman,spouse,Q15614280,Antonino P. Roman
+Q3550636,Strike Revilla,father,Q7289865,"Ramon Revilla, Sr."
+Q3550636,Strike Revilla,sibling,Q112077146,Rowena Bautista-Mendiola
+Q3550636,Strike Revilla,sibling,Q112077167,Princess Revilla
+Q3550636,Strike Revilla,sibling,Q919045,Bong Revilla
 Q3720363,Rene Cayetano,child,Q19960435,Lino Cayetano
 Q3720363,Rene Cayetano,child,Q442998,Pia Cayetano
 Q3720363,Rene Cayetano,child,Q471883,Alan Peter Cayetano
@@ -247,6 +251,8 @@ Q59514714,Rodolfo T. Albano III,spouse,Q12968454,Mylene Garcia-Albano
 Q59515565,Isagani S. Amatong,sibling,Q104767262,Ernesto Amatong
 Q59515565,Isagani S. Amatong,sibling,Q4596779,Prospero Amatong
 Q59515565,Isagani S. Amatong,sibling,Q96065694,Jacobo Amatong
+Q5969936,Lani Mercado,child,Q112077127,Ram Revilla
+Q5969936,Lani Mercado,child,Q16231907,Jolo Revilla
 Q5969936,Lani Mercado,spouse,Q919045,Bong Revilla
 Q6081353,Isko Moreno,child,Q97255259,Joaquin Domagoso
 Q6081353,Isko Moreno,mother,Q12970142,Rosario Moreno
@@ -316,6 +322,8 @@ Q716649,Jesse Robredo,spouse,Q6761357,Leni Robredo
 Q7240707,"Presbitero Velasco, Jr.",child,Q6678907,Lord Allan Jay Velasco
 Q7240707,"Presbitero Velasco, Jr.",child,Q66809893,Tricia Nicole Velasco-Catera
 Q7240707,"Presbitero Velasco, Jr.",spouse,Q66905332,Lorna Velasco
+Q7289865,"Ramon Revilla, Sr.",child,Q112077146,Rowena Bautista-Mendiola
+Q7289865,"Ramon Revilla, Sr.",child,Q112077167,Princess Revilla
 Q7289865,"Ramon Revilla, Sr.",child,Q3550636,Strike Revilla
 Q7289865,"Ramon Revilla, Sr.",child,Q7288569,Ram Revilla
 Q7289865,"Ramon Revilla, Sr.",child,Q919045,Bong Revilla
@@ -328,8 +336,11 @@ Q7363244,Rommel Amatong,father,Q4596779,Prospero Amatong
 Q7365285,Ronald Singson,father,Q2399446,Chavit Singson
 Q7365285,Ronald Singson,sibling,Q65932997,Ryan Luis Singson
 Q7701087,"Teodoro Locsin, Jr.",father,Q16015004,"Teodoro Locsín, Sr."
+Q919045,Bong Revilla,child,Q112077127,Ram Revilla
 Q919045,Bong Revilla,child,Q16231907,Jolo Revilla
 Q919045,Bong Revilla,father,Q7289865,"Ramon Revilla, Sr."
+Q919045,Bong Revilla,sibling,Q112077167,Princess Revilla
+Q919045,Bong Revilla,sibling,Q3550636,Strike Revilla
 Q919045,Bong Revilla,spouse,Q5969936,Lani Mercado
 Q96105894,Weslie Gatchalian,sibling,Q2606208,Sherwin Gatchalian
 Q96105894,Weslie Gatchalian,sibling,Q7319383,Rexlon Gatchalian
