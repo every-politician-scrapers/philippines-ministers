@@ -132,7 +132,7 @@ Q2208719,Imee Marcos,child,Q66372258,Matthew Manotoc
 Q2208719,Imee Marcos,father,Q1463,Ferdinand Marcos
 Q2208719,Imee Marcos,mother,Q285536,Imelda Marcos
 Q2208719,Imee Marcos,sibling,Q6069124,Irene Marcos-Araneta
-Q2208719,Imee Marcos,sibling,Q983324,Bongbong Marcos
+Q2208719,Imee Marcos,sibling,Q983324,Human Rights Violator
 Q2208719,Imee Marcos,spouse,Q7819657,Tommy Manotoc
 Q2330049,Michael Marcos Keon,father,Q16017450,Michael Keon
 Q2330049,Michael Marcos Keon,mother,Q104026493,Elizabeth Marcos
@@ -165,7 +165,7 @@ Q2720262,Gwendolyn Garcia,sibling,Q7121657,Pablo John Garcia
 Q285536,Imelda Marcos,child,Q2208719,Imee Marcos
 Q285536,Imelda Marcos,child,Q56690518,Aimee Marcos
 Q285536,Imelda Marcos,child,Q6069124,Irene Marcos-Araneta
-Q285536,Imelda Marcos,child,Q983324,Bongbong Marcos
+Q285536,Imelda Marcos,child,Q983324,Human Rights Violator
 Q285536,Imelda Marcos,father,Q56668933,Vicente Romuáldez
 Q285536,Imelda Marcos,mother,Q7311603,Remedios Romuáldez
 Q285536,Imelda Marcos,sibling,Q2058081,Benjamin Romualdez
@@ -354,11 +354,11 @@ Q983315,Tito Sotto,sibling,Q7909153,Val Sotto
 Q983315,Tito Sotto,sibling,Q97613733,Maru Sotto
 Q983315,Tito Sotto,spouse,Q10971495,Helen Gamboa
 Q983317,Teofisto Guingona Jr.,child,Q3550710,Teofisto Guingona III
-Q983324,Bongbong Marcos,father,Q1463,Ferdinand Marcos
-Q983324,Bongbong Marcos,mother,Q285536,Imelda Marcos
-Q983324,Bongbong Marcos,sibling,Q2208719,Imee Marcos
-Q983324,Bongbong Marcos,sibling,Q6069124,Irene Marcos-Araneta
-Q983324,Bongbong Marcos,spouse,Q35283279,Liza Marcos
+Q983324,Human Rights Violator,father,Q1463,Ferdinand Marcos
+Q983324,Human Rights Violator,mother,Q285536,Imelda Marcos
+Q983324,Human Rights Violator,sibling,Q2208719,Imee Marcos
+Q983324,Human Rights Violator,sibling,Q6069124,Irene Marcos-Araneta
+Q983324,Human Rights Violator,spouse,Q35283279,Liza Marcos
 Q983326,Ronaldo Puno,father,Q15634561,Ricardo C. Puno
 Q983326,Ronaldo Puno,sibling,Q5295761,Dong Puno
 Q983326,Ronaldo Puno,sibling,Q7351859,Roberto Puno
