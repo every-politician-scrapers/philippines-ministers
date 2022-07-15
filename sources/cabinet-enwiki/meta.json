@@ -1,0 +1,14 @@
+{
+    "jurisdiction": {
+      "name": "The Philippines",
+      "id": "Q928"
+    },
+    "cabinet": {
+      "id": "Q106978258",
+      "start": "2016-06-30",
+      "parent": "Q3409762"
+    },
+    "source": {
+        "url":   "https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines"
+    }
+}
