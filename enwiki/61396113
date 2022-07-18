@@ -6,7 +6,9 @@
   "1blankname": "Vice Governor",
   "1namedata": "Reynaldo San Juan Jr.",
   "term_start": "June 30, 2013",
+  "term_end": "June 30, 2022",
   "predecessor": "Casimiro Ynares III",
+  "successor": "Nina Ynares",
   "1blankname1": "Vice Governor",
   "1namedata1": "Jovita Rodriguez",
   "term_start1": "June 30, 2001",
@@ -18,9 +20,11 @@
   "term_end2": "June 30, 2001",
   "birth_name": "Rebecca Alcantara",
   "birth_date": "September 26, 1949",
+  "birth_place": "Taytay, Rizal, Philippines",
   "nationality": "Filipino",
   "party": "Nationalist People's Coalition",
-  "children": "Nina Ynares Casimiro Ynares III Mia Ynares",
-  "alma_mater": "Saint Paul College",
+  "children": "Nina Ricci Ynares Casimiro Ynares III Mia Ynares",
+  "residence": "Binangonan",
+  "alma_mater": "Saint Paul College (BS)",
   "spouse": "Casimiro Ynares Jr."
 }
