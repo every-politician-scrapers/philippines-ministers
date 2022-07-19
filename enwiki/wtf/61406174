@@ -1,0 +1,199 @@
+{
+  "title": "Joseph Cua",
+  "pageID": 61406174,
+  "categories": [
+    "Living people",
+    "Governors of Catanduanes",
+    "1962 births",
+    "United Nationalist Alliance politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Joseph Chua Cua (born October 16, 1962) is a Filipino politician from the province of Catanduanes, Philippines.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Catanduanes"
+                },
+                {
+                  "type": "internal",
+                  "page": "Philippines"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Joseph Chua Cua"
+                ]
+              }
+            },
+            {
+              "text": "He currently serves as a Governor of Catanduanes."
+            },
+            {
+              "text": "He was first elected as Governor of the province in 2007 and he was re-elected in the 2010, 2016, and 2019 elections."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Filipino politician",
+          "template": "short description"
+        },
+        {
+          "year": "1962",
+          "month": "10",
+          "day": "16",
+          "template": "birth date and age"
+        },
+        {
+          "template": "phi"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "text": "The Honorable",
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Joseph Cua"
+          },
+          "image": {
+            "text": "Governor Joseph Cua - 2018 (cropped).jpg"
+          },
+          "image_size": {
+            "text": "220PX"
+          },
+          "office": {
+            "text": "Governor of Catanduanes",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Catanduanes"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 30, 2016"
+          },
+          "1blankname": {
+            "text": "Vice Governor"
+          },
+          "1namedata": {
+            "text": "Shirley Abundo"
+          },
+          "predecessor": {
+            "text": "Araceli Wong"
+          },
+          "term_start2": {
+            "text": "June 30, 2007"
+          },
+          "term_end2": {
+            "text": "June 30, 2013"
+          },
+          "predecessor2": {
+            "text": "Leandro Verceles Jr."
+          },
+          "successor2": {
+            "text": "Araceli Wong"
+          },
+          "birth_date": {
+            "text": "October 16, 1962"
+          },
+          "birth_place": {
+            "text": "Calolbon, Catanduanes, Philippines",
+            "links": [
+              {
+                "text": "Calolbon, Catanduanes",
+                "type": "internal",
+                "page": "San Andres, Catanduanes"
+              },
+              {
+                "type": "internal",
+                "page": "Philippines"
+              }
+            ]
+          },
+          "party": {
+            "text": "United Nationalist Alliance",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United Nationalist Alliance"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://bicol.politics.com.ph/2019/05/16/killed-many-times-in-politics-catanduanes-gov-cua-reelected/",
+          "title": "‘Killed’ many times in politics: Catanduanes Gov. Cua reelected",
+          "date": "16 May 2019",
+          "website": "Bicol Politics",
+          "access-date": "2019-07-31",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "philippines-politician-stub"
+        },
+        {
+          "template": "current philippine governors"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Province of Catanduanes Official Website",
+            "links": [
+              {
+                "text": "Province of Catanduanes",
+                "type": "external",
+                "site": "https://catanduanes.gov.ph/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

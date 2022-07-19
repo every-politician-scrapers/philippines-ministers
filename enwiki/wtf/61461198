@@ -1,0 +1,214 @@
+{
+  "title": "Melchor Diclas",
+  "pageID": 61461198,
+  "categories": [
+    "Living people",
+    "People from Benguet",
+    "Governors of Benguet",
+    "PDP–Laban politicians",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Melchor Diclas is a Filipino politician from the province of Benguet in the Philippines.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Benguet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Philippines"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Melchor Diclas"
+                ]
+              }
+            },
+            {
+              "text": "He currently serves as the Governor of Benguet."
+            },
+            {
+              "text": "A physician by profession, he was first elected as Governor of the province in 2019."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Filipino politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "text": "The Honorable",
+                "type": "internal",
+                "page": "Honorable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Melchor Diclas"
+          },
+          "image": {
+            "text": "Governor Diclas of Benguet (cropped).jpg"
+          },
+          "office": {
+            "text": "Governor of Benguet"
+          },
+          "term_start": {
+            "text": "June 30, 2019"
+          },
+          "predecessor": {
+            "text": "Crescencio Pacalso"
+          },
+          "office2": {
+            "text": "Mayor of Buguias",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Buguias"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2016",
+            "number": 2016
+          },
+          "term_end2": {
+            "text": "2019",
+            "number": 2019
+          },
+          "birth_place": {
+            "text": "Benguet, Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Benguet"
+              },
+              {
+                "type": "internal",
+                "page": "Philippines"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Filipino",
+            "links": [
+              {
+                "text": "Filipino",
+                "type": "internal",
+                "page": "Filipino people"
+              }
+            ]
+          },
+          "party": {
+            "text": "PDP–Laban",
+            "links": [
+              {
+                "type": "internal",
+                "page": "PDP–Laban"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Medical practitioner, general surgeon",
+            "links": [
+              {
+                "text": "surgeon",
+                "type": "internal",
+                "page": "surgeon"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://pia.gov.ph/news/articles/1022072",
+          "title": "Newly elected provincial officials in Cordillera proclaimed",
+          "date": "May 17, 2019",
+          "author": "Redjie Melvic Cawis",
+          "website": "pia.gov.ph",
+          "language": "en",
+          "access-date": "2019-08-07",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.sunstar.com.ph//article/1805714",
+          "title": "PDP-Laban bets oust incumbents, take top Benguet posts",
+          "last": "Alimondo",
+          "first": "Lauren",
+          "date": "2019-05-15",
+          "website": "Sunstar",
+          "language": "English",
+          "access-date": "2019-08-07",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://baguiomidlandcourier.com.ph/health.asp?mode=archives/2019/may/5-26-2019/health3-New-guv-eyes-expansion.txt",
+          "title": "Baguio Midland Courier Website",
+          "website": "baguiomidlandcourier.com.ph",
+          "access-date": "2019-08-07",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "current philippine governors"
+        },
+        {
+          "template": "philippines-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Province of Benguet Official Website",
+            "links": [
+              {
+                "text": "Province of Benguet",
+                "type": "external",
+                "site": "http://www.benguet.gov.ph"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

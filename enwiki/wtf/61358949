@@ -1,0 +1,188 @@
+{
+  "title": "Marilou Cayco",
+  "pageID": 61358949,
+  "categories": [
+    "Living people",
+    "21st-century Filipino politicians",
+    "Governors of Batanes",
+    "Liberal Party (Philippines) politicians",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Marilou Cayco is a Filipina politician from Batanes island in the Philippines, and currently the Governor of Batanes.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Batanes"
+                },
+                {
+                  "type": "internal",
+                  "page": "Philippines"
+                },
+                {
+                  "type": "internal",
+                  "page": "Governor"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Marilou Cayco"
+                ]
+              }
+            },
+            {
+              "text": "She has been elected two terms as Governor of Batanes."
+            },
+            {
+              "text": "She first won election to Governor in 2016 and was re-elected in 2019."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Filipino politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "text": "The Honorable",
+                "type": "internal",
+                "page": "Honorable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Marilou Cayco"
+          },
+          "image": {
+            "text": "Governor Cayco LPP Official Portrait.jpg"
+          },
+          "office": {
+            "text": "Governor of Batanes",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Batanes"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 30, 2016"
+          },
+          "predecessor": {
+            "text": "Vicente Gato"
+          },
+          "birth_place": {
+            "text": "Batanes, Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Batanes"
+              },
+              {
+                "type": "internal",
+                "page": "Philippines"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Filipina",
+            "links": [
+              {
+                "text": "Filipina",
+                "type": "internal",
+                "page": "Filipino people"
+              }
+            ]
+          },
+          "party": {
+            "text": "Liberal",
+            "links": [
+              {
+                "text": "Liberal",
+                "type": "internal",
+                "page": "Liberal Party (Philippines)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.arellano.edu.ph/news-and-articles/gov-marilou-h-cayco-wins-2nd-term-ease",
+          "title": "MARILOU H. CAYCO WINS 2ND TERM",
+          "date": "27 May 2019",
+          "website": "Arellano University",
+          "access-date": "25 July 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://pia.gov.ph/news/articles/1000402",
+          "title": "PLGU Batanes to strictly monitor quarrying activities",
+          "date": "23 September 2017",
+          "website": "Philippine Information Agency",
+          "access-date": "25 July 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "current philippine governors"
+        },
+        {
+          "template": "philippines-politician-stub"
+        },
+        {
+          "template": "philippines-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Province of Batanes Official Website",
+            "links": [
+              {
+                "text": "Province of Batanes",
+                "type": "external",
+                "site": "http://www.batanes.gov.ph/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

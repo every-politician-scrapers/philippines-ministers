@@ -1,0 +1,879 @@
+{
+  "title": "Menardo Guevarra",
+  "pageID": 61454100,
+  "categories": [
+    "1954 births",
+    "20th-century Filipino lawyers",
+    "Living people",
+    "Secretaries of Justice of the Philippines",
+    "Duterte Administration cabinet members",
+    "Benigno Aquino III Administration personnel",
+    "People from Meycauayan",
+    "Ateneo de Manila University faculty",
+    "Ateneo de Manila University alumni",
+    "University of the Philippines Diliman alumni",
+    "21st-century Filipino lawyers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Menardo \"Boy\" Ilasco Guevarra (born May 23, 1954) is a Filipino lawyer and public servant who is the incumbent Solicitor General of the Philippines under the Marcos administration since 2022.",
+              "links": [
+                {
+                  "text": "Filipino",
+                  "type": "internal",
+                  "page": "Filipino people"
+                },
+                {
+                  "type": "internal",
+                  "page": "Solicitor General of the Philippines"
+                },
+                {
+                  "text": "Marcos administration",
+                  "type": "internal",
+                  "page": "Presidency of Bongbong Marcos"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Menardo \"Boy\" Ilasco Guevarra"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as the Secretary of Justice and deputy executive secretary under the Duterte and Aquino administrations.",
+              "links": [
+                {
+                  "text": "Secretary of Justice",
+                  "type": "internal",
+                  "page": "Secretary of Justice (Philippines)"
+                },
+                {
+                  "text": "Duterte",
+                  "type": "internal",
+                  "page": "Presidency of Rodrigo Duterte"
+                },
+                {
+                  "text": "Aquino",
+                  "type": "internal",
+                  "page": "Presidency of Benigno Aquino III"
+                }
+              ]
+            },
+            {
+              "text": "Prior to his government stint, he was involved in private litigation practice as a founding partner of the Medialdea Ata Bello Guevarra & Suarez law firm since 1990."
+            },
+            {
+              "text": "He was also an active faculty member at his alma mater Ateneo de Manila University, where he graduated in 1974.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ateneo de Manila University"
+                }
+              ]
+            },
+            {
+              "text": "Guevarra's appointment to the Justice portfolio was confirmed by the Commission on Appointments on May 30, 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Commission on Appointments"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "June 2022",
+          "template": "use mdy dates"
+        },
+        {
+          "list": [
+            "Ilasco",
+            "Guevarra"
+          ],
+          "template": "philippine name"
+        },
+        {
+          "year": "1954",
+          "month": "05",
+          "day": "23",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Menardo Guevarra"
+          },
+          "image": {
+            "text": "Menardo Guevarra 2018.jpg"
+          },
+          "office": {
+            "text": "Solicitor General of the Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Solicitor General of the Philippines"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 30, 2022"
+          },
+          "president": {
+            "text": "Bongbong Marcos",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bongbong Marcos"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Jose Calida",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jose Calida"
+              }
+            ]
+          },
+          "office1": {
+            "text": "59th Secretary of Justice",
+            "links": [
+              {
+                "text": "Secretary of Justice",
+                "type": "internal",
+                "page": "Secretary of Justice (Philippines)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "April 5, 2018"
+          },
+          "term_end1": {
+            "text": "June 30, 2022"
+          },
+          "president1": {
+            "text": "Rodrigo Duterte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rodrigo Duterte"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Vitaliano Aguirre II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vitaliano Aguirre II"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Jesus Crispin Remulla",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jesus Crispin Remulla"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Deputy Executive Secretary"
+          },
+          "successor2": {
+            "text": "Michael P. Ong"
+          },
+          "term_start2": {
+            "text": "June 30, 2016"
+          },
+          "term_end2": {
+            "text": "April 4, 2018"
+          },
+          "president2": {
+            "text": "Rodrigo Duterte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rodrigo Duterte"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Michael G. Aguinaldo"
+          },
+          "term_start3": {
+            "text": "May 27, 2015"
+          },
+          "term_end3": {
+            "text": "January 31, 2016"
+          },
+          "president3": {
+            "text": "Benigno Aquino III",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Benigno Aquino III"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Commissioner of the Philippine Competition Commission",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Philippine Competition Commission"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "February 1, 2016"
+          },
+          "term_end4": {
+            "text": "June 30, 2016"
+          },
+          "president4": {
+            "text": "Benigno Aquino III",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Benigno Aquino III"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Menardo Ilasco Guevarra"
+          },
+          "birth_date": {
+            "text": "May 23, 1954"
+          },
+          "birth_place": {
+            "text": "Meycauayan, Bulacan, Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Meycauayan"
+              },
+              {
+                "type": "internal",
+                "page": "Bulacan"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Filipino",
+            "links": [
+              {
+                "text": "Filipino",
+                "type": "internal",
+                "page": "Filipino people"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Lawyer, Professor, Civil Servant"
+          },
+          "alma_mater": {
+            "text": "Ateneo de Manila University (AB, LL.B) University of the Philippines Diliman (M.Econ)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ateneo de Manila University"
+              },
+              {
+                "text": "AB",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "text": "LL.B",
+                "type": "internal",
+                "page": "Bachelor of Laws"
+              },
+              {
+                "type": "internal",
+                "page": "University of the Philippines Diliman"
+              },
+              {
+                "text": "M.Econ",
+                "type": "internal",
+                "page": "Master of Economics"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.rappler.com/newsbreak/iq/199689-things-to-know-menardo-guevarra-justice-secretary",
+          "title": "Who is new justice chief Menardo Guevarra?",
+          "work": "Rappler",
+          "author": "Ranada, P.",
+          "date": "April 6, 2018",
+          "accessdate": "August 6, 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.doj.gov.ph/secretary-profile.html",
+          "title": "Secretary's Profile",
+          "publisher": "Department of Justice (Philippines)",
+          "accessdate": "August 6, 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.mabgslaw.com.ph/Site/partners/menardo-i-guevarra",
+          "title": "Partners",
+          "publisher": "MBS Law",
+          "accessdate": "August 6, 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://newsinfo.inquirer.net/995686/breaking-ca-confirms-guevarras-ad-interim-appointment-as-justice-secretary/amp",
+          "title": "CA confirms Guevarra’s ad interim appointment as justice secretary",
+          "work": "Philippine Daily Inquirer",
+          "author": "Ager, M.",
+          "date": "May 30, 2018",
+          "accessdate": "August 6, 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Guevarra was born on May 23, 1954, in Malhacan, Meycauayan, Bulacan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Meycauayan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bulacan"
+                }
+              ]
+            },
+            {
+              "text": "He attended Meycauayan College, formerly Meycauayan Institute, and completed his secondary education in 1970.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Meycauayan College"
+                }
+              ]
+            },
+            {
+              "text": "After high school, Guevarra moved to Manila to study at Ateneo de Manila University, where he where he majored in political science and graduated magna cum laude in 1974.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Manila"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ateneo de Manila University"
+                }
+              ]
+            },
+            {
+              "text": "He then enrolled at the University of the Philippines Diliman and completed his master's degree in economics in 1977.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of the Philippines Diliman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Guevarra then served as a staff economist at the National Economic and Development Authority and the Bangko Sentral ng Pilipinas while pursuing his law degree at the Ateneo de Manila Law School.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Economic and Development Authority"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bangko Sentral ng Pilipinas"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ateneo de Manila Law School"
+                }
+              ]
+            },
+            {
+              "text": "He obtained his LL.B. degree in 1985, graduating with Second Honors, and placed second in the Philippine Bar Examination in the same year.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Philippine Bar Examination"
+                }
+              ]
+            },
+            {
+              "text": "He also underwent an intensive practical training in Maritime and Admiralty law at the Steamship Mutual Underwriting Association (Bermuda) Limited in London, U.K. in 1999.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "London"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.cityofmeycauayanbulacan.gov.ph/resolution_ordinance/Resolution_1.pdf",
+          "title": "City Resolution No. 2018-050",
+          "publisher": "City Government of Meycauayan",
+          "accessdate": "April 6, 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://centralluzon.politics.com.ph/tubong-bulacan-eh-linabelle-villarica-hails-guevarras-appointment-as-doj-chief/",
+          "title": "Tubong Bulacan eh! Linabelle Villarica hails Guevarra’s appointment as DOJ chief",
+          "publisher": "Politiko",
+          "date": "June 23, 2018",
+          "accessdate": "August 6, 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.congress.gov.ph/legisdocs/basic_17/HR02026.pdf",
+          "title": "House Resolution No. 2026",
+          "publisher": "House of Representatives of the Philippines",
+          "accessdate": "August 6, 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gmanetwork.com/news/news/nation/649049/who-is-menardo-guevarra-duterte-s-next-secretary-of-justice/story/",
+          "title": "Duterte’s next secretary of justice?",
+          "work": "GMA News",
+          "date": "April 5, 2018",
+          "accessdate": "August 6, 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "Guevarra first worked as an economist after finishing his master's degree in economics in 1977."
+            },
+            {
+              "text": "He joined the National Economic and Development Authority in 1977 and served as a staff economist until 1983."
+            },
+            {
+              "text": "He was then hired by Bangko Sentral ng Pilipinas as a bank economist under its Department of Economic Research from 1983 to 1986."
+            },
+            {
+              "text": "Guevarra's first legal job was as part of the technical staff of the Philippine Constitutional Commission of 1986 hired by the government of President Corazon Aquino to draft the 1987 Constitution of the Philippines.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Philippine Constitutional Commission of 1986"
+                },
+                {
+                  "type": "internal",
+                  "page": "Corazon Aquino"
+                },
+                {
+                  "type": "internal",
+                  "page": "Constitution of the Philippines"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Guevarra started his private law practice as an associate of the Ponce Enrile Cayetano Bautista Picazo & Reyes (PECABAR) Law Offices in Makati in 1987.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Makati"
+                }
+              ]
+            },
+            {
+              "text": "In 1990, he formed his own law partnership firm based in Ortigas Center which would later be known as the Medialdea Ata Bello Guevarra & Suarez (MABGS) law offices, now simply Medialdea Bello Suarez (MBS).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ortigas Center"
+                }
+              ]
+            },
+            {
+              "text": "Since 1990, Guevarra had also been teaching at his alma mater Ateneo de Manila University as a member of the Law School faculty."
+            },
+            {
+              "text": "He taught a broad range of subjects, including Property, Civil Procedure and Evidence."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Guevarra's work as a private lawyer for more than thirty years involved thousands of cases concerning contract disputes, family and property relations, intra-corporate controversies, tax appeals, criminal actions, and legal representation in various regulatory agencies."
+            },
+            {
+              "text": "His clients included well-known personalities such as Sharon Cuneta and Rodrigo Duterte.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sharon Cuneta"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rodrigo Duterte"
+                }
+              ]
+            },
+            {
+              "text": "While teaching at the Ateneo Law School, he was also a lecturer in the Mandatory Continuing Legal Education (MCLE) program of the Supreme Court of the Philippines.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of the Philippines"
+                }
+              ]
+            },
+            {
+              "text": "He also served as Accredited Arbitraror of the Philippine Dispute Resolution Center, the arbitration arm of the Philippine Chamber of Commerce and Industry.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Philippine Chamber of Commerce and Industry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Guevarra returned to government service in September 2010 when he was appointed by President Benigno Aquino III to the five-member Philippine Truth Commission formed to investigate the alleged corruption scandals of the previous Gloria Macapagal Arroyo administration.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Benigno Aquino III"
+                },
+                {
+                  "type": "internal",
+                  "page": "Philippine Truth Commission"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gloria Macapagal Arroyo"
+                }
+              ]
+            },
+            {
+              "text": "The commission headed by former Chief Justice Hilario Davide Jr. was abolished in 2011 after the Supreme Court declared it as unconstitutional.",
+              "links": [
+                {
+                  "text": "Chief Justice",
+                  "type": "internal",
+                  "page": "Chief Justice of the Supreme Court of the Philippines"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hilario Davide Jr."
+                }
+              ]
+            },
+            {
+              "text": "Guevarra then assumed the position of deputy executive secretary for legal affairs under Aquino's executive secretary and his law school classmate Paquito Ochoa Jr. in May 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Paquito Ochoa Jr."
+                }
+              ]
+            },
+            {
+              "text": "He also served briefly as a commissioner of the Philippine Competition Commission in February 2016 until the end of Aquino's term in June 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Philippine Competition Commission"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As an Aquino appointee, Guevarra was also involved in the Philippines v. China arbitration case at the Permanent Court of Arbitration in The Hague, Netherlands as a member of the Philippine legal team.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Philippines v. China"
+                },
+                {
+                  "type": "internal",
+                  "page": "Permanent Court of Arbitration"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Hague"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Philippines v. China"
+                ]
+              }
+            },
+            {
+              "text": "He also sat briefly as an ex-officio member of the Judicial and Bar Council.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Judicial and Bar Council"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "ex-officio"
+                ]
+              }
+            },
+            {
+              "text": "On June 30, 2016, upon the assumption of Rodrigo Duterte as President of the Philippines, Guevarra returned to the deputy executive secretary portfolio under his former law partner Salvador Medialdea.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Salvador Medialdea"
+                }
+              ]
+            },
+            {
+              "text": "Concurrent to his executive department service, he also served in the board of trustees of the Development Academy of the Philippines and as representative of the office of the president in the board of directors of the Subic Bay Metropolitan Authority.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Subic Bay Metropolitan Authority"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Guevarra was appointed as ad interim Justice Secretary on April 5, 2018, replacing Vitaliano Aguirre II.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vitaliano Aguirre II"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "ad interim"
+                ]
+              }
+            },
+            {
+              "text": "In a speech before the employees of the Department of Justice on his first day at the department on April 16, 2018, Guevarra said it was his personal mission to \"restore the dignified and respectable image\" of the Justice department, after it was hounded by controversial cases under his predecessor."
+            },
+            {
+              "text": "His appointment was confirmed by the Commission on Appointments in May 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Commission on Appointments"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On June 17, 2022, President-elect Bongbong Marcos nominated Guevarra as the next Solicitor General.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bongbong Marcos"
+                },
+                {
+                  "text": "Solicitor General",
+                  "type": "internal",
+                  "page": "Solicitor General of the Philippines"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Justice_Secretary_Menardo_Guevarra_2019_(41502).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Justice_Secretary_Menardo_Guevarra_2019_(41502).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Justice_Secretary_Menardo_Guevarra_2019_(41502).jpg",
+          "caption": "Guevarra in 2019",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "url": "https://politics.com.ph/acting-little-president-is-a-celebrity-lawyer-too/",
+          "title": "Acting ‘little President’ is a celebrity lawyer too",
+          "publisher": "Politiko",
+          "date": "August 5, 2017",
+          "accessdate": "August 6, 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.rappler.com/newsbreak/flashback/141381-timeline-2010-truth-commission",
+          "title": "TIMELINE: The short-lived 2010 Truth Commission",
+          "work": "Rappler",
+          "author": "Santos, R.",
+          "date": "July 30, 2016",
+          "accessdate": "August 6, 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.philstar.com/headlines/2018/04/16/1806474/guevarra-i-will-restore-dojs-dignified-image",
+          "title": "Guevarra: I will restore DOJ's dignified image",
+          "work": "The Philippine Star",
+          "author": "Patag, K.J.",
+          "date": "April 16, 2018",
+          "accessdate": "August 6, 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://mb.com.ph/2022/06/17/the-marcoscabinet-menardo-guevarra-solicitor-general/",
+          "first": "E.",
+          "last": "Quismorio",
+          "title": "The #MarcosCabinet: Menardo Guevarra, solicitor general",
+          "work": "Manila Bulletin",
+          "date": "June 17, 2022",
+          "accessdate": "June 17, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.gmanetwork.com/news/news/nation/200651/composition-of-truth-body-is-finally-complete/story/",
+          "title": "Composition of truth body is finally complete",
+          "work": "GMA News",
+          "author": "Sisante, J.",
+          "date": "September 9, 2010",
+          "accessdate": "August 6, 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Vitaliano Aguirre II",
+          "template": "s-bef"
+        },
+        {
+          "title": "Secretary of Justice",
+          "years": "2018–2022",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Jesus Crispin Remulla",
+          "template": "s-aft"
+        },
+        {
+          "before": "Jose Calida",
+          "template": "s-bef"
+        },
+        {
+          "title": "Solicitor General of the Philippines",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-prec"
+        },
+        {
+          "before": "Vacant",
+          "as": "Presidential Spokesperson",
+          "template": "s-bef"
+        },
+        {
+          "title": "Order of Precedence of the Philippines as Solicitor General of the Philippines",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Juan Ponce Enrile",
+          "as": "Chief Presidential Legal Counsel",
+          "template": "s-aft"
+        },
+        {
+          "template": "bongbong marcos cabinet"
+        },
+        {
+          "template": "duterte cabinet"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,887 @@
+{
+  "title": "Leonor Briones",
+  "pageID": 31565430,
+  "categories": [
+    "1940 births",
+    "Filipino economists",
+    "Filipino civil servants",
+    "Living people",
+    "Secretaries of Education of the Philippines",
+    "Advisers to the President of the Philippines",
+    "University of the Philippines faculty",
+    "People from Negros Oriental",
+    "Silliman University alumni",
+    "University of the Philippines Diliman alumni",
+    "Duterte Administration cabinet members",
+    "Estrada Administration personnel",
+    "Women members of the Cabinet of the Philippines",
+    "20th-century Filipino women politicians",
+    "20th-century Filipino politicians",
+    "21st-century Filipino women politicians",
+    "21st-century Filipino politicians",
+    "Harvard Institute for International Development"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leonor \"Liling\" Mirasol Magtolis-Briones (born October 16, 1940) is a Filipina academician, economist, and civil servant who served as Secretary of Education under the Duterte administration.",
+              "links": [
+                {
+                  "text": "Filipina",
+                  "type": "internal",
+                  "page": "Filipino people"
+                },
+                {
+                  "text": "Secretary of Education",
+                  "type": "internal",
+                  "page": "Secretary of Education (Philippines)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Duterte administration"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Leonor",
+                  "Liling",
+                  "Mirasol Magtolis-Briones"
+                ]
+              }
+            },
+            {
+              "text": "She is also professor emeritus of public administration at the National College of Public Administration & Governance (NCPAG) of the University of the Philippines Diliman and was chairman of the board of directors of Silliman University in Dumaguete City, Negros Oriental.",
+              "links": [
+                {
+                  "text": "National College of Public Administration & Governance",
+                  "type": "internal",
+                  "page": "NCPAG"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of the Philippines Diliman"
+                },
+                {
+                  "text": "chairman",
+                  "type": "internal",
+                  "page": "chairman"
+                },
+                {
+                  "text": "board of directors",
+                  "type": "internal",
+                  "page": "board of directors"
+                },
+                {
+                  "type": "internal",
+                  "page": "Silliman University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dumaguete City"
+                },
+                {
+                  "type": "internal",
+                  "page": "Negros Oriental"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She is a former Presidential Adviser for Social Development with the rank of department secretary and was National Treasurer of the Philippines (head of the Bureau of the Treasury) from August 1998 to February 2001.",
+              "links": [
+                {
+                  "text": "Bureau of the Treasury",
+                  "type": "internal",
+                  "page": "Department of Finance (Philippines)",
+                  "anchor": "Bureaus"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "June 2022",
+          "template": "use mdy dates"
+        },
+        {
+          "description": "Philippine Secretary of Education, economist, and academic",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Mirasol",
+            "Magtolis",
+            "Briones"
+          ],
+          "ph": "married",
+          "template": "philippine name"
+        },
+        {
+          "year": "1940",
+          "month": "10",
+          "day": "16",
+          "template": "birth date and age"
+        },
+        {
+          "reason": "Who was the President that she advised?",
+          "date": "July 2020",
+          "template": "clarify"
+        },
+        {
+          "reason": "Briones is not mentioned anymore in the Bloomberg link",
+          "date": "July 2020",
+          "template": "better source needed"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Leonor Briones"
+          },
+          "image": {
+            "text": "DepEd Secretary Leonor Magtolis Briones.jpg"
+          },
+          "caption": {
+            "text": "Official portrait, 2016"
+          },
+          "office": {
+            "text": "Secretary of Education",
+            "links": [
+              {
+                "text": "Secretary of Education",
+                "type": "internal",
+                "page": "Secretary of Education (Philippines)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 30, 2016"
+          },
+          "term_end": {
+            "text": "June 30, 2022"
+          },
+          "president": {
+            "text": "Rodrigo Duterte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rodrigo Duterte"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Br. Armin A. Luistro, FSC",
+            "links": [
+              {
+                "text": "Br. Armin A. Luistro, FSC",
+                "type": "internal",
+                "page": "Armin Luistro"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Sara Duterte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sara Duterte"
+              }
+            ]
+          },
+          "office2": {
+            "text": "21st Treasurer of the Philippines"
+          },
+          "president2": {
+            "text": "Joseph Estrada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joseph Estrada"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "August 1998"
+          },
+          "term_end2": {
+            "text": "January 19, 2001"
+          },
+          "predecessor2": {
+            "text": "Caridad Valdehuesa"
+          },
+          "successor2": {
+            "text": "Eduardo Sergio Gonzales Edeza"
+          },
+          "birth_name": {
+            "text": "Leonor Mirasol Magtolis"
+          },
+          "birth_date": {
+            "text": "October 16, 1940"
+          },
+          "birth_place": {
+            "text": "Guihulngan, Negros Oriental, Philippine Commonwealth",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guihulngan"
+              },
+              {
+                "type": "internal",
+                "page": "Negros Oriental"
+              },
+              {
+                "text": "Philippine Commonwealth",
+                "type": "internal",
+                "page": "Commonwealth of the Philippines"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Filipino",
+            "links": [
+              {
+                "text": "Filipino",
+                "type": "internal",
+                "page": "Filipino people"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Valencia, Negros Oriental",
+            "links": [
+              {
+                "text": "Valencia",
+                "type": "internal",
+                "page": "Valencia, Negros Oriental"
+              },
+              {
+                "type": "internal",
+                "page": "Negros Oriental"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Silliman University (BBA) University of the Philippines Diliman (MPA) Leeds University (PGDip)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Silliman University"
+              },
+              {
+                "type": "internal",
+                "page": "University of the Philippines Diliman"
+              },
+              {
+                "type": "internal",
+                "page": "Leeds University"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Economist, Professor, Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Economist"
+              },
+              {
+                "type": "internal",
+                "page": "Professor"
+              },
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "signature": {
+            "text": "Signature Leonor Briones.svg"
+          }
+        }
+      ],
+      "references": [
+        {
+          "last1": "Dejaresco",
+          "first1": "Ely",
+          "title": "Prof. Lingling Briones: NegOr’s Cabinet Member",
+          "url": "http://www.negroschronicle.com/web-archives/critical-reporting/Prof.%20Lingling%20Briones%20-%20NegOrs%20Cabinet%20Member.htm",
+          "access-date": "June 22, 2016",
+          "work": "The Negros Chronicle",
+          "date": "June 5, 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://news.abs-cbn.com/video/nation/05/30/16/ups-briones-ready-to-head-deped",
+          "title": "UP's Briones ready to head DepEd",
+          "work": "ABS-CBN News",
+          "date": "May 31, 2016",
+          "access-date": "May 31, 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Briones was born in Guihulngan, Negros Oriental on October 16, 1940.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guihulngan"
+                }
+              ]
+            },
+            {
+              "text": "She was the daughter of Carlos Magtolis, Sr., a school teacher, and Ursula Mirasol."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She obtained her Bachelor of Business Administration degree with a major in accounting from Silliman University in 1958 and her Master of Public Administration degree with a major in local government and fiscal administration from the University of the Philippines Diliman in 1967.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Business Administration"
+                },
+                {
+                  "type": "internal",
+                  "page": "Silliman University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Master of Public Administration"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of the Philippines Diliman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1968, she acquired her post-graduate diploma, with honors, at Leeds University in England.",
+              "links": [
+                {
+                  "text": "Leeds University",
+                  "type": "internal",
+                  "page": "University of Leeds"
+                },
+                {
+                  "type": "internal",
+                  "page": "England"
+                }
+              ]
+            },
+            {
+              "text": "In 1984, she proceeded to complete further studies in the United States, where she earned a certificate in Policy for Public Enterprise from the Harvard Institute for International Development at Harvard University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Harvard Institute for International Development"
+                },
+                {
+                  "type": "internal",
+                  "page": "Harvard University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She received her Doctor of Humanities (Honoris Causa) in Public Administration from Central Philippine University in 2016, the sister school of Silliman University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Central Philippine University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Silliman University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://news.abs-cbn.com/views-and-analysis/06/21/09/my-small-town-father-leonor-magtolis-briones",
+          "title": "My small town father - Leonor Magtolis Briones",
+          "last": "Magtolis Briones",
+          "first": "Leonor",
+          "date": "June 22, 2009",
+          "work": "ABS-CBN News",
+          "access-date": "June 6, 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.treasury.gov.ph/top.html",
+          "title": "PROF. LEONOR MAGTOLIS BRIONES",
+          "website": "Bureau of the Treasury",
+          "archive-url": "https://web.archive.org/web/20020507164824/http://www.treasury.gov.ph/top.html",
+          "archive-date": "May 7, 2002",
+          "access-date": "June 6, 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Briones has served in various capacities."
+            },
+            {
+              "text": "Her stints include teaching public fiscal administration at the University of the Philippines; and serving as secretary to the Commission on Audit for seven years, consultant to the Senate of the Philippines, Asian Development Bank and the United Nations Development Program, lead convenor of Social Watch Philippines, Inc., coordinator of Social Watch Asia, member of the Coordinating Committee of Social Watch International, chair of the board of Focus on the Global South, the first Filipino member of the Club of Rome, director for Policy and Executive Development at the National College of Public Administration and Governance at the University of the Philippines Diliman, and vice-president for finance in the same university.",
+              "links": [
+                {
+                  "text": "Commission on Audit",
+                  "type": "internal",
+                  "page": "Commission on Audit (Philippines)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Senate of the Philippines"
+                },
+                {
+                  "type": "internal",
+                  "page": "Asian Development Bank"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Nations Development Program"
+                },
+                {
+                  "text": "Social Watch International",
+                  "type": "internal",
+                  "page": "Social Watch"
+                },
+                {
+                  "type": "internal",
+                  "page": "Club of Rome"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of the Philippines Diliman"
+                }
+              ]
+            },
+            {
+              "text": "Briones was also active in the private sector, serving as director of AgriNurture, Inc., an office she held since 2008 and as an independent director of Megawide Construction Corp. since July 19, 2010."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She also served as chairman of the board of trustees of Silliman University.",
+              "links": [
+                {
+                  "text": "board of trustees",
+                  "type": "internal",
+                  "page": "board of trustees"
+                },
+                {
+                  "type": "internal",
+                  "page": "Silliman University"
+                }
+              ]
+            },
+            {
+              "text": "In 2010, Briones was nominated for the Presidency of the University of the Philippines but fell short of getting a majority vote from the university's Board of Regents.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of the Philippines"
+                },
+                {
+                  "type": "internal",
+                  "page": "Board of Regents"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On May 28, 2016, then president-elect Rodrigo Duterte offered Briones the Secretary of Education post, which she formally accepted on June 7, 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rodrigo Duterte"
+                },
+                {
+                  "text": "Secretary of Education",
+                  "type": "internal",
+                  "page": "Secretary of Education (Philippines)"
+                }
+              ]
+            },
+            {
+              "text": "She took office on June 30, 2016."
+            },
+            {
+              "text": "She oversaw the continuation of the K-12 program implementation which began in 2012, and during the COVID-19 pandemic, shifting from physical, face-to-face classes to a blended learning approach due to travel restrictions to prevent the spread of the disease.",
+              "links": [
+                {
+                  "text": "COVID-19 pandemic",
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in the Philippines"
+                },
+                {
+                  "text": "blended learning",
+                  "type": "internal",
+                  "page": "blended learning"
+                }
+              ]
+            },
+            {
+              "text": "After her stint as the education secretary ended, her successor, Sara Duterte, appointed her as a consultant.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sara Duterte"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "date": "2016-05-28",
+          "title": "Duterte offers DepEd to Briones, DBM to Diokno",
+          "url": "https://www.rappler.com/nation/134601-duterte-briones-deped-diokno-dbm/",
+          "access-date": "2022-07-04",
+          "website": "RAPPLER",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2016-06-07",
+          "title": "Leonor Briones vows 'consultative' leadership in DepEd",
+          "url": "https://www.rappler.com/nation/135550-leonor-briones-consultative-education-department/",
+          "access-date": "2022-07-04",
+          "website": "RAPPLER",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Classes open for 22.5 M students Monday",
+          "url": "https://mb.com.ph/2020/10/04/classes-open-for-22-5-m-students-monday/",
+          "access-date": "2022-07-04",
+          "website": "Manila Bulletin",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "News",
+          "first": "LLANESCA T. PANTI, GMA",
+          "title": "Sara Duterte taps Briones as DepEd consultant",
+          "url": "https://www.gmanetwork.com/news/topstories/nation/836998/sara-duterte-taps-briones-as-deped-consultant/story/",
+          "access-date": "2022-07-04",
+          "website": "GMA News Online",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Awards and distinctions",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Briones is an Outstanding Sillimanian Awardee in the field of Fiscal and Public Administration."
+            },
+            {
+              "text": "In 2005, she addressed the UN General Assembly where she appealed to the member-nations of the United Nations to fulfill their promises in fighting poverty.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "UN General Assembly"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Nations"
+                }
+              ]
+            },
+            {
+              "text": "In 2011, she was one of few individuals who received the prestigious Bayi Citation Award for Government Service."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Professor emeritus conferment",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The University of the Philippines's Board of Regents (BOR), the national university's highest policy-making body, formally conferred upon Briones in 2012 the rank of professor emeritus of public administration."
+            },
+            {
+              "text": "Currently, she is the only living professor emeritus of the National College of Public Administration and Governance.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National College of Public Administration and Governance"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "3"
+          ],
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Caridad Valdehuesa",
+          "template": "s-bef"
+        },
+        {
+          "title": "National Treasurer of the Philippines",
+          "years": "1998-2001",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Eduardo Sergio Gonzales Edeza",
+          "template": "s-aft"
+        },
+        {
+          "before": "Armin Luistro",
+          "template": "s-bef"
+        },
+        {
+          "title": "Secretary of Education",
+          "years": "2016–2022",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Sara Duterte",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-prec"
+        },
+        {
+          "before": "Roger Mercado",
+          "as": "Secretary of Public Works and Highways",
+          "template": "s-bef"
+        },
+        {
+          "title": "Order of Precedence of the Philippines as Secretary of Education",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Silvestre Bello III",
+          "as": "Secretary of Labor and Employment",
+          "template": "s-aft"
+        },
+        {
+          "template": "duterte cabinet"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Secretary Briones on Twitter",
+            "links": [
+              {
+                "text": "Secretary Briones",
+                "type": "external",
+                "site": "https://twitter.com/secliling"
+              },
+              {
+                "type": "internal",
+                "page": "Twitter"
+              }
+            ]
+          },
+          {
+            "text": "Secretary Briones on Facebook (official)",
+            "links": [
+              {
+                "text": "Secretary Briones",
+                "type": "external",
+                "site": "https://www.facebook.com/secLMB/"
+              },
+              {
+                "type": "internal",
+                "page": "Facebook"
+              }
+            ]
+          },
+          {
+            "text": "Leonor Briones on Facebook",
+            "links": [
+              {
+                "text": "Leonor Briones",
+                "type": "external",
+                "site": "https://www.facebook.com/leonor.magtolisbriones"
+              },
+              {
+                "type": "internal",
+                "page": "Facebook"
+              }
+            ]
+          },
+          {
+            "text": "Bureau of Treasury Official Website (archived)",
+            "links": [
+              {
+                "text": "Bureau of Treasury Official Website",
+                "type": "external",
+                "site": "https://web.archive.org/web/20020507164824/http://www.treasury.gov.ph/top.html"
+              }
+            ]
+          },
+          {
+            "text": "National College of Public Administration & Governance Official Website",
+            "links": [
+              {
+                "text": "National College of Public Administration & Governance Official Website",
+                "type": "external",
+                "site": "http://ncpag.upd.edu.ph/about-ncpag/faculty/briones/"
+              }
+            ]
+          },
+          {
+            "text": "Department of Education Official Website",
+            "links": [
+              {
+                "text": "Department of Education Official Website",
+                "type": "external",
+                "site": "http://www.deped.gov.ph/secretarys-corner"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

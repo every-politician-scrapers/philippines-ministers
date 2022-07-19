@@ -1,0 +1,365 @@
+{
+  "title": "Dennis Pineda (politician)",
+  "pageID": 61391635,
+  "categories": [
+    "Living people",
+    "Governors of Pampanga",
+    "Nationalist People's Coalition politicians",
+    "1974 births",
+    "People from Pampanga"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dennis \"Delta\" Garcia Pineda (born May 6, 1974) is a Filipino politician from the province of Pampanga in the Philippines.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pampanga"
+                },
+                {
+                  "type": "internal",
+                  "page": "Philippines"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Dennis \"Delta\" Garcia Pineda"
+                ]
+              }
+            },
+            {
+              "text": "He currently serves as the Governor of Pampanga.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Governor of Pampanga"
+                }
+              ]
+            },
+            {
+              "text": "He was a former Vice Governor of the province in the past years, and he was elected in 2019 as the 14th Governor of the province."
+            },
+            {
+              "text": "Previously, he served as the mayor of Lubao from 2001 until 2010.",
+              "links": [
+                {
+                  "text": "Lubao",
+                  "type": "internal",
+                  "page": "Lubao, Pampanga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Pineda is the son of former governor and now-vice governor Lilia Pineda and businessman Rodolfo \"Bong\" Pineda.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lilia Pineda"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Filipino politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Garcia",
+            "Pineda"
+          ],
+          "template": "philippine name"
+        },
+        {
+          "year": "1974",
+          "month": "05",
+          "day": "06",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Yolly Miranda",
+          "from": "June 7, 1997",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "text": "The Honorable",
+                "type": "internal",
+                "page": "Honorable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Dennis Pineda"
+          },
+          "image": {
+            "text": "Governor Dennis Pineda (cropped).jpg"
+          },
+          "caption": {
+            "text": "Pineda in November 2019"
+          },
+          "office": {
+            "text": "Governor of Pampanga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of Pampanga"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 30, 2019"
+          },
+          "vicegovernor": {
+            "text": "Lilia Pineda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lilia Pineda"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Lilia Pineda"
+          },
+          "office2": {
+            "text": "Vice Governor of Pampanga"
+          },
+          "term_start2": {
+            "text": "June 30, 2013"
+          },
+          "term_end2": {
+            "text": "June 30, 2019"
+          },
+          "governor2": {
+            "text": "Lilia Pineda"
+          },
+          "predecessor2": {
+            "text": "Yeng Guiao",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yeng Guiao"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Lilia Pineda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lilia Pineda"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Mayor of Lubao",
+            "links": [
+              {
+                "text": "Lubao",
+                "type": "internal",
+                "page": "Lubao, Pampanga"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "June 30, 2001"
+          },
+          "term_end3": {
+            "text": "June 30, 2010"
+          },
+          "predecessor3": {
+            "text": "Lilia Pineda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lilia Pineda"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Mylyn P. Cayabyab"
+          },
+          "office4": {
+            "text": "Member of the Lubao Municipal Council"
+          },
+          "term_start4": {
+            "text": "June 30, 1998"
+          },
+          "term_end4": {
+            "text": "June 30, 2001"
+          },
+          "birth_name": {
+            "text": "Dennis Garcia Pineda"
+          },
+          "birth_date": {
+            "text": "May 6, 1974"
+          },
+          "birth_place": {
+            "text": "Pampanga, Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pampanga"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Filipino",
+            "links": [
+              {
+                "text": "Filipino",
+                "type": "internal",
+                "page": "Filipinos"
+              }
+            ]
+          },
+          "party": {
+            "text": "NPC",
+            "links": [
+              {
+                "text": "NPC",
+                "type": "internal",
+                "page": "Nationalist People's Coalition"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "KAMBILAN"
+          },
+          "children": {
+            "text": "Danico Pineda\nDale Yancy Pineda\nPrincess Dy Pineda\nDenyelle Pineda"
+          },
+          "parents": {
+            "text": "Lilia Pineda\nRodolfo Pineda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lilia Pineda"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Lubao, Pampanga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lubao"
+              },
+              {
+                "type": "internal",
+                "page": "Pampanga"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Guagua National Colleges (BS)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guagua National Colleges"
+              },
+              {
+                "text": "BS",
+                "type": "internal",
+                "page": "Bachelor of Science"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician, civil servant, businessman"
+          },
+          "spouse": {
+            "text": "Yolly Miranda (m. June 7, 1997)"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://newsinfo.inquirer.net/1135523/new-re-elected-pampanga-officials-take-reins-in-ceremonies",
+          "title": "New, re-elected Pampanga officials take reins in ceremonies",
+          "date": "29 June 2019",
+          "work": "Inquirer.net",
+          "access-date": "29 July 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://pia.gov.ph/news/articles/1022165",
+          "title": "Dennis Pineda elected as 14th Governor of Pampanga",
+          "date": "17 May 2019",
+          "access-date": "2019-07-29",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.sunstar.com.ph/article/1767216",
+          "title": "Pampanga governor to seek vice gov post",
+          "date": "2 October 2018",
+          "website": "Sunstar",
+          "access-date": "2019-07-29",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "current philippine governors"
+        },
+        {
+          "template": "philippines-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Province of Pampanga",
+            "links": [
+              {
+                "text": "Province of Pampanga",
+                "type": "external",
+                "site": "http://www.islandsproperties.com/places/pampanga.htm/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

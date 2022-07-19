@@ -1,0 +1,453 @@
+{
+  "title": "Aurelio Umali",
+  "pageID": 61389545,
+  "categories": [
+    "Living people",
+    "Lakas–CMD (1991) politicians",
+    "1966 births",
+    "People from Cabanatuan",
+    "De La Salle University alumni",
+    "University of Santo Tomas alumni",
+    "San Beda University alumni",
+    "Liberal Party (Philippines) politicians",
+    "Governors of Nueva Ecija",
+    "Independent politicians in the Philippines",
+    "Members of Iglesia ni Cristo",
+    "Members of the House of Representatives of the Philippines from Nueva Ecija"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Aurelio Matias Umali (born January 25, 1966) is a Filipino politician from the third district of Nueva Ecija, Philippines.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nueva Ecija"
+                },
+                {
+                  "type": "internal",
+                  "page": "Philippines"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Aurelio Matias Umali"
+                ]
+              }
+            },
+            {
+              "text": "Umali is the youngest elected governor in the province since his first government office position."
+            },
+            {
+              "text": "He currently serves as a Governor of Nueva Ecija.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Governor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nueva Ecija"
+                }
+              ]
+            },
+            {
+              "text": "He was a governor for three terms from 2007 to 2016 and was re-elected in 2019."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Filipino politician",
+          "template": "short description"
+        },
+        {
+          "year": "1966",
+          "month": "1",
+          "day": "25",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "text": "The Honorable",
+                "type": "internal",
+                "page": "Honorable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Aurelio Umali"
+          },
+          "image": {
+            "text": "Nueva Ecija Governor Aurelio Umali (cropped).jpg"
+          },
+          "image_size": {
+            "text": "220px"
+          },
+          "caption": {
+            "text": "Umali in 2019"
+          },
+          "office": {
+            "text": "Governor of Nueva Ecija",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of Nueva Ecija"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 30, 2019"
+          },
+          "vicegovernor": {
+            "text": "Emmanuel Umali (2019–present)"
+          },
+          "term_start2": {
+            "text": "June 30, 2007"
+          },
+          "term_end2": {
+            "text": "June 30, 2016"
+          },
+          "vicegovernor2": {
+            "text": "Edward Thomas Joson (2007–2010)\nJose Padiernos (2010–2016)"
+          },
+          "predecessor": {
+            "text": "Czarina Umali"
+          },
+          "predecessor2": {
+            "text": "Tomas Joson III",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tomas Joson III"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Czarina Umali"
+          },
+          "office3": {
+            "text": "Member of the Philippine House of Representatives from Nueva Ecija's 3rd District",
+            "links": [
+              {
+                "text": "Philippine House of Representatives",
+                "type": "internal",
+                "page": "House of Representatives of the Philippines"
+              },
+              {
+                "text": "Nueva Ecija's 3rd District",
+                "type": "internal",
+                "page": "Legislative districts of Nueva Ecija"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "June 30, 2001"
+          },
+          "term_end3": {
+            "text": "June 30, 2007"
+          },
+          "predecessor3": {
+            "text": "Pacifico Fajardo"
+          },
+          "successor3": {
+            "text": "Czarina Umali"
+          },
+          "birth_name": {
+            "text": "Aurelio Matias Umali"
+          },
+          "birth_date": {
+            "text": "January 25, 1966"
+          },
+          "birth_place": {
+            "text": "Santa Rosa, Nueva Ecija",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santa Rosa, Nueva Ecija"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Filipino",
+            "links": [
+              {
+                "text": "Filipino",
+                "type": "internal",
+                "page": "Filipino people"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent (2016–present) Liberal (2007–2016) Unang Sigaw Partido ng Pagbabago (2007–present) Lakas–CMD (2004–2007)",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              },
+              {
+                "text": "Liberal",
+                "type": "internal",
+                "page": "Liberal Party (Philippines)"
+              },
+              {
+                "type": "internal",
+                "page": "Lakas–CMD"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "De La Salle University (Master in Business Administration) University of Santo Tomas (Bachelor of Arts in Political Science) San Beda College (Bachelor of Laws)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "De La Salle University"
+              },
+              {
+                "type": "internal",
+                "page": "University of Santo Tomas"
+              },
+              {
+                "text": "San Beda College",
+                "type": "internal",
+                "page": "San Beda University"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "spouse": {
+            "text": "Czarina Umali"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://journal.com.ph/news/provincial/umalis-close-winning-ecija-gov-vice-gov-race",
+          "title": "Umalis close to winning Ecija gov",
+          "date": "15 May 2019",
+          "website": "Journal.com.ph",
+          "access-date": "2019-07-29",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.philstar.com/nation/2013/05/29/947383/re-elected-nueva-ecija-vice-governor-makes-history",
+          "title": "Re-elected Nueva Ecija vice governor",
+          "date": "29 May 2013",
+          "work": "Philstar",
+          "access-date": "29 July 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Aurelio Umali was born in Santa Rosa, Nueva Ecija, Philippines, on January 25, 1966.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Santa Rosa, Nueva Ecija"
+                },
+                {
+                  "type": "internal",
+                  "page": "Philippines"
+                }
+              ]
+            },
+            {
+              "text": "In 1990 he finished Bachelor of Laws degree at San Beda College in Manila.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "San Beda College"
+                }
+              ]
+            },
+            {
+              "text": "He also graduated in De La Salle University with a degree in business administration and Bachelor of Arts in political science at the University of Santo Tomas.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "De La Salle University"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Santo Tomas"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://hepbenitez.wordpress.com/2012/01/26/governor-aurelio-oyie-matias-umali/",
+          "title": "GOVERNOR AURELIO OYIE MATIAS UMALI",
+          "date": "26 January 2012",
+          "website": "Hepbenitez",
+          "access-date": "2019-07-29",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Prior to his entry in politics in 2001, Umali served as Deputy Commissioner of the National Telecommunications Commission."
+            },
+            {
+              "text": "Prior to that he was Procurement and Sub-Contract Director of Lucent Technologies."
+            },
+            {
+              "text": "He entered politics as Congressman of Nueva Ecija's 3rd District by defeating Edward Thomas Joson and later on elected as governor in 2007 after defeating another Joson."
+            },
+            {
+              "text": "After his term as governor, he was succeeded by his wife Czarina Domingo-Umali for one term."
+            },
+            {
+              "text": "He had his attempt to come back as a Congressman of the province's 3rd district but lost to neophyte politician Rosanna \"Ria\" Vergara."
+            },
+            {
+              "text": "Umali successfully returned to government after being elected again as provincial governor in the last 2019 mid-term elections despite of the dismissal and perpetual disqualification from the Office of the Ombudsman."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2016, Ombudsman Conchita Carpio Morales found Umali guilty on the 4 counts of graft and 3 counts of malversation for the alleged misuse of his PDAF in 2005.",
+              "links": [
+                {
+                  "text": "Ombudsman Conchita Carpio Morales",
+                  "type": "internal",
+                  "page": "Conchita Carpio-Morales"
+                }
+              ]
+            },
+            {
+              "text": "Umali's P15-million PDAF was meant to buy irrigation pumps and fertilizers for his constituents in Laur, Gabaldon, Bongabon, Santa Rosa, General Mamerto Natividad, and Cabanatuan City."
+            },
+            {
+              "text": "To do this, Umali downloaded millions to his NGO partners – P12 million ($240,975) to the Masaganang Ani para sa Magsasaka Foundation Incorporated (MAMFI) and P3 million ($60,244) to Samahan."
+            },
+            {
+              "text": "Umali made it appear that the funds were used to purchase 7,920 bottles of liquid fertilizers and 15 irrigation pumps however, there was no real purchase at all since the liquid fertilizers had been sourced from another Napoles company, Nutrigrowth Philippines."
+            },
+            {
+              "text": "Umali was then dismissed and bared on holding any public office."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The graft and malversation charges against Nueva Ecija Governor Aurelio Umali before the Sandiganbayan Second Division have been dismissed due to the violation of his right to speedy disposition of cases."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.nuevaecija.gov.ph:80/",
+          "archive-url": "https://web.archive.org/web/20071012022607/http://www.nuevaecija.gov.ph/",
+          "url-status": "dead",
+          "archive-date": "2007-10-12",
+          "title": "Local Government Unit: Nueva Ecija Provincial Government",
+          "date": "2007-10-12",
+          "access-date": "2020-01-07",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.rappler.com/nation/156820-ex-lawmaker-aurelio-umali-pdaf-scam-ombudsman",
+          "title": "Ex-lawmaker faces charges over P15-M pork scam",
+          "last": "Rappler.com",
+          "website": "Rappler",
+          "language": "en",
+          "access-date": "2020-01-07",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://news.mb.com.ph/2019/10/28/sandiganbayan-dismisses-charges-vs-nueva-ecija-governor",
+          "title": "Sandiganbayan dismisses charges vs Nueva Ecija governor",
+          "website": "Manila Bulletin News",
+          "language": "en-US",
+          "access-date": "2020-01-07",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "current philippine governors"
+        },
+        {
+          "template": "philippines-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Province of Nueva Ecija",
+            "links": [
+              {
+                "text": "Province of Nueva Ecija",
+                "type": "external",
+                "site": "https://lga.gov.ph/province/info/nueva-ecija/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

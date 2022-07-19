@@ -1,0 +1,196 @@
+{
+  "title": "Zaldy Villa",
+  "pageID": 61413367,
+  "categories": [
+    "Living people",
+    "Governors of Siquijor",
+    "PDP–Laban politicians",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Zaldy Villa is a Filipino politician from the island province of Siquijor in Central Visayas Region in the Philippines.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Siquijor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Philippines"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Zaldy Villa"
+                ]
+              }
+            },
+            {
+              "text": "He is currently serving as a Governor of Siquijor."
+            },
+            {
+              "text": "He was first elected as Governor of the province in 2013 and was re-elected in and 2016 and 2019."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Filipino politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "text": "The Honorable",
+                "type": "internal",
+                "page": "Honorable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Zaldy Villa"
+          },
+          "image": {
+            "text": "LPP Official Portrait of ZALDY S. VILLA.jpg"
+          },
+          "office": {
+            "text": "Governor of Siquijor"
+          },
+          "president": {
+            "text": "Rodrigo Duterte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rodrigo Duterte"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 30, 2013"
+          },
+          "term_end": {
+            "text": "June 30, 2022"
+          },
+          "predecessor": {
+            "text": "Orlando B. Fua Jr."
+          },
+          "successor": {
+            "text": "Jake Vincent Villa"
+          },
+          "birth_place": {
+            "text": "Siquijor, Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Siquijor"
+              },
+              {
+                "type": "internal",
+                "page": "Philippines"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Filipino",
+            "links": [
+              {
+                "text": "Filipino",
+                "type": "internal",
+                "page": "Filipino people"
+              }
+            ]
+          },
+          "party": {
+            "text": "PDP–Laban",
+            "links": [
+              {
+                "type": "internal",
+                "page": "PDP–Laban"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Lyn Villa"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.pna.gov.ph/articles/1070110",
+          "title": "PDP-Laban candidates dominate Siquijor polls",
+          "date": "17 May 2019",
+          "website": "Philippine News Agency",
+          "access-date": "2019-08-01",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://news.mb.com.ph/2017/12/24/siquijor-buys-p15m-in-rescue-gear/",
+          "title": "Siquijor buys P15M in rescue gear",
+          "date": "24 December 2017",
+          "website": "Manila Bulletin",
+          "access-date": "2019-08-01",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "current philippine governors"
+        },
+        {
+          "template": "philippines-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Province of Suquijor Official Website",
+            "links": [
+              {
+                "text": "Province of Suquijor",
+                "type": "external",
+                "site": "https://www.mysiquijor.com/home.html/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

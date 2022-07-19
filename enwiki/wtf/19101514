@@ -1,0 +1,843 @@
+{
+  "title": "Hermogenes Ebdane",
+  "pageID": 19101514,
+  "categories": [
+    "1948 births",
+    "Living people",
+    "Governors of Zambales",
+    "Secretaries of Public Works and Highways of the Philippines",
+    "Secretaries of National Defense of the Philippines",
+    "Filipino police chiefs",
+    "People from Zambales",
+    "Mapúa University alumni",
+    "Philippine Military Academy alumni",
+    "Partido para sa Demokratikong Reporma politicians",
+    "Labor Party Philippines politicians",
+    "Arroyo Administration cabinet members",
+    "National Security Advisers of the Philippines",
+    "Grand Crosses of the Order of Lakandula"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hermogenes \"Jun\" Edejer Ebdane, Jr. (born December 30, 1948) is a Filipino politician and retired police officer with the rank of Director General.",
+              "links": [
+                {
+                  "text": "police officer",
+                  "type": "internal",
+                  "page": "police officer"
+                },
+                {
+                  "text": "Director General",
+                  "type": "internal",
+                  "page": "Director General (Philippine National Police)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Hermogenes \"Jun\" Edejer Ebdane, Jr."
+                ]
+              }
+            },
+            {
+              "text": "He is the Governor of Zambales since 2019, previously held this position from 2010 until 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zambales"
+                }
+              ]
+            },
+            {
+              "text": "He was also the Secretary of the Department of Public Works and Highways from 2005 to February 2007 and again from July 2007 to 2009.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Department of Public Works and Highways"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was a member of the Philippine Military Academy class of 1970, and has a Bachelor of Science in Civil Engineering (BSCE) from the Mapúa Institute of Technology.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Philippine Military Academy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mapúa Institute of Technology"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "February 2022",
+          "template": "use mdy dates"
+        },
+        {
+          "description": "Filipino politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Edejer",
+            "Ebdane"
+          ],
+          "template": "philippine name"
+        },
+        {
+          "year": "1948",
+          "month": "12",
+          "day": "30",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "child": {
+            "text": "yes"
+          },
+          "allegiance": {
+            "text": "🇵🇭 Philippines",
+            "links": [
+              {
+                "text": "Philippines",
+                "type": "internal",
+                "page": "philippines"
+              }
+            ]
+          },
+          "department": {
+            "text": "Philippine National Police (Special Action Force)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Philippine National Police"
+              },
+              {
+                "type": "internal",
+                "page": "Special Action Force"
+              }
+            ]
+          },
+          "rank": {
+            "text": "PNP GEN Svc.svg Police General"
+          }
+        },
+        {
+          "honorific-prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "text": "The Honorable",
+                "type": "internal",
+                "page": "Honorable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Hermogenes Ebdane Jr."
+          },
+          "image": {
+            "text": "File:Hermogenes Ebdane.jpg"
+          },
+          "caption": {
+            "text": "Ebdane at the Binibining Zambales 2015"
+          },
+          "order": {
+            "text": "8th"
+          },
+          "office": {
+            "text": "Governor of Zambales"
+          },
+          "term_start": {
+            "text": "June 30, 2019"
+          },
+          "1blankname": {
+            "text": "Vice Governor"
+          },
+          "1namedata": {
+            "text": "Jay Khonghun"
+          },
+          "predecessor": {
+            "text": "Amor Deloso",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amor Deloso"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "June 30, 2010"
+          },
+          "term_end2": {
+            "text": "June 30, 2016"
+          },
+          "1blankname2": {
+            "text": "Vice Governor"
+          },
+          "1namedata2": {
+            "text": "Ramon Lacbain II"
+          },
+          "predecessor2": {
+            "text": "Amor Deloso"
+          },
+          "successor2": {
+            "text": "Amor Deloso"
+          },
+          "office3": {
+            "text": "Secretary of Public Works and Highways",
+            "links": [
+              {
+                "text": "Secretary of Public Works and Highways",
+                "type": "internal",
+                "page": "Secretary of Public Works and Highways (Philippines)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "July 4, 2007"
+          },
+          "term_end3": {
+            "text": "October 22, 2009"
+          },
+          "president3": {
+            "text": "Gloria Macapagal Arroyo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gloria Macapagal Arroyo"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Manuel Bonoan (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Manuel Bonoan"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Victor F. Domingo"
+          },
+          "term_start4": {
+            "text": "February 15, 2005"
+          },
+          "term_end4": {
+            "text": "February 1, 2007"
+          },
+          "predecessor4": {
+            "text": "Florante Soriquez (acting)"
+          },
+          "successor4": {
+            "text": "Manuel Bonoan (acting)"
+          },
+          "office5": {
+            "text": "Secretary of National Defense",
+            "links": [
+              {
+                "text": "Secretary of National Defense",
+                "type": "internal",
+                "page": "Department of National Defense (Philippines)"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "February 1, 2007"
+          },
+          "term_end5": {
+            "text": "July 2, 2007"
+          },
+          "president5": {
+            "text": "Gloria Macapagal Arroyo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gloria Macapagal Arroyo"
+              }
+            ]
+          },
+          "predecessor5": {
+            "text": "Gloria Macapagal Arroyo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gloria Macapagal Arroyo"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Norberto Gonzales (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Norberto Gonzales"
+              }
+            ]
+          },
+          "office6": {
+            "text": "Chief of the Philippine National Police",
+            "links": [
+              {
+                "text": "Chief of the Philippine National Police",
+                "type": "internal",
+                "page": "Philippine National Police Chief"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "July 2002"
+          },
+          "term_end6": {
+            "text": "August 23, 2004"
+          },
+          "president6": {
+            "text": "Gloria Macapagal Arroyo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gloria Macapagal Arroyo"
+              }
+            ]
+          },
+          "preceded6": {
+            "text": "Leandro Mendoza",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leandro Mendoza"
+              }
+            ]
+          },
+          "succeeded6": {
+            "text": "Edgar Aglipay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edgar Aglipay"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Hermogenes Edejer Ebdane Jr."
+          },
+          "birth_date": {
+            "text": "December 30, 1948"
+          },
+          "party": {
+            "text": "PMM \nNPC",
+            "links": [
+              {
+                "text": "PMM",
+                "type": "internal",
+                "page": "Partido ng Manggagawa at Magsasaka"
+              },
+              {
+                "text": "NPC",
+                "type": "internal",
+                "page": "Nationalist People's Coalition"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Police officer; Politician",
+            "links": [
+              {
+                "text": "Police officer",
+                "type": "internal",
+                "page": "Police"
+              },
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Alma Cabanayan"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ebdane was the 10th Chief of the Philippine National Police serving from July 2002 to August 23, 2004.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Philippine National Police"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After the escape from jail of Islamic militant Fathur Rohman al-Ghozi on July 14, 2003, Ebdane stated he would be satisfied with any recovery, including \"even if he is dead and torn to pieces\"."
+            },
+            {
+              "text": "He went to view the body after Al-Ghozi was shot dead by police on October 13, 2003, saying the militant was killed in a brief gunfight after opening fire at a military checkpoint."
+            },
+            {
+              "text": "One of the demands of the Oakwood mutiny on July 27, 2003, was the resignation of Ebdane as national police chief, but the mutiny was unsuccessful and short-lived.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oakwood mutiny"
+                }
+              ]
+            },
+            {
+              "text": "He was chief of the PNP during the Hello Garci scandal, and admitted providing a vehicle to Virgilio Garcillano, but only when Garcillano was still with the Commission on Elections.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hello Garci scandal"
+                },
+                {
+                  "type": "internal",
+                  "page": "Virgilio Garcillano"
+                },
+                {
+                  "text": "Commission on Elections",
+                  "type": "internal",
+                  "page": "Commission on Elections (Philippines)"
+                }
+              ]
+            },
+            {
+              "text": "He said violence for the May 2004 election was lower than previous years.",
+              "links": [
+                {
+                  "text": "May 2004 election",
+                  "type": "internal",
+                  "page": "2004 Philippine general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After serving as the chief of the PNP, Ebdane was named National Security Adviser, a post he held from August 2004 to February 2005."
+            },
+            {
+              "text": "In February 2005, he was appointed to a cabinet position as Secretary of Public Works and Highways, which he returned to in July 2007, after serving as Secretary of National Defense from February 2007."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.telegraph.co.uk/news/worldnews/1436234/News-in-brief.html",
+          "title": "Fugitive 'can be torn to pieces'",
+          "date": "July 15, 2003",
+          "publisher": "The Daily Telegraph",
+          "access-date": "August 30, 2008",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theguardian.com/world/2003/oct/14/philippines",
+          "title": "Terrorist 'killed in gun battle'",
+          "last": "Aglionby",
+          "first": "John",
+          "date": "October 14, 2003",
+          "publisher": "The Guardian",
+          "access-date": "August 30, 2008",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theguardian.com/world/2003/jul/28/philippines1",
+          "title": "Hugs end Manila mutiny in mall",
+          "last": "Aglionby",
+          "first": "John",
+          "date": "July 28, 2003",
+          "publisher": "The Guardian",
+          "access-date": "August 30, 2008",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.gmanews.tv/story/21504/Ebdane-is-frontrunner-next-SND-known-within-2-months",
+          "title": "Ebdane is frontrunner; next SND known within 2 months",
+          "date": "November 20, 2006",
+          "publisher": "GMANews.TV",
+          "access-date": "August 30, 2008",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://query.nytimes.com/gst/fullpage.html?res=9F00E3DD133CF932A25756C0A9629C8B63",
+          "title": "Philippine Elections Are Marred by Violence",
+          "last": "Conde",
+          "first": "Carlos H.",
+          "date": "May 11, 2004",
+          "work": "New York Times",
+          "access-date": "August 30, 2008",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.gmanews.tv/story/28892/Ebdane-assumes-DND-post",
+          "title": "Ebdane assumes DND post",
+          "date": "February 1, 2007",
+          "publisher": "GMANews.TV",
+          "access-date": "August 30, 2008",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Educational life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Bachelor of Science In Civil Engineering, Mapua Institute of Technology",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mapua Institute of Technology"
+              }
+            ]
+          },
+          {
+            "text": "Bachelor of Science, Philippine Military Academy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Philippine Military Academy"
+              }
+            ]
+          },
+          {
+            "text": "Master of Arts in Criminology, Philippine College of Criminology",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Philippine College of Criminology"
+              }
+            ]
+          },
+          {
+            "text": "Doctor of Philosophy in Peace and Security Administration, Bicol University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bicol University"
+              }
+            ]
+          },
+          {
+            "text": "Senior-level courses and trainings"
+          },
+          {
+            "text": "Command and General Staff Course, US Army Command and General Staff College",
+            "links": [
+              {
+                "type": "internal",
+                "page": "US Army Command and General Staff College"
+              }
+            ]
+          },
+          {
+            "text": "Incident Management Training, US Counter-Terrorist Training Group",
+            "links": [
+              {
+                "type": "internal",
+                "page": "US Counter-Terrorist Training Group"
+              }
+            ]
+          },
+          {
+            "text": "Senior Crisis Management Course sponsored by the United States Department of State",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United States Department of State"
+              }
+            ]
+          },
+          {
+            "text": "Senior Police Officers course, Singapore Police Academy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Singapore Police Academy"
+              }
+            ]
+          },
+          {
+            "text": "Senior Police Executive Course, International Law Enforcement Academy in Thailand",
+            "links": [
+              {
+                "type": "internal",
+                "page": "International Law Enforcement Academy in Thailand"
+              }
+            ]
+          },
+          {
+            "text": "Basic and Advance Intelligence Courses, National Intelligence Training Center and the Special Intelligence Training School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Intelligence Training Center and the Special Intelligence Training School"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He is married to Alma Cabanayan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alma Cabanayan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Awards",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Distinguished Conduct Star",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Distinguished Conduct Star"
+              }
+            ]
+          },
+          {
+            "text": "Philippine Legion of Honor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Philippine Legion of Honor"
+              }
+            ]
+          },
+          {
+            "text": "two Distinguished Service Stars",
+            "links": [
+              {
+                "text": "Distinguished Service Stars",
+                "type": "internal",
+                "page": "Distinguished Service Star"
+              }
+            ]
+          },
+          {
+            "text": "PNP Distinguished Service Medal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "PNP Distinguished Service Medal"
+              }
+            ]
+          },
+          {
+            "text": "Medalya ng Katangi-tanging Gawa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Medalya ng Katangi-tanging Gawa"
+              }
+            ]
+          },
+          {
+            "text": "Bronze Cross Medal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bronze Cross Medal"
+              }
+            ]
+          },
+          {
+            "text": "Military Merit Medals",
+            "links": [
+              {
+                "text": "Military Merit Medals",
+                "type": "internal",
+                "page": "Military Merit Medal of Philippines"
+              }
+            ]
+          },
+          {
+            "text": "PMA Cavalier Award for Leadership and Command Administration",
+            "links": [
+              {
+                "type": "internal",
+                "page": "PMA Cavalier Award for Leadership and Command Administration"
+              }
+            ]
+          },
+          {
+            "text": "Master Parachutist Badge",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Master Parachutist Badge"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "pol"
+          ],
+          "template": "s-civ"
+        },
+        {
+          "before": "Leandro Mendoza",
+          "title": "Philippine National Police Chief",
+          "years": "2002–2004",
+          "after": "Edgar B. Aglipay",
+          "template": "succession box"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Norberto B. Gonzales",
+          "title": "National Security Adviser",
+          "years": "2004–2005",
+          "after": "Norberto B. Gonzales",
+          "template": "succession box"
+        },
+        {
+          "before": "Florante Soriquez (acting)",
+          "title": "Secretary of Public Works and Highways",
+          "years": "2005–2007",
+          "after": "Manuel M. Bonoan (acting)",
+          "template": "succession box"
+        },
+        {
+          "before": "Gloria Macapagal Arroyo",
+          "title": "Secretary of National Defense",
+          "years": "2007",
+          "after": "Norberto B. Gonzales (acting)",
+          "template": "succession box"
+        },
+        {
+          "before": "Manuel M. Bonoan (acting)",
+          "title": "Secretary of Public Works and Highways",
+          "years": "2007–2009",
+          "after": "Victor Domingo",
+          "template": "succession box"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Amor Deloso",
+          "title": "Governor of Zambales",
+          "years": "2010 – 2016",
+          "after": "Amor Deloso",
+          "template": "succession box"
+        },
+        {
+          "template": "philippine national police chiefs"
+        },
+        {
+          "template": "order of lakandula recipients"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Biography at the Department of Public Works and Highways",
+            "links": [
+              {
+                "text": "Biography at the Department of Public Works and Highways",
+                "type": "external",
+                "site": "https://web.archive.org/web/20120210053140/http://www.dpwh.gov.ph/officials/secretary/ebdane/profile.htm"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

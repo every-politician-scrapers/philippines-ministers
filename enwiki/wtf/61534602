@@ -1,0 +1,200 @@
+{
+  "title": "Yshmael Sali",
+  "pageID": 61534602,
+  "categories": [
+    "Living people",
+    "National Unity Party (Philippines) politicians",
+    "People from Tawi-Tawi",
+    "Year of birth missing (living people)",
+    "Filipino Muslims"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yshmael \"Mang\" Ismail Sali is a Filipino politician from the province of Tawi-Tawi, Philippines.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tawi-Tawi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Philippines"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Yshmael \"Mang\" Ismail Sali"
+                ]
+              }
+            },
+            {
+              "text": "He currently serves as Governor of the province."
+            },
+            {
+              "text": "He was first elected as Governor in 2019."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Filipino politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "text": "The Honorable",
+                "type": "internal",
+                "page": "Honorable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Yshmael Sali"
+          },
+          "office": {
+            "text": "Governor of Tawi-Tawi"
+          },
+          "term_start": {
+            "text": "June 30, 2019"
+          },
+          "predecessor": {
+            "text": "Rashidin Matba"
+          },
+          "office2": {
+            "text": "Mayor of Languyan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Languyan"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "June 30, 2013"
+          },
+          "term_end2": {
+            "text": "June 30, 2019"
+          },
+          "birth_place": {
+            "text": "Tawi-Tawi, Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tawi-Tawi"
+              },
+              {
+                "type": "internal",
+                "page": "Philippines"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Filipino",
+            "links": [
+              {
+                "text": "Filipino",
+                "type": "internal",
+                "page": "Filipino people"
+              }
+            ]
+          },
+          "party": {
+            "text": "National Unity Party",
+            "links": [
+              {
+                "text": "National Unity Party",
+                "type": "internal",
+                "page": "National Unity Party (Philippines)"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://news.mb.com.ph/2019/05/15/neophytes-lead-in-tawi-tawi-maguindanao-north-cotabato",
+          "title": "Neophytes lead in Tawi-Tawi, Maguindanao, North Cotabato",
+          "website": "Manila Bulletin News",
+          "language": "en-US",
+          "access-date": "2019-08-17",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.napocor.gov.ph/index.php/contact-us/2-whatsnew/502-npc-inaugurates-two-new-gensets-in-languyan-tawi-tawi",
+          "title": "NPC inaugurates two new gensets in Languyan, Tawi, Tawi",
+          "website": "www.napocor.gov.ph",
+          "access-date": "2019-08-17",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.rappler.com/nation/politics/elections/2019/229077-sakur-tan-rival-ben-loong-hosts-sara-duterte-hugpong-ng-pagbabago-sulu",
+          "title": "Sakur Tan rival Ben Loong hosts Sara Duterte, Hugpong in Sulu",
+          "last": "Ranada",
+          "first": "Pia",
+          "website": "Rappler",
+          "language": "en",
+          "access-date": "2019-08-17",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "current philippine governors"
+        },
+        {
+          "template": "philippines-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Province of Tawi-Tawi",
+            "links": [
+              {
+                "text": "Province of Tawi-Tawi",
+                "type": "external",
+                "site": "https://www.officialgazette.gov.ph/2014/04/23/tawi-tawi-receives-livelihood-support-from-da/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

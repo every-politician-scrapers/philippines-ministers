@@ -1,0 +1,239 @@
+{
+  "title": "Edwin Ongchuan",
+  "pageID": 61415037,
+  "categories": [
+    "Living people",
+    "1968 births",
+    "Governors of Northern Samar",
+    "PDP–Laban politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Edwin Ongchuan is a Filipino politician from the province of Northern Samar.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Northern Samar"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Edwin Ongchuan"
+                ]
+              }
+            },
+            {
+              "text": "He currently serves as the Governor of the province being first elected in 2019."
+            },
+            {
+              "text": "He was a member of the House of Representatives of the Philippines from 2016 to 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "House of Representatives of the Philippines"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Filipino politician",
+          "template": "short description"
+        },
+        {
+          "year": "1968",
+          "month": "3",
+          "day": "03",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "text": "The Honorable",
+                "type": "internal",
+                "page": "Honorable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Edwin Marino Co Ongchuan"
+          },
+          "image": {
+            "text": "HoR Official Portrait of Edwing Ong.jpg"
+          },
+          "office": {
+            "text": "Governor of Northern Samar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of Northern Samar"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 30, 2019"
+          },
+          "predecessor": {
+            "text": "Jose L. Ong, Jr."
+          },
+          "office2": {
+            "text": "Member of the Philippine House of Representatives from Northern Samar's 1st District",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Philippine House of Representatives"
+              },
+              {
+                "type": "internal",
+                "page": "Northern Samar"
+              },
+              {
+                "text": "1st District",
+                "type": "internal",
+                "page": "Legislative districts of Northern Samar",
+                "anchor": "1st District"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "June 30, 2016"
+          },
+          "term_end2": {
+            "text": "June 30, 2019"
+          },
+          "predecessor2": {
+            "text": "Emil L. Ong"
+          },
+          "successor2": {
+            "text": "Jose L. Ong, Jr."
+          },
+          "birth_date": {
+            "text": "March 3, 1968"
+          },
+          "birth_place": {
+            "text": "Northern Samar, Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Northern Samar"
+              },
+              {
+                "type": "internal",
+                "page": "Philippines"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Filipino",
+            "links": [
+              {
+                "text": "Filipino",
+                "type": "internal",
+                "page": "Filipino people"
+              }
+            ]
+          },
+          "party": {
+            "text": "NUP",
+            "links": [
+              {
+                "text": "NUP",
+                "type": "internal",
+                "page": "National Unity Party (Philippines)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Blesila Ongchuan"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.leytesamardailynews.com/paul-daza-takes-fathers-seat-as-congressman-for-n-samars-first-congressional-district/",
+          "title": "Paul Daza takes father's seat as congressman for N. Samar's first congressional district",
+          "date": "20 May 2019",
+          "website": "Leytesamardailynews.com",
+          "access-date": "2019-08-01",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://pia.gov.ph/news/articles/1025040",
+          "title": "Lalaguna mangrove eco park opens",
+          "date": "28 July 2019",
+          "website": "Philippine News Agency",
+          "access-date": "2019-08-01",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.philstar.com/entertainment/funfare/2016/11/16/1642751/office-romance-leads-altar",
+          "title": "An office romance leads to the altar",
+          "date": "16 November 2016",
+          "website": "Philstar",
+          "access-date": "2019-08-01",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "philippines-politician-stub"
+        },
+        {
+          "template": "current philippine governors"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Province of Northern Samar",
+            "links": [
+              {
+                "text": "Province of Northern Samar",
+                "type": "external",
+                "site": "https://lga.gov.ph/province/info/northern-samar/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

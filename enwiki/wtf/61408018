@@ -1,0 +1,215 @@
+{
+  "title": "Rhodora Cadiao",
+  "pageID": 61408018,
+  "categories": [
+    "Karay-a people",
+    "Living people",
+    "21st-century Filipino women politicians",
+    "21st-century Filipino politicians",
+    "Governors of Antique (province)",
+    "National Unity Party (Philippines) politicians",
+    "Women provincial governors of the Philippines",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rhodora Javier Cadiao is a Filipina politician.",
+              "formatting": {
+                "bold": [
+                  "Rhodora Javier Cadiao"
+                ]
+              }
+            },
+            {
+              "text": "She is currently the Governor of Antique Province in Western Visayas Region.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Governor of Antique"
+                },
+                {
+                  "type": "internal",
+                  "page": "Visayas"
+                }
+              ]
+            },
+            {
+              "text": "As a re-election-seeking candidate in the May 13, 2019, election under the National Unity Party, she defeated Exequiel Javier from the Liberal Party.",
+              "links": [
+                {
+                  "text": "National Unity Party",
+                  "type": "internal",
+                  "page": "National Unity Party (Philippines)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Exequiel Javier"
+                },
+                {
+                  "text": "Liberal Party",
+                  "type": "internal",
+                  "page": "Liberal Party (Philippines)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Philippine politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Javier",
+            "Cadiao"
+          ],
+          "template": "philippine name"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "text": "The Honorable",
+                "type": "internal",
+                "page": "Honorable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Rhodora Cadiao"
+          },
+          "image": {
+            "text": "Rhodora Cadiao.jpg"
+          },
+          "office": {
+            "text": "Governor of Antique",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of Antique"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "February 3, 2015"
+          },
+          "predecessor": {
+            "text": "Exequiel Javier",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Exequiel Javier"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Vice Governor of Antique"
+          },
+          "term_start2": {
+            "text": "June 30, 2013"
+          },
+          "term_end2": {
+            "text": "February 2, 2015"
+          },
+          "predecessor2": {
+            "text": "Rosie Dimamay"
+          },
+          "successor2": {
+            "text": "Edgar Denosta"
+          },
+          "term_start3": {
+            "text": "June 30, 2004"
+          },
+          "term_end3": {
+            "text": "June 30, 2010"
+          },
+          "predecessor3": {
+            "text": "Roberto Operanio"
+          },
+          "successor3": {
+            "text": "Rosie Dimamay"
+          },
+          "nationality": {
+            "text": "Filipino",
+            "links": [
+              {
+                "text": "Filipino",
+                "type": "internal",
+                "page": "Filipino people"
+              }
+            ]
+          },
+          "party": {
+            "text": "NUP",
+            "links": [
+              {
+                "text": "NUP",
+                "type": "internal",
+                "page": "National Unity Party (Philippines)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.rappler.com/move-ph/132822-exequiel-javier-loses-antique-governor-decades-power",
+          "title": "Incumbent Antique governor defeated after 3 decades in power",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "current philippine governors"
+        },
+        {
+          "template": "philippines-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Province of Antique",
+            "links": [
+              {
+                "text": "Province of Antique",
+                "type": "external",
+                "site": "https://lga.gov.ph/province/info/antique/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

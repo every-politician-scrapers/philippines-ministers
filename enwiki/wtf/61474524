@@ -1,0 +1,267 @@
+{
+  "title": "Philip Tan (politician)",
+  "pageID": 61474524,
+  "categories": [
+    "Living people",
+    "Nacionalista Party politicians",
+    "People from Misamis Occidental",
+    "Governors of Misamis Occidental",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Philip Tiu Tan is a Filipino politician from the province of Misamis Occidental in the Philippines.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Misamis Occidental"
+                },
+                {
+                  "type": "internal",
+                  "page": "Philippines"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Philip Tiu Tan"
+                ]
+              }
+            },
+            {
+              "text": "He is currently serving as the Governor of Misamis Occidental."
+            },
+            {
+              "text": "He was first elected as Governor of the province in 2019."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Filipino politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "text": "The Honorable",
+                "type": "internal",
+                "page": "Honorable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Philip Tan"
+          },
+          "office": {
+            "text": "Governor of Misamis Occidental",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Misamis Occidental"
+              }
+            ]
+          },
+          "president": {
+            "text": "Rodrigo Duterte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rodrigo Duterte"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 30, 2019"
+          },
+          "term_end": {
+            "text": "June 30, 2022"
+          },
+          "predecessor": {
+            "text": "Herminia De Mesa Ramiro"
+          },
+          "successor": {
+            "text": "Henry Oaminal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Henry Oaminal"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Mayor of Tangub",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tangub"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Benigno Aquino III Rodrigo Duterte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Benigno Aquino III"
+              },
+              {
+                "type": "internal",
+                "page": "Rodrigo Duterte"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "June 30, 2010"
+          },
+          "term_end2": {
+            "text": "June 30, 2019"
+          },
+          "successor2": {
+            "text": "Jennifer W. Tan"
+          },
+          "birth_place": {
+            "text": "Misamis Occidental, Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Misamis Occidental"
+              },
+              {
+                "type": "internal",
+                "page": "Philippines"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Filipino",
+            "links": [
+              {
+                "text": "Filipino",
+                "type": "internal",
+                "page": "Filipino people"
+              }
+            ]
+          },
+          "party": {
+            "text": "Nacionalista Party Hugpong ng Pagbabago Laban ng Demokratikong Pilipino",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nacionalista Party"
+              },
+              {
+                "type": "internal",
+                "page": "Hugpong ng Pagbabago"
+              },
+              {
+                "type": "internal",
+                "page": "Laban ng Demokratikong Pilipino"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Tangub, Misamis Occidental",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tangub"
+              },
+              {
+                "type": "internal",
+                "page": "Misamis Occidental"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Lawyer"
+          },
+          "spouse": {
+            "text": "Jennifer Wee"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://misocc.gov.ph/blog/local-governance-turn-over-ceremony-from-outgoing-governor-herminia-de-mesa-ramiro-to-incoming-governor-philip-tan/",
+          "title": "Local Governance Turn-over Ceremony from outgoing Governor Herminia De Mesa Ramiro to incoming Governor Philip Tan",
+          "language": "en-US",
+          "access-date": "2019-08-09",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.mindanews.com/top-stories/2019/05/mindanao-2019-2022-mindanaos-27-governors-11-reelected-11-first-termers-5-returnees/",
+          "title": "MINDANAO 2019-2022: Mindanao’s 27 governors: 11 reelected, 11 first-termers, 5 ‘returnees’",
+          "last": "Arguillas",
+          "first": "Carolyn O.",
+          "date": "2019-05-24",
+          "website": "MindaNews",
+          "language": "en-US",
+          "access-date": "2019-08-09",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://ph.rappler.com/elections/2019/race/NORTHERN-MINDANAO/MISAMIS-OCCIDENTAL/81/Provincial-Governor/9/year/2019",
+          "title": "#PHVote 2019: MISAMIS OCCIDENTAL Provincial Governor Race",
+          "website": "Rappler",
+          "language": "en",
+          "access-date": "2019-08-09",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "current philippine governors"
+        },
+        {
+          "template": "philippines-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Province of Misamis Occidental Official Website",
+            "links": [
+              {
+                "text": "Province of Misamis Occidental",
+                "type": "external",
+                "site": "https://misocc.gov.ph"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

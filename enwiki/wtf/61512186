@@ -1,0 +1,227 @@
+{
+  "title": "Santiago Cane Jr.",
+  "pageID": 61512186,
+  "categories": [
+    "Living people",
+    "National Unity Party (Philippines) politicians",
+    "People from Agusan del Sur",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Santiago Cane Jr. is a Filipino politician from the province of Agusan del Sur, Philippines where he currently serves as Governor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Agusan del Sur"
+                },
+                {
+                  "type": "internal",
+                  "page": "Philippines"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Santiago Cane Jr."
+                ]
+              }
+            },
+            {
+              "text": "He was the Vice Governor of the province from 2016 to 2019 and was re-elected in 2019 as a Governor."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Filipino politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "text": "The Honorable",
+                "type": "internal",
+                "page": "Honorable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Santiago Cane Jr."
+          },
+          "image": {
+            "text": "File:Agusan del Sur Governor Santiago Cane, Jr.jpg"
+          },
+          "caption": {
+            "text": "Cane Jr. in 2019."
+          },
+          "office": {
+            "text": "Governor of Agusan del Sur",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Agusan del Sur"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 30, 2019"
+          },
+          "predecessor": {
+            "text": "Adolph Edward Plaza"
+          },
+          "office2": {
+            "text": "Vice Governor of Agusan del Sur",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Agusan del Sur"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2016",
+            "number": 2016
+          },
+          "term_end2": {
+            "text": "2019",
+            "number": 2019
+          },
+          "successor2": {
+            "text": "Samuel Tortor"
+          },
+          "birth_place": {
+            "text": "Agusan del Sur, Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Agusan del Sur"
+              },
+              {
+                "type": "internal",
+                "page": "Philippines"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Filipino",
+            "links": [
+              {
+                "text": "Filipino",
+                "type": "internal",
+                "page": "Filipino people"
+              }
+            ]
+          },
+          "party": {
+            "text": "National Unity Party",
+            "links": [
+              {
+                "text": "National Unity Party",
+                "type": "internal",
+                "page": "National Unity Party (Philippines)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.mindanaodailynews.com/public/news/the-region/caraga-region/plaza-siblings-break-down-own-dynasty",
+          "title": "Plaza siblings break down own dynasty",
+          "last": "Inc",
+          "first": "PurpleBug",
+          "website": "www.mindanaodailynews.com",
+          "access-date": "2019-08-14",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://newsinfo.inquirer.net/694623/agusan-del-sur-vice-governor-defends-govt-peace-panel",
+          "title": "Agusan del Sur vice governor defends gov’t peace panel",
+          "last": "Nawal",
+          "first": "Allan",
+          "website": "newsinfo.inquirer.net",
+          "language": "en",
+          "access-date": "2019-08-14",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://visayas.politics.com.ph/agusan-del-sur-vice-guv-bloats-gas-expenses-to-millions/",
+          "title": "Agusan Del Sur vice guv bloats gas expenses to millions",
+          "date": "2015-09-23",
+          "website": "Politiko Visayas",
+          "language": "en-US",
+          "access-date": "2019-08-14",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.rappler.com/nation/politics/elections/2019/231201-sibling-rivalries-weaken-amante-plaza-clans-agusan-del-norte-sur",
+          "title": "Sibling rivalries weaken Amante, Plaza clans in Agusan provinces",
+          "last": "Bueza",
+          "first": "Michael",
+          "website": "Rappler",
+          "language": "en",
+          "access-date": "2019-08-14",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "current philippine governors"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "philippines-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Province of Agusan del Sur Official Website",
+            "links": [
+              {
+                "text": "Province of Agusan del Sur",
+                "type": "external",
+                "site": "http://agusandelsur.gov.ph/index/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

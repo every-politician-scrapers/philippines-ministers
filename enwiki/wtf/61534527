@@ -1,0 +1,198 @@
+{
+  "title": "Bai Mariam Mangudadatu",
+  "pageID": 61534527,
+  "categories": [
+    "Living people",
+    "People from Maguindanao",
+    "PDP–Laban politicians",
+    "Year of birth missing (living people)",
+    "Filipino Muslims"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bai Mariam Sangki-Mangudadatu is a Filipina politician from the province of Maguindanao, Philippines.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Maguindanao"
+                },
+                {
+                  "type": "internal",
+                  "page": "Philippines"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Bai Mariam Sangki-Mangudadatu"
+                ]
+              }
+            },
+            {
+              "text": "She currently serves as Governor of the province."
+            },
+            {
+              "text": "She was first elected as Governor in 2019 and known as the first woman Governor of Maguindanao.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Maguindanao"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Filipino politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "text": "The Honorable",
+                "type": "internal",
+                "page": "Honorable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Bai Mariam Sangki-Mangudadatu"
+          },
+          "office": {
+            "text": "Governor of Maguindanao"
+          },
+          "term_start": {
+            "text": "June 30, 2019"
+          },
+          "birth_place": {
+            "text": "Maguindanao, Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maguindanao"
+              },
+              {
+                "type": "internal",
+                "page": "Philippines"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Filipino",
+            "links": [
+              {
+                "text": "Filipino",
+                "type": "internal",
+                "page": "Filipino people"
+              }
+            ]
+          },
+          "party": {
+            "text": "PDP–Laban",
+            "links": [
+              {
+                "type": "internal",
+                "page": "PDP–Laban"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "spouse": {
+            "text": "Suharto Mangudadatu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Suharto Mangudadatu"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://newsinfo.inquirer.net/1103385/5-maguindanao-clans-unite-as-mangudadatu-kin-split",
+          "title": "5 Maguindanao clans unite as Mangudadatu kin split",
+          "last": "Dinoy",
+          "first": "Orlando",
+          "website": "newsinfo.inquirer.net",
+          "language": "en",
+          "access-date": "2019-08-17",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bworldonline.com/a-mangudadatu-elected-1st-woman-governor-of-maguindanao/",
+          "title": "A Mangudadatu elected 1st woman governor of Maguindanao",
+          "last": "bw_mark",
+          "language": "en-US",
+          "access-date": "2019-08-17",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://news.abs-cbn.com/news/05/04/19/dong-mangudadatu-seeks-to-transcend-muslim-identity-in-senate-bid",
+          "title": "Dong Mangudadatu seeks to transcend Muslim identity in Senate bid",
+          "last": "News",
+          "first": "Dharel Placido, ABS-CBN",
+          "website": "ABS-CBN News",
+          "access-date": "2019-08-17",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "current philippine governors"
+        },
+        {
+          "template": "philippines-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Province of Maguindanao",
+            "links": [
+              {
+                "text": "Province of Maguindanao",
+                "type": "external",
+                "site": "https://www.officialgazette.gov.ph/local-government-units/maguindanao/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

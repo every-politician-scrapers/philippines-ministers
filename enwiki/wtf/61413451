@@ -1,0 +1,485 @@
+{
+  "title": "Rogelio Espina",
+  "pageID": 61413451,
+  "categories": [
+    "Living people",
+    "Governors of Biliran",
+    "1960 births",
+    "Nacionalista Party politicians",
+    "Far Eastern University alumni",
+    "San Sebastian College – Recoletos alumni",
+    "Members of the House of Representatives of the Philippines from Biliran"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rogelio \"Roger\" Jimenez Espina (born June 30, 1960) is a Filipino politician from Biliran, Philippines.",
+              "links": [
+                {
+                  "text": "Filipino",
+                  "type": "internal",
+                  "page": "Filipino people"
+                },
+                {
+                  "type": "internal",
+                  "page": "Biliran"
+                },
+                {
+                  "type": "internal",
+                  "page": "Philippines"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Rogelio",
+                  "Roger",
+                  "Jimenez Espina"
+                ]
+              }
+            },
+            {
+              "text": "He currently serves as Governor of Biliran since 2019 and previously from 2001 to 2010.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Governor of Biliran"
+                }
+              ]
+            },
+            {
+              "text": "He also served as representative for the lone district of Biliran from 2010 to 2019.",
+              "links": [
+                {
+                  "text": "representative",
+                  "type": "internal",
+                  "page": "House of Representatives of the Philippines"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Filipino politician",
+          "template": "short description"
+        },
+        {
+          "year": "1960",
+          "month": "06",
+          "day": "30",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Gerry Victor Espina",
+            "Gerard Roger Espina",
+            "Gretchen Stephanie Espina"
+          ],
+          "template": "ubl"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "text": "The Honorable",
+                "type": "internal",
+                "page": "Honorable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Rogelio Espina"
+          },
+          "image": {
+            "text": "HoR Official Portrait Rogelio Espina.jpg"
+          },
+          "office": {
+            "text": "Governor of Biliran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of Biliran"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 30, 2019"
+          },
+          "term_end": {
+            "text": "June 30, 2022"
+          },
+          "predecessor1": {
+            "text": "Gerardo J. Espina, Jr.",
+            "links": [
+              {
+                "text": "Gerardo J. Espina, Jr.",
+                "type": "internal",
+                "page": "Gerardo Espina Jr."
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Gerard Roger Espina"
+          },
+          "term_start2": {
+            "text": "June 30, 2001"
+          },
+          "term_end2": {
+            "text": "June 30, 2010"
+          },
+          "predecessor2": {
+            "text": "Danilo M. Parilla"
+          },
+          "successor2": {
+            "text": "Gerardo J. Espina, Jr.",
+            "links": [
+              {
+                "text": "Gerardo J. Espina, Jr.",
+                "type": "internal",
+                "page": "Gerardo Espina Jr."
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of the Philippine House of Representatives from Biliran's Lone District",
+            "links": [
+              {
+                "text": "Philippine House of Representatives",
+                "type": "internal",
+                "page": "House of Representatives of the Philippines"
+              },
+              {
+                "type": "internal",
+                "page": "Biliran"
+              },
+              {
+                "text": "Lone District",
+                "type": "internal",
+                "page": "Legislative district of Biliran",
+                "anchor": "Lone District"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "June 30, 2010"
+          },
+          "term_end3": {
+            "text": "June 30, 2019"
+          },
+          "predecessor3": {
+            "text": "Glenn A. Chong",
+            "links": [
+              {
+                "text": "Glenn A. Chong",
+                "type": "internal",
+                "page": "Glenn Chong"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Gerardo J. Espina, Jr.",
+            "links": [
+              {
+                "text": "Gerardo J. Espina, Jr.",
+                "type": "internal",
+                "page": "Gerardo Espina Jr."
+              }
+            ]
+          },
+          "office4": {
+            "text": "Medical Specialist at Department of Health Valenzuela District",
+            "links": [
+              {
+                "text": "Department of Health Valenzuela District",
+                "type": "internal",
+                "page": "Department of Health (Philippines)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "January 1, 1997"
+          },
+          "term_end4": {
+            "text": "April 1, 1998"
+          },
+          "birth_name": {
+            "text": "Rogelio Jimenez Espina"
+          },
+          "birth_date": {
+            "text": "June 30, 1960"
+          },
+          "birth_place": {
+            "text": "Manila, Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Manila"
+              },
+              {
+                "type": "internal",
+                "page": "Philippines"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Filipino",
+            "links": [
+              {
+                "text": "Filipino",
+                "type": "internal",
+                "page": "Filipino people"
+              }
+            ]
+          },
+          "party": {
+            "text": "Nacionalista",
+            "links": [
+              {
+                "text": "Nacionalista",
+                "type": "internal",
+                "page": "Nacionalista Party"
+              }
+            ]
+          },
+          "children": {
+            "text": "Gerry Victor Espina\n\nGerard Roger Espina\n\nGretchen Stephanie Espina"
+          },
+          "alma_mater": {
+            "text": "San Sebastian College Far Eastern University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "San Sebastian College"
+              },
+              {
+                "type": "internal",
+                "page": "Far Eastern University"
+              }
+            ]
+          },
+          "father": {
+            "text": "Gerardo S. Espina, Sr."
+          },
+          "mother": {
+            "text": "Asuncion S. Jimenez"
+          },
+          "spouse": {
+            "text": "Cecil M. Espina"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://news.mb.com.ph/2019/05/21/espina-clan-still-holds-sway-in-biliran/",
+          "title": "Espina clan still holds sway in Biliran",
+          "date": "21 May 2019",
+          "website": "Manila Bulletin",
+          "access-date": "2019-08-01",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://visayas.politics.com.ph/rogelio-espina-eyes-p1b-for-bilirans-flood-control-projects/",
+          "title": "Rogelio Espina eyes P1B for Biliran’s flood control projects",
+          "date": "11 July 2018",
+          "website": "Visayas Politics",
+          "access-date": "2019-08-01",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Espina was born in Manila, Philippines.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Manila"
+                },
+                {
+                  "type": "internal",
+                  "page": "Philippines"
+                }
+              ]
+            },
+            {
+              "text": "From 1976 to 1980, he studied at the Far Eastern University with a bachelor's degree on zoology.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Far Eastern University"
+                },
+                {
+                  "text": "zoology",
+                  "type": "internal",
+                  "page": "zoology"
+                }
+              ]
+            },
+            {
+              "text": "From 1980 to 1984 at the same school, he studied a degree on Doctor of Medicine."
+            },
+            {
+              "text": "He was a medical specialist in the Philippine Department of Health (Valenzuela District) from January 1, 1997 to April 1, 1998.",
+              "links": [
+                {
+                  "text": "medical specialist",
+                  "type": "internal",
+                  "page": "Specialty (medicine)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Department of Health"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.biliranisland.com/governors-corner/gov-rogelio-j-espina-md-fpoa/",
+          "title": "About Governor Rogelio Espina",
+          "website": "Biliran Island",
+          "access-date": "2019-08-01",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "GovernorDokRogerJEspina",
+          "template": "facebook"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Danilo M. Parilla",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of Biliran",
+          "years": "2001–2010",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Gerardo J. Espina Jr.",
+          "template": "s-aft"
+        },
+        {
+          "before": "Gerardo J. Espina Jr.",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of Biliran",
+          "years": "2019–present",
+          "template": "s-ttl"
+        },
+        {
+          "after": "TBD",
+          "template": "s-aft"
+        },
+        {
+          "list": [
+            "ph-lwr"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Glenn A. Chong",
+          "template": "s-bef"
+        },
+        {
+          "title": "Representative, Lone District of Biliran",
+          "years": "2010–2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Gerardo J. Espina Jr.",
+          "template": "s-aft"
+        },
+        {
+          "template": "current philippine governors"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Province of Biliran Official Website",
+            "links": [
+              {
+                "text": "Province of Biliran",
+                "type": "external",
+                "site": "http://biliran.gov.ph/"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Province of Biliran Official Website",
+            "links": [
+              {
+                "text": "Province of Biliran",
+                "type": "external",
+                "site": "http://biliran.gov.ph/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

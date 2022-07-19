@@ -1,0 +1,911 @@
+{
+  "title": "Jonvic Remulla",
+  "pageID": 35258337,
+  "categories": [
+    "1967 births",
+    "Living people",
+    "National Unity Party (Philippines) politicians",
+    "People from Imus",
+    "Governors of Cavite",
+    "Members of the Cavite Provincial Board",
+    "University of the Philippines Diliman alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Juanito Victor \"Jonvic\" Catibayan Remulla Jr. (born October 23, 1967) is a Filipino politician serving as the governor of Cavite since 2019, previously holding the position from 2010 to 2016.",
+              "links": [
+                {
+                  "text": "governor",
+                  "type": "internal",
+                  "page": "governor of Cavite"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cavite"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Juanito Victor",
+                  "Jonvic",
+                  "Catibayan Remulla Jr."
+                ]
+              }
+            },
+            {
+              "text": "He also previously served as the vice governor and as a member of the Cavite Provincial Board.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cavite Provincial Board"
+                }
+              ]
+            },
+            {
+              "text": "He is a son of former governor Juanito Remulla Sr. and sibling of fellow politicians Gilbert and Jesus Crispin Remulla.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Juanito Remulla Sr."
+                },
+                {
+                  "text": "Gilbert",
+                  "type": "internal",
+                  "page": "Gilbert Remulla"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jesus Crispin Remulla"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Remulla entered politics in 1995, when he won as board member of the second district of Cavite."
+            },
+            {
+              "text": "Three years later, in 1998, he was elected as vice governor, a post he held for three terms and in 2010, he became governor."
+            },
+            {
+              "text": "He became a governor again when he defeated former governor Ayong Maliksi in the 2019 elections.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ayong Maliksi"
+                },
+                {
+                  "text": "2019 elections",
+                  "type": "internal",
+                  "page": "2019 Philippine general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "his father",
+            "Juanito Remulla"
+          ],
+          "template": "for"
+        },
+        {
+          "description": "Filipino politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Catibayan",
+            "Remulla"
+          ],
+          "template": "philippine name"
+        },
+        {
+          "year": "1967",
+          "month": "10",
+          "day": "23",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honorable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Jonvic Remulla"
+          },
+          "image": {
+            "text": "Governor Remulla LPP Official Portrait.jpg"
+          },
+          "caption": {
+            "text": "Remulla in 2019"
+          },
+          "office": {
+            "text": "Governor of Cavite",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of Cavite"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 30, 2019"
+          },
+          "vicegovernor": {
+            "text": "Jolo Revilla (2019–2022)\nAthena Tolentino (2022–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jolo Revilla"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "June 30, 2010"
+          },
+          "term_end2": {
+            "text": "June 30, 2016"
+          },
+          "vicegovernor2": {
+            "text": "Recto Cantimbuhan (2010–2013)\nJolo Revilla (2013–2016)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jolo Revilla"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Jesus Crispin Remulla",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jesus Crispin Remulla"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Ayong Maliksi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ayong Maliksi"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Jesus Crispin Remulla",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jesus Crispin Remulla"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Vice Governor of Cavite",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cavite"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "June 30, 1998"
+          },
+          "term_end3": {
+            "text": "June 30, 2007"
+          },
+          "governor3": {
+            "text": "Bong Revilla (1998–2001) Ayong Maliksi (2001–2007)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bong Revilla"
+              },
+              {
+                "type": "internal",
+                "page": "Ayong Maliksi"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Cesar Unas"
+          },
+          "successor3": {
+            "text": "Dencito Campaña"
+          },
+          "office4": {
+            "text": "Member of the Cavite Provincial Board from the 2nd district",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cavite Provincial Board"
+              },
+              {
+                "text": "2nd district",
+                "type": "internal",
+                "page": "Legislative districts of Cavite",
+                "anchor": "2nd District"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "June 30, 1995"
+          },
+          "term_end4": {
+            "text": "June 30, 1998"
+          },
+          "birth_name": {
+            "text": "Juanito Victor Catibayan Remulla, Jr."
+          },
+          "birth_date": {
+            "text": "October 23, 1967"
+          },
+          "birth_place": {
+            "text": "Manila, Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Manila"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Filipino"
+          },
+          "spouse": {
+            "text": "Agnes Tirona"
+          },
+          "other_names": {
+            "text": "GovPogi"
+          },
+          "party": {
+            "text": "NUP (2021–present) Partido Magdalo (local)",
+            "links": [
+              {
+                "text": "NUP",
+                "type": "internal",
+                "page": "National Unity Party (Philippines)"
+              },
+              {
+                "type": "internal",
+                "page": "Partido Magdalo"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "LDP (before 2005) UNA (2014–2016) Nacionalista (2016–2021)",
+            "links": [
+              {
+                "text": "LDP",
+                "type": "internal",
+                "page": "Laban ng Demokratikong Pilipino"
+              },
+              {
+                "text": "UNA",
+                "type": "internal",
+                "page": "United Nationalist Alliance"
+              },
+              {
+                "text": "Nacionalista",
+                "type": "internal",
+                "page": "Nacionalista Party"
+              }
+            ]
+          },
+          "parents": {
+            "text": "Juanito Remulla Sr. (father) Ditas Catibayan (mother)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juanito Remulla Sr."
+              }
+            ]
+          },
+          "relatives": {
+            "text": "Jesus Crispin Remulla (brother)\n Gilbert Remulla (brother)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jesus Crispin Remulla"
+              },
+              {
+                "type": "internal",
+                "page": "Gilbert Remulla"
+              }
+            ]
+          },
+          "children": {
+            "text": "5",
+            "number": 5
+          },
+          "residence": {
+            "text": "Imus, Cavite Silang, Cavite",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Imus"
+              },
+              {
+                "type": "internal",
+                "page": "Cavite"
+              },
+              {
+                "type": "internal",
+                "page": "Silang, Cavite"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of the Philippines Diliman (A.B.)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of the Philippines Diliman"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Public servant, Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Public servant"
+              },
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://southluzon.politics.com.ph/2020/05/04/no-special-treatment-jonvic-remulla-sends-cops-to-posh-village-to-enforce-ecq/",
+          "title": "No special treatment: Jonvic Remulla sends cops to posh village to enforce ECQ",
+          "date": "May 4, 2020",
+          "website": "Politiko",
+          "accessdate": "April 3, 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Remulla was born on October 23, 1967, to a political dynasty in the Remulla family, headed by Juanito \"Johnny\" Remulla, a long-time Cavite governor, and Ditas Catibayan.",
+              "links": [
+                {
+                  "text": "Juanito \"Johnny\" Remulla",
+                  "type": "internal",
+                  "page": "Juanito Remulla Sr."
+                }
+              ]
+            },
+            {
+              "text": "He took up his secondary education at the Ateneo de Manila University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ateneo de Manila University"
+                }
+              ]
+            },
+            {
+              "text": "In college, he studied at the University of the Philippines Diliman, where he became a member of the Upsilon Sigma Phi fraternity.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of the Philippines Diliman"
+                },
+                {
+                  "type": "internal",
+                  "page": "Upsilon Sigma Phi"
+                }
+              ]
+            },
+            {
+              "text": "He graduated with a degree in Philosophy."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://globalnation.inquirer.net/97949/upsilon-alumni-hold-global-reunion",
+          "title": "Upsilon alumni hold global reunion",
+          "last": "INQUIRER.net",
+          "access-date": "2017-09-02",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0
+    },
+    {
+      "title": "Board Member and Vice Governor (1995–2007)",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 1995, Remulla ran for board member of Cavite from the 2nd district and won.",
+              "links": [
+                {
+                  "text": "board member of Cavite",
+                  "type": "internal",
+                  "page": "Cavite Provincial Board"
+                }
+              ]
+            },
+            {
+              "text": "He ran for vice-governor in 1998 and was elected."
+            },
+            {
+              "text": "Three years later, in 2001, he sought reelection with 2nd District Representative Ayong Maliksi, a protégé of his family, as his running mate and their tandem won.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ayong Maliksi"
+                }
+              ]
+            },
+            {
+              "text": "The two would win again in the 2004 elections.",
+              "links": [
+                {
+                  "text": "2004 elections",
+                  "type": "internal",
+                  "page": "2004 Philippine general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following the election, he broke ties with Maliksi when he filed an administrative case against Maliksi before the Office of the Ombudsman in connection with an anomalous purchase of ₱7.5 million (about US$134,000) worth of rice in 2004.",
+              "links": [
+                {
+                  "text": "Office of the Ombudsman",
+                  "type": "internal",
+                  "page": "Ombudsman of the Philippines"
+                },
+                {
+                  "type": "internal",
+                  "page": "US$"
+                }
+              ]
+            },
+            {
+              "text": "As a result, Maliksi was issued a six-month preventive suspension order on August 15, 2005, and he assumed office as acting governor."
+            },
+            {
+              "text": "Maliksi filed a petition and his suspension was lifted on October 24, 2005, when he was granted a preliminary injunction.",
+              "links": [
+                {
+                  "text": "preliminary injunction",
+                  "type": "internal",
+                  "page": "preliminary injunction"
+                }
+              ]
+            },
+            {
+              "text": "Remulla would become acting governor again on April 4, 2006, when the Court of Appeals lifted Maliksi's preliminary injunction.",
+              "links": [
+                {
+                  "text": "Court of Appeals",
+                  "type": "internal",
+                  "page": "Court of Appeals of the Philippines"
+                }
+              ]
+            },
+            {
+              "text": "Nine months later, on January 10, 2007, Remulla became acting governor for the third time when the Department of the Interior and Local Government (DILG) ordered the six-month preventive suspension order again on Maliksi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Department of the Interior and Local Government"
+                }
+              ]
+            },
+            {
+              "text": "In a surprise announcement the same month, he said he would not run as governor against Maliksi in the May 2007 elections.",
+              "links": [
+                {
+                  "text": "May 2007 elections",
+                  "type": "internal",
+                  "page": "2007 Philippine general elections"
+                }
+              ]
+            },
+            {
+              "text": "Ombudsman Merceditas Gutierrez lifted the suspension order a month later for lack of merit.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Merceditas Gutierrez"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "amount": "7.5 million",
+          "link": "yes",
+          "template": "philippine peso"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Governor (2010–2016, 2019–present)",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Remulla made a comeback in politics in 2010, when he ran for governor."
+            },
+            {
+              "text": "In the race, he defeated Vice Governor Dencito “Osboy” Campaña, who had the backing of Maliksi."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Under his tenure, Cavite was cited as one of the top-performing provinces in the Philippines by the Department of the Interior and Local Government (DILG).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Philippines"
+                },
+                {
+                  "type": "internal",
+                  "page": "Department of the Interior and Local Government"
+                }
+              ]
+            },
+            {
+              "text": "Also, it is the first and only province to be ISO 9001:2008 certified.",
+              "links": [
+                {
+                  "text": "ISO 9001:2008",
+                  "type": "internal",
+                  "page": "ISO 9000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2013 elections, Remulla sought a second term as governor, with actor and Cavite Liga ng mga Barangay (League of Barangays) President Jolo Revilla, son of Senator Bong Revilla and 2nd district Representative Lani Mercado, as his running mate.",
+              "links": [
+                {
+                  "text": "2013 elections",
+                  "type": "internal",
+                  "page": "2013 Cavite local elections"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jolo Revilla"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bong Revilla"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lani Mercado"
+                }
+              ]
+            },
+            {
+              "text": "Maliksi challenged him in the race."
+            },
+            {
+              "text": "During the campaign, Remulla accused Maliksi of being involved in the anomalous LRT extension project, where ₱500 million (about US$11.162 million) was allotted for 2,000 housing units, road, lighting and water projects, relocation sites and payments for the residents directly affected by the development.",
+              "links": [
+                {
+                  "text": "LRT",
+                  "type": "internal",
+                  "page": "Manila Light Rail Transit System"
+                }
+              ]
+            },
+            {
+              "text": "Remulla even threatened to resign if his allegations are proven wrong."
+            },
+            {
+              "text": "And he said Mas mabuti ang mamigay, wag lang magnakaw (It's better to give, not to steal)",
+              "formatting": {
+                "italic": [
+                  "Mas mabuti ang mamigay, wag lang magnakaw",
+                  "It's better to give, not to steal"
+                ]
+              }
+            },
+            {
+              "text": "Despite most surveys showing Maliksi would beat him by a wide margin, Remulla went on to win the election by more than 50,000 votes."
+            },
+            {
+              "text": "Jolo Revilla also won, beating Maliksi’s running mate, Ronald Jay Lacson, son of Senator Panfilo Lacson.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Panfilo Lacson"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was named as one of People Asia Magazine's \"People of the Year\" in 2013, along with 2013 Miss World Megan Young.",
+              "links": [
+                {
+                  "text": "2013 Miss World",
+                  "type": "internal",
+                  "page": "2013 Miss World"
+                },
+                {
+                  "type": "internal",
+                  "page": "Megan Young"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2014, Remulla was assigned by Vice President Jejomar Binay as his new spokesperson.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jejomar Binay"
+                }
+              ]
+            },
+            {
+              "text": "Remulla was supposed to run for his last term as governor in 2016 but he decided to quit as Binay asked him to become Secretary of the Interior and Local Government should Binay win the presidency.",
+              "links": [
+                {
+                  "text": "2016",
+                  "type": "internal",
+                  "page": "2016 Cavite local elections"
+                },
+                {
+                  "type": "internal",
+                  "page": "Secretary of the Interior and Local Government"
+                }
+              ]
+            },
+            {
+              "text": "His brother, Jesus Crispin, ran in his stead and later won.",
+              "links": [
+                {
+                  "text": "Jesus Crispin",
+                  "type": "internal",
+                  "page": "Jesus Crispin Remulla"
+                }
+              ]
+            },
+            {
+              "text": "However, as of April 29, 2016, Remulla was confirmed to have left Binay's camp in support of presidential candidate Rodrigo Duterte.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rodrigo Duterte"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Remulla successfully sought a comeback as governor in 2019, defeating former Governor Maliksi for the second time.",
+              "links": [
+                {
+                  "text": "2019",
+                  "type": "internal",
+                  "page": "2019 Cavite local elections"
+                }
+              ]
+            },
+            {
+              "text": "He sought for re-election 2022 and won, this time with Tagaytay councilor Athena Tolentino, the daughter of 8th district representative Abraham Tolentino, as his running mate.",
+              "links": [
+                {
+                  "text": "2022",
+                  "type": "internal",
+                  "page": "2022 Cavite local elections"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tagaytay"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abraham Tolentino"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:UNA,_Partido_Magdalo_Sign_Coalition_Agreement.JPG",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/UNA%2C_Partido_Magdalo_Sign_Coalition_Agreement.JPG?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/UNA%2C_Partido_Magdalo_Sign_Coalition_Agreement.JPG",
+          "caption": "Remulla with Vice President Jejomar Binay",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.rappler.com/nation/67391-jonvic-remulla-binay-spokesman",
+          "title": "Jonvic Remulla now Binay spokesman, to leave NP",
+          "website": "Rappler",
+          "first": "Ayee",
+          "last": "Macaraig",
+          "date": "August 27, 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://newsinfo.inquirer.net/782344/remullas-drop-binay-vow-big-win-for-duterte-in-cavite\\",
+          "title": "Remullas dump Binay for Duterte",
+          "first": "Maricar",
+          "last": "Cinco",
+          "date": "April 29, 2016",
+          "work": "Philippine Daily Inquirer",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Remulla is married to Agnes Tirona, a physician, with whom he has five children.",
+              "links": [
+                {
+                  "text": "physician",
+                  "type": "internal",
+                  "page": "physician"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Remulla is the team manager of the University of the Philippines Fighting Maroons (Men's Senior Basketball Team) and was instrumental in recruiting and building the team which eventually ended a 32-year finals drought in the UAAP."
+            },
+            {
+              "text": "In game 1 of the 2018 Season 81 Finals against top-ranked Ateneo de Manila University, Remulla was handed a technical foul in violation of the \"cooling-off\" period when he attempted to approach the game officials prior to the start of the 3rd quarter."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Medenilla",
+          "first": "Samuel P.",
+          "title": "Disqualification case filed against Jonvic Remulla",
+          "url": "https://businessmirror.com.ph/2019/05/09/disqualification-case-filed-against-jonvic-remulla/",
+          "date": "May 9, 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "current philippine governors"
+        }
+      ]
+    }
+  ]
+}

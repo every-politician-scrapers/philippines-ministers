@@ -1,0 +1,229 @@
+{
+  "title": "Jerry Dalipog",
+  "pageID": 61461695,
+  "categories": [
+    "Living people",
+    "1964 births",
+    "People from Ifugao",
+    "PDP–Laban politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jerry Uyami Dalipog a Filipino politician from the province of Banaue, Ifugao in the Philippines.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Banaue"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ifugao"
+                },
+                {
+                  "type": "internal",
+                  "page": "Philippines"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jerry Uyami Dalipog"
+                ]
+              }
+            },
+            {
+              "text": "He is the current governor of Ifugao Province in the Philippine Cordillera Region."
+            },
+            {
+              "text": "Previously, he was the municipal mayor of Banaue from 2016 to 2019."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Filipino politician",
+          "template": "short description"
+        },
+        {
+          "year": "1964",
+          "month": "2",
+          "day": "20",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "text": "The Honorable",
+                "type": "internal",
+                "page": "Honorable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Jerry Dalipog"
+          },
+          "office": {
+            "text": "Governor of Ifugao",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ifugao"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 30, 2019"
+          },
+          "predecessor": {
+            "text": "Jose Gullitiw"
+          },
+          "office2": {
+            "text": "Mayor of Banaue",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Banaue"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "June 30, 2016"
+          },
+          "term_end2": {
+            "text": "June 30, 2019"
+          },
+          "birth_date": {
+            "text": "February 20, 1964"
+          },
+          "birth_place": {
+            "text": "Banaue, Ifugao, Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Banaue"
+              },
+              {
+                "type": "internal",
+                "page": "Ifugao"
+              },
+              {
+                "type": "internal",
+                "page": "Philippines"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Filipino",
+            "links": [
+              {
+                "text": "Filipino",
+                "type": "internal",
+                "page": "Filipino people"
+              }
+            ]
+          },
+          "party": {
+            "text": "KBL (2021–present)",
+            "links": [
+              {
+                "text": "KBL",
+                "type": "internal",
+                "page": "Kilusang Bagong Lipunan"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "PDP–Laban (until 2021)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "PDP–Laban"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://news.abs-cbn.com/news/05/19/19/halalanresults-teddy-baguilat-loses-bid-for-ifugao-governor",
+          "title": "#HalalanResults: Teddy Baguilat loses bid for Ifugao governor",
+          "website": "ABS-CBN News",
+          "access-date": "2019-08-07",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://pia.gov.ph/news/articles/1022072",
+          "title": "Newly elected provincial officials in Cordillera proclaimed",
+          "date": "May 17, 2019",
+          "first": "Redjie Melvic M.",
+          "last": "Cawis",
+          "website": "pia.gov.ph",
+          "language": "en",
+          "access-date": "2019-08-07",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pna.gov.ph/articles/1033770",
+          "title": "Banaue town gov't moves to preserve famed Rice Terraces",
+          "website": "www.pna.gov.ph",
+          "language": "en",
+          "access-date": "2019-08-07",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "current philippine governors"
+        },
+        {
+          "template": "philippines-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Province of Banaue Official Website",
+            "links": [
+              {
+                "text": "Province of Banaue",
+                "type": "external",
+                "site": "http://www.banaue.gov.ph/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "title": "Claude Bautista",
+  "pageID": 61496015,
+  "categories": [
+    "Living people",
+    "People from Davao Occidental",
+    "Hugpong ng Pagbabago politicians",
+    "Year of birth missing (living people)",
+    "Governors of Davao Occidental",
+    "Members of the House of Representatives of the Philippines from Davao del Sur"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Claude \"Auding\" Peralta Bautista is a Filipino politician from the province of Davao Occidental, Philippines.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Davao Occidental"
+                },
+                {
+                  "type": "internal",
+                  "page": "Philippines"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Claude \"Auding\" Peralta Bautista"
+                ]
+              }
+            },
+            {
+              "text": "He was first elected as Governor in 2016 and was re-elected in 2019."
+            },
+            {
+              "text": "He was also the former Congressman of the province from 2001 to 2007."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Peralta",
+            "Bautista"
+          ],
+          "template": "philippine name"
+        },
+        {
+          "description": "Filipino politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "text": "The Honorable",
+                "type": "internal",
+                "page": "Honorable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Claude P. Bautista"
+          },
+          "office": {
+            "text": "Member of the Philippine House of Representatives from the Lone District of Davao Occidental",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Philippine House of Representatives"
+              },
+              {
+                "text": "Lone District of Davao Occidental",
+                "type": "internal",
+                "page": "Legislative district of Davao Occidental"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 30, 2022"
+          },
+          "predecessor": {
+            "text": "Lorna Bautista-Bandigan"
+          },
+          "order2": {
+            "text": "1st"
+          },
+          "office2": {
+            "text": "Governor of Davao Occidental"
+          },
+          "president2": {
+            "text": "Rodrigo Duterte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rodrigo Duterte"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "June 30, 2016"
+          },
+          "term_end2": {
+            "text": "June 30, 2022"
+          },
+          "predecessor2": {
+            "text": "Franklin Bautista",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Franklin Bautista"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Franklin Bautista"
+          },
+          "office3": {
+            "text": "Governor of Davao del Sur",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Davao del Sur"
+              }
+            ]
+          },
+          "president3": {
+            "text": "Benigno Aquino III",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Benigno Aquino III"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "June 30, 2013"
+          },
+          "term_end3": {
+            "text": "June 30, 2016"
+          },
+          "predecessor3": {
+            "text": "Douglas Cagas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Douglas Cagas"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Douglas Cagas"
+          },
+          "office4": {
+            "text": "Member of the Philippine House of Representatives from the 2nd District of Davao del Sur",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Philippine House of Representatives"
+              },
+              {
+                "text": "2nd District of Davao del Sur",
+                "type": "internal",
+                "page": "Legislative district of Davao del Sur",
+                "anchor": "2nd District (defunct)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "June 30, 2001"
+          },
+          "term_end4": {
+            "text": "June 30, 2007"
+          },
+          "predecessor4": {
+            "text": "Franklin Bautista",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Franklin Bautista"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Franklin Bautista",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Franklin Bautista"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Davao Occidental, Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Davao Occidental"
+              },
+              {
+                "type": "internal",
+                "page": "Philippines"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Filipino",
+            "links": [
+              {
+                "text": "Filipino",
+                "type": "internal",
+                "page": "Filipino people"
+              }
+            ]
+          },
+          "party": {
+            "text": "Hugpong ng Pagbabago",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hugpong ng Pagbabago"
+              }
+            ]
+          },
+          "relations": {
+            "text": "Benjamin Bautista Sr. (father) Lorna Bautista-Bandigan (sister) Franklin Bautista (brother)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Franklin Bautista"
+              }
+            ]
+          },
+          "children": {
+            "text": "Claudine Diana Bautista-Lim"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://mindanao.politics.com.ph/gov-claude-bautistas-daughter-is-an-advocate-of-women-empowerment/",
+          "title": "Gov. Claude Bautista’s daughter is an advocate of women empowerment",
+          "date": "2018-08-31",
+          "website": "Politiko Mindanao",
+          "language": "en-US",
+          "access-date": "2019-08-12",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.rappler.com/nation/politics/elections/2016/108980-candidates-davao-occidental-bautista-family",
+          "title": "Candidates in new Davao Occidental province come from one family",
+          "last": "Caduaya",
+          "first": "Editha Z.",
+          "website": "Rappler",
+          "language": "en",
+          "access-date": "2019-08-12",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://news.mb.com.ph/2017/10/30/gov-calls-for-unity-in-davao-occidental",
+          "title": "Gov calls for unity in Davao Occidental",
+          "website": "Manila Bulletin News",
+          "language": "en-US",
+          "access-date": "2019-08-12",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "current philippine governors"
+        },
+        {
+          "template": "philippines-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Province of Davao Occidental Official Website",
+            "links": [
+              {
+                "text": "Province of Davao Occidental",
+                "type": "external",
+                "site": "https://davaooccidental.gov.ph/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
