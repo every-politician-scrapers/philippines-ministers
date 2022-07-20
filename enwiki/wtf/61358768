@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Amado \"Pogi\" Ignacio Espino III (born November 26, 1977) is a Filipino politician from Pangasinan, Philippines.",
+              "text": "Amado Espino III is a Filipino politician from Pangasinan, Philippines.",
               "links": [
                 {
                   "type": "internal",
@@ -28,7 +28,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Amado \"Pogi\" Ignacio Espino III"
+                  "Amado Espino III"
                 ]
               }
             },
@@ -51,13 +51,6 @@
         {
           "description": "Filipino politician",
           "template": "short description"
-        },
-        {
-          "list": [
-            "Ignacio",
-            "Espino"
-          ],
-          "template": "philippine name"
         },
         {
           "year": "1977",
@@ -129,6 +122,10 @@
               {
                 "type": "internal",
                 "page": "Bautista, Pangasinan"
+              },
+              {
+                "type": "internal",
+                "page": "Philippines"
               }
             ]
           },

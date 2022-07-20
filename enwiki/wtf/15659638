@@ -70,7 +70,14 @@
         {
           "sentences": [
             {
-              "text": "Moreno entered politics in 1998, and ran for city councilor and was elected for three consecutive terms in topnotch victories."
+              "text": "Moreno entered politics in 1998, and ran for city councilor and was elected for three consecutive terms in topnotch victories.",
+              "links": [
+                {
+                  "text": "city councilor",
+                  "type": "internal",
+                  "page": "Manila City Council"
+                }
+              ]
             },
             {
               "text": "In 2007, he ran as vice mayor of Manila and was elected for three consecutive terms."
@@ -137,6 +144,11 @@
               "text": "Moreno is also noted for his streetwise public image due to his use of colorful language coupled with Manila street slang.",
               "links": [
                 {
+                  "text": "streetwise",
+                  "type": "internal",
+                  "page": "know-how"
+                },
+                {
                   "text": "slang",
                   "type": "internal",
                   "page": "slang"
@@ -152,12 +164,22 @@
               }
             },
             {
-              "text": "His political career has been met with positive to mixed critical reception, with praise for his political will, efficiency, hands-on leadership, and results-oriented performance, but criticism for his sporadic spontaneous outspoken remarks, over-the-top populist tendencies, and lack of permanence to a national political party, although he remained a constant member since the inception of Asenso Manileño, a local party he co-founded.",
+              "text": "His political career has been met with positive to mixed critical reception, with praise for his political will, efficiency, hands-on leadership, people skills, and results-oriented performance, but criticism for his sporadic spontaneous outspoken remarks, over-the-top populist tendencies, and lack of permanence to a national political party, although he remained a constant member since the inception of Asenso Manileño, a local party he co-founded.",
               "links": [
                 {
                   "text": "political will",
                   "type": "internal",
                   "page": "political will"
+                },
+                {
+                  "text": "efficiency",
+                  "type": "internal",
+                  "page": "efficiency"
+                },
+                {
+                  "text": "people skills",
+                  "type": "internal",
+                  "page": "people skills"
                 },
                 {
                   "text": "populist",
@@ -5060,7 +5082,7 @@
         {
           "sentences": [
             {
-              "text": "In October 2020, Moreno signed an ordinance protecting members of the LGBT community from discrimination and abuse, including the denial of employment and other opportunities on the basis of the person's sexual gender identity.",
+              "text": "In October 2020, Moreno signed Ordinance 8695 protecting members of the LGBT community from any and all forms of discrimination and abuse, including the denial of employment and other opportunities on the basis of the person's sexual orientation, gender identity, and expression.",
               "links": [
                 {
                   "type": "internal",
@@ -5132,6 +5154,94 @@
           "url": "https://newsinfo.inquirer.net/1545547/isko-moreno-says-he-respects-same-sex-union-lgbtqi-not-only-recognized-they-part-of-my-governance",
           "work": "Philippine Daily Inquirer",
           "access-date": "April 14, 2022",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Women's rights",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In November 20220, Moreno signed into law Ordinance 8681 known as the \"Gender and Development Code of the City of Manila or the \"GAD Code\" which prohibits and classifies cursing, ridiculing, catcalling, and wolf-whistling on women as forms of sexual harassment, along with acts like repeatedly asking for dates despite verbal rejections, making offensive hand gestures or persistently telling \"green jokes\" to someone who finds it offensive or humiliating. It also mandates the city government to provide comprehensive support to survivors of violence, which includes immediate conduct of investigations, free counseling and medical services, and creation of community-based psychological programs and support groups. Women Crisis Centers in key districts of Manila shall also be established. Additionally, the ordinance increased maternity leave benefits from 65 days under Republic Act 11210 to 105 days and paternity leave benefits for fathers' participation in the aid of their newborn child for 14 days from the seven days mandated by law under Republic Act 8187.",
+              "links": [
+                {
+                  "text": "catcalling",
+                  "type": "internal",
+                  "page": "catcalling"
+                },
+                {
+                  "text": "wolf-whistling",
+                  "type": "internal",
+                  "page": "wolf-whistling"
+                }
+              ]
+            },
+            {
+              "text": "It further provides for a yearly 12-day menstrual/menopausal leave for women employees in private offices and commercial/industrial establishments located in the city, who have rendered at least one year continuous service."
+            },
+            {
+              "text": "The ordinance also mandates the barangay GAD committee to organize elderly women within the barangay to advance their practical and strategic interests and needs.",
+              "links": [
+                {
+                  "text": "barangay",
+                  "type": "internal",
+                  "page": "barangay"
+                }
+              ]
+            },
+            {
+              "text": "Beauty contests which tend to commodify, abuse, humiliate and treat other persons especially women and homosexual as sex objects shall strictly be prohibited in schools, communities, barangays and the city government in its special celebrations."
+            },
+            {
+              "text": "The city and the barangay council are also mandated to ensure that at least one-third of its members is composed of women."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Moreno has praised the country's female medical and health workers as well as the other women frontliners in various fields, acknowledging their roles as \"critical and crucial as much as their male counterparts\" in the response against COVID-19."
+            },
+            {
+              "text": "He also lauded the mothers who need to leave their families in order to fulfill their duties as frontliners."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Manila approves gender code to expand benefits, protect violence survivors",
+          "url": "https://www.cnnphilippines.com/news/2020/11/10/Manila-approves-gender-code-to-expand-benefits-protect-violence-survivors--.html",
+          "date": "November 10, 2022",
+          "publisher": "CNN Philippines Staff",
+          "website": "CNN Philippines",
+          "access-date": "November 10, 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Isko Moreno hails women frontliners in fight vs COVID-19",
+          "url": "https://newsinfo.inquirer.net/1565329/isko-moreno-hails-women-frontliners-in-fight-vs-covid-19",
+          "date": "March 8, 2022",
+          "last": "Gutierrez",
+          "first": "Dennis",
+          "work": "Philippine Daily Inquirer",
+          "access-date": "March 8, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Mayor Isko pays tribute to women frontliners, vows equal opportunities on Int'l Women's Day",
+          "url": "https://mb.com.ph/2022/03/08/mayor-isko-pays-tribute-to-women-frontliners-vows-equal-opportunities-on-intl-womens-day/",
+          "date": "March 8, 2022",
+          "last": "Ramos",
+          "first": "Jaleen",
+          "work": "Manila Bulletin",
+          "access-date": "March 8, 2022",
           "template": "citation",
           "type": "news"
         }
@@ -6158,6 +6268,11 @@
               "text": "Moreno is also known for his streetwise image through his frequent use of Manila street slang, even in media interviews, to engage the masses especially the younger generation, thus, earning the alias \"Yorme\" when he assumed office as city mayor in 2019.",
               "links": [
                 {
+                  "text": "streetwise",
+                  "type": "internal",
+                  "page": "know-how"
+                },
+                {
                   "text": "slang",
                   "type": "internal",
                   "page": "slang"
@@ -6270,10 +6385,10 @@
         {
           "sentences": [
             {
-              "text": "Moreno's inner circle has described his work ethic as \"proactive\" and \"workaholic\", and his leadership style as \"obsessive\"."
+              "text": "Moreno's inner circle has described his work ethic as \"proactive\" and \"workaholic\", while his leadership style as \"obsessive\"."
             },
             {
-              "text": "On the other hand, his colleagues and supporters describe him as a \"visionary\"."
+              "text": "On the other hand, his colleagues and supporters describe him as a \"visionary\" and \"brilliant\"."
             }
           ]
         }
@@ -6370,6 +6485,16 @@
           "date": "December 1, 2021",
           "work": "The Philippine Star",
           "access-date": "December 1, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "‘Brilliant’: Political analysts laud Isko’s campaign ad",
+          "url": "https://news.abs-cbn.com/news/09/22/21/brilliant-political-analysts-laud-iskos-campaign-ad",
+          "date": "September 22, 2021",
+          "publisher": "ABS-CBN News",
+          "website": "ABS-CBN",
+          "access-date": "September 22, 2021",
           "template": "citation",
           "type": "news"
         },
