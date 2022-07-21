@@ -1367,7 +1367,7 @@
         {
           "sentences": [
             {
-              "text": "Moreno started his political career when he was elected and sworn in as councilor under the slate of then-Mayor Lito Atienza for Manila's first legislative district in 1998 at age 23, the youngest ever elected councilor in Manila's history.",
+              "text": "Moreno started his political career when he was elected and sworn in as councilor under the slate of then-Mayor Lito Atienza for Manila's first legislative district in 1998 at age 23, the youngest elected councilor in Manila's history at the time.",
               "links": [
                 {
                   "text": "councilor",
@@ -1738,7 +1738,13 @@
               "text": "Moreno said that he was only the signatory to the disbursement of the city council's employees and that the Office of the City Treasurer was the one who disburses employee salaries."
             },
             {
-              "text": "The Manila regional trial court also ordered the reinstatement of Moreno's employees whom the court declared as unlawfully terminated by then-Mayor Lim."
+              "text": "The Manila Regional Trial Court also ordered the reinstatement of Moreno's employees whom the court declared as unlawfully terminated by then-Mayor Lim.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Regional Trial Court"
+                }
+              ]
             },
             {
               "text": "Judge Daniel Villanueva dismissed the then-mayor's allegations that some of the terminated workers could be ghost employees."
@@ -2383,7 +2389,7 @@
               ]
             },
             {
-              "text": "On October 11, 2018, he officially resigned from this post to run for mayor of Manila in the 2019 elections and challenge his former ally incumbent Mayor Joseph Estrada.",
+              "text": "On October 11, 2018, he officially resigned from this post to run for mayor of Manila in the 2019 elections and challenge his former ally incumbent Mayor Joseph Estrada, with incumbent Vice Mayor Honey Lacuna as his running mate.",
               "links": [
                 {
                   "text": "mayor of Manila",
@@ -2664,6 +2670,11 @@
                   "page": "meritocracy"
                 },
                 {
+                  "text": "City Hall",
+                  "type": "internal",
+                  "page": "Manila City Hall"
+                },
+                {
                   "text": "regardless of political affiliation",
                   "type": "internal",
                   "page": "nonpartisanism"
@@ -2748,7 +2759,7 @@
               ]
             },
             {
-              "text": "Moreno officially entered retirement from politics afterwards."
+              "text": "Moreno then officially entered retirement from politics amiably afterwards, having served in the government for 24 years."
             }
           ]
         }
@@ -2916,6 +2927,50 @@
           "type": "news"
         },
         {
+          "title": "Isko Moreno asks Manileños to give Lacuna same trust",
+          "url": "https://www.pna.gov.ph/articles/1177502",
+          "date": "June 24, 2022",
+          "last": "Moaje",
+          "first": "Marita",
+          "work": "Philippine News Agency",
+          "access-date": "June 24, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Mayor Isko, Outstanding Manilans honored during Manila's 451st year",
+          "url": "https://mb.com.ph/2022/06/24/mayor-isko-outstanding-manilans-honored-during-manilas-451st-year/",
+          "date": "June 24, 2022",
+          "last": "Yalao",
+          "first": "Khriscielle",
+          "work": "Manila Bulletin",
+          "access-date": "June 24, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "City dads pay Isko tribute",
+          "url": "https://tribune.net.ph/index.php/2022/06/27/city-dads-pay-isko-tribute/",
+          "date": "June 27, 2022",
+          "last": "Santos",
+          "first": "Pat C.",
+          "work": "Daily Tribune",
+          "access-date": "June 27, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Moreno bids goodbye, Lacuna takes oath",
+          "url": "https://www.philstar.com/nation/2022/06/29/2191572/moreno-bids-goodbye-lacuna-takes-oath-",
+          "date": "June 29, 2022",
+          "last": "Cayabyab",
+          "first": "Marc Jayson",
+          "work": "The Philippine Star",
+          "access-date": "June 29, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "title": "Salamat, Doc Willie... for Yorme Isko!",
           "url": "https://www.philstar.com/opinion/2022/05/03/2178300/salamat-doc-willie-yorme-isko",
           "date": "May 3, 2022",
@@ -2935,7 +2990,7 @@
         {
           "sentences": [
             {
-              "text": "Moreno signed an ordinance that gives a monthly allowance of ₱1000 to each student of the Pamantasan ng Lungsod ng Maynila and Universidad de Manila.",
+              "text": "Moreno signed an ordinance that gives a monthly allowance of ₱1000 to each student of the Pamantasan ng Lungsod ng Maynila and Universidad de Manila, the first in the country.",
               "links": [
                 {
                   "text": "Pamantasan ng Lungsod ng Maynila",
@@ -2962,7 +3017,7 @@
         {
           "sentences": [
             {
-              "text": "Senior citizens, persons with disabilities (PWDs), and solo parents who reside in the capital are entitled to a ₱500 monthly allowance."
+              "text": "Senior citizens, persons with disabilities (PWDs), and solo parents who reside in the capital are entitled to a ₱500 monthly allowance by the city government."
             },
             {
               "text": "The elderly also would receive ₱800 and a cake as a birthday gift from the city government, on top of their ₱500 monthly allowance."
@@ -3036,6 +3091,11 @@
               "text": "In 2020, as a prerogative to ease the economic effects of the COVID-19 pandemic after then-President Rodrigo Duterte declared that the national government was running out of funds to provide aid, a portion of the land where the Divisoria Public Market is situated, a patrimonial property which is a part of the old Divisoria Mall, was sold by the city government of Manila headed by Moreno to private company Festina Holdings Inc. The decision was made after the recommendation of the city's Assets Management Committee when it was tasked to look for assets in the city that are \"white elephants\", idle, underutilized and not beneficial anymore.",
               "links": [
                 {
+                  "text": "economic effects of the COVID-19 pandemic",
+                  "type": "internal",
+                  "page": "Economic impact of the COVID-19 pandemic"
+                },
+                {
                   "text": "white elephants",
                   "type": "internal",
                   "page": "white elephant"
@@ -3055,7 +3115,7 @@
               "text": "Aside from the low monthly earnings from the lease, the city government also has been earning less for years as the stall owners were also remiss in paying their daily rent."
             },
             {
-              "text": "The city government emphasized that the decision was advantageous for the city since it earned more from the sale of the Divisoria Market than the rent it has earned for more than 25 years because the sale price of ₱1.45 billion was higher than the Commission on Audit's valuation of the property at ₱173.136 per square meter.",
+              "text": "The city government emphasized that the decision was advantageous for the city since it earned more from the sale of the Divisoria market than the rent it has earned for more than 25 years because the sale price of ₱1.45 billion was higher than the Commission on Audit's valuation of the property at ₱173.136 per square meter.",
               "links": [
                 {
                   "text": "Commission on Audit",
@@ -3083,7 +3143,7 @@
               "text": "Moreover, the city government ensures to impose conditions on how to protect the vendors, including that they should not be removed and that rent should not increase."
             },
             {
-              "text": "Payment obtained from the sale of the \"underutilized\" and \"least beneficial\" Divisoria Market was used for putting up the Manila field hospital and 12 quarantine facilities, housing projects, procurement of antiviral medicines and food packs for the 700,000 households of the city."
+              "text": "Payment obtained from the sale of the \"underutilized\" and \"least beneficial\" Divisoria market was used for putting up the Manila field hospital and 12 quarantine facilities, housing projects, procurement of antiviral medicines and food packs for the 700,000 households of the city."
             },
             {
               "text": "During the 2022 election, almost two years after the sale was settled, the subject matter resurfaced after Manila mayoral candidate Alex Lopez, son of Mel Lopez, alleged that its sale lacked transparency and threatened to press charges against Moreno and the city council.",
@@ -3107,6 +3167,10 @@
             {
               "text": "Lopez ultimately lost in his mayoral bid to Moreno's ally and outgoing vice mayor Honey Lacuna in a landslide victory.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Honey Lacuna"
+                },
                 {
                   "text": "landslide victory",
                   "type": "internal",
@@ -3659,11 +3723,22 @@
                   "text": "state of calamity",
                   "type": "internal",
                   "page": "state of calamity (Philippines)"
+                },
+                {
+                  "type": "internal",
+                  "page": "COVID-19"
                 }
               ]
             },
             {
-              "text": "Moreno also slept in his office for three months starting March 15 to oversee the city government's COVID-19 pandemic response."
+              "text": "Moreno also slept in his office for three months starting March 15 to oversee the city government's COVID-19 pandemic response.",
+              "links": [
+                {
+                  "text": "COVID-19 pandemic",
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in the Philippines"
+                }
+              ]
             }
           ]
         },
@@ -4301,6 +4376,16 @@
           "type": "news"
         },
         {
+          "title": "IN PHOTOS: The 12th City Council of Manila passed a resolution honoring former Mayor Isko Moreno Domagoso",
+          "url": "https://manila.gov.ph/in-photos-the-12th-city-council-of-manila-passed-a-resolution-honoring-former-mayor-isko-moreno-domagoso/",
+          "date": "July 15, 2022",
+          "publisher": "Manila City Government",
+          "website": "City of Manila: Lungsod ng Maynila",
+          "access-date": "July 15, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "date": "March 27, 2020",
           "title": "Mandaluyong, Manila gov't employees to get early 13th-month, midyear pay during community quarantine",
           "work": "CNN Philippines",
@@ -4718,12 +4803,17 @@
               "text": "He garnered 1,933,909 votes and conceded."
             },
             {
-              "text": "His campaign has been observed to have been affected by his lack of political machinery and insufficient counter to overwhelming disinformation against him.",
+              "text": "His campaign has been observed to have been affected by his lack of political machinery, minimal media coverage, and insufficient counter to overwhelming disinformation against him.",
               "links": [
                 {
                   "text": "political machinery",
                   "type": "internal",
                   "page": "Political machine"
+                },
+                {
+                  "text": "media coverage",
+                  "type": "internal",
+                  "page": "media coverage"
                 },
                 {
                   "text": "disinformation",
@@ -5166,8 +5256,13 @@
         {
           "sentences": [
             {
-              "text": "In November 20220, Moreno signed into law Ordinance 8681 known as the \"Gender and Development Code of the City of Manila or the \"GAD Code\" which prohibits and classifies cursing, ridiculing, catcalling, and wolf-whistling on women as forms of sexual harassment, along with acts like repeatedly asking for dates despite verbal rejections, making offensive hand gestures or persistently telling \"green jokes\" to someone who finds it offensive or humiliating. It also mandates the city government to provide comprehensive support to survivors of violence, which includes immediate conduct of investigations, free counseling and medical services, and creation of community-based psychological programs and support groups. Women Crisis Centers in key districts of Manila shall also be established. Additionally, the ordinance increased maternity leave benefits from 65 days under Republic Act 11210 to 105 days and paternity leave benefits for fathers' participation in the aid of their newborn child for 14 days from the seven days mandated by law under Republic Act 8187.",
+              "text": "In November 2020, Moreno signed into law Ordinance 8681 known as the \"Gender and Development Code of the City of Manila\" or the \"GAD Code\" which prohibits and classifies cursing, ridiculing, catcalling, and wolf-whistling on women as forms of sexual harassment, along with acts like repeatedly asking for dates despite verbal rejections, making offensive hand gestures or persistently telling \"green jokes\" to someone who finds it offensive or humiliating.",
               "links": [
+                {
+                  "text": "cursing",
+                  "type": "internal",
+                  "page": "profanity"
+                },
                 {
                   "text": "catcalling",
                   "type": "internal",
@@ -5181,7 +5276,57 @@
               ]
             },
             {
-              "text": "It further provides for a yearly 12-day menstrual/menopausal leave for women employees in private offices and commercial/industrial establishments located in the city, who have rendered at least one year continuous service."
+              "text": "It also mandates the city government to provide comprehensive support to survivors of violence, which includes immediate conduct of investigations, free counseling and medical services, and creation of community-based psychological programs and support groups.",
+              "links": [
+                {
+                  "text": "community-based",
+                  "type": "internal",
+                  "page": "community-based management"
+                },
+                {
+                  "text": "support groups",
+                  "type": "internal",
+                  "page": "support group"
+                }
+              ]
+            },
+            {
+              "text": "Women Crisis Centers in key districts of Manila shall also be established."
+            },
+            {
+              "text": "Additionally, the ordinance increased maternity leave benefits from 65 days under Republic Act 11210 to 105 days and paternity leave benefits for fathers' participation in the aid of their newborn child for 14 days from the seven days mandated by law under Republic Act 8187.",
+              "links": [
+                {
+                  "text": "maternity leave",
+                  "type": "internal",
+                  "page": "maternity leave"
+                },
+                {
+                  "text": "paternity leave",
+                  "type": "internal",
+                  "page": "paternity leave"
+                }
+              ]
+            },
+            {
+              "text": "It further provides for a yearly 12-day menstrual/menopausal leave for women employees in private offices and commercial/industrial establishments located in the city, who have rendered at least one year continuous service.",
+              "links": [
+                {
+                  "text": "menstrual",
+                  "type": "internal",
+                  "page": "menstrual leave"
+                },
+                {
+                  "text": "menopausal",
+                  "type": "internal",
+                  "page": "menopause in the workplace"
+                },
+                {
+                  "text": "leave",
+                  "type": "internal",
+                  "page": "paid leave"
+                }
+              ]
             },
             {
               "text": "The ordinance also mandates the barangay GAD committee to organize elderly women within the barangay to advance their practical and strategic interests and needs.",
@@ -5194,7 +5339,14 @@
               ]
             },
             {
-              "text": "Beauty contests which tend to commodify, abuse, humiliate and treat other persons especially women and homosexual as sex objects shall strictly be prohibited in schools, communities, barangays and the city government in its special celebrations."
+              "text": "Beauty contests which tend to commodify, abuse, humiliate and treat other persons especially women and homosexual as sex objects shall strictly be prohibited in schools, communities, barangays and the city government in its special celebrations.",
+              "links": [
+                {
+                  "text": "Beauty contests",
+                  "type": "internal",
+                  "page": "Beauty pageant"
+                }
+              ]
             },
             {
               "text": "The city and the barangay council are also mandated to ensure that at least one-third of its members is composed of women."
@@ -5204,10 +5356,47 @@
         {
           "sentences": [
             {
-              "text": "Moreno has praised the country's female medical and health workers as well as the other women frontliners in various fields, acknowledging their roles as \"critical and crucial as much as their male counterparts\" in the response against COVID-19."
+              "text": "Moreno has praised the country's female medical and health workers as well as the other women frontliners in various fields, acknowledging their roles as \"critical and crucial as much as their male counterparts\" in the country's response against COVID-19.",
+              "links": [
+                {
+                  "text": "medical and health workers",
+                  "type": "internal",
+                  "page": "Impact of the COVID-19 pandemic on healthcare workers"
+                },
+                {
+                  "text": "frontliners",
+                  "type": "internal",
+                  "page": "front line"
+                }
+              ]
             },
             {
               "text": "He also lauded the mothers who need to leave their families in order to fulfill their duties as frontliners."
+            },
+            {
+              "text": "Moreno also recognized the efforts of his then-vice mayor Honey Lacuna, the first ever elected female vice mayor in the history of Manila, calling her an \"effective leader who has taken solid steps in gender equality and women empowerment\" and described her as like an older sister to him.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Honey Lacuna"
+                },
+                {
+                  "text": "gender equality",
+                  "type": "internal",
+                  "page": "gender equality"
+                },
+                {
+                  "text": "women empowerment",
+                  "type": "internal",
+                  "page": "women empowerment"
+                }
+              ]
+            },
+            {
+              "text": "He gave Lacuna executive functions on a par with his mayoral duties."
+            },
+            {
+              "text": "During Moreno's term as mayor, almost 50 percent of the City Hall's employees are women."
             }
           ]
         }
@@ -5216,7 +5405,7 @@
         {
           "title": "Manila approves gender code to expand benefits, protect violence survivors",
           "url": "https://www.cnnphilippines.com/news/2020/11/10/Manila-approves-gender-code-to-expand-benefits-protect-violence-survivors--.html",
-          "date": "November 10, 2022",
+          "date": "November 10, 2020",
           "publisher": "CNN Philippines Staff",
           "website": "CNN Philippines",
           "access-date": "November 10, 2020",
@@ -5242,6 +5431,17 @@
           "first": "Jaleen",
           "work": "Manila Bulletin",
           "access-date": "March 8, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Lacuna excels as Manila’s vice mayor",
+          "url": "https://journal.com.ph/lacuna-excels-as-manilas-vice-mayor/",
+          "date": "March 22, 2021",
+          "last": "Cabayan",
+          "first": "Itchie G.",
+          "work": "People's Journal",
+          "access-date": "March 22, 2021",
           "template": "citation",
           "type": "news"
         }
@@ -6309,6 +6509,11 @@
                   "page": "social media"
                 },
                 {
+                  "text": "charisma",
+                  "type": "internal",
+                  "page": "charisma"
+                },
+                {
                   "text": "commoner",
                   "type": "internal",
                   "page": "commoner"
@@ -6385,7 +6590,7 @@
         {
           "sentences": [
             {
-              "text": "Moreno's inner circle has described his work ethic as \"proactive\" and \"workaholic\", while his leadership style as \"obsessive\"."
+              "text": "Moreno's inner circle has described his work ethic as \"proactive\" and \"workaholic\", and his leadership style as \"obsessive\"."
             },
             {
               "text": "On the other hand, his colleagues and supporters describe him as a \"visionary\" and \"brilliant\"."
@@ -7397,6 +7602,10 @@
         }
       ],
       "templates": [
+        {
+          "template": "election box",
+          "candidates": []
+        },
         {
           "template": "election box",
           "candidates": []
