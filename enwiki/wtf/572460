@@ -1436,17 +1436,18 @@
         {
           "sentences": [
             {
-              "text": "A young Bongbong Marcos and his sister Imee played a small role in the controversial The Beatles' \"Manila incident\" of July 1966, just six months after their father assumed the presidency.",
+              "text": "A young Bongbong Marcos and his sister Imee played a small role in the controversial \"Manila incident\" of the Beatles in July 1966, just six months after their father assumed the presidency.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "The Beatles"
-                },
                 {
                   "text": "Manila incident",
                   "type": "internal",
                   "page": "The Beatles' 1966 tour of Germany, Japan and the Philippines",
                   "anchor": "Philippines"
+                },
+                {
+                  "text": "the Beatles",
+                  "type": "internal",
+                  "page": "the Beatles"
                 }
               ]
             },
@@ -1505,7 +1506,29 @@
         {
           "sentences": [
             {
-              "text": "The incident was brought up in the media again after a 2021 interview between Marcos and Toni Gonzaga, when he was asked about which musicians he idolized, and he casually mentioned that he was friends with Mick Jagger of The Rolling Stones and members of The Beatles.",
+              "text": "The Manila Bulletin reported in 2015 that Marcos had once invited Beatles drummer Ringo Starr to return to the Philippines \"to bring closure\" to the incident.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Manila Bulletin"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ringo Starr"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Manila Bulletin"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The incident was brought up in the media again after a 2021 interview between Marcos and Toni Gonzaga, when he was asked about which musicians he idolized, and he casually mentioned that he was friends with Mick Jagger of The Rolling Stones and members of the Beatles.",
               "links": [
                 {
                   "type": "internal",
@@ -1518,10 +1541,6 @@
                 {
                   "type": "internal",
                   "page": "The Rolling Stones"
-                },
-                {
-                  "type": "internal",
-                  "page": "The Beatles"
                 }
               ]
             }
@@ -1613,6 +1632,7 @@
           "title": "9 things to know about Bongbong Marcos",
           "language": "en",
           "url": "https://www.rappler.com/newsbreak/iq/108932-fast-facts-things-know-bongbong-marcos",
+          "work": "Rappler",
           "access-date": "April 27, 2018",
           "template": "citation",
           "type": "news"
@@ -1659,6 +1679,20 @@
           "website": "AP News",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "last1": "Amio",
+          "first1": "Armin",
+          "last2": "Distor",
+          "first2": "Tessa",
+          "title": "25 things you probably didn't know about Bongbong Marcos",
+          "url": "https://www.pressreader.com/philippines/manila-bulletin/20150914/281659663824631",
+          "access-date": "July 21, 2022",
+          "work": "Manila Bulletin",
+          "via": "PressReader",
+          "date": "September 14, 2015",
+          "template": "citation",
+          "type": "news"
         },
         {
           "date": "March 7, 2018",
@@ -5443,7 +5477,7 @@
         {
           "sentences": [
             {
-              "text": "Marcos is married to Louise \"Liza\" Cacho Araneta, a member of the prominent Araneta family.",
+              "text": "Marcos is married to lawyer Louise \"Liza\" Cacho Araneta, a member of the prominent Araneta family.",
               "links": [
                 {
                   "text": "Louise \"Liza\" Cacho Araneta",
@@ -5508,6 +5542,67 @@
         {
           "sentences": [
             {
+              "text": "Marcos is an avid listener of rock and roll, rhythm and blues, and jazz music.",
+              "links": [
+                {
+                  "text": "rock and roll",
+                  "type": "internal",
+                  "page": "rock and roll"
+                },
+                {
+                  "text": "rhythm and blues",
+                  "type": "internal",
+                  "page": "rhythm and blues"
+                },
+                {
+                  "text": "jazz",
+                  "type": "internal",
+                  "page": "jazz"
+                }
+              ]
+            },
+            {
+              "text": "He once held a record collection in Malacañang Palace that he described as \"the best record collection in the Philippines\", but left it when his family was exiled from the Philippines in 1986.",
+              "links": [
+                {
+                  "text": "record collection",
+                  "type": "internal",
+                  "page": "Record collecting"
+                }
+              ]
+            },
+            {
+              "text": "He is a fan of the Beatles, citing Sgt. Pepper's Lonely Hearts Club Band as his favorite album of theirs, and often collects the band's memorabilia.",
+              "links": [
+                {
+                  "text": "the Beatles",
+                  "type": "internal",
+                  "page": "the Beatles"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sgt. Pepper's Lonely Hearts Club Band"
+                },
+                {
+                  "text": "the band's memorabilia",
+                  "type": "internal",
+                  "page": "Cultural impact of the Beatles"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Sgt. Pepper's Lonely Hearts Club Band"
+                ]
+              }
+            },
+            {
+              "text": "Marcos exercises regularly and claims to abstain from consuming confections and soft drinks."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
               "text": "On March 31, 2020, Marcos' spokesperson confirmed that Marcos had tested positive for COVID-19.",
               "links": [
                 {
@@ -5518,7 +5613,7 @@
               ]
             },
             {
-              "text": "Prior to getting tested, Marcos was reportedly experiencing chest pains after coming home from a trip from Spain."
+              "text": "Prior to getting tested, Marcos was reportedly experiencing chest pains after coming home from a trip to Spain."
             },
             {
               "text": "He has since recovered from the disease after testing negative on a RT-PCR test on May 5, 2020, a month after testing positive for COVID-19.",
@@ -5539,8 +5634,6 @@
       ],
       "references": [
         {
-          "last": "News",
-          "first": "ABS-CBN",
           "date": "April 22, 2018",
           "title": "Bongbong Marcos marks silver anniversary with wife Liza",
           "url": "https://news.abs-cbn.com/life/04/22/18/bongbong-marcos-marks-silver-anniversary-with-wife-liza",
@@ -5663,14 +5756,14 @@
         {
           "sentences": [
             {
-              "text": "On November 18, 2021, Former Philippine president Rodrigo Duterte claimed in a televised speech that a certain candidate for the 2022 Philippine presidential elections is allegedly using cocaine, hinting at the candidate using male pronouns on several instances.",
+              "text": "On November 18, 2021, President Rodrigo Duterte claimed in a televised speech that a certain candidate for the 2022 Philippine presidential election is allegedly using cocaine, hinting at the candidate using male pronouns on several instances.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Rodrigo Duterte"
                 },
                 {
-                  "text": "2022 Philippine presidential elections",
+                  "text": "2022 Philippine presidential election",
                   "type": "internal",
                   "page": "2022 Philippine presidential election"
                 },
@@ -5688,7 +5781,7 @@
               "text": "Although he did not name the candidate, it was alluded that Duterte was referring to Marcos after he continued on his speech that the male candidate is a \"weak leader\" and has been \"capitalizing on his father's accomplishments\".",
               "links": [
                 {
-                  "text": "father",
+                  "text": "his father",
                   "type": "internal",
                   "page": "Ferdinand Marcos"
                 }
@@ -5702,7 +5795,7 @@
         {
           "sentences": [
             {
-              "text": "Days after Duterte's allegation, Marcos took a cocaine drug test through a urine sample at St. Luke’s Medical Center and submitted the negative result to law enforcement authorities with a follow up online memo by the medical institution confirming the legitimacy of the test.",
+              "text": "Days after Duterte's allegation, Marcos took a cocaine drug test through a urine sample at St. Luke's Medical Center and submitted the negative result to law enforcement authorities with a follow up online memo by the medical institution confirming the legitimacy of the test.",
               "links": [
                 {
                   "text": "drug test",
@@ -5711,7 +5804,7 @@
                 },
                 {
                   "type": "internal",
-                  "page": "St. Luke’s Medical Center"
+                  "page": "St. Luke's Medical Center"
                 }
               ]
             }

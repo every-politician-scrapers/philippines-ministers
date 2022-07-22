@@ -607,6 +607,7 @@
           "archive-url": "https://web.archive.org/web/20161123221812/http://www.rappler.com/thought-leaders/153237-philippines-fencesitting-lgbtiq-rights",
           "archive-date": "November 23, 2016",
           "title": "PH gov't fence-sitting on LGBTIQ rights at UN",
+          "date": "November 23, 2016",
           "template": "citation",
           "type": "web"
         },
@@ -1007,7 +1008,7 @@
           "title": "Teddyboy's tweet sparks word war",
           "authors": "Pocholo Concepcion",
           "date": "October 4, 2016",
-          "work": "Philippine Daily Inquirer",
+          "newspaper": "Philippine Daily Inquirer",
           "url": "http://newsinfo.inquirer.net/821499/teddyboys-tweet-sparks-word-war",
           "template": "citation",
           "type": "news"
@@ -1167,6 +1168,7 @@
           "archive-url": "https://web.archive.org/web/20180214060443/https://www.rappler.com/nation/196018-philippines-rejects-chinese-names-benham-rise-features",
           "archive-date": "February 14, 2018",
           "title": "Philippines rejects Chinese names for Benham Rise features",
+          "date": "February 14, 2018",
           "template": "citation",
           "type": "web"
         },
@@ -1257,7 +1259,7 @@
         {
           "url": "https://globalnation.inquirer.net/189862/tit-for-tat-dfa-chief-to-summon-malaysian-envoy-over-sabah-issue",
           "title": "Tit-for-tat: DFA chief to summon Malaysian envoy over Sabah issue",
-          "work": "Philippine Daily Inquirer",
+          "newspaper": "Philippine Daily Inquirer",
           "date": "July 30, 2020",
           "access-date": "2020-07-30",
           "template": "citation",
