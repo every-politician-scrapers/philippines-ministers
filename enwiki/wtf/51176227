@@ -8,7 +8,8 @@
     "1942 births",
     "Living people",
     "Minority leaders of the House of Representatives of the Philippines",
-    "Governors of Quezon"
+    "Governors of Quezon",
+    "Filipino columnists"
   ],
   "sections": [
     {
@@ -745,8 +746,18 @@
         {
           "sentences": [
             {
-              "text": "He ran for reelection in 2022, but lost to incumbent 4th district representative Angelina \"Helen\" Tan.",
+              "text": "He ran for reelection in 2022, but lost to 4th district representative Angelina \"Helen\" Tan.",
               "links": [
+                {
+                  "text": "2022",
+                  "type": "internal",
+                  "page": "2022 Quezon local elections"
+                },
+                {
+                  "text": "4th district",
+                  "type": "internal",
+                  "page": "Quezon's 4th congressional district"
+                },
                 {
                   "text": "Angelina \"Helen\" Tan",
                   "type": "internal",

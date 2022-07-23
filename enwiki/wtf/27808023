@@ -84,6 +84,10 @@
       ],
       "templates": [
         {
+          "description": "Filipino politician",
+          "template": "short description"
+        },
+        {
           "date": "June 2010",
           "template": "blp sources"
         },

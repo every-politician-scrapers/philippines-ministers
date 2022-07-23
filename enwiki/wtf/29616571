@@ -608,7 +608,7 @@
           "type": "web"
         },
         {
-          "work": "Philippine Daily Inquirer",
+          "newspaper": "Philippine Daily Inquirer",
           "url": "http://www.inquirer.net/duterte/cabinet",
           "title": "Duterte's Cabinet",
           "template": "citation",
@@ -1072,7 +1072,7 @@
           "type": "news"
         },
         {
-          "work": "Philippine Daily Inquirer",
+          "newspaper": "Philippine Daily Inquirer",
           "url": "http://newsinfo.inquirer.net/789135/tv-anchor-to-craft-communication-strategy-for-duterte-admin",
           "title": "Andanar crafts Duterte comms strategy",
           "template": "citation",
@@ -1400,7 +1400,7 @@
           "type": "news"
         },
         {
-          "work": "Philippine Daily Inquirer",
+          "newspaper": "Philippine Daily Inquirer",
           "url": "http://business.inquirer.net/229548/dutertenomics-goes-china",
           "title": "Dutertenomics goes to China",
           "template": "citation",
@@ -1425,7 +1425,7 @@
       ],
       "references": [
         {
-          "work": "Philippine Daily Inquirer",
+          "newspaper": "Philippine Daily Inquirer",
           "url": "http://newsinfo.inquirer.net/921543/bloggers-mocha-uson-department-order-no-15-martin-andanar",
           "title": "Andanar signs department order for social media practitioner accreditation",
           "last": "Corrales",
