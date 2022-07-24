@@ -27,6 +27,7 @@
     "Partido Federal ng Pilipinas politicians",
     "People educated at Worth School",
     "People from Ilocos Norte",
+    "People from Makati",
     "Presidents of the Philippines",
     "Romualdez family",
     "Senators of the 15th Congress of the Philippines",
@@ -732,7 +733,7 @@
             ]
           },
           "website": {
-            "text": "www.bongbongmarcos.com/"
+            "text": "pbbm.com.ph/"
           },
           "signature": {
             "text": "Bongbong Marcos Signature.svg"
@@ -3547,6 +3548,9 @@
               ]
             },
             {
+              "text": "According to analysts, Marcos, together with Sara Duterte, \"inherited\" Rodrigo Duterte's popularity when they both won landslides in the election."
+            },
+            {
               "text": "This is expected to also mark the return of the Marcos family to power for the first time since the People Power Revolution.",
               "links": [
                 {
@@ -3844,6 +3848,18 @@
           "publisher": "The Philippine Inquirer",
           "url": "https://newsinfo.inquirer.net/1602580/vp-elect-sara-duterte-mum-on-why-family-members-absent-during-proclamation",
           "access-date": "May 26, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Manahan",
+          "first1": "Job",
+          "title": "Duterte's popularity, regionalism crystalized votes for Marcos Jr., Sara Duterte: analysts",
+          "url": "https://news.abs-cbn.com/spotlight/05/10/22/solid-north-solid-south-solidified-votes-for-marcos-jr-sara-duterte",
+          "work": "ABS-CBN News",
+          "date": "May 10, 2022",
+          "archive-url": "https://web.archive.org/web/20220512182350/https://news.abs-cbn.com/spotlight/05/10/22/solid-north-solid-south-solidified-votes-for-marcos-jr-sara-duterte",
+          "archive-date": "May 12, 2022",
           "template": "citation",
           "type": "news"
         },
@@ -5491,7 +5507,7 @@
               ]
             },
             {
-              "text": "Marcos and Araneta were married in Fiesole, Italy on April 17, 1993.",
+              "text": "Marcos and Araneta were married in Fiesole, Italy, on April 17, 1993.",
               "links": [
                 {
                   "type": "internal",
@@ -5536,6 +5552,20 @@
                   "page": "Ilocano language"
                 }
               ]
+            },
+            {
+              "text": "The Marcos family maintains a residence in Forbes Park, Makati.",
+              "links": [
+                {
+                  "text": "Forbes Park",
+                  "type": "internal",
+                  "page": "Forbes Park, Makati"
+                },
+                {
+                  "type": "internal",
+                  "page": "Makati"
+                }
+              ]
             }
           ]
         },
@@ -5562,7 +5592,7 @@
               ]
             },
             {
-              "text": "He once held a record collection in Malacañang Palace that he described as \"the best record collection in the Philippines\", but left it when his family was exiled from the Philippines in 1986.",
+              "text": "He once held a record collection in Malacañang Palace that he described as \"the best record collection in the Philippines\" but left it when his family was exiled from the country in 1986.",
               "links": [
                 {
                   "text": "record collection",
@@ -5681,6 +5711,18 @@
           "url": "https://www.rappler.com/nation/elections/will-solid-north-loyalists-help-carry-bongbong-marcos-malacanang-2022-polls/",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last1": "Gonzales",
+          "first1": "Iris",
+          "title": "Billionaires are selling their sprawling Forbes homes",
+          "url": "https://propertyreport.ph/news-and-events/2021/04/16/19331/billionaires-are-selling-their-sprawling-forbes-homes/",
+          "website": "Property Report PH",
+          "publisher": "PhilStar Media Group",
+          "access-date": "July 24, 2022",
+          "date": "April 26, 2021",
+          "template": "citation",
+          "type": "web"
         },
         {
           "title": "ONE News",
