@@ -1,14 +1,3 @@
-@@,itemlabel,item,startdate,enddate
-->,Carlos Dominguez III,Q25350470,1987-03-09,1989-12-31->1989
-->,Roberto Sebastian->Roberto S. Sebastian,Q7351900,1992-06-30,1996-01-31
-->,Salvador Escudero->Salvador H. Escudero III,Q2718322,1996-02-01,1998-06-30
-->,William Dar->William D. Dar,Q8007583,1998-06-30,1999-05-24
-->,Domingo Panganiban->Domingo F. Panganiban,Q1237494,2001-01-08,2001-02-11->2001-01-20
-+++,Domingo F. Panganiban,,2001-01-20,2001-02-11
-->,Leonardo Montemayor->Leonardo Q. Montemayor,Q12967208,2001-02-12,2002-12-08
-->,"Luis P. Lorenzo, Jr->Luis P. Lorenzo, Jr.",Q110915059,2002-12-09,2004-08-15
-->,Arthur Yap->Arthur C. Yap,Q712100,2004-08-23,2005-06-30
-->,Domingo Panganiban->Domingo F. Panganiban,Q1237494,2005-07-16,2006-10-25
-->,Arthur Yap->Arthur C. Yap,Q712100,2006-10-25,2010-02-24
-->,Manny Piñol->Emmanuel Piñol,Q24852423,2016-06-30,2019-08-05
-->,William Dar->William D. Dar,Q8007583,2019-08-05,
+@@,item,itemlabel,startdate,enddate
+->,Q1237494,Domingo F. Panganiban,2001-01-08,2001-02-11->2001-01-20
++++,,Domingo F. Panganiban,2001-01-20,2001-02-11

@@ -1,9 +1,4 @@
 item,itemLabel,startDate,endDate
-Q25350470,Carlos Dominguez III,1987-03-09,1989
-,Senen C. Bacani,1990,1992-06-30
-Q7351900,Roberto S. Sebastian,1992-06-30,1996-01-31
-Q2718322,Salvador H. Escudero III,1996-02-01,1998-06-30
-Q8007583,William D. Dar,1998-06-30,1999-05-24
 Q1284303,Edgardo Angara,1999-05-25,2001-01-06
 ,Domingo F. Panganiban,2001-01-08,2001-01-20
 ,Domingo F. Panganiban,2001-01-20,2001-02-11
@@ -15,4 +10,5 @@ Q712100,Arthur C. Yap,2006-10-25,2010-02-24
 ,Bernie Fondevilla,2010-03-08,2010-06-30
 Q1665903,Proceso Alcala,2010-06-30,2016-06-30
 Q24852423,Emmanuel Piñol,2016-06-30,2019-08-05
-Q8007583,William D. Dar,2019-08-05,
+Q8007583,William D. Dar,2019-08-05,2022-06-30
+Q983324,Ferdinand Marcos Jr.,2022-06-30,
