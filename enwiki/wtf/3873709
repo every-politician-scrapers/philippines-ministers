@@ -333,7 +333,7 @@
             ]
           },
           "name": {
-            "text": "Tito Sotto"
+            "text": "Vicente \"Tito\" Sotto III"
           },
           "image": {
             "text": "Sen. Pres Vicente Sotto (cropped).jpg"
@@ -367,7 +367,7 @@
             ]
           },
           "successor1": {
-            "text": "Juan Miguel Zubiri (presumptive)",
+            "text": "Juan Miguel Zubiri",
             "links": [
               {
                 "type": "internal",
@@ -4971,7 +4971,7 @@
           "template": "s-ttl"
         },
         {
-          "after": "Juan Miguel Zubiri (presumptive)",
+          "after": "Juan Miguel Zubiri",
           "template": "s-aft"
         },
         {

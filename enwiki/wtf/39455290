@@ -1,0 +1,276 @@
+{
+  "title": "Noel Rosal",
+  "pageID": 39455290,
+  "categories": [
+    "1964 births",
+    "Bicolano politicians",
+    "Living people",
+    "People from Legazpi, Albay",
+    "Mayors of places in Albay"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Noel Ebriega Rosal (born January 2, 1964) is a Filipino politician who served as mayor of Legazpi from 2001 until 2010, and again since 2013.",
+              "links": [
+                {
+                  "text": "Legazpi",
+                  "type": "internal",
+                  "page": "Legazpi, Albay"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Noel Ebriega Rosal"
+                ]
+              }
+            },
+            {
+              "text": "He served as City Administrator of the city from 2010 until 2013."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Rosal is married to Carmen Geraldine Rosal, the former mayor of the city."
+            },
+            {
+              "text": "They have three children: Princess, Gerald Noel, and Gilian Noelle."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Filipino politician",
+          "template": "short description"
+        },
+        {
+          "year": "1964",
+          "month": "01",
+          "day": "02",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "The Honorable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honorable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Noel Rosal"
+          },
+          "image": {
+            "text": "Mayor Noel Rosal of Legazpi Albay.jpg"
+          },
+          "image_size": {
+            "text": "220px"
+          },
+          "caption": {
+            "text": "Rosal in 2013"
+          },
+          "order": {
+            "text": "29th"
+          },
+          "office": {
+            "text": "Governor of Albay"
+          },
+          "term_start": {
+            "text": "June 30, 2022"
+          },
+          "predecessor": {
+            "text": "Al Francis Bichara",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Al Francis Bichara"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Mayor of Legazpi",
+            "links": [
+              {
+                "text": "Mayor of Legazpi",
+                "type": "internal",
+                "page": "Legazpi, Albay"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "June 30, 2013"
+          },
+          "term_end2": {
+            "text": "June 30, 2022"
+          },
+          "predecessor2": {
+            "text": "Carmen Geraldine Rosal"
+          },
+          "successor2": {
+            "text": "Carmen Geraldine Rosal"
+          },
+          "term_start3": {
+            "text": "June 30, 2001"
+          },
+          "term_end3": {
+            "text": "June 30, 2010"
+          },
+          "predecessor3": {
+            "text": "Imelda Meneses C. Roces"
+          },
+          "successor3": {
+            "text": "Carmen Geraldine Rosal"
+          },
+          "office4": {
+            "text": "City Administrator of Legazpi",
+            "links": [
+              {
+                "text": "Legazpi",
+                "type": "internal",
+                "page": "Legazpi, Albay"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "June 30, 2010"
+          },
+          "term_end4": {
+            "text": "June 30, 2013"
+          },
+          "predecessor4": {
+            "text": "Edmundo Aragon"
+          },
+          "successor4": {
+            "text": "Vacant"
+          },
+          "birth_date": {
+            "text": "January 2, 1964"
+          },
+          "birth_place": {
+            "text": "Legazpi, Albay, Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Legazpi, Albay"
+              }
+            ]
+          },
+          "party": {
+            "text": "Katipunan ng Nagkakaisang Pilipino",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Katipunan ng Nagkakaisang Pilipino"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Carmen Geraldine Rosal"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "alma_mater": {
+            "text": "Adamson University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Adamson University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Carmen Geraldine Rosal",
+          "template": "s-bef"
+        },
+        {
+          "title": "Mayor of Legazpi City",
+          "years": "2013-Present",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Incumbent",
+          "template": "s-aft"
+        },
+        {
+          "before": "Imelda Roces",
+          "template": "s-bef"
+        },
+        {
+          "title": "Mayor of Legazpi City",
+          "years": "2001-2013",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Carmen Geraldine Rosal",
+          "template": "s-aft"
+        },
+        {
+          "before": "Edmundo Aragon",
+          "template": "s-bef"
+        },
+        {
+          "title": "City Administrator of Legazpi City",
+          "years": "2010-2013",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Vacant",
+          "template": "s-aft"
+        },
+        {
+          "template": "philippines-stub"
+        }
+      ]
+    }
+  ]
+}

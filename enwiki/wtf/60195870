@@ -1,0 +1,396 @@
+{
+  "title": "Ramon Guico III",
+  "pageID": 60195870,
+  "categories": [
+    "1975 births",
+    "Living people",
+    "Mayors of places in Pangasinan",
+    "People from Quezon City",
+    "University of the Philippines Diliman alumni",
+    "Pamantasan ng Lungsod ng Maynila alumni",
+    "Members of the House of Representatives of the Philippines from Pangasinan"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ramon “Mon-Mon” Velicaria Guico III (born March 19, 1975) is a Filipino politician who is the representative for Pangasinan's 5th congressional district.",
+              "links": [
+                {
+                  "text": "Filipino",
+                  "type": "internal",
+                  "page": "Philippines"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pangasinan's 5th congressional district"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ramon “Mon-Mon” Velicaria Guico III"
+                ]
+              }
+            },
+            {
+              "text": "Following the 2022 elections, Guico is the 31st Governor of Pangasinan.",
+              "links": [
+                {
+                  "text": "Governor",
+                  "type": "internal",
+                  "page": "Governor of Pangasinan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pangasinan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Velicaria",
+            "Guico"
+          ],
+          "template": "philippine name"
+        },
+        {
+          "year": "1975",
+          "month": "3",
+          "day": "19",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ramon V. Guico III"
+          },
+          "image": {
+            "text": "Ramon Guico III - 18th Congress.jpg"
+          },
+          "caption": {
+            "text": "Portrait during the 18th Congress",
+            "links": [
+              {
+                "text": "18th Congress",
+                "type": "internal",
+                "page": "18th Congress of the Philippines"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 19, 1975"
+          },
+          "birth_place": {
+            "text": "Quezon City, Metro Manila, Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Quezon City"
+              },
+              {
+                "type": "internal",
+                "page": "Metro Manila"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Filipino",
+            "links": [
+              {
+                "text": "Filipino",
+                "type": "internal",
+                "page": "Filipino people"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Maan Tuazon - Guico"
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "occupation": {
+            "text": "Public Servant",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Public Servant"
+              }
+            ]
+          },
+          "office": {
+            "text": "31st Governor of Pangasinan",
+            "links": [
+              {
+                "text": "31st Governor of Pangasinan",
+                "type": "internal",
+                "page": "Governor of Pangasinan"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 30, 2022"
+          },
+          "predecessor": {
+            "text": "Amado Espino III",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amado Espino III"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the Philippine House of Representatives from the 5th District of Pangasinan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Philippine House of Representatives"
+              },
+              {
+                "type": "internal",
+                "page": "Pangasinan"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "June 30, 2019"
+          },
+          "term_end1": {
+            "text": "June 30, 2022"
+          },
+          "predecessor1": {
+            "text": "Amado Espino Jr.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amado Espino Jr."
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Ramon Guico Jr.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ramon Guico Jr."
+              }
+            ]
+          },
+          "office2": {
+            "text": "Mayor of Binalonan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Binalonan"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "June 30, 2010"
+          },
+          "term_end2": {
+            "text": "June 30, 2019"
+          },
+          "predecessor2": {
+            "text": "Ramon Guico Jr.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ramon Guico Jr."
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Ramon Guico Jr."
+          },
+          "office3": {
+            "text": "Vice-Mayor of Binalonan, Pangasinan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Binalonan"
+              },
+              {
+                "type": "internal",
+                "page": "Pangasinan"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "June 30, 2007"
+          },
+          "term_end3": {
+            "text": "June 30, 2010"
+          },
+          "parents": {
+            "text": "Ramon Naval Guico, Arlyn Grace V. Guico",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ramon Naval Guico"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Guico was born on March 19, 1975 in Quezon City, Philippines.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Quezon City"
+                },
+                {
+                  "type": "internal",
+                  "page": "Philippines"
+                }
+              ]
+            },
+            {
+              "text": "His father, Ramon Guico Jr., is a former Municipal Mayor of Binalonan and the National President of the League of Municipalities of the Philippines from 2001 to 2010.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ramon Guico Jr."
+                },
+                {
+                  "type": "internal",
+                  "page": "League of Municipalities of the Philippines"
+                }
+              ]
+            },
+            {
+              "text": "His mother is Arlyn Grace V. Guico, a pharmacist and President of World Citi, Inc."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He attended Ateneo de Manila University in high school (1993).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ateneo de Manila University"
+                }
+              ]
+            },
+            {
+              "text": "He obtained his bachelor's degree in Philosophy (1997), Certificate in Professional Education, and Master's degree in Education (2004) from the University of the Philippines Diliman.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of the Philippines Diliman"
+                }
+              ]
+            },
+            {
+              "text": "He also earned a doctorate degree in Public Management from the Pamantasan ng Lungsod ng Maynila in 2005.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pamantasan ng Lungsod ng Maynila"
+                }
+              ]
+            },
+            {
+              "text": "He also pursued his interest in aviation and aeronautics and turned it into a profession by becoming a licensed commercial pilot."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "During Guico's term as Municipal Mayor of Binalonan, he was awarded the Most Outstanding Presiding Officer in Pangasinan by the Department of the Interior and Local Government and the Philippine Councilor's League.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Department of the Interior and Local Government"
+                }
+              ]
+            },
+            {
+              "text": "He also introduced the Vision and Mission of Binalonan as well as the Binalonan Hymn with the theme “Maka-Diyos, Marunong, at Malinis”.",
+              "links": [
+                {
+                  "text": "Vision and Mission",
+                  "type": "external",
+                  "site": "https://www.binalonan.gov.ph/about-binalonan/mission-vision-values/"
+                },
+                {
+                  "text": "Binalonan Hymn",
+                  "type": "external",
+                  "site": "https://www.binalonan.gov.ph/about-binalonan/history-of-binalonan/"
+                }
+              ]
+            },
+            {
+              "text": "Binalonan was able to achieve several awards, such as the Seal of Local Good Governance (for the years 2014, 2015, 2017, and 2018) and Most Statistically Developed LGU (2nd Runner-Up, 2013 and 2014) among others."
+            },
+            {
+              "text": "It was also during his term when Binalonan transitioned from 3rd to 1st class municipality."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "current philippine governors"
+        }
+      ]
+    }
+  ]
+}

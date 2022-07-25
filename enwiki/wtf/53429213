@@ -1,0 +1,873 @@
+{
+  "title": "Enrique Manalo",
+  "pageID": 53429213,
+  "categories": [
+    "1952 births",
+    "Living people",
+    "21st-century Filipino politicians",
+    "Ambassadors of the Philippines to the European Union",
+    "Ambassadors of the Philippines to Belgium",
+    "Ambassadors of the Philippines to Ireland",
+    "Ambassadors of the Philippines to Luxembourg",
+    "Ambassadors of the Philippines to the United Kingdom",
+    "Bongbong Marcos cabinet members",
+    "Duterte Administration cabinet members",
+    "Filipino diplomats",
+    "Grand Crosses of the Order of Lakandula",
+    "Permanent Representatives of the Philippines to the United Nations",
+    "Secretaries of Foreign Affairs of the Philippines",
+    "University of the Philippines Manila alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Enrique Austria Manalo (born July 21, 1952) is a Filipino diplomat currently serving as Secretary of Foreign Affairs under the Marcos administration since 2022.",
+              "links": [
+                {
+                  "text": "Secretary of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Secretary of Foreign Affairs (Philippines)"
+                },
+                {
+                  "text": "Marcos administration",
+                  "type": "internal",
+                  "page": "Presidency of Bongbong Marcos"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Enrique Austria Manalo"
+                ]
+              }
+            },
+            {
+              "text": "He previously served in an acting role under the Duterte administration from March 9 to May 17, 2017 when Perfecto Yasay Jr.'s ad-interim appointment confirmation was rejected by the Commission on Appointments due to citizenship issues.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Duterte administration"
+                },
+                {
+                  "type": "internal",
+                  "page": "Perfecto Yasay Jr."
+                },
+                {
+                  "type": "internal",
+                  "page": "Commission on Appointments"
+                }
+              ]
+            },
+            {
+              "text": "He also previously served as Philippine Ambassador to the United Kingdom from 2011 to 2016 and the undersecretary for Policy of the Department of Foreign Affairs from 2016 to 2020, as well as Permanent Representative of the Philippines to the United Nations from 2020 to 2022.",
+              "links": [
+                {
+                  "text": "Philippine Ambassador to the United Kingdom",
+                  "type": "internal",
+                  "page": "List of ambassadors of the Philippines to the United Kingdom"
+                },
+                {
+                  "text": "Department of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Department of Foreign Affairs (Philippines)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Permanent Representative of the Philippines to the United Nations"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "June 2022",
+          "template": "use mdy dates"
+        },
+        {
+          "description": "Filipino diplomat (born 1952)",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "González",
+            "Manalo"
+          ],
+          "template": "philippine name"
+        },
+        {
+          "year": "1952",
+          "month": "07",
+          "day": "21",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Enrique Manalo"
+          },
+          "image": {
+            "text": "Enrique A. Manalo.jpg"
+          },
+          "office": {
+            "text": "Secretary of Foreign Affairs Ad Interim",
+            "links": [
+              {
+                "text": "Secretary of Foreign Affairs",
+                "type": "internal",
+                "page": "Secretary of Foreign Affairs (Philippines)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "July 1, 2022"
+          },
+          "president": {
+            "text": "Bongbong Marcos",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bongbong Marcos"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Teodoro Locsin Jr.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Teodoro Locsin Jr."
+              }
+            ]
+          },
+          "president1": {
+            "text": "Rodrigo Duterte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rodrigo Duterte"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "March 9, 2017"
+          },
+          "term_end1": {
+            "text": "May 17, 2017 (Acting)"
+          },
+          "predecessor1": {
+            "text": "Perfecto Yasay Jr. (Ad interim)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Perfecto Yasay Jr."
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Alan Peter Cayetano",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alan Peter Cayetano"
+              }
+            ]
+          },
+          "order2": {
+            "text": "21st"
+          },
+          "office2": {
+            "text": "Permanent Representative of the Philippines to the United Nations"
+          },
+          "president2": {
+            "text": "Rodrigo Duterte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rodrigo Duterte"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "February 28, 2020"
+          },
+          "term_end2": {
+            "text": "July 1, 2022"
+          },
+          "predecessor2": {
+            "text": "Teodoro Locsin Jr.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Teodoro Locsin Jr."
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Antonio M. Lagdameo"
+          },
+          "office3": {
+            "text": "Undersecretary for Policy of the Department of Foreign Affairs",
+            "links": [
+              {
+                "text": "Department of Foreign Affairs",
+                "type": "internal",
+                "page": "Department of Foreign Affairs (Philippines)"
+              }
+            ]
+          },
+          "president3": {
+            "text": "Benigno Aquino III Rodrigo Duterte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Benigno Aquino III"
+              },
+              {
+                "type": "internal",
+                "page": "Rodrigo Duterte"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "April 30, 2016"
+          },
+          "term_end3": {
+            "text": "February 28, 2020"
+          },
+          "office4": {
+            "text": "[[List of ambassadors of the Philippines to the United Kingdom|Ambassador Extraordinary and Plenipotentiary of the Republic of the Philippines to the United Kingdom]]"
+          },
+          "term_start4": {
+            "text": "2011",
+            "number": 2011
+          },
+          "term_end4": {
+            "text": "2016",
+            "number": 2016
+          },
+          "president4": {
+            "text": "Benigno Aquino III",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Benigno Aquino III"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Antonio M. Lagdameo"
+          },
+          "successor4": {
+            "text": "Evan Garcia"
+          },
+          "birth_date": {
+            "text": "July 21, 1952"
+          },
+          "spouse": {
+            "text": "Pamela Louise Hunt"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "alma_mater": {
+            "text": "University of the Philippines Diliman (BS E.c, M.Ec)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of the Philippines Diliman"
+              },
+              {
+                "text": "BS E.c",
+                "type": "internal",
+                "page": "Bachelor of Economics"
+              },
+              {
+                "text": "M.Ec",
+                "type": "internal",
+                "page": "Master of Economics"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "New Permanent Representative of Philippines Presents Credentials",
+          "url": "https://www.un.org/press/en/2017/bio4956.doc.htm",
+          "accessdate": "3 March 2018",
+          "publisher": "United Nations",
+          "date": "19 April 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Macas",
+          "first1": "Trisha",
+          "last2": "del Callar",
+          "first2": "Michaela",
+          "title": "Duterte appoints Enrique Manalo as acting DFA secretary",
+          "url": "http://www.gmanetwork.com/news/story/602483/news/nation/duterte-appoints-enrique-manalo-as-acting-dfa-secretary",
+          "access-date": "March 18, 2017",
+          "work": "GMA News",
+          "date": "March 9, 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.philstar.com/headlines/2020/02/29/1996919/duterte-names-new-envoy-un-other-appointees",
+          "title": "Duterte names new envoy to UN, other appointees",
+          "last": "Mendez",
+          "first": "Christina",
+          "work": "The Philippine Star",
+          "access-date": "2020-04-01",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "July 1, 2022",
+          "title": "Marcos appoints career diplomat as foreign affairs chief",
+          "work": "CNN Philippines",
+          "url": "https://www.cnnphilippines.com/news/2022/7/1/Enrique-Manalo-DFA-secretary.html",
+          "access-date": "July 1, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Corales",
+          "first1": "Nestor",
+          "title": "Enrique Manalo named acting Foreign Secretary after Yasay rejection",
+          "url": "http://newsinfo.inquirer.net/878998/enrique-manalo-named-dfa-acting-secretary-after-yasay-rejection",
+          "access-date": "March 9, 2017",
+          "work": "Philippine Daily Inquirer",
+          "date": "March 9, 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Manalo was born in Manila to diplomat Armando Manalo and Rosario Manalo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Manila"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rosario Manalo"
+                }
+              ]
+            },
+            {
+              "text": "He attended the University of the Philippines Manila where he obtained both a bachelor's and a master's degree in economics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of the Philippines Manila"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "last1": "Cellona",
+          "first1": "Jonathan",
+          "title": "Duterte names DFA Usec Manalo to replace Yasay",
+          "url": "http://news.abs-cbn.com/news/03/09/17/duterte-names-dfa-usec-manalo-to-replace-yasay",
+          "access-date": "March 18, 2017",
+          "work": "ABS-CBN News",
+          "date": "March 9, 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Lee-Brago",
+          "first1": "Pia",
+          "title": "Career diplomat takes over at DFA",
+          "url": "http://www.philstar.com/headlines/2017/03/10/1679690/career-diplomat-takes-over-dfa",
+          "access-date": "March 10, 2017",
+          "work": "The Philippine Star",
+          "date": "March 10, 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Manalo has been working with the Department of Foreign Affairs since 1979."
+            },
+            {
+              "text": "He began his career in the foreign service as the Special Assistant to the Office of the Deputy Minister of Foreign Affairs from 1979 to 1981."
+            },
+            {
+              "text": "After that, he completed his first tour of duty at the Philippine Mission to the United Nations in Geneva, Switzerland until 1986.",
+              "links": [
+                {
+                  "text": "Geneva, Switzerland",
+                  "type": "internal",
+                  "page": "Geneva"
+                }
+              ]
+            },
+            {
+              "text": "From 1986 to 1989, he was the First Secretary and consul at the Philippine Embassy in Washington, D.C. and then served as the Special Assistant to the First Undersecretary of the Department of Foreign Affairs until 1992.",
+              "links": [
+                {
+                  "text": "Philippine Embassy in Washington, D.C.",
+                  "type": "internal",
+                  "page": "Embassy of the Philippines, Washington, D.C."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 1992 to 1998, he was the Minister Counselor at the Philippine Mission to the United Nations in New York and thereafter, as Assistant Secretary for European Affairs."
+            },
+            {
+              "text": "He was back at the Philippine Mission to the United Nations in New York from 2000 to 2003 serving as its Deputy Permanent Representative (with rank of Ambassador)."
+            },
+            {
+              "text": "He then served as the Permanent Representative of the Philippine Mission to the United Nations and other International Organizations in Geneva, Switzerland from 2003 to 2007.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Geneva, Switzerland"
+                }
+              ]
+            },
+            {
+              "text": "From 2005 to 2007, he served as the elected chairman of the 41st and 42nd session of the World Intellectual Property Organization General Assembly.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "World Intellectual Property Organization"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2007, he was appointed DFA Undersecretary for Policy, serving until 2010."
+            },
+            {
+              "text": "From 2010 to 2011, he served as the Philippine Ambassador to Belgium and Luxembourg and head of the Philippine Mission to the European Union.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Belgium"
+                },
+                {
+                  "type": "internal",
+                  "page": "Luxembourg"
+                },
+                {
+                  "type": "internal",
+                  "page": "European Union"
+                }
+              ]
+            },
+            {
+              "text": "He was ambassador of the Philippines to the United Kingdom from 2011 to 2016 and a non-resident ambassador to Ireland from 2013 to 2016."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In April 2016, he was appointed again as Undersecretary for Policy and on March to May 2017, served as acting Secretary of Foreign Affairs after the rejection of Perfecto Yasay Jr.'s ad-interim appointment by the Commission on Appointments.",
+              "links": [
+                {
+                  "text": "Secretary of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Secretary of Foreign Affairs (Philippines)"
+                }
+              ]
+            },
+            {
+              "text": "In August 2018, Manalo was appointed by President Duterte as the Ambassador of the Philippines to Germany and in February 2020, as the 21st Permanent Representative of the Philippines to the United Nations in New York City, a post that had been left vacant since October 2018 after former Permanent Representative Teodoro Locsin Jr.'s departure to become the Secretary of Foreign Affairs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Duterte"
+                },
+                {
+                  "type": "internal",
+                  "page": "Teodoro Locsin Jr."
+                }
+              ]
+            },
+            {
+              "text": "His appointment was confirmed by the Commission on Appointments on March 4."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2022, Manalo was appointed by President Bongbong Marcos to serve as Secretary of Foreign Affairs, having previously serving the post in an acting capacity, of which he was sworn in on July 1, 2022, succeeding Teodoro Locsin Jr., and eventually vacating the post of permanent representative of the Philippines to the United Nations the same day.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bongbong Marcos"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Jalbuena",
+          "first": "Katrice R.",
+          "date": "September 28, 2008",
+          "title": "Manalo to preside over WIPO meeting",
+          "work": "The Manila Times",
+          "url": "https://books.google.com/books?id=LExaAAAAIBAJ&dq=Enrique+Manalo&pg=PA8&article_id=2987,14242467",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.officialgazette.gov.ph/2011/05/31/ca-confirms-foreign-affairs-secretary-del-rosario-22-new-ambassadors-39-officers/",
+          "title": "CA confirms Foreign Affairs Secretary Del Rosario, 22 new ambassadors, 39 officers",
+          "date": "May 31, 2011",
+          "website": "Official Gazette of the Republic of the Philippines",
+          "url-status": "live",
+          "access-date": "April 2, 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.dfa.ie/ie/nuacht-agus-na-meain/preasraitis/press-release-archive/2013/feb/newambassadorspresentcredentials/new-ambassadors-present-credentials-1.php",
+          "title": "New Ambassadors present Credentials - New Ambassadors present Credentials - Department of Foreign Affairs and Trade",
+          "last": "Department of Foreign Affairs",
+          "website": "www.dfa.ie",
+          "language": "en",
+          "access-date": "2020-04-01",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gmanetwork.com/news/story/602483/news/nation/duterte-appoints-enrique-manalo-as-acting-dfa-secretary/",
+          "title": "Duterte appoints Enrique Manalo as acting DFA secretary",
+          "work": "GMA News",
+          "language": "en-US",
+          "access-date": "2020-04-01",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.gmanetwork.com/news/pinoyabroad/news/663688/ex-dfa-acting-chief-manalo-named-ambassador-to-germany/story/",
+          "title": "Ex-DFA acting chief Manalo named ambassador to Germany",
+          "work": "GMA News",
+          "language": "en-US",
+          "access-date": "2020-04-01",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.gmanetwork.com/news/news/nation/728299/ca-approves-duterte-s-appointment-of-manalo-as-ph-envoy-to-un/story/",
+          "title": "CA approves Duterte's appointment of Manalo as Philippine envoy to UN",
+          "work": "GMA News",
+          "language": "en-US",
+          "access-date": "2020-04-01",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://newsinfo.inquirer.net/1620161/bongbong-marcos-appoints-former-un-diplomat-manalo-as-dfa-secretary",
+          "title": "Bongbong Marcos appoints career diplomat Enrique Manalo as DFA secretary",
+          "work": "Philippine Daily Inquirer",
+          "author": "Mercado, Neil Arwin",
+          "date": "July 1, 2022",
+          "accessdate": "July 2, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Dancel",
+          "first1": "Raul",
+          "title": "Philippine veteran diplomat is acting foreign secretary",
+          "url": "http://www.straitstimes.com/asia/se-asia/philippine-veteran-diplomat-is-acting-foreign-secretary",
+          "access-date": "March 10, 2017",
+          "work": "The Straits Times",
+          "publisher": "Singapore Press Holdings Ltd. Co.",
+          "date": "March 10, 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://budapestpe.dfa.gov.ph/site-administrator/embassy-news/113-acting-secretary-of-foreign-affairs-enrique-a-manalo",
+          "title": "Acting Secretary of Foreign Affairs Enrique A. Manalo",
+          "website": "Embassy of the Philippines in Budapest, Hungary",
+          "url-status": "live",
+          "access-date": "March 2, 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "March 11, 2020",
+          "title": "New Philippine Ambassador Assumes Post",
+          "url": "https://brusselspe.dfa.gov.ph/site-administrator/embassy-news/212-new-philippine-ambassador-assumes-post",
+          "url-status": "live",
+          "access-date": "September 11, 2021",
+          "website": "Embassy of the Philippines in Brussels, Belgium",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Awards and recognition",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Honors and titles conferred on Ambassador Manalo in recognition of his exceptional and distinguished service to the Republic of the Philippines include:"
+            }
+          ]
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Order of Lakandula with rank of Grand Cross (Bayani) (2018)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of Lakandula"
+              }
+            ]
+          },
+          {
+            "text": "Order of Sikatuna with rank of Grand Cross (Datu) (Gold Distinction) (2010)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of Sikatuna"
+              }
+            ]
+          },
+          {
+            "text": "Gawad Mabini with rank of Grand Cross (Dakilang Kamanong) (2017)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gawad Mabini"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "https://pcoo.gov.ph/news_releases/president-duterte-confers-presidential-awards-on-outstanding-dfa-officials/",
+          "title": "President Duterte confers Presidential Awards on outstanding DFA officials",
+          "website": "Presidential Communications Operations Office",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pna.gov.ph/articles/1038573",
+          "title": "6 Filipino diplomats receive PH's highest honors",
+          "website": "www.pna.gov.ph",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://pcoo.gov.ph/news_releases/president-duterte-confers-gawad-mabini-award-upon-6-dfa-officials/",
+          "title": "President Duterte confers Gawad Mabini award upon 6 DFA officials",
+          "website": "Presidential Communications Operations Office",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Manalo is married to Pamela Louise Hunt-Manalo."
+            },
+            {
+              "text": "They have two sons."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "List of foreign ministers in 2017",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of foreign ministers in 2017"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Perfecto Yasay, Jr. Ad interim",
+          "template": "s-bef"
+        },
+        {
+          "title": "Secretary of Foreign Affairs Acting",
+          "years": "2017",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Alan Peter Cayetano",
+          "template": "s-aft"
+        },
+        {
+          "before": "Teodoro Locsin Jr.",
+          "template": "s-bef"
+        },
+        {
+          "title": "Secretary of Foreign Affairs",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Antonio M. Lagdameo",
+          "template": "s-bef"
+        },
+        {
+          "title": "Philippine Ambassador to the United Kingdom",
+          "years": "2011–2016",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Evan Garcia",
+          "template": "s-aft"
+        },
+        {
+          "before": "Teodoro Locsin Jr.",
+          "template": "s-bef"
+        },
+        {
+          "title": "Permanent Representative of the Philippines to the United Nations",
+          "years": "2020–2022",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-vac"
+        },
+        {
+          "template": "s-prec"
+        },
+        {
+          "rows": "2",
+          "before": "Alexander Gesmundo",
+          "as": "Chief Justice of the Supreme Court of the Philippines",
+          "template": "s-bef"
+        },
+        {
+          "rows": "2",
+          "title": "Order of Precedence of the Philippines\nas Secretary of Foreign Affairs",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Ambassadors to the Philippines\n(in order of tenure)",
+          "template": "s-aft"
+        },
+        {
+          "after": "Charles John Brown",
+          "as": "Dean of the diplomatic corps",
+          "template": "s-aft"
+        },
+        {
+          "template": "bongbong marcos cabinet"
+        },
+        {
+          "template": "duterte cabinet"
+        },
+        {
+          "template": "asean foreign"
+        },
+        {
+          "template": "apec foreign ministers"
+        },
+        {
+          "template": "order of lakandula recipients"
+        }
+      ]
+    }
+  ]
+}
