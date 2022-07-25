@@ -1,110 +1,95 @@
-pageid,title
-3873709,Tito Sotto
-7407293,Rodrigo Duterte
-8095757,Francis Escudero
-8805569,Presbitero Velasco Jr.
-11448388,Gwendolyn Garcia
-11717965,Francisco Duque III
-14401101,Dakila Cua
-15659638,Isko Moreno
-15669795,Florencio Miraflores
-15685874,Albert Garcia
-15686381,Hermilando Mandanas
-15797951,Manuel Mamba
-16778691,Hermogenes Esperon
-16861634,Marc Douglas Cagas IV
-16907672,Benjamin Diokno
-19101514,Hermogenes Ebdane
-24994863,Teodoro Locsin Jr.
-27413192,Lord Allan Velasco
-27808023,Arthur C. Yap
-27945214,William Dar
-29616571,Martin Andanar
-29769778,Victor Yu
-30832830,Abdusakur Mahail Tan
-30865747,Hadjiman Hataman Salliman
-30888361,Mamintal Alonto Adiong Jr.
-30912003,Roel Degamo
-31565430,Leonor Briones
-31934432,Daniel Fernando
-33134724,Kaka Bag-ao
-35258337,Jonvic Remulla
-35973038,Mercedes Arrastia-Tuason
-37231543,Leni Robredo
-39472264,Miguel Luis Villafuerte
-47246700,Eduardo Año
-50920328,Arthur Tugade
-50927548,Salvador Medialdea
-50951834,Silvestre Bello III
-50992644,Fortunato de la Peña
-50996554,Carlos Dominguez III
-50999389,Delfin Lorenzana
-51012277,Ramon Lopez (businessman)
-51018028,Alfonso Cusi
-51069682,Jose Calida
-51176227,Danilo Suarez
-51201602,Jose Maria Zubiri Jr.
-51855739,Al Francis Bichara
-53101758,Eugenio Jose Lacson
-54891483,Alexander Gesmundo
-57468042,Bernadette Romulo-Puyat
-61056967,Jose Manuel Romualdez
-61071276,Rolando Joselito Bautista
-61351432,Humerlito Dolor
-61352945,Ramil Hernandez
-61357714,Ryan Luis Singson
-61358499,Francisco Emmanuel Ortega III
-61358768,Amado Espino III
-61358949,Marilou Cayco
-61359791,Rodolfo Albano III
-61360307,Carlos Padilla (politician)
-61364522,Maria Jocelyn Bernos
-61364670,Ferdinand Tubban
-61389545,Aurelio Umali
-61391635,Dennis Pineda (politician)
-61395812,Susan Yap
-61396113,Rebecca Ynares
-61404814,Jose Alvarez (Filipino politician)
-61404987,Jose Riano
-61405907,Edgar Tallado
-61406174,Joseph Cua
-61408018,Rhodora Cadiao
-61412894,Arthur Defensor Jr.
-61413367,Zaldy Villa
-61413451,Rogelio Espina
-61413911,Leopoldo Petilla
-61415037,Edwin Ongchuan
-61422458,Damian Mercado
-61423682,Wilter Palma
-61437986,Imelda Dimaporo
-61451415,Jayvee Uy
-61451587,Eduardo Gadiano
-61453618,Nancy Catamco
-61453977,Steve Solon
-61454100,Menardo Guevarra
-61458117,Suharto Mangudadatu
-61458192,Alexander Pimentel
-61461107,Eleonor Bulut Begtang
-61461198,Melchor Diclas
-61461695,Jerry Dalipog
-61467313,Esteban Evan Contreras
-61467479,Samuel Gumarin
-61469102,Roberto Uy
-61474446,Jurdin Jesus Romualdo
-61474524,Philip Tan (politician)
-61490494,Yevgeny Emano
-61492360,Matthew Manotoc
-61495977,Edwin Jubahib
-61496015,Claude Bautista
-61502454,Nelson Dayanghirang
-61502568,Reynaldo Tamayo Jr.
-61505690,Dale Corvera
-61512186,Santiago Cane Jr.
-61534441,Francisco Matugas
-61534527,Bai Mariam Mangudadatu
-61534602,Yshmael Sali
-62810131,Eduardo del Rosario
-64041807,Karl Kendrick Chua
-65833617,Vicente Danao
-69018600,Andres Centino
-69622553,Reynolds Michael Tan
+pageid,title,wikidata,label
+572460,Bongbong Marcos,Q983324,Bongbong Marcos
+3322486,Juan Ponce Enrile,Q145881,Juan Ponce Enrile
+3873709,Tito Sotto,Q983315,Tito Sotto
+8805569,Presbitero Velasco Jr.,Q7240707,"Presbitero Velasco, Jr."
+9457940,Jericho Petilla,Q6182172,Jericho Petilla
+11357173,Clarita Carlos,Q5127082,Clarita Carlos
+11378239,Corazon Nuñez Malanyaon,Q5169661,Corazon Nunez-Malanyaon
+11448388,Gwendolyn Garcia,Q2720262,Gwendolyn Garcia
+14248986,Pryde Henry Teves,Q7253238,Pryde Henry Teves
+14401101,Dakila Cua,Q5209949,Dakila Cua
+14641919,Joet Garcia,Q150054,Joet Garcia
+15659638,Isko Moreno,Q6081353,Isko Moreno
+15670639,Elias Bulut Jr.,Q5360461,"Elias Bulut, Jr."
+15686381,Hermilando Mandanas,Q5741535,Hermilando Mandanas
+15797951,Manuel Mamba,Q6752707,Manuel Mamba
+16098455,Fredenil Castro,Q5496959,Fredenil Castro
+16389972,Jesus Crispin Remulla,Q6188132,Jesus Crispin Remulla
+16805208,Emmylou Taliño-Mendoza,Q5373635,Emmylou Taliño-Mendoza
+16860670,Antonio Lagdameo Jr.,Q4776725,"Antonio Lagdameo, Jr."
+16861697,Franklin Bautista,Q5491304,Franklin Bautista
+16907672,Benjamin Diokno,Q4888484,Benjamin Diokno
+19101514,Hermogenes Ebdane,Q983319,Hermogenes Ebdane
+24629585,Jerry Singson,Q6184443,Jerry Singson
+26812556,Benjamin Abalos Jr.,Q4888170,"Benjamin Abalos, Jr."
+27413192,Lord Allan Velasco,Q6678907,Lord Allan Jay Velasco
+29588478,Erwin Tulfo,Q5396218,Erwin Tulfo
+29769778,Victor Yu,Q7926469,Victor Yu
+30832830,Abdusakur Mahail Tan,Q2683983,Abdusakur Tan
+30865747,Hadjiman Hataman Salliman,Q5637924,Hadjiman S. Hataman-Salliman
+30888361,Mamintal Alonto Adiong Jr.,Q6745686,Mamintal Alonto Adiong Jr.
+31934432,Daniel Fernando,Q5217127,Daniel Fernando
+34322147,Alfredo E. Pascual,Q4723762,Alfredo E. Pascual
+35258337,Jonvic Remulla,Q491455,Juanito Victor C. Remulla
+35869387,Arsenio Balisacan,Q4796473,Arsenio Balisacan
+35973038,Mercedes Arrastia-Tuason,Q14917727,Mercedes Arrastia-Tuason
+39455290,Noel Rosal,Q16195778,Noel Rosal
+39849977,Erico Aristotle Aumentado,Q16150268,Erico Aristotle Aumentado
+42504861,Sara Duterte,Q1491004,Sara Duterte
+48700579,Susan Ople,Q22007251,Susan Ople
+53101758,Eugenio Jose Lacson,Q28673565,Eugenio Jose Lacson
+53429213,Enrique Manalo,Q28925129,Enrique Manalo
+54891483,Alexander Gesmundo,Q36467784,Alexander Gesmundo
+57252633,Carlito Galvez Jr.,Q52274914,Carlito Galvez Jr.
+57879449,Angelica Amante,Q17370922,Angelica Amante-Matba
+60195870,Ramon Guico III,Q62390144,Ramon V. Guico III
+61056967,Jose Manuel Romualdez,Q64853235,Jose Manuel Romualdez
+61351432,Humerlito Dolor,Q65925036,Humerlito Dolor
+61352945,Ramil Hernandez,Q65926769,Ramil Hernandez
+61358949,Marilou Cayco,Q65936010,Marilou Cayco
+61359791,Rodolfo Albano III,Q59514714,Rodolfo T. Albano III
+61360307,Carlos Padilla (politician),Q12962521,Carlos M. Padilla
+61389545,Aurelio Umali,Q17371328,Aurelio Umali
+61391635,Dennis Pineda (politician),Q65967168,Dennis Pineda
+61395812,Susan Yap,Q23874834,Susan A. Yap-Sulit
+61404987,Jose Riano,Q66013201,Jose Riano
+61406174,Joseph Cua,Q17371023,Joseph Cua
+61408018,Rhodora Cadiao,Q66023198,Rhodora Cadiao
+61412894,Arthur Defensor Jr.,Q17370945,Arthur Defensor Jr.
+61415037,Edwin Ongchuan,Q66057572,Edwin Ongchuan
+61422458,Damian Mercado,Q17371182,Damian Mercado
+61437986,Imelda Dimaporo,Q12964952,Imelda Dimaporo
+61451587,Eduardo Gadiano,Q66187272,Eduardo Gadiano
+61454100,Menardo Guevarra,Q66221363,Menardo Guevarra
+61458192,Alexander Pimentel,Q66258804,Alexander Pimentel
+61461198,Melchor Diclas,Q66305316,Melchor Diclas
+61461695,Jerry Dalipog,Q66305504,Jerry Dalipog
+61492360,Matthew Manotoc,Q66372258,Matthew Manotoc
+61495977,Edwin Jubahib,Q66382966,Edwin Jubahib
+61502568,Reynaldo Tamayo Jr.,Q66417352,Reynaldo Tamayo Jr.
+61512186,Santiago Cane Jr.,Q66436585,Santiago Cane Jr.
+61534527,Bai Mariam Mangudadatu,Q66493824,Bai Mariam Mangudadatu
+61534602,Yshmael Sali,Q66493814,Yshmael Sali
+62691265,Christina Frasco,Q80191945,Maria Esperanza Christina Frasco
+64160926,Dulce Ann Hofer,Q17371094,Ann Hofer
+64968648,Maria Rosario Vergeire,Q98746000,Maria Rosario Vergeire
+65833617,Vicente Danao,Q101569311,Vicente Danao
+67093283,Conrado Estrella III,Q475303,Conrado Estrella III
+68728030,Jose Faustino Jr.,Q108550713,Jose Faustino Jr.
+69018600,Andres Centino,Q108892550,Andres Centino
+69127745,Henry Oaminal,Q109285835,Henry Oaminal
+70861118,Angelina Tan,Q111577115,Helen Tan
+70889742,Bienvenido Laguesma,Q112156876,Bienvenido Laguesma
+70980563,Sharee Ann Tan,Q66777117,Sharee Ann Tee Tan
+71068053,Ivan John Uy,Q112628567,Ivan John Uy
+71068162,Trixie Cruz-Angeles,Q112628828,Trixie Cruz-Angeles
+71068249,Manuel Bonoan,Q112628861,Manuel Bonoan
+71068361,Vic Rodriguez (lawyer),Q112872085,Victor Rodriguez
+71084713,Amenah Pangandaman,Q112656225,Amenah Pangandaman
+71092574,Zenaida Angping,Q112660887,Zenaida Angping
+71117558,Jaime Bautista,Q112672806,Jaime Bautista
+71215116,Nina Ynares,Q112317708,Nina Ynares
+71242411,Luigi Villafuerte,Q113004785,Luigi Villafuerte
+71242706,Rosalina Jalosjos,Q113004786,Rosalina Jalosjos
+71285304,Raphael Lotilla,Q113044235,Raphael Lotilla

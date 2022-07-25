@@ -4,9 +4,10 @@
   "imagesize": "220px",
   "order": "27th",
   "office": "Speaker of the House of Representatives of the Philippines",
-  "status": "Incumbent",
   "term_start": "October 12, 2020",
+  "term_end": "June 30, 2022",
   "predecessor": "Alan Peter Cayetano",
+  "successor": "Martin Romualdez",
   "office2": "Member of the Philippine House of Representatives from Marinduque's lone district",
   "term_start2": "February 1, 2016",
   "predecessor2": "Regina Ongsiako Reyes",
@@ -20,6 +21,7 @@
   "term_start4": "January 2008",
   "term_end4": "December 1, 2009",
   "birth_date": "November 9, 1977",
+  "birth_place": "Philippines",
   "party": "PDP–Laban (2016–present)",
   "otherparty": "NUP (2011–2016) Lakas-Kampi-CMD (2009–2011)",
   "residence": "Mogpog, Marinduque\nTorrijos, Marinduque",
@@ -29,5 +31,4 @@
   "parents": "Presbitero Velasco Lorna Quinto Velasco",
   "occupation": "Politician",
   "profession": "Lawyer",
-  "signature": "Lord-allan-velasco-signature.svg"
 }
