@@ -17,6 +17,10 @@ class OfficeholderList < OfficeholderListBase
     def columns
       %w[img name start end].freeze
     end
+
+    def empty?
+      (tds[1].text == tds[2].text) || too_early?
+    end
   end
 end
 
