@@ -1,26 +1,34 @@
-wdid,name,wdLabel,source,sourceDate,pid,position,psid
-Q110013408,Tina Rose Marie Canda,Tina Rose Marie Canda,,,Q7444285,Secretary of Budget and Management,Q110013408-7F0A77C1-297D-4F46-AFD6-09AD379369EB
-Q110408318,Emmanuel Rey R. Caintic,Emmanuel Rey R. Caintic,,,Q110013432,Secretary of Information and Communications Technology,Q110408318-CEE890B6-64F4-4EBA-9CFF-16690EA2AD4B
-Q110914870,Bernie F. Cruz,Bernie F. Cruz,,,Q7444282,Secretary of Agrarian Reform,Q110914870-3EC71C32-C676-4B85-9795-A524D080B577
-Q110961423,Jim Sampluna,Jim Sampluna,,,Q7444302,Secretary of Environment and Natural Resources,Q110961423-C07F619F-9742-44B9-B5AE-081E3D559420
-Q12970094,Roger Mercado,Roger Mercado,,,Q7444321,Secretary of Public Works and Highways,Q12970094-20E3C41C-9693-48E7-B288-5222263549E0
-Q20675880,Eduardo Año,Eduardo Año,,,Q7444421,Secretary of the Interior and Local Government,Q20675880-ad9a4da1-4e84-ecb8-14b8-86a7a397a70c
-Q24810051,Arthur Tugade,Arthur Tugade,https://en.wikipedia.org/wiki/Arthur_Tugade,2021-12-09,Q7444401,Secretary of Transportation,Q24810051-E1BE0A6D-5196-48E7-8B8B-9E4DB89F1DD1
-Q24852544,Salvador Medialdea,Salvador Medialdea,https://en.wikipedia.org/wiki/Salvador_Medialdea,2021-12-09,Q30995,Executive Secretary of the Philippines,Q24852544-F83045E9-E07B-452C-98D4-EF1AF1AC845F
-Q25136908,Silvestre Bello III,Silvestre Bello III,,,Q7444316,Secretary of Labor and Employment,Q25136908-318b306e-46a2-b6bd-31e6-553d12245341
-Q25350219,Fortunato de la Peña,Fortunato de la Peña,https://en.wikipedia.org/wiki/Fortunato_de_la_Peña,2021-12-09,Q7444322,Secretary of Science and Technology,Q25350219-AA7810DF-D5FE-4461-B67A-9D738E897E8E
-Q25350470,Carlos Dominguez III,Carlos Dominguez III,https://en.wikipedia.org/wiki/Carlos_Dominguez_III,2021-12-09,Q7444305,31st Secretary of Finance,Q25350470-D3284C18-2FB8-4B74-A527-3800E38DAB32
-Q25351017,Delfin Lorenzana,Delfin Lorenzana,,,Q7444318,Secretary of National Defense,Q25351017-1e56ea67-48f9-4ef5-a990-1eaf5c3a2c1d
-Q25706643,Alfonso Cusi,Alfonso Cusi,https://en.wikipedia.org/wiki/Alfonso_Cusi,2021-12-09,Q7444301,Secretary of Energy,Q25706643-E644B6F2-D61D-4FCB-9A52-A7A6D493C7D6
-Q28421676,Ramon Lopez,Ramon Lopez,https://en.wikipedia.org/wiki/Ramon_Lopez_(businessman),2021-12-09,Q7444399,Secretary of Trade and Industry,Q28421676-7BEAA490-4EDD-4D0D-A58F-F34E9BC8C8DA
-Q339811,Francisco Duque,Francisco Duque,,,Q7444312,Secretary of Health,Q339811-289e8b48-439c-da5b-b779-4b22250028a1
-Q457786,Rodrigo Duterte,Rodrigo Duterte,,,Q1209571,President of the Philippines,Q457786-29621d4f-4059-8240-40b3-85200d7ab5ce
-Q53871378,Bernadette Romulo-Puyat,Bernadette Romulo-Puyat,,,Q7444400,Secretary of Tourism,Q53871378-3da2f328-4e58-0604-dfc2-e51ea6f4bec7
-Q64746899,Rolando Joselito Bautista,Rolando Joselito Bautista,https://en.wikipedia.org/wiki/Rolando_Joselito_Bautista,2021-12-09,Q7444323,Secretary of Social Welfare and Development,Q64746899-CFB58E35-CCDF-4D56-8FEC-2EC16C82E66E
-Q6526653,Leonor Briones,Leonor Briones,,,Q7444298,Secretary of Education,Q6526653-de996ec5-4f2c-2972-b4d3-4f7a56fb8b7f
-Q66221363,Menardo Guevarra,Menardo Guevarra,https://en.wikipedia.org/wiki/Menardo_Guevarra,2021-12-09,Q7444314,59th Secretary of Justice,Q66221363-45B30005-C152-4EA2-A68B-7DCC589B4E79
-Q6761357,Leni Robredo,Leni Robredo,,,Q2723485,Vice President of the Philippines,Q6761357-844a818b-4072-363e-8461-80ada2bfbcfd
-Q7701087,"Teodoro Locsin, Jr.","Teodoro Locsin, Jr.",,,Q17088037,Secretary of Foreign Affairs,Q7701087-393fb972-4cc9-51c1-19f2-22a750b042d2
-Q8007583,William Dar,William Dar,,,Q7444283,Secretary of Agriculture,Q8007583-d3f7fd68-4ee0-872f-ff45-1f1a5dd661a7
-Q81815059,Eduardo del Rosario,Eduardo del Rosario,https://en.wikipedia.org/wiki/Eduardo_del_Rosario,2021-12-09,Q110013349,Secretary of Human Settlements and Urban Development,Q81815059-0A8A7825-274F-4AD6-8087-EDF947C34E66
-Q95176372,Karl Kendrick Chua,Karl Kendrick Chua,https://en.wikipedia.org/wiki/Karl_Kendrick_Chua,2021-12-09,Q110013323,15th Director-General of the National Economic and Development Authority,Q95176372-2278866C-9099-46F2-A8F9-2CC00A46B766
+item,itemLabel,position,positionLabel,startDate,endDate,source,psid
+Q108550713,Jose Faustino Jr.,Q7444318,Secretary of National Defense,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q108550713-32D174D6-69D9-430F-90C5-2884B4468FBB
+Q112156876,Bienvenido Laguesma,Q7444316,Secretary of Labor and Employment,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q112156876-8950623F-BDF0-4753-A849-FAE78A5F2DFE
+Q112628567,Ivan John Uy,Q110013432,Secretary of Information and Communications Technology,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q112628567-3662ADBD-5753-46AA-AB29-EAF78FC85ABD
+Q112628828,Rose Beatrix Cruz-Angeles,Q110129785,Press Secretary,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q112628828-AA65E174-807A-40B5-8BF1-AD8ED4D292E5
+Q112628861,Manuel Bonoan,Q7444321,Secretary of Public Works and Highways,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q112628861-C9EBD6EE-9011-44A8-811C-B1115FA4B361
+Q112656225,Amenah Pangandaman,Q7444285,Secretary of Budget and Management,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q112656225-25D9CC58-8F46-4FCC-9D52-AB49FE0BC8BC
+Q112660887,Zenaida Angping,Q113272093,Secretary of the Presidential Management Staff,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q112660887-E92EED1C-3A4A-4E74-B5E5-968EBE4EC1E1
+Q112672806,Jaime Bautista,Q7444401,Secretary of Transportation,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q112672806-0B7FEEB8-3145-49B7-AFD7-4721B6637C60
+Q112872085,Victor Rodriguez,Q30995,Executive Secretary,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q112872085-F5B7D95B-22F3-4D02-AE2C-60E8E61B98EC
+Q113044235,Raphael Perpetuo Lotilla,Q7444301,Secretary of Energy,2022-07-11,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q113044235-D8A2684E-B93B-4199-A2F9-E38093C5CA5D
+Q113270903,Antonia Yulo-Loyzaga,Q7444302,Secretary of Environment and Natural Resources,2022-07-12,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q113270903-D055025D-CCEE-4018-A8A5-9E4F2C2EE5E0
+Q113272164,Renato Solidum Jr.,Q7444322,Secretary of Science and Technology,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q113272164-1A677EBF-5D08-4D04-9392-2F96352A7C32
+Q113272347,Melissa Ardanas,Q110013349,Secretary of Human Settlements and Urban Development,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q113272347-D35EC073-54E0-4D22-B2FE-55EB7693F4AA
+Q145881,Juan Ponce Enrile,Q113272184,Chief Presidential Legal Counsel,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q145881-7966CA02-6DF2-4F0F-91C5-383115F5E6C7
+Q1491004,Sara Duterte-Carpio,Q7444298,Secretary of Education,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q1491004-53E17DC9-6161-4913-B3F5-BCDD224D08B5
+Q1491004,Sara Duterte,Q2723485,Vice President of the Philippines,2022-06-30,,,Q1491004-DEED532C-AB08-456B-8074-A92C1F2BD1D6
+Q22007251,Susan Ople,Q113272068,Secretary of Migrant Workers,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q22007251-032F230A-117E-49B5-BE2C-E91AAFCE16DB
+Q28925129,Enrique Manalo,Q17088037,Secretary of Foreign Affairs,2022-07-01,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q28925129-D36A4F4F-49B9-4B93-B02F-11B946EA1D4D
+Q4723762,Alfredo Pascual,Q7444399,Secretary of Trade and Industry,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q4723762-076BD987-0F79-41F8-9E20-82B5EE128DE6
+Q475303,Conrado Estrella III,Q7444282,Secretary of Agrarian Reform,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q475303-B99A9366-AF11-45B8-9018-8F97DA5CD406
+Q4776725,Antonio Lagdameo Jr.,Q107203252,Special Assistant to the President,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q4776725-5C3B5FD5-6707-4148-A11A-BDCC514B6712
+Q4796473,Arsenio Balisacan,Q110013323,Director-General of the National Economic and Development Authority and Secretary of Socio-economic Planning,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q4796473-D449D1C4-4EF0-46A0-B90E-1ACE1665F7F6
+Q4888170,Benjamin Abalos Jr.,Q7444421,Secretary of the Interior and Local Government,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q4888170-7DDFDAD4-CF95-4BC8-A72B-33730D2C223E
+Q4888484,Benjamin Diokno,Q7444305,Secretary of Finance,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q4888484-9551C004-44A1-4C41-92F6-5476C9E9FAF2
+Q5127082,Clarita Carlos,Q110013576,National Security Adviser,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q5127082-23FAF57E-D636-445F-83DE-C47295D2D181
+Q52274914,Carlito Galvez Jr.,Q113272282,"Presidential Adviser on Peace, Reconciliation, and Unity",2018-12-12,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q52274914-95F60828-1B26-40C2-817F-4A1A2841FC2E
+Q5396218,Erwin Tulfo,Q7444323,Secretary of Social Welfare and Development,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q5396218-89DDBFB3-CF25-48CA-8C2C-E1EB95087580
+Q6188132,Jesus Crispin Remulla,Q7444314,Secretary of Justice,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q6188132-D05BFD1D-9FFB-41B1-BDB9-33D08599A131
+Q66221363,Menardo Guevarra,Q18089012,Solicitor General,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q66221363-1D97D071-B283-4715-B5DB-8150D856727F
+Q80191945,Christina Frasco,Q7444400,Secretary of Tourism,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q80191945-2270F787-2CBC-4BC4-88A1-8C29F1802DFA
+Q983324,Bongbong Marcos,Q1209571,President of the Philippines,2022-06-30,,,Q983324-6d342e01-45bc-d5d9-77c9-ebd8f914968e
+Q983324,Ferdinand Marcos Jr.,Q7444283,Secretary of Agriculture,2022-06-30,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q983324-D5AABF37-834B-4556-BAE4-3D0195864630
+Q98746000,Maria Rosario Vergeire,Q7444312,Secretary of Health,2022-07-14,,https://en.wikipedia.org/wiki/Cabinet_of_the_Philippines,Q98746000-EC949412-BD6F-4CDF-BBFD-37FE55BFE11A

@@ -1,36 +1,32 @@
-wdid,name,position
-"",Bernie F. Cruz(Acting-capacity),Secretary of Agrarian Reform
-Q8007583,William D. Dar,Secretary of Agriculture
-"",Tina Rose Marie L. Canda(Officer-in-charge),Secretary of Budget and Management
-Q6526653,Leonor Mirasol M. Briones,Secretary of Education
-Q25706643,Alfonso G. Cusi,Secretary of Energy
-"",Jim O. Sampluna(Acting-capacity),Secretary of Environment and Natural Resources
-Q25350470,"Carlos G. Dominguez, III",Secretary of Finance
-Q7701087,"Teodoro L. Locsin, Jr.",Secretary of Foreign Affairs
-Q339811,"Francisco T. Duque, III",Secretary of Health
-Q81815059,Eduardo D. del Rosario,Secretary of Human Settlements and Urban Development
-"",Emmanuel Rey R. Caintic(Acting-capacity),Secretary of Information and Communications Technology
-Q20675880,Eduardo M. Año,Secretary of the Interior and Local Government
-Q66221363,Menardo I. Guevarra,Secretary of Justice
-Q25136908,"Silvestre H. Bello, III",Secretary of Labor and Employment
-"",Abdullah D. Mama-o(Acting-capacity),Secretary of Migrant Workers
-Q25351017,Delfin N. Lorenzana,Secretary of National Defense
-"",Roger G. Mercado(Acting-capacity),Secretary of Public Works and Highways
-Q25350219,Fortunato T. de la Peña,Secretary of Science and Technology
-Q64746899,Rolando Joselito D. Bautista,Secretary of Social Welfare and Development
-Q53871378,Bernadette Fatima T. Romulo-Puyat,Secretary of Tourism
-Q28421676,Ramon M. Lopez,Secretary of Trade and Industry
-Q24810051,Arthur P. Tugade,Secretary of Transportation
-Q95176372,Karl Kendrick T. Chua,Director-General of the National Economic and Development Authority and Secretary of Socio-economic Planning
-Q5741968,"Hermogenes C. Esperon, Jr.",National Security Adviser and Director-General of the National Security Council
-"",Melvin A. Matibag(Acting-capacity),Cabinet Secretary
-Q109235964,Jesus Melchor V. Quitain,Chief Presidential Legal Counsel
-Q24852544,Salvador C. Medialdea,Executive Secretary
-Q110316845,Jacinto V. Paras,Presidential Adviser on Political Affairs
-Q52274914,Carlito G. Galvez Jr.,"Presidential Adviser on Peace, Reconciliation, and Unity"
-"",Michael Lloyd L. Diño,Presidential Assistant for the Visayas
-Q6774889,Jose Ruperto Martin M. Andanar(Acting & Concurrent capacity),Presidential Spokesperson
-Q25999567,Jose C. Calida,Solicitor General
-Q109235964,Jesus Melchor V. Quitain(Officer-in-charge),Special Assistant to the President
-Q6774889,Jose Ruperto Martin M. Andanar,Secretary of the Presidential Communications Operations Office
-"",Luzverfeda E. Pascual(Acting-capacity),Presidential Adviser on Legislative Affairs and Head of the Presidential Legislative Liaison Office
+item,itemLabel,position,positionLabel,startDate,endDate
+Q475303,Conrado Estrella III,,Secretary of Agrarian Reform,2022-06-30,
+Q983324,Ferdinand Marcos Jr.,,Secretary of Agriculture,2022-06-30,
+Q112656225,Amenah Pangandaman,,Secretary of Budget and Management,2022-06-30,
+Q1491004,Sara Duterte-Carpio,,Secretary of Education,2022-06-30,
+Q113044235,Raphael Perpetuo Lotilla,,Secretary of Energy,2022-07-11,
+,Antonia Yulo-Loyzaga,,Secretary of Environment and Natural Resources,2022-07-12,
+Q4888484,Benjamin Diokno,,Secretary of Finance,2022-06-30,
+Q28925129,Enrique Manalo,,Secretary of Foreign Affairs,2022-07-01,
+Q98746000,Maria Rosario Vergeire,,Secretary of Health,2022-07-14,
+,Melissa Ardanas,,Secretary of Human Settlements and Urban Development,2022-06-30,
+Q112628567,Ivan John Uy,,Secretary of Information and Communications Technology,2022-06-30,
+Q4888170,Benjamin Abalos Jr.,,Secretary of the Interior and Local Government,2022-06-30,
+Q6188132,Jesus Crispin Remulla,,Secretary of Justice,2022-06-30,
+Q112156876,Bienvenido Laguesma,,Secretary of Labor and Employment,2022-06-30,
+Q22007251,Susan Ople,,Secretary of Migrant Workers,2022-06-30,
+Q108550713,Jose Faustino Jr.,,Secretary of National Defense,2022-06-30,
+Q112628861,Manuel Bonoan,,Secretary of Public Works and Highways,2022-06-30,
+,Renato Solidum Jr.,,Secretary of Science and Technology,2022-06-30,
+Q5396218,Erwin Tulfo,,Secretary of Social Welfare and Development,2022-06-30,
+Q80191945,Christina Frasco,,Secretary of Tourism,2022-06-30,
+Q4723762,Alfredo Pascual,,Secretary of Trade and Industry,2022-06-30,
+Q112672806,Jaime Bautista,,Secretary of Transportation,2022-06-30,
+Q4796473,Arsenio Balisacan,,Director-General of the National Economic and Development Authority and Secretary of Socio-economic Planning,2022-06-30,
+Q112872085,Victor Rodriguez,,Executive Secretary,2022-06-30,
+Q112628828,Rose Beatrix Cruz-Angeles,,Press Secretary,2022-06-30,
+Q5127082,Clarita Carlos,,National Security Adviser,2022-06-30,
+Q145881,Juan Ponce Enrile,,Chief Presidential Legal Counsel,2022-06-30,
+Q52274914,Carlito Galvez Jr.,,"Presidential Adviser on Peace, Reconciliation, and Unity",2018-12-12,
+Q4776725,Antonio Lagdameo Jr.,,Special Assistant to the President,2022-06-30,
+Q66221363,Menardo Guevarra,,Solicitor General,2022-06-30,
+Q112660887,Zenaida Angping,,Secretary of the Presidential Management Staff,2022-06-30,
