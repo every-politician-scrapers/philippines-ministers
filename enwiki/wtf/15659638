@@ -588,17 +588,6 @@
           "type": "news"
         },
         {
-          "title": "I don't mind being called a 'political butterfly' — Mayor Isko",
-          "url": "https://mb.com.ph/2021/11/24/i-dont-mind-being-called-a-political-butterfly-mayor-isko/",
-          "last": "Ramos",
-          "first": "Jaleen",
-          "date": "November 24, 2021",
-          "access-date": "November 24, 2021",
-          "work": "Manila Bulletin",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "title": "It’s official: Isko Moreno says he’s leaving Lim for Erap",
           "url": "https://newsinfo.inquirer.net/185831/it%E2%80%99s-official-isko-moreno-says-he%E2%80%99s-leaving-lim-for-erap",
           "date": "May 1, 2012",
@@ -662,6 +651,17 @@
           "date": "July 1, 2022",
           "work": "Philippine Entertainment Portal",
           "access-date": "July 1, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "I don't mind being called a 'political butterfly' — Mayor Isko",
+          "url": "https://mb.com.ph/2021/11/24/i-dont-mind-being-called-a-political-butterfly-mayor-isko/",
+          "last": "Ramos",
+          "first": "Jaleen",
+          "date": "November 24, 2021",
+          "access-date": "November 24, 2021",
+          "work": "Manila Bulletin",
           "template": "citation",
           "type": "news"
         },
@@ -2646,7 +2646,7 @@
         {
           "sentences": [
             {
-              "text": "On October 29, 2021, the local government unit of Manila, under the administration of Moreno, won three awards during the Digital Governance Awards 2021 (LGUs Best Practices in Information and Communication Technology) by the Department of Information and Communications Technology (DICT).",
+              "text": "On October 29, 2021, the local government unit (LGU) of Manila, under the administration of Moreno, won three awards during the Digital Governance Awards 2021 (LGUs Best Practices in Information and Communication Technology) by the Department of Information and Communications Technology (DICT).",
               "links": [
                 {
                   "type": "internal",
@@ -2656,6 +2656,12 @@
             },
             {
               "text": "The awards include the COVID-19 Testing Center \"Web-Lab-IS\" – Best in LGU Empowerment Award (city level) at 1st Place, the City of Manila \"Connection for Inclusion\" Award – Best in Customer Empowerment Award (city level) at 1st Place, and the Business Permit Licensing Service (BPLS) – Best in Business Empowerment Award for its GO Manila App end-to-end solution (city level) at 2nd Place."
+            },
+            {
+              "text": "The GO Manila App, originally launched in 2014, was revamped to provide residents access to an online one-stop-shop giving a variety of LGU system automation and e-Services."
+            },
+            {
+              "text": "The app was envisioned by Moreno to \"help make transactions more convenient, transparent, and limit human discretion\"."
             }
           ]
         },
@@ -2875,6 +2881,16 @@
           "type": "news"
         },
         {
+          "title": "Payment of bills, real property taxes, now made easier for Manileños",
+          "url": "https://globalnation.inquirer.net/182467/payment-of-bills-real-property-taxes-now-made-easier-for-manilenos",
+          "date": "December 10, 2019",
+          "publisher": "INQUIRER.net (Global Nation) BrandRoom",
+          "website": "Philippine Daily Inquirer",
+          "access-date": "December 10, 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "title": "Isko removes facilitator in hiring of employees",
           "url": "https://metronewscentral.net/manila/metro-cities/isko-removes-facilitator-in-hiring-of-employees",
           "last": "Santos",
@@ -3088,12 +3104,17 @@
         {
           "sentences": [
             {
-              "text": "In 2020, as a prerogative to ease the economic effects of the COVID-19 pandemic after then-President Rodrigo Duterte declared that the national government was running out of funds to provide aid, a portion of the land where the Divisoria Public Market is situated, a patrimonial property which is a part of the old Divisoria Mall, was sold by the city government of Manila headed by Moreno to private company Festina Holdings Inc. The decision was made after the recommendation of the city's Assets Management Committee when it was tasked to look for assets in the city that are \"white elephants\", idle, underutilized and not beneficial anymore.",
+              "text": "In 2020, as a prerogative to ease the economic effects of the COVID-19 pandemic after then-President Rodrigo Duterte declared that the national government was running out of funds to provide aid, a small portion of the land (3,701m²) where the Divisoria Public Market is situated, a patrimonial property which is a part of the old Divisoria Mall, was sold by the city government of Manila headed by Moreno to private company Festina Holdings Inc. The decision was made after the recommendation of the city's Assets Management Committee when it was tasked to look for assets in the city that are \"white elephants\", idle, underutilized, and not beneficial anymore.",
               "links": [
                 {
                   "text": "economic effects of the COVID-19 pandemic",
                   "type": "internal",
                   "page": "Economic impact of the COVID-19 pandemic"
+                },
+                {
+                  "text": "patrimonial property",
+                  "type": "internal",
+                  "page": "inheritance"
                 },
                 {
                   "text": "white elephants",
@@ -3103,7 +3124,7 @@
               ]
             },
             {
-              "text": "The Divisoria Public Market has long not been managed by the city government since 1992 after former mayors Mel Lopez, Alfredo Lim and Joseph Estrada entered into an agreement with private company Linkworld Corporation, handing over to the firm the management of the land along with the Divisoria Public Market at a cost of ₱20 per square meter which was considered a \"bad contract\".",
+              "text": "The Divisoria Public Market has long not been managed by the city government since 1992 after former mayors Mel Lopez, Alfredo Lim, and Joseph Estrada entered into an agreement with private company Linkworld Corporation, handing over to the firm the management of the land along with the Divisoria Public Market at a cost of ₱20 per square meter which was considered a \"bad contract\".",
               "links": [
                 {
                   "type": "internal",
@@ -3115,7 +3136,7 @@
               "text": "Aside from the low monthly earnings from the lease, the city government also has been earning less for years as the stall owners were also remiss in paying their daily rent."
             },
             {
-              "text": "The city government emphasized that the decision was advantageous for the city since it earned more from the sale of the Divisoria market than the rent it has earned for more than 25 years because the sale price of ₱1.45 billion was higher than the Commission on Audit's valuation of the property at ₱173.136 per square meter.",
+              "text": "The city government emphasized that the decision was advantageous for the city since it earned more from the sale of the Divisoria market than the rent it has earned for more than 25 years and that the sale price of ₱1.45 billion was higher than the Commission on Audit's valuation of the property at ₱173.136 per square meter.",
               "links": [
                 {
                   "text": "Commission on Audit",
@@ -3131,10 +3152,13 @@
               "text": "It was also agreed that Festina Holdings will pay all required taxes after sales, including the capital gains tax."
             },
             {
-              "text": "Consultation and notices were given to stallholders, public documentations were widely circulated, and city council resolutions and public bidding conferences were held from which Festina won out of three bidders."
+              "text": "Consultation and notices were given to stallholders."
             },
             {
-              "text": "Vendors were told to return back the accomplished form attached to their letters, which would be treated as their application for a new stall and would be temporarily transferred to Pritil Market with given ample time."
+              "text": "Public documentations were also widely circulated, and city council resolutions and public bidding conferences were held from which Festina won out of three bidders."
+            },
+            {
+              "text": "Vendors were told to return back the accomplished form attached to their letters, which would be treated as their application for a new stall, and would be temporarily transferred to Pritil Market with given ample time."
             },
             {
               "text": "As of 2022, no vendors were evacuated from their stalls as Festina has yet to declare if it wishes to redevelop the property into a 50-story commercial building as stated in the agreement made by the company and the city government."
@@ -3143,7 +3167,7 @@
               "text": "Moreover, the city government ensures to impose conditions on how to protect the vendors, including that they should not be removed and that rent should not increase."
             },
             {
-              "text": "Payment obtained from the sale of the \"underutilized\" and \"least beneficial\" Divisoria market was used for putting up the Manila field hospital and 12 quarantine facilities, housing projects, procurement of antiviral medicines and food packs for the 700,000 households of the city."
+              "text": "Payment obtained from the sale of the \"underutilized\" and \"least beneficial\" Divisoria market was used for putting up the Manila field hospital and 12 quarantine facilities, housing projects, procurement of antiviral medicines, and food packs for the 700,000 households of the city."
             },
             {
               "text": "During the 2022 election, almost two years after the sale was settled, the subject matter resurfaced after Manila mayoral candidate Alex Lopez, son of Mel Lopez, alleged that its sale lacked transparency and threatened to press charges against Moreno and the city council.",
@@ -3352,6 +3376,13 @@
           "template": "₱"
         },
         {
+          "name": "\"Divisoria\"",
+          "list": [
+            "Article 422 of the Civil Code of the Philippines also states that \"property of public dominion, when no longer intended for public use or for public service, shall form part of the patrimonial property of the State\". Therefore, patrimonial assets refers to those that are not of public use, serve no public purpose, do not increase national wealth, or are declared by government to have no public value."
+          ],
+          "template": "efn"
+        },
+        {
           "amount": "1.45 billion",
           "template": "philippine peso"
         },
@@ -3503,6 +3534,15 @@
           "access-date": "August 3, 2020",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "BOOK II (FULL TEXT): CIVIL CODE OF THE PHILIPPINES",
+          "url": "https://www.chanrobles.com/civilcodeofthephilippinesbook2.htm",
+          "publisher": "Chan Robles Virtual Law Library",
+          "website": "ChanRobles.com",
+          "access-date": "July 24, 2022",
+          "template": "citation",
+          "type": "web"
         },
         {
           "date": "April 2, 2022",
@@ -6142,6 +6182,51 @@
       ]
     },
     {
+      "title": "Freedom of Information",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Moreno is in favor that all government officials should be open to disclosing their Statement of Assets, Liabilities, and Net Worth (SALN), including \"their properties, belongings and their debts\", being a public document.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Statement of Assets, Liabilities, and Net Worth"
+                }
+              ]
+            },
+            {
+              "text": "He also believes that the policy on Freedom of Information should be strengthened."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "SALN reveal? Moreno says only if other bets show theirs",
+          "url": "https://www.philstar.com/headlines/2022/02/18/2161704/saln-reveal-moreno-says-only-if-other-bets-show-theirs",
+          "date": "February 18, 2022",
+          "publisher": "Philstar.com",
+          "website": "The Philippine Star",
+          "access-date": "February 18, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Isko willing to disclose own SALN",
+          "url": "https://manilastandard.net/news/national/314202848/isko-willing-to-disclose-own-saln.html",
+          "last": "Requejo",
+          "first": "Rey E.",
+          "date": "January 26, 2022",
+          "work": "Manila Standard",
+          "access-date": "January 26, 2022",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
       "title": "Health",
       "depth": 2,
       "paragraphs": [
@@ -6296,7 +6381,7 @@
         {
           "sentences": [
             {
-              "text": "Moreno is in favor of entering bilateral labor agreement with other countries to ensure the welfare of both documented and undocumented Overseas Filipino Workers.",
+              "text": "Moreno is in favor of entering bilateral labor agreement with other countries to ensure the welfare of both documented and undocumented Overseas Filipino Workers (OFW).",
               "links": [
                 {
                   "type": "internal",
@@ -6400,6 +6485,47 @@
           "date": "February 7, 2022",
           "access-date": "February 7, 2022",
           "work": "Philippine Daily Inquirer",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Political turncoatism",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Moreno is not against transferring from one political party to another whenever he sees fit."
+            },
+            {
+              "text": "He has expressed that he does not mind being called a \"political butterfly\", stating he would rather leave a political party whenever the party loses public trust and if his political principles does not coincide with the party's anymore.",
+              "links": [
+                {
+                  "text": "public trust",
+                  "type": "internal",
+                  "page": "public trust"
+                }
+              ]
+            },
+            {
+              "text": "He added that \"a public servant's loyalty should not lie with a political party, but rather to the people\"."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "BBM opts to cook, Isko okays turncoatism",
+          "url": "https://www.manilatimes.net/2022/02/05/news/national/bbm-opts-to-cook-isko-okays-turncoatism/1831874/amp",
+          "last1": "Valente",
+          "first1": "Catherine S.",
+          "last2": "Maralit",
+          "first2": "Kristina",
+          "date": "February 5, 2022",
+          "work": "The Manila Times",
+          "access-date": "February 5, 2022",
           "template": "citation",
           "type": "news"
         }
