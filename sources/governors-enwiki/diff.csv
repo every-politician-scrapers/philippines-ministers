@@ -1,26 +1,5 @@
-@@,provincelabel,governor,governorlabel,start
-->,Zambales,Q983319,"Hermogenes Ebdane->Hermogenes E. Ebdane, Jr.",2019-06-30
-->,Tarlac,Q23874834,Susan A. Yap-Sulit->Susan Yap,2016-06-30
-->,Sulu,Q2683983,Abdusakur Tan->Abdusakur Mahail Tan,2013-06-30->2019-06-30
-->,Sorsogon,Q983307,Francis Escudero->Francis Joseph G. Escudero,2019-06-30
-->,Quirino,Q5209949,Dakila Cua->Dakila Carlo E. Cua,2019-06-30
-->,Nueva Vizcaya,Q12962521,Carlos M. Padilla->Carlos Padilla,2016-06-30
-->,Negros Oriental,Q7357578,Roel Degamo,2013-06-30->2011-01-05
-->,Masbate,Q17371122->Q13847,Antonio Kho,2016-06-30
-->,Marinduque,Q7240707,"Presbitero Velasco, Jr.->Presbitero J. Velasco, Jr.",2019-06-30
-->,Leyte,Q66049041,Leopoldo Dominico Petilla->Leopoldo Petilla,2013-06-30
-->,Lanao del Sur,Q6745686,Mamintal Alonto Adiong Jr.->Mamintal Adiong,2019-06-30
-->,La Union,Q17371074,Francisco Ortega III->Francisco Emmanuel Ortega III,2016-06-30
-->,Isabela,Q59514714,Rodolfo T. Albano III->Rodolfo Albano III,2019-06-30
-->,Ilocos Norte,Q66372258,Matthew Manotoc->Matthew Marcos Manotoc,2019-06-30
-->,Ifugao,Q66305504,Jerry Dalipog->Jerry U. Dalipog,2019-06-30
-->,Dinagat Islands,Q6349093,Kaka Bag-ao->Arlene Bag-ao,2019-06-30
-->,Davao de Oro,Q66183613,Jayvee Tyron L. Uy->Jayvee Uy,2016-06-30
-->,Cavite,Q491455,"Juanito Victor C. Remulla->Juanito Victor C. Remulla, Jr.",2019-06-30
-->,Camarines Sur,Q16232995,Migz Villafuerte->Miguel Luis R. Villafuerte,2013-06-30
-->,Cagayan,Q6752707,Manuel Mamba->Manuel N. Mamba,2016-06-30
-->,Bulacan,Q5217127,Daniel Fernando->Daniel Fernando(Cesar Fernando Ramirez),2019-06-30
-->,Bukidnon,Q26251287,Jose Maria Zubiri Jr.->Jose Zubiri,2013-06-30
-->,Bohol,Q712100,Arthur Yap->Arthur C. Yap,2019-06-30
-->,Batangas,Q5741535,Hermilando Mandanas->Hermilando I. Mandanas,2016-06-30
-->,Basilan,Q5637924,Hadjiman S. Hataman-Salliman->Hadjiman Salliman,2016-06-30
+@@,provincelabel,governor,name,start,position,psid
+->,Antique,Q66023198,Rhodora Cadiao,2015-01-29->2016-06-30,Q28806207,Q66023198-1D9F947E-9660-4B22-9688-197B28424F22
+->,Laguna,Q65926769,Ramil Hernandez,2014-05-30->2016-06-30,Q17156099,Q65926769-54A26200-EC94-4192-B3A6-6B0B9520EC53
+->,Masbate,Q17371122->Q13847,Antonio Kho,2016-06-30,Q67275833,Q17371122-4B2096CE-CEED-478E-B843-F46037563A97
+->,Sulu,Q2683983,Abdusakur Mahail Tan,2013-06-30->2019-06-30,Q67275879,Q2683983-9627B891-868B-48BC-8524-1C7C0B222D8F
