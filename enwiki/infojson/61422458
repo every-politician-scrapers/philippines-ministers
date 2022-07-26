@@ -1,0 +1,72 @@
+[
+  {
+    "office": {
+      "links": [
+        "Maasin"
+      ],
+      "stated_as": "Mayor of Maasin"
+    },
+    "P580": "1998-06-30",
+    "P582": "2007-06-30"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Southern Leyte"
+    },
+    "P580": "2007-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Rosette Lerias"
+    },
+    "P582": "2013-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Roger Mercado"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Legislative district of Southern Leyte"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Southern Leyte's Lone District"
+    },
+    "P580": "2013-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Roger Mercado"
+    },
+    "P582": "2016-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Roger Mercado"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Southern Leyte"
+    },
+    "P580": "2016-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Roger Mercado"
+    }
+  }
+]

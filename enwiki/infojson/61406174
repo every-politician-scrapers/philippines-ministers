@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Catanduanes"
+      ],
+      "stated_as": "Governor of Catanduanes"
+    },
+    "P580": "2007-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Leandro Verceles Jr."
+    },
+    "P582": "2013-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Araceli Wong"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Catanduanes"
+      ],
+      "stated_as": "Governor of Catanduanes"
+    },
+    "P580": "2016-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Araceli Wong"
+    }
+  }
+]

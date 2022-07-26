@@ -1,0 +1,41 @@
+[
+  {
+    "office": {
+      "links": [
+        "Philippine House of Representatives",
+        "Davao del Norte",
+        "Davao del Norte's 2nd congressional district"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Davao del Norte's 2nd district"
+    },
+    "P580": "2007-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Antonio Floirendo Jr."
+    },
+    "P582": "2016-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Antonio Floirendo Jr."
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "[[Special Assistant to the President (Philippines)|Special Assistant to\nthe President of the Philippines]]"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Jesus Melchor Quitain"
+      ],
+      "stated_as": "Jesus Melchor Quitain"
+    }
+  }
+]

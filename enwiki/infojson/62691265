@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Liloan, Cebu"
+      ],
+      "stated_as": "Mayor of Liloan, Cebu"
+    },
+    "P580": "2016-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Vincent Franco Frasco"
+    },
+    "P582": "2022-07-02",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Aljew Frasco"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of Tourism (Philippines)"
+      ],
+      "stated_as": "Secretary of Tourism Ad interim"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Bernadette Romulo-Puyat"
+      ],
+      "stated_as": "Bernadette Romulo-Puyat"
+    }
+  }
+]

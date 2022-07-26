@@ -1,0 +1,41 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Zamboanga del Sur",
+        "Legislative districts of Zamboanga del Sur"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Zamboanga del Sur's First District"
+    },
+    "P580": "2007-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Isidoro E. Real, Jr."
+    },
+    "P582": "2016-06-30",
+    "P1366": {
+      "links": [
+        "Divina Grace Yu"
+      ],
+      "stated_as": "Divina Grace Yu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Zamboanga del Sur"
+      ],
+      "stated_as": "15th Governor of Zamboanga del Sur"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+        "Antonio Cerilles"
+      ],
+      "stated_as": "Antonio H. Cerilles"
+    }
+  }
+]

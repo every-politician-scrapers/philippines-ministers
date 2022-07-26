@@ -1,0 +1,77 @@
+[
+  {
+    "office": {
+      "links": [
+        "Manila City Council",
+        "1st District of Manila"
+      ],
+      "stated_as": "Member of the\nManila City Council\nfrom the 1st district"
+    },
+    "P580": "1998-06-30",
+    "P582": "2007-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Mayor of Manila"
+      ],
+      "stated_as": "18th Vice Mayor of Manila"
+    },
+    "P580": "2007-06-30",
+    "P1365": {
+      "links": [
+        "Danilo Lacuna"
+      ],
+      "stated_as": "Danny Lacuna"
+    },
+    "P582": "2016-06-30",
+    "P1366": {
+      "links": [
+        "Honey Lacuna"
+      ],
+      "stated_as": "Honey Lacuna"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chairman of the Board and Chief Executive Officer of the North Luzon Railways Corporation"
+    },
+    "P580": "2017-07-01",
+    "P582": "2017-10-27"
+  },
+  {
+    "office": {
+      "links": [
+        "Department of Social Welfare and Development"
+      ],
+      "stated_as": "Undersecretary of Social Welfare and Development for Luzon Affairs and Special Concerns"
+    },
+    "P580": "2018-05-11",
+    "P582": "2018-10-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Mayor of Manila"
+      ],
+      "stated_as": "22nd Mayor of Manila"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+        "Joseph Estrada"
+      ],
+      "stated_as": "Joseph Estrada"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+        "Honey Lacuna"
+      ],
+      "stated_as": "Honey Lacuna"
+    }
+  }
+]

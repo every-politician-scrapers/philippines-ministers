@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Banaue"
+      ],
+      "stated_as": "Mayor of Banaue"
+    },
+    "P580": "2016-06-30",
+    "P582": "2019-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Ifugao"
+      ],
+      "stated_as": "Governor of Ifugao"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Jose Gullitiw"
+    }
+  }
+]

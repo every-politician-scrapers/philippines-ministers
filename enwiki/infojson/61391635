@@ -1,0 +1,71 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of the Lubao Municipal Council"
+    },
+    "P580": "1998-06-30",
+    "P582": "2001-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Lubao, Pampanga"
+      ],
+      "stated_as": "Mayor of Lubao"
+    },
+    "P580": "2001-06-30",
+    "P1365": {
+      "links": [
+        "Lilia Pineda"
+      ],
+      "stated_as": "Lilia Pineda"
+    },
+    "P582": "2010-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mylyn P. Cayabyab"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Vice Governor of Pampanga"
+    },
+    "P580": "2013-06-30",
+    "P1365": {
+      "links": [
+        "Yeng Guiao"
+      ],
+      "stated_as": "Yeng Guiao"
+    },
+    "P582": "2019-06-30",
+    "P1366": {
+      "links": [
+        "Lilia Pineda"
+      ],
+      "stated_as": "Lilia Pineda"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Pampanga"
+      ],
+      "stated_as": "Governor of Pampanga"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Lilia Pineda"
+    }
+  }
+]

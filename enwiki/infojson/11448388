@@ -1,0 +1,75 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of governors of Cebu"
+      ],
+      "stated_as": "Governor of Cebu"
+    },
+    "P580": "2004-06-30",
+    "P1365": {
+      "links": [
+        "Pablo P. Garcia"
+      ],
+      "stated_as": "Pablo P. Garcia"
+    },
+    "P582": "2012-06-19",
+    "P1366": {
+      "links": [
+        "Agnes Magpale",
+        "Hilario Davide III"
+      ],
+      "stated_as": "Agnes A. Magpale (acting)\nHilario Davide III"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Philippine House of Representatives",
+        "Cebu",
+        "Cebu's 3rd congressional district"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Cebu's 3rd district"
+    },
+    "P580": "2013-06-30",
+    "P1365": {
+      "links": [
+        "Pablo John Garcia"
+      ],
+      "stated_as": "Pablo John Garcia"
+    },
+    "P582": "2019-06-30",
+    "P1366": {
+      "links": [
+        "Pablo John Garcia"
+      ],
+      "stated_as": "Pablo John Garcia"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Speaker of the House of Representatives of the Philippines",
+        "Philippine House of Representatives"
+      ],
+      "stated_as": "Deputy Speaker of the\nPhilippine House of Representatives"
+    },
+    "P580": "2016-08-15",
+    "P582": "2018-08-15"
+  },
+  {
+    "office": {
+      "links": [
+        "List of governors of Cebu"
+      ],
+      "stated_as": "Governor of Cebu"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+        "Hilario Davide III"
+      ],
+      "stated_as": "Hilario Davide III"
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "office": {
+      "links": [
+        "Sangguniang Kabataan"
+      ],
+      "stated_as": "Sanguniang Kabataan Chairman of Barangay Mabato, Calamba, Laguna"
+    },
+    "P580": "1993",
+    "P582": "1995"
+  },
+  {
+    "office": {
+      "links": [
+        "Calamba, Laguna"
+      ],
+      "stated_as": "Member of the Calamba Municipal Council"
+    },
+    "P580": "1995-06-30",
+    "P582": "2004-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Laguna Provincial Board"
+      ],
+      "stated_as": "Member of the Laguna Provincial Board from the 2nd district"
+    },
+    "P580": "2004-06-30",
+    "P582": "2007-06-30"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Vice Governor of Laguna"
+    },
+    "P580": "2007-06-30",
+    "P1365": {
+      "links": [
+        "Edwin Olivarez"
+      ],
+      "stated_as": "Edwin Olivarez"
+    },
+    "P582": "2010-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Caesar Perez"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Vice Governor of Laguna"
+    },
+    "P580": "2013-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Caesar Perez"
+    },
+    "P582": "2014-05-27",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Karen Agapay"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Laguna"
+    },
+    "P1545": "18",
+    "P580": "2014-05-27",
+    "P1365": {
+      "links": [
+        "E.R. Ejercito"
+      ],
+      "stated_as": "E.R. Ejercito"
+    }
+  }
+]

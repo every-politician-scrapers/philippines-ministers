@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Secretary of Energy (Philippines)"
+      ],
+      "stated_as": "Secretary of Energy Ad interim"
+    },
+    "P580": "2005-03-22",
+    "P1365": {
+      "links": [
+        "Vincent S. Pérez"
+      ],
+      "stated_as": "Vincent S. Pérez"
+    },
+    "P582": "2007-07-18",
+    "P1366": {
+      "links": [
+        "Angelo Reyes"
+      ],
+      "stated_as": "Angelo Reyes"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of Energy (Philippines)"
+      ],
+      "stated_as": "Secretary of Energy Ad interim"
+    },
+    "P580": "2022-07-11",
+    "P1365": {
+      "links": [
+        "Alfonso Cusi"
+      ],
+      "stated_as": "Alfonso Cusi"
+    }
+  }
+]

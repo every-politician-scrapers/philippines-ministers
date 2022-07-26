@@ -1,0 +1,109 @@
+[
+  {
+    "office": {
+      "links": [
+        "Vigan"
+      ],
+      "stated_as": "Vice Mayor of Vigan"
+    },
+    "P580": "1988-02-02",
+    "P582": "1995-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Ilocos Sur Provincial Board",
+        "Ilocos Sur's 1st congressional district"
+      ],
+      "stated_as": "Member of the Ilocos Sur Provincial Board from the 1st District"
+    },
+    "P580": "1995-06-30",
+    "P582": "2001-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Ilocos Sur"
+      ],
+      "stated_as": "Vice Governor of Ilocos Sur"
+    },
+    "P580": "2001-06-30",
+    "P582": "2004-06-30",
+    "P1366": {
+      "links": [
+        "Deogracias Victor Savellano"
+      ],
+      "stated_as": "Deogracias Victor Savellano"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ilocos Sur Provincial Board",
+        "Ilocos Sur's 1st congressional district"
+      ],
+      "stated_as": "Member of the Ilocos Sur Provincial Board from the 1st District"
+    },
+    "P580": "2004-06-30",
+    "P582": "2007-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Ilocos Sur"
+      ],
+      "stated_as": "Vice Governor of Ilocos Sur"
+    },
+    "P580": "2007-06-30",
+    "P1365": {
+      "links": [
+        "Deogracias Victor Savellano"
+      ],
+      "stated_as": "Deogracias Victor Savellano"
+    },
+    "P582": "2010-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Jerry Singson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ilocos Sur"
+      ],
+      "stated_as": "Vice Governor of Ilocos Sur"
+    },
+    "P580": "2016-06-30",
+    "P1365": {
+      "links": [
+        "Deogracias Victor Savellano"
+      ],
+      "stated_as": "Deogracias Victor Savellano"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+        "Ryan Luis Singson"
+      ],
+      "stated_as": "Ryan Luis Singson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ilocos Sur"
+      ],
+      "stated_as": "Governor of Ilocos Sur"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Ryan Luis Singson"
+      ],
+      "stated_as": "Ryan Luis Singson"
+    }
+  }
+]

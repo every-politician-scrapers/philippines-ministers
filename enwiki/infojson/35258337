@@ -1,0 +1,72 @@
+[
+  {
+    "office": {
+      "links": [
+        "Cavite Provincial Board",
+        "Legislative districts of Cavite"
+      ],
+      "stated_as": "Member of the Cavite Provincial Board from the 2nd district"
+    },
+    "P580": "1995-06-30",
+    "P582": "1998-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Cavite"
+      ],
+      "stated_as": "Vice Governor of Cavite"
+    },
+    "P580": "1998-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Cesar Unas"
+    },
+    "P582": "2007-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Dencito Campaña"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Cavite"
+      ],
+      "stated_as": "Governor of Cavite"
+    },
+    "P580": "2010-06-30",
+    "P1365": {
+      "links": [
+        "Ayong Maliksi"
+      ],
+      "stated_as": "Ayong Maliksi"
+    },
+    "P582": "2016-06-30",
+    "P1366": {
+      "links": [
+        "Jesus Crispin Remulla"
+      ],
+      "stated_as": "Jesus Crispin Remulla"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Cavite"
+      ],
+      "stated_as": "Governor of Cavite"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+        "Jesus Crispin Remulla"
+      ],
+      "stated_as": "Jesus Crispin Remulla"
+    }
+  }
+]

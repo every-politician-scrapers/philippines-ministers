@@ -1,0 +1,63 @@
+[
+  {
+    "office": {
+      "links": [
+        "Legislative districts of Negros Oriental",
+        "Negros Oriental",
+        "Legislative districts of Negros Oriental"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Negros Oriental's Third District"
+    },
+    "P580": "2007-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Herminio Teves"
+    },
+    "P582": "2016-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Arnolfo Teves Jr."
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Bayawan"
+      ],
+      "stated_as": "Mayor of Bayawan"
+    },
+    "P580": "2016-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ismael Martinez"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "John T. Raymond Jr"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Negros Oriental"
+      ],
+      "stated_as": "21st Governor of Negros Oriental"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Roel Degamo"
+      ],
+      "stated_as": "Roel Degamo"
+    }
+  }
+]

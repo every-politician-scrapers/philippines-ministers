@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+        "Secretary of Transportation (Philippines)"
+      ],
+      "stated_as": "Secretary of Transportation Ad interim"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Arthur Tugade"
+      ],
+      "stated_as": "Arthur Tugade"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Civil Aviation Authority of the Philippines"
+      ],
+      "stated_as": "Director General of Civil Aviation Authority of the Philippines Acting"
+    },
+    "P580": "2022-07-21",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Capt. Jim Sydiongco"
+    }
+  }
+]

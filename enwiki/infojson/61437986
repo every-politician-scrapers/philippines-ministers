@@ -1,0 +1,72 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President of Lanao del Norte Ladies Circle"
+    },
+    "P580": "1996",
+    "P582": "1998"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Lanao del Norte"
+    },
+    "P580": "1998-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Abdullah D. Dimaporo"
+    },
+    "P582": "2007-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mohamad Khalid Q. Dimaporo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Legislative districts of Lanao del Norte"
+      ],
+      "stated_as": "Member of House of Representatives from Lanao del Norte, 1st District"
+    },
+    "P580": "2010-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Arsenio A. Quibranza"
+    },
+    "P582": "2016-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Mohamad Khalid Q. Dimaporo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Lanao del Norte"
+    },
+    "P580": "2016-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mohamad Khalid Q. Dimaporo"
+    }
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "Dapitan City Council"
+      ],
+      "stated_as": "Dapitan City Councilor"
+    },
+    "P580": "2010-06-30",
+    "P582": "2013-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Dapitan"
+      ],
+      "stated_as": "Mayor of Dapitan"
+    },
+    "P580": "2013-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Agapito J. Cardino"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+        "Bullet Jalosjos"
+      ],
+      "stated_as": "Seth Frederick P. Jalosjos"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Zamboanga del Norte"
+      ],
+      "stated_as": "Governor of Zamboanga del Norte"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Roberto Uy"
+      ],
+      "stated_as": "Roberto Y. Uy"
+    }
+  }
+]

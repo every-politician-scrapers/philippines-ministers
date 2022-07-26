@@ -1,0 +1,73 @@
+[
+  {
+    "office": {
+      "links": [
+        "Binalonan",
+        "Pangasinan"
+      ],
+      "stated_as": "Vice-Mayor of Binalonan, Pangasinan"
+    },
+    "P580": "2007-06-30",
+    "P582": "2010-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Binalonan"
+      ],
+      "stated_as": "Mayor of Binalonan"
+    },
+    "P580": "2010-06-30",
+    "P1365": {
+      "links": [
+        "Ramon Guico Jr."
+      ],
+      "stated_as": "Ramon Guico Jr."
+    },
+    "P582": "2019-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Ramon Guico Jr."
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Philippine House of Representatives",
+        "Pangasinan"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from the 5th District of Pangasinan"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+        "Amado Espino Jr."
+      ],
+      "stated_as": "Amado Espino Jr."
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+        "Ramon Guico Jr."
+      ],
+      "stated_as": "Ramon Guico Jr."
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Pangasinan"
+      ],
+      "stated_as": "31st Governor of Pangasinan"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Amado Espino III"
+      ],
+      "stated_as": "Amado Espino III"
+    }
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "office": {
+      "links": [
+        "Dupax del Norte",
+        "Nueva Vizcaya"
+      ],
+      "stated_as": "Mayor of Dupax del Norte, Nueva Vizcaya"
+    },
+    "P580": "1975",
+    "P582": "1978"
+  },
+  {
+    "office": {
+      "links": [
+        "Philippine House of Representatives",
+        "Legislative district of Nueva Vizcaya"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from the Lone District of Nueva Vizcaya"
+    },
+    "P580": "1987-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Leonardo Perez (as Assemblyman)"
+    },
+    "P582": "1992-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Leonardo Perez"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Philippine House of Representatives",
+        "Legislative district of Nueva Vizcaya"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from the Lone District of Nueva Vizcaya"
+    },
+    "P580": "1995-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Leonardo Perez"
+    },
+    "P582": "2004-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Rodolfo Agbayani"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Speaker of the House of Representatives of the Philippines"
+      ],
+      "stated_as": "Deputy Speaker of the House of Representatives of the Philippines"
+    },
+    "P580": "2001",
+    "P582": "2001-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Philippine House of Representatives",
+        "Legislative district of Nueva Vizcaya"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from the Lone District of Nueva Vizcaya"
+    },
+    "P580": "2007-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Rodolfo Agbayani"
+    },
+    "P582": "2016-06-30",
+    "P1366": {
+      "links": [
+        "Luisa Lloren Cuaresma"
+      ],
+      "stated_as": "Luisa Lloren Cuaresma"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Speaker of the House of Representatives of the Philippines"
+      ],
+      "stated_as": "Deputy Speaker of the House of Representatives of the Philippines"
+    },
+    "P580": "2013-07-22",
+    "P582": "2016-06-30"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Nueva Vizcaya"
+    },
+    "P580": "2016-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ruth Raña Padilla"
+    }
+  }
+]

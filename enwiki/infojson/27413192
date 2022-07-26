@@ -1,0 +1,76 @@
+[
+  {
+    "office": {
+      "links": [
+        "Marinduque"
+      ],
+      "stated_as": "Provincial Administrator of Marinduque"
+    },
+    "P580": "2008-01",
+    "P582": "2009-12-01"
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Marinduque",
+        "Marinduque's at-large congressional district"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Marinduque's lone district"
+    },
+    "P580": "2010-06-30",
+    "P1365": {
+      "links": [
+        "Carmencita Reyes"
+      ],
+      "stated_as": "Carmencita Reyes"
+    },
+    "P582": "2013-06-30",
+    "P1366": {
+      "links": [
+        "Regina Reyes Mandanas"
+      ],
+      "stated_as": "Regina Ongsiako Reyes"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Marinduque",
+        "Marinduque's at-large congressional district"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Marinduque's lone district"
+    },
+    "P580": "2016-02-01",
+    "P1365": {
+      "links": [
+        "Regina Reyes Mandanas"
+      ],
+      "stated_as": "Regina Ongsiako Reyes"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Speaker of the House of Representatives of the Philippines"
+    },
+    "P1545": "27",
+    "P580": "2020-10-12",
+    "P1365": {
+      "links": [
+        "Alan Peter Cayetano"
+      ],
+      "stated_as": "Alan Peter Cayetano"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+        "Martin Romualdez"
+      ],
+      "stated_as": "Martin Romualdez"
+    }
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "office": {
+      "links": [
+        "Tuao"
+      ],
+      "stated_as": "Mayor of Tuao"
+    },
+    "P580": "1988-02-02",
+    "P582": "1995-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Cagayan",
+        "Legislative districts of Cagayan"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Cagayan's 3rd District"
+    },
+    "P580": "1995-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Francisco K. Mamba"
+    },
+    "P582": "1998-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Rodolfo Aguinaldo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Cagayan",
+        "Legislative districts of Cagayan"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Cagayan's 3rd District"
+    },
+    "P580": "2001-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Rodolfo Aguinaldo"
+    },
+    "P582": "2010-06-30",
+    "P1366": {
+      "links": [
+        "Randolph Ting"
+      ],
+      "stated_as": "Randolph Ting"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Head of Presidential Legislative Liaison Office"
+    },
+    "P580": "2012-02-20",
+    "P1365": {
+      "links": [
+        "Antonino Roman"
+      ],
+      "stated_as": "Antonino Roman"
+    },
+    "P582": "2015-10-16"
+  },
+  {
+    "office": {
+      "links": [
+        "Cagayan"
+      ],
+      "stated_as": "Governor of Cagayan"
+    },
+    "P580": "2016-06-30",
+    "P1365": {
+      "links": [
+        "Alvaro Antonio"
+      ],
+      "stated_as": "Alvaro Antonio"
+    }
+  }
+]

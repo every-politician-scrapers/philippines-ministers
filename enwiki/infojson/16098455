@@ -1,0 +1,127 @@
+[
+  {
+    "office": {
+      "links": [
+        "Philippine House of Representatives",
+        "Capiz",
+        "Legislative districts of Capiz"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Capiz's 2nd district"
+    },
+    "P580": "2001-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Vicente J. Andaya, Jr."
+    },
+    "P582": "2010-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Jane T. Castro"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Philippine House of Representatives",
+        "Capiz",
+        "Legislative districts of Capiz"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Capiz's 2nd district"
+    },
+    "P580": "2013-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Jane T. Castro"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Jane T. Castro"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Speaker of the House of Representatives of the Philippines",
+        "House of Representatives of the Philippines"
+      ],
+      "stated_as": "Deputy Speaker of the House of Representatives"
+    },
+    "P580": "2016-07-25",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Sergio Apostol"
+    },
+    "P582": "2019-01-21"
+  },
+  {
+    "office": {
+      "links": [
+        "Majority Floor Leader of the House of Representatives of the Philippines"
+      ],
+      "stated_as": "House Majority Leader"
+    },
+    "P580": "2019-01-21",
+    "P1365": {
+      "links": [
+        "Rolando Andaya Jr."
+      ],
+      "stated_as": "Rolando Andaya Jr."
+    },
+    "P582": "2019-06-30",
+    "P1366": {
+      "links": [
+        "Martin Romualdez"
+      ],
+      "stated_as": "Martin Romualdez"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Speaker of the House of Representatives of the Philippines",
+        "House of Representatives of the Philippines"
+      ],
+      "stated_as": "Deputy Speaker of the House of Representatives"
+    },
+    "P580": "2020-10-02",
+    "P1365": {
+      "links": [
+        "Mikee Romero"
+      ],
+      "stated_as": "Mikee Romero"
+    },
+    "P582": "2020-11-18",
+    "P1366": {
+      "links": [
+        "Rufus Rodriguez"
+      ],
+      "stated_as": "Rufus Rodriguez"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Capiz"
+      ],
+      "stated_as": "Governor of Capiz"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Esteban Evan Contreras"
+      ],
+      "stated_as": "Esteban Evan Contreras"
+    }
+  }
+]

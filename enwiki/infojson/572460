@@ -1,0 +1,138 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ilocos Norte"
+      ],
+      "stated_as": "Vice Governor of Ilocos Norte"
+    },
+    "P580": "1980-06-30",
+    "P582": "1983-03-23"
+  },
+  {
+    "office": {
+      "links": [
+        "Ilocos Norte"
+      ],
+      "stated_as": "Governor of Ilocos Norte"
+    },
+    "P580": "1983-03-23",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Elizabeth Keon"
+    },
+    "P582": "1986-02-25",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Castor Raval (OIC)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Legislative districts of Ilocos Norte",
+        "Legislative districts of Ilocos Norte"
+      ],
+      "stated_as": "Member of the\nPhilippine House of Representatives\nfrom Ilocos Norte's 2nd district"
+    },
+    "P580": "1992-06-30",
+    "P1365": {
+      "links": [
+        "Mariano Nalupta Jr."
+      ],
+      "stated_as": "Mariano Nalupta Jr."
+    },
+    "P582": "1995-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Simeon Valdez"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ilocos Norte"
+      ],
+      "stated_as": "Governor of Ilocos Norte"
+    },
+    "P580": "1998-06-30",
+    "P1365": {
+      "links": [
+        "Rodolfo Fariñas"
+      ],
+      "stated_as": "Rodolfo Fariñas"
+    },
+    "P582": "2007-06-30",
+    "P1366": {
+      "links": [
+        "Michael Marcos Keon"
+      ],
+      "stated_as": "Michael Marcos Keon"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Legislative districts of Ilocos Norte",
+        "Legislative districts of Ilocos Norte"
+      ],
+      "stated_as": "Member of the\nPhilippine House of Representatives\nfrom Ilocos Norte's 2nd district"
+    },
+    "P580": "2007-06-30",
+    "P1365": {
+      "links": [
+        "Imee Marcos"
+      ],
+      "stated_as": "Imee Marcos"
+    },
+    "P582": "2010-06-30",
+    "P1366": {
+      "links": [
+        "Imelda Marcos"
+      ],
+      "stated_as": "Imelda Marcos"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Senate of the Philippines"
+      ],
+      "stated_as": "Senator of the Philippines"
+    },
+    "P580": "2010-06-30",
+    "P582": "2016-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Philippines"
+      ],
+      "stated_as": "17th  President of the Philippines"
+    },
+    "P580": "2022-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of Agriculture (Philippines)"
+      ],
+      "stated_as": "Secretary of Agriculture"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "William Dar"
+      ],
+      "stated_as": "William Dar"
+    }
+  }
+]

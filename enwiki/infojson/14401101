@@ -1,0 +1,71 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Vice Governor of Quirino"
+    },
+    "P580": "2001-06-30",
+    "P582": "2007-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Quirino"
+      ],
+      "stated_as": "Governor of Quirino"
+    },
+    "P580": "2007-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Junie E. Cua"
+    },
+    "P582": "2010-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Junie E. Cua"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines"
+      ],
+      "stated_as": "Member of House of Representatives of the Philippines from the Lone District of Quirino"
+    },
+    "P580": "2010-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Junie E. Cua"
+    },
+    "P582": "2019-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Junie E. Cua"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Quirino"
+      ],
+      "stated_as": "Governor of Quirino"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Junie E. Cua"
+    }
+  }
+]

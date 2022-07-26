@@ -1,0 +1,109 @@
+[
+  {
+    "office": {
+      "links": [
+        "Davao City",
+        "Legislative districts of Davao City"
+      ],
+      "stated_as": "Member of the Davao City Council from the 3rd district"
+    },
+    "P580": "1986-05-09",
+    "P582": "1987-11-27"
+  },
+  {
+    "office": {
+      "links": [
+        "Davao City",
+        "Legislative districts of Davao City"
+      ],
+      "stated_as": "Member of the Davao City Council from the 3rd district"
+    },
+    "P580": "1988-02-02",
+    "P582": "1992-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Davao Oriental",
+        "Davao Oriental's 1st congressional district"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Davao Oriental's 1st district"
+    },
+    "P580": "2001-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ma. Elena T. Palma Gil"
+    },
+    "P582": "2007-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Nelson Dayanghirang"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Davao Oriental"
+      ],
+      "stated_as": "Governor of Davao Oriental"
+    },
+    "P580": "2007-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ma. Elena T. Palma Gil"
+    },
+    "P582": "2016-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Nelson Dayanghirang"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Davao Oriental",
+        "Davao Oriental's 1st congressional district"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Davao Oriental's 1st district"
+    },
+    "P580": "2016-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Nelson Dayanghirang"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Nelson Dayanghirang"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Davao Oriental"
+      ],
+      "stated_as": "Governor of Davao Oriental"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Nelson Dayanghirang"
+      ],
+      "stated_as": "Nelson Dayanghirang"
+    }
+  }
+]

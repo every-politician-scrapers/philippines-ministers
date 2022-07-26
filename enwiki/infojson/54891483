@@ -1,0 +1,63 @@
+[
+  {
+    "office": {
+      "links": [
+        "Sandiganbayan"
+      ],
+      "stated_as": "Associate Justice of the Sandiganbayan"
+    },
+    "P580": "2005-10-15",
+    "P1365": {
+      "links": [
+        "Teresita de Castro"
+      ],
+      "stated_as": "Teresita de Castro"
+    },
+    "P582": "2017-08-14",
+    "P1366": {
+      "links": [
+        "Ronald Moreno"
+      ],
+      "stated_as": "Ronald Moreno"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Associate Justice of the Supreme Court of the Philippines"
+    },
+    "P1545": "178",
+    "P580": "2017-08-14",
+    "P1365": {
+      "links": [
+        "Jose C. Mendoza"
+      ],
+      "stated_as": "Jose C. Mendoza"
+    },
+    "P582": "2021-04-05",
+    "P1366": {
+      "links": [
+        "Japar Dimaampao"
+      ],
+      "stated_as": "Japar Dimaampao"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chief Justice of the Philippines"
+    },
+    "P1545": "27",
+    "P580": "2021-04-05",
+    "P1365": {
+      "links": [
+        "Diosdado Peralta"
+      ],
+      "stated_as": "Diosdado Peralta"
+    }
+  }
+]

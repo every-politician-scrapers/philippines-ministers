@@ -1,0 +1,122 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Cavite",
+        "Legislative districts of Cavite"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Cavite's 3rd district"
+    },
+    "P580": "2004-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Napoleon R. Beratio"
+    },
+    "P582": "2010-06-30",
+    "P1366": {
+      "links": [
+        "Erineo Maliksi"
+      ],
+      "stated_as": "Erineo Maliksi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Cavite",
+        "Legislative districts of Cavite"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Cavite's 7th district"
+    },
+    "P580": "2010-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "New district"
+    },
+    "P582": "2013-06-30",
+    "P1366": {
+      "links": [
+        "Abraham Tolentino"
+      ],
+      "stated_as": "Abraham Tolentino"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Speakers of the House of Representatives of the Philippines",
+        "Luzon"
+      ],
+      "stated_as": "Deputy House Speaker for Luzon"
+    },
+    "P580": "2010-07-26",
+    "P582": "2013-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Cavite"
+      ],
+      "stated_as": "Governor of Cavite"
+    },
+    "P580": "2016-06-30",
+    "P1365": {
+      "links": [
+        "Jonvic Remulla"
+      ],
+      "stated_as": "Jonvic Remulla"
+    },
+    "P582": "2019-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Jonvic Remulla"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Cavite",
+        "Legislative districts of Cavite"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Cavite's 7th district"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+        "Abraham Tolentino"
+      ],
+      "stated_as": "Abraham Tolentino"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Vacant"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of Justice (Philippines)"
+      ],
+      "stated_as": "Secretary of Justice Ad interim"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Menardo Guevarra"
+      ],
+      "stated_as": "Menardo Guevarra"
+    }
+  }
+]

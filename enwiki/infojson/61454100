@@ -1,0 +1,81 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Executive Secretary"
+    },
+    "P580": "2015-05-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Michael G. Aguinaldo"
+    },
+    "P582": "2016-01-31"
+  },
+  {
+    "office": {
+      "links": [
+        "Philippine Competition Commission"
+      ],
+      "stated_as": "Commissioner of the Philippine Competition Commission"
+    },
+    "P580": "2016-02-01",
+    "P582": "2016-06-30"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Executive Secretary"
+    },
+    "P580": "2016-06-30",
+    "P582": "2018-04-04",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Michael P. Ong"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of Justice (Philippines)"
+      ],
+      "stated_as": "59th Secretary of Justice"
+    },
+    "P580": "2018-04-05",
+    "P1365": {
+      "links": [
+        "Vitaliano Aguirre II"
+      ],
+      "stated_as": "Vitaliano Aguirre II"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+        "Jesus Crispin Remulla"
+      ],
+      "stated_as": "Jesus Crispin Remulla"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Solicitor General of the Philippines"
+      ],
+      "stated_as": "Solicitor General of the Philippines"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Jose Calida"
+      ],
+      "stated_as": "Jose Calida"
+    }
+  }
+]

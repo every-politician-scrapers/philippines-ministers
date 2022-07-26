@@ -1,0 +1,41 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Manila",
+        "Manila's 3rd congressional district"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Manila's 3rd district"
+    },
+    "P580": "2007-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Miles Roces"
+    },
+    "P582": "2016-06-30",
+    "P1366": {
+      "links": [
+        "Yul Servo Nieto"
+      ],
+      "stated_as": "Yul Servo Nieto"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Presidential Management Staff (Philippines)"
+      ],
+      "stated_as": "Secretary of the Presidential Management Staff"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Jesus Melchor Quitain"
+      ],
+      "stated_as": "Jesus Melchor Quitain"
+    }
+  }
+]
