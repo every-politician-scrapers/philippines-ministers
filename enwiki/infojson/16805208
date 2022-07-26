@@ -1,0 +1,70 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Cotabato",
+        "Legislative districts of Cotabato"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Cotabato's First District"
+    },
+    "P580": "2001-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Anthony P. Dequiña"
+    },
+    "P582": "2010-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Jesus N. Sacdalan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Cotabato"
+      ],
+      "stated_as": "Governor of Cotabato"
+    },
+    "P580": "2010-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Jesus Sacdalan"
+    },
+    "P582": "2019-06-30",
+    "P1366": {
+      "links": [
+        "Nancy Catamco"
+      ],
+      "stated_as": "Nancy Catamco"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cotabato"
+      ],
+      "stated_as": "Vice Governor of Cotabato"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Shirlyn Macasarte-Villanueva"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Efren Piñol"
+    }
+  }
+]

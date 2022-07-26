@@ -1,0 +1,72 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chief of Staff of the Armed Forces of the Philippines",
+        "Armed Forces of the Philippines"
+      ],
+      "stated_as": "50th Chief of Staff of the Armed Forces of the Philippines"
+    },
+    "P580": "2018-04-18",
+    "P1365": {
+      "links": [
+        "Rey Leonardo Guerrero"
+      ],
+      "stated_as": "Gen. Rey Leonardo Guerrero"
+    },
+    "P582": "2018-12-11",
+    "P1366": {
+      "links": [
+        "Benjamin Madrigal Jr."
+      ],
+      "stated_as": "Gen. Benjamin Madrigal Jr."
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Office of the Presidential Adviser on the Peace Process"
+      ],
+      "stated_as": "Presidential Adviser on the Peace Process"
+    },
+    "P580": "2018-12-12",
+    "P1365": {
+      "links": [
+        "Jesus Dureza"
+      ],
+      "stated_as": "Jesus Dureza"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chief Implementer of the National Task Force against COVID-19"
+    },
+    "P580": "2020-03-16",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2022-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Inter-Agency Task Force for the Management of Emerging Infectious Diseases"
+      ],
+      "stated_as": "IATF-EID Vaccine Czar"
+    },
+    "P580": "2020-11-02",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2022-06-30"
+  }
+]

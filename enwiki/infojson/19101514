@@ -1,0 +1,116 @@
+[
+  {
+    "office": {
+      "links": [
+        "Philippine National Police Chief"
+      ],
+      "stated_as": "Chief of the Philippine National Police"
+    },
+    "P580": "2002-07",
+    "P582": "2004-08-23"
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of Public Works and Highways (Philippines)"
+      ],
+      "stated_as": "Secretary of Public Works and Highways"
+    },
+    "P580": "2005-02-15",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Florante Soriquez (acting)"
+    },
+    "P582": "2007-02-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Manuel Bonoan (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Department of National Defense (Philippines)"
+      ],
+      "stated_as": "Secretary of National Defense"
+    },
+    "P580": "2007-02-01",
+    "P1365": {
+      "links": [
+        "Gloria Macapagal Arroyo"
+      ],
+      "stated_as": "Gloria Macapagal Arroyo"
+    },
+    "P582": "2007-07-02",
+    "P1366": {
+      "links": [
+        "Norberto Gonzales"
+      ],
+      "stated_as": "Norberto Gonzales (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of Public Works and Highways (Philippines)"
+      ],
+      "stated_as": "Secretary of Public Works and Highways"
+    },
+    "P580": "2007-07-04",
+    "P1365": {
+      "links": [
+        "Manuel Bonoan"
+      ],
+      "stated_as": "Manuel Bonoan (acting)"
+    },
+    "P582": "2009-10-22",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Victor F. Domingo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Zambales"
+    },
+    "P580": "2010-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Amor Deloso"
+    },
+    "P582": "2016-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Amor Deloso"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Zambales"
+    },
+    "P1545": "8",
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+        "Amor Deloso"
+      ],
+      "stated_as": "Amor Deloso"
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "office": {
+      "links": [
+        "Malita, Davao Occidental",
+        "Davao del Sur"
+      ],
+      "stated_as": "Mayor of Malita, Davao del Sur"
+    },
+    "P580": "1988-02-02",
+    "P582": "1998-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Philippine House of Representatives",
+        "Davao del Sur",
+        "Legislative districts of Davao del Sur"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Davao del Sur's Second District"
+    },
+    "P580": "1998-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Benjamin Bautista Sr."
+    },
+    "P582": "2001-06-30",
+    "P1366": {
+      "links": [
+        "Claude Bautista"
+      ],
+      "stated_as": "Claude Bautista"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Malita, Davao Occidental",
+        "Davao del Sur"
+      ],
+      "stated_as": "Mayor of Malita, Davao del Sur"
+    },
+    "P580": "2001-06-30",
+    "P582": "2007-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Philippine House of Representatives",
+        "Davao del Sur",
+        "Legislative districts of Davao del Sur"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Davao del Sur's Second District"
+    },
+    "P580": "2007-06-30",
+    "P1365": {
+      "links": [
+        "Claude Bautista"
+      ],
+      "stated_as": "Claude Bautista"
+    },
+    "P582": "2016-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Office abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Vice Governor of Davao Occidental"
+    },
+    "P1545": "1",
+    "P580": "2016-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Lorna Bautista Bandigan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Davao Occidental"
+    },
+    "P1545": "2",
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Claude Bautista"
+      ],
+      "stated_as": "Claude Bautista"
+    }
+  }
+]

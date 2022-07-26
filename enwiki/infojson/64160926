@@ -1,0 +1,65 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Zamboanga Sibugay",
+        "Zamboanga Sibugay's 2nd congressional district"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Zamboanga Sibugay's 2nd District"
+    },
+    "P580": "2007-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency created"
+    },
+    "P582": "2010-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Romeo M. Jalosjos, Jr."
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Zamboanga Sibugay",
+        "Zamboanga Sibugay's 2nd congressional district"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Zamboanga Sibugay's 2nd District"
+    },
+    "P580": "2013-06-30",
+    "P1365": {
+      "links": [
+        "Romeo Jalosjos Jr."
+      ],
+      "stated_as": "Romeo M. Jalosjos, Jr."
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Ate 'Tata' Eudela"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Zamboanga Sibugay"
+      ],
+      "stated_as": "4th Governor of Zamboanga Sibugay"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Wilter Palma"
+      ],
+      "stated_as": "Wilter Palma"
+    }
+  }
+]

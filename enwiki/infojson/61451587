@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "Sablayan"
+      ],
+      "stated_as": "Mayor of Sablayan"
+    },
+    "P580": "2010-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Godofredo B. Mintu"
+    },
+    "P582": "2019-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Andres D. Dangeros"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Occidental Mindoro"
+    },
+    "P1545": "8",
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mario Gene Mendiola"
+    }
+  }
+]

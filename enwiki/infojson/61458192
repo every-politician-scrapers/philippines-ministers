@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Tandag, Surigao del Sur"
+      ],
+      "stated_as": "Mayor of Tandag"
+    },
+    "P580": "2004-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mary Elizabeth Delgado"
+    },
+    "P582": "2013-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Roxanne C. Pimentel"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Tandag, Surigao del Sur"
+      ],
+      "stated_as": "Mayor of Tandag"
+    },
+    "P580": "2016-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Roxanne C. Pimentel"
+    },
+    "P582": "2019-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Roxanne C. Pimentel"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Surigao del Sur"
+      ],
+      "stated_as": "Governor of Surigao del Sur"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Manuel Alameda"
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Buguias"
+      ],
+      "stated_as": "Mayor of Buguias"
+    },
+    "P580": "2016",
+    "P582": "2019"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Benguet"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Crescencio Pacalso"
+    }
+  }
+]

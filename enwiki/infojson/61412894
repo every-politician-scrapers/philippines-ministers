@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Legislative districts of Iloilo"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Iloilo's 3rd District"
+    },
+    "P580": "2010-06-30",
+    "P1365": {
+      "links": [
+        "Arthur Defensor Sr."
+      ],
+      "stated_as": "Arthur Defensor Sr."
+    },
+    "P582": "2019-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Lorenz R. Defensor"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Iloilo"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+        "Arthur Defensor Sr."
+      ],
+      "stated_as": "Arthur Defensor Sr."
+    }
+  }
+]

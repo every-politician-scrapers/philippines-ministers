@@ -1,0 +1,76 @@
+[
+  {
+    "office": {
+      "links": [
+        "Jolo"
+      ],
+      "stated_as": "Member of the Municipal Council of Jolo"
+    },
+    "P580": "1981",
+    "P582": "1987"
+  },
+  {
+    "office": {
+      "links": [
+        "Jolo"
+      ],
+      "stated_as": "Member of the Municipal Council of Jolo"
+    },
+    "P580": "1987-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Post created"
+    },
+    "P582": "1992-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Bensaudi Tulawie"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Philippine House of Representatives",
+        "Legislative districts of Sulu"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from the First District of Sulu"
+    },
+    "P580": "1996",
+    "P582": "2001-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Governors in the Philippines",
+        "Sulu"
+      ],
+      "stated_as": "Governor of Sulu"
+    },
+    "P580": "2007-06-30",
+    "P582": "2013-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Sulu"
+      ],
+      "stated_as": "Vice Governor of Sulu"
+    },
+    "P580": "2013-06-30",
+    "P582": "2016-05"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Governors in the Philippines",
+        "Sulu"
+      ],
+      "stated_as": "Governor of Sulu"
+    },
+    "P580": "2019-06-30"
+  }
+]

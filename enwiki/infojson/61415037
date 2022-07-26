@@ -1,0 +1,41 @@
+[
+  {
+    "office": {
+      "links": [
+        "Philippine House of Representatives",
+        "Northern Samar",
+        "Legislative districts of Northern Samar"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Northern Samar's 1st District"
+    },
+    "P580": "2016-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Emil L. Ong"
+    },
+    "P582": "2019-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Jose L. Ong, Jr."
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Northern Samar"
+      ],
+      "stated_as": "Governor of Northern Samar"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Jose L. Ong, Jr."
+    }
+  }
+]

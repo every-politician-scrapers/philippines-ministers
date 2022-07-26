@@ -1,0 +1,50 @@
+[
+  {
+    "office": {
+      "links": [
+        "University of the Philippines"
+      ],
+      "stated_as": "Alumni Regent of the University of the Philippines\nConcurrently President of the U.P. Alumni Association"
+    },
+    "P580": "2009",
+    "P582": "2011"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President of the University of the Philippines"
+    },
+    "P1545": "20",
+    "P580": "2011-02-10",
+    "P1365": {
+      "links": [
+        "Emerlinda R. Roman"
+      ],
+      "stated_as": "Emerlinda R. Roman"
+    },
+    "P582": "2017-02-09",
+    "P1366": {
+      "links": [
+        "Danilo Concepcion"
+      ],
+      "stated_as": "Danilo Concepcion"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of Trade and Industry (Philippines)"
+      ],
+      "stated_as": "Secretary of Trade and Industry Ad interim"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Ramon Lopez (businessman)"
+      ],
+      "stated_as": "Ramon Lopez"
+    }
+  }
+]

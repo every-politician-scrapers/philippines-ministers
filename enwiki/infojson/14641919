@@ -1,0 +1,63 @@
+[
+  {
+    "office": {
+      "links": [
+        "Balanga, Bataan"
+      ],
+      "stated_as": "Mayor of Balanga"
+    },
+    "P580": "2007-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Melanio S. Banzon Jr."
+    },
+    "P582": "2016-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Francis Garcia"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Legislative districts of Bataan"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Bataan's 2nd District"
+    },
+    "P580": "2016-06-30",
+    "P1365": {
+      "links": [
+        "Tet Garcia"
+      ],
+      "stated_as": "Enrique T. Garcia Jr."
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+        "Albert Garcia"
+      ],
+      "stated_as": "Albert Garcia"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Bataan"
+    },
+    "P1545": "25",
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Albert Garcia"
+      ],
+      "stated_as": "Albert Garcia"
+    }
+  }
+]

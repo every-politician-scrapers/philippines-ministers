@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Legislative district of Basilan"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Basilan's Lone District"
+    },
+    "P580": "2010-06-30",
+    "P1365": {
+      "links": [
+        "Wahab Akbar"
+      ],
+      "stated_as": "Wahab Akbar (2007)"
+    },
+    "P582": "2016-06-30",
+    "P1366": {
+      "links": [
+        "Jum Jainudin Akbar"
+      ],
+      "stated_as": "Jum Jainudin Akbar"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Basilan"
+      ],
+      "stated_as": "Governor of Basilan"
+    },
+    "P580": "2016-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Jum Jainudin Akbar"
+    }
+  }
+]

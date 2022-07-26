@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "San Carlos, Negros Occidental"
+      ],
+      "stated_as": "Mayor of San Carlos, Negros Occidental"
+    },
+    "P580": "2001-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Rogelio Debulgado"
+    },
+    "P582": "2010-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Gerardo P. Valmayor Jr."
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Negros Occidental"
+      ],
+      "stated_as": "Vice Governor of Negros Occidental"
+    },
+    "P580": "2013-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Genaro Alvarez"
+    },
+    "P582": "2019-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Jeffrey Ferrer"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Negros Occidental"
+      ],
+      "stated_as": "Governor of Negros Occidental"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+        "Alfredo Marañon"
+      ],
+      "stated_as": "Alfredo Marañon"
+    }
+  }
+]

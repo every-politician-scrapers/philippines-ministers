@@ -1,0 +1,41 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Bohol",
+        "Legislative districts of Bohol"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Bohol's 2nd District"
+    },
+    "P580": "2013-06-30",
+    "P1365": {
+      "links": [
+        "Erico Aumentado"
+      ],
+      "stated_as": "Erico Aumentado"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Vanessa Cadorna Aumentado"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Bohol"
+      ],
+      "stated_as": "Governor of Bohol"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Arthur C. Yap"
+      ],
+      "stated_as": "Arthur C. Yap"
+    }
+  }
+]

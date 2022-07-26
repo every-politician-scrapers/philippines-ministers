@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Defense College of the Philippines"
+      ],
+      "stated_as": "16th President of the National Defense College of the Philippines"
+    },
+    "P580": "1998-08-17",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Eduardo T. Cabanlig"
+    },
+    "P582": "2001-10-15",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Carlos L. Agustin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Security Council (Philippines)"
+      ],
+      "stated_as": "National Security Adviser Ad interim"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Hermogenes Esperon"
+      ],
+      "stated_as": "Hermogenes Esperon"
+    }
+  }
+]

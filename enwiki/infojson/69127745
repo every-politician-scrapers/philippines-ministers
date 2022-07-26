@@ -1,0 +1,51 @@
+[
+  {
+    "office": {
+      "links": [
+        "Philippine House of Representatives",
+        "Misamis Occidental",
+        "Misamis Occidental's 2nd congressional district"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Misamis Occidental's 2nd district"
+    },
+    "P580": "2013-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Loreto Leo S. Ocampos"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Sancho Fernando \"Ando\" F. Oaminal"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Speaker of the House of Representatives of the Philippines"
+      ],
+      "stated_as": "Deputy Speaker of the House of Representatives"
+    },
+    "P580": "2019-07-29",
+    "P582": "2022-06-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Misamis Occidental"
+      ],
+      "stated_as": "Governor of Misamis Occidental"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Philip T. Tan"
+    }
+  }
+]

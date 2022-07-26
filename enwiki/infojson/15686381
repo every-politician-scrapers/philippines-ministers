@@ -1,0 +1,63 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Batangas"
+    },
+    "P580": "1995-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Vicente Mayo"
+    },
+    "P582": "2004-06-30",
+    "P1366": {
+      "links": [
+        "Arman Sanchez"
+      ],
+      "stated_as": "Arman Sanchez"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Legislative districts of Batangas"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from the 2nd District of Batangas"
+    },
+    "P580": "2004-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Francisco S. Perez II"
+    },
+    "P582": "2013-06-30",
+    "P1366": {
+      "links": [
+        "Raneo Abu"
+      ],
+      "stated_as": "Raneo Abu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Batangas"
+    },
+    "P1545": "21",
+    "P580": "2016-06-30",
+    "P1365": {
+      "links": [
+        "Vilma Santos"
+      ],
+      "stated_as": "Vilma Santos"
+    }
+  }
+]

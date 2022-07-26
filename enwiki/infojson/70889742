@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "Department of Labor and Employment (Philippines)"
+      ],
+      "stated_as": "Undersecretary of Labor and Employment"
+    },
+    "P580": "1990",
+    "P582": "1996"
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of Labor and Employment (Philippines)"
+      ],
+      "stated_as": "Secretary of Labor and Employment Ad interim"
+    },
+    "P580": "1998-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Cresenciano Trajano (acting)"
+    },
+    "P582": "2001-01-20",
+    "P1366": {
+      "links": [
+        "Patricia Santo Tomas"
+      ],
+      "stated_as": "Patricia Santo Tomas"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of Labor and Employment (Philippines)"
+      ],
+      "stated_as": "Secretary of Labor and Employment Ad interim"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Silvestre Bello III"
+      ],
+      "stated_as": "Silvestre Bello III"
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "office": {
+      "links": [
+        "Secretary of Budget and Management (Philippines)"
+      ],
+      "stated_as": "Secretary of Budget and Management"
+    },
+    "P580": "1998-06-30",
+    "P1365": {
+      "links": [
+        "Emilia Boncodin"
+      ],
+      "stated_as": "Emilia Boncodin (acting)"
+    },
+    "P582": "2001-01-20",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Emilia Boncodin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of Budget and Management (Philippines)"
+      ],
+      "stated_as": "Secretary of Budget and Management"
+    },
+    "P580": "2016-06-30",
+    "P1365": {
+      "links": [
+        "Florencio Abad"
+      ],
+      "stated_as": "Florencio Abad"
+    },
+    "P582": "2019-03-04",
+    "P1366": {
+      "links": [
+        "Janet Abuel"
+      ],
+      "stated_as": "Janet Abuel"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of the Bangko Sentral ng Pilipinas"
+      ],
+      "stated_as": "5th Governor of the Bangko Sentral ng Pilipinas"
+    },
+    "P580": "2019-03-04",
+    "P1365": {
+      "links": [
+        "Nestor Espenilla Jr."
+      ],
+      "stated_as": "Nestor Espenilla Jr."
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+        "Felipe Medalla"
+      ],
+      "stated_as": "Felipe Medalla"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of Finance (Philippines)"
+      ],
+      "stated_as": "Secretary of Finance Ad interim"
+    },
+    "P580": "2022-06-30"
+  }
+]

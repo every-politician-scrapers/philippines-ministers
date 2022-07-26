@@ -1,0 +1,86 @@
+[
+  {
+    "office": {
+      "links": [
+        "Davao City"
+      ],
+      "stated_as": "Vice Mayor of Davao City"
+    },
+    "P580": "2007-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Luis Bonguyan"
+    },
+    "P582": "2010-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Rodrigo Duterte"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Mayor of Davao City"
+      ],
+      "stated_as": "Mayor of Davao City"
+    },
+    "P580": "2010-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Rodrigo Duterte"
+    },
+    "P582": "2013-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Rodrigo Duterte"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Mayor of Davao City"
+      ],
+      "stated_as": "Mayor of Davao City"
+    },
+    "P580": "2016-06-30",
+    "P1365": {
+      "links": [
+        "Rodrigo Duterte"
+      ],
+      "stated_as": "Rodrigo Duterte"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Sebastian Duterte"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Vice President of the Philippines"
+      ],
+      "stated_as": "15th Vice President of the Philippines"
+    },
+    "P580": "2022-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of Education (Philippines)"
+      ],
+      "stated_as": "Secretary of Education Ad interim"
+    },
+    "P580": "2022-06-30"
+  }
+]

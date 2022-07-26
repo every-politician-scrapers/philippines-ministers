@@ -1,0 +1,37 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chairman of the National Movement of Young Legislators\nIlocos Norte Chapter"
+    },
+    "P580": "2016"
+  },
+  {
+    "office": {
+      "links": [
+        "Ilocos Norte Provincial Board",
+        "Legislative districts of Ilocos Norte"
+      ],
+      "stated_as": "Member of the Ilocos Norte Provincial Board from the 2nd district"
+    },
+    "P580": "2016-06-30",
+    "P582": "2019-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Ilocos Norte"
+      ],
+      "stated_as": "Governor of Ilocos Norte"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+        "Imee Marcos"
+      ],
+      "stated_as": "Imee Marcos"
+    }
+  }
+]

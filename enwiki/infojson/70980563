@@ -1,0 +1,87 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Samar",
+        "Legislative districts of Samar"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Samar's 2nd District"
+    },
+    "P580": "2007-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Catalino Figueroa"
+    },
+    "P582": "2010-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Milagrosa Tan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Samar"
+      ],
+      "stated_as": "22nd Governor of Samar"
+    },
+    "P580": "2010-06-30",
+    "P1365": {
+      "links": [
+        "Milagrosa Tan"
+      ],
+      "stated_as": "Milagrosa Tan"
+    },
+    "P582": "2019-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Milagrosa Tan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Samar",
+        "Legislative districts of Samar"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Samar's 2nd District"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Milagrosa Tan"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Reynolds Michael Tan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Samar"
+      ],
+      "stated_as": "22nd Governor of Samar"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Reynolds Michael Tan"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Legislative districts of Nueva Ecija"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Nueva Ecija's 3rd District"
+    },
+    "P580": "2001-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Pacifico Fajardo"
+    },
+    "P582": "2007-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Czarina Umali"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Nueva Ecija"
+      ],
+      "stated_as": "Governor of Nueva Ecija"
+    },
+    "P580": "2007-06-30",
+    "P1365": {
+      "links": [
+        "Tomas Joson III"
+      ],
+      "stated_as": "Tomas Joson III"
+    },
+    "P582": "2016-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Czarina Umali"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Nueva Ecija"
+      ],
+      "stated_as": "Governor of Nueva Ecija"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Czarina Umali"
+    }
+  }
+]

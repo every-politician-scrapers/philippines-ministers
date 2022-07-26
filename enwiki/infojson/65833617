@@ -1,0 +1,136 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "City Director of the Davao City Police Office"
+    },
+    "P580": "2013-10-18",
+    "P1365": {
+      "links": [
+        "Ronald dela Rosa"
+      ],
+      "stated_as": "PSSupt. Ronald dela Rosa"
+    },
+    "P582": "2016-06-24",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "PSSupt. Michael John Dubria"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Manila Police District"
+      ],
+      "stated_as": "District Director of the Manila Police District"
+    },
+    "P580": "2018-11-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "PCSupt. Rolando Anduyan"
+    },
+    "P582": "2019-10-20",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "PBGen. Bernabe Balba"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Calabarzon"
+      ],
+      "stated_as": "Regional Director of Police Regional Office IV-A (Calabarzon)"
+    },
+    "P580": "2019-10-20",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "PBGen. Edward Carranza"
+    },
+    "P582": "2020-11-10",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "PBGen. Felipe Natividad"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Capital Region Police Office"
+      ],
+      "stated_as": "Regional Director of the National Capital Region Police Office"
+    },
+    "P580": "2020-11-10",
+    "P1365": {
+      "links": [
+        "Debold Sinas"
+      ],
+      "stated_as": "PMGen. Debold Sinas"
+    },
+    "P582": "2022-03-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "PMGen. Felipe R. Natividad"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Philippine National Police"
+      ],
+      "stated_as": "Chief of Directorial Staff of the Philippine National Police"
+    },
+    "P580": "2022-03-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "PLTGEN. Rhodel O. Sermonia"
+    },
+    "P582": "2022-05-15",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "PLTGEN. Manuel M. Abu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Philippine National Police"
+      ],
+      "stated_as": "Deputy Chief for Operations of the Philippine National Police"
+    },
+    "P580": "2022-05-02",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "PLTGEN. Ferdinand O. Divina"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief of the Philippine National Police"
+      ],
+      "stated_as": "Chief of the Philippine National Police"
+    },
+    "P580": "2022-05-08"
+  }
+]

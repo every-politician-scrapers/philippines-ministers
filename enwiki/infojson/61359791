@@ -1,0 +1,111 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Isabela (province)",
+        "Legislative districts of Isabela"
+      ],
+      "stated_as": "Member of House of Representatives of the Philippines from Isabela's 1st District"
+    },
+    "P580": "1998-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Rodolfo B. Albano, Jr."
+    },
+    "P582": "2001-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Rodolfo B. Albano, Jr."
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Isabela (province)",
+        "Legislative districts of Isabela"
+      ],
+      "stated_as": "Member of House of Representatives of the Philippines from Isabela's 1st District"
+    },
+    "P580": "2004-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Rodolfo B. Albano, Jr."
+    },
+    "P582": "2010-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Rodolfo B. Albano, Jr."
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Isabela (province)"
+      ],
+      "stated_as": "Vice Governor of Isabela"
+    },
+    "P580": "2010-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ramon M. Reyes"
+    },
+    "P582": "2013-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Antonio T. Albano"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Isabela (province)",
+        "Legislative districts of Isabela"
+      ],
+      "stated_as": "Member of House of Representatives of the Philippines from Isabela's 1st District"
+    },
+    "P580": "2013-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Rodolfo B. Albano, Jr."
+    },
+    "P582": "2019-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Antonio T. Albano"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Isabela (province)"
+      ],
+      "stated_as": "Governor of Isabela"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Faustino Dy III"
+    }
+  }
+]

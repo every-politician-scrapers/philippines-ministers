@@ -1,0 +1,63 @@
+[
+  {
+    "office": {
+      "links": [
+        "Sangguniang Kabataan",
+        "Guiguinto",
+        "Bulacan"
+      ],
+      "stated_as": "Kabataang Barangay Chairman of Tabang, Guiguinto, Bulacan"
+    },
+    "P580": "1980",
+    "P582": "1984"
+  },
+  {
+    "office": {
+      "links": [
+        "Bulacan Provincial Board",
+        "Legislative districts of Bulacan"
+      ],
+      "stated_as": "Member of the Bulacan Provincial Board from the 2nd District"
+    },
+    "P580": "1998-06-30",
+    "P582": "2007-06-30"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Vice Governor of Bulacan"
+    },
+    "P580": "2010-06-30",
+    "P1365": {
+      "links": [
+        "Wilhelmino Sy-Alvarado"
+      ],
+      "stated_as": "Wilhelmino Sy-Alvarado"
+    },
+    "P582": "2019-06-30",
+    "P1366": {
+      "links": [
+        "Wilhelmino Sy-Alvarado"
+      ],
+      "stated_as": "Wilhelmino Sy-Alvarado"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Bulacan"
+    },
+    "P1545": "34",
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+        "Wilhelmino Sy-Alvarado"
+      ],
+      "stated_as": "Wilhelmino Sy-Alvarado"
+    }
+  }
+]

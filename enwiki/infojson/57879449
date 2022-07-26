@@ -1,0 +1,133 @@
+[
+  {
+    "office": {
+      "links": [
+        "Agusan del Norte"
+      ],
+      "stated_as": "Governor of Agusan del Norte"
+    },
+    "P580": "1995-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Eduardo Rama"
+    },
+    "P582": "2004-06-30",
+    "P1366": {
+      "links": [
+        "Erlpe John Amante"
+      ],
+      "stated_as": "Erlpe John Amante"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Agusan del Norte",
+        "Legislative districts of Agusan del Norte"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Agusan del Norte's Second District"
+    },
+    "P580": "2004-06-30",
+    "P1365": {
+      "links": [
+        "Edelmiro Amante"
+      ],
+      "stated_as": "Edelmiro Amante"
+    },
+    "P582": "2007-06-30",
+    "P1366": {
+      "links": [
+        "Edelmiro Amante"
+      ],
+      "stated_as": "Edelmiro Amante"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Agusan del Norte",
+        "Legislative districts of Agusan del Norte"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Agusan del Norte's Second District"
+    },
+    "P580": "2010-06-30",
+    "P1365": {
+      "links": [
+        "Edelmiro Amante"
+      ],
+      "stated_as": "Edelmiro Amante"
+    },
+    "P582": "2013-06-30",
+    "P1366": {
+      "links": [
+        "Erlpe John Amante"
+      ],
+      "stated_as": "Erlpe John Amante"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Agusan del Norte"
+      ],
+      "stated_as": "Governor of Agusan del Norte"
+    },
+    "P580": "2013-06-30",
+    "P1365": {
+      "links": [
+        "Erlpe John Amante"
+      ],
+      "stated_as": "Erlpe John Amante"
+    },
+    "P582": "2019-06-30",
+    "P1366": {
+      "links": [
+        "Dale Corvera"
+      ],
+      "stated_as": "Dale Corvera"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Agusan del Norte",
+        "Legislative districts of Agusan del Norte"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Agusan del Norte's Second District"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+        "Erlpe John Amante"
+      ],
+      "stated_as": "Erlpe John Amante"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Dale Corvera"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Agusan del Norte"
+      ],
+      "stated_as": "Governor of Agusan del Norte"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Dale Corvera"
+      ],
+      "stated_as": "Dale Corvera"
+    }
+  }
+]

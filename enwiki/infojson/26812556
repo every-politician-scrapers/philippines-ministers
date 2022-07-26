@@ -1,0 +1,117 @@
+[
+  {
+    "office": {
+      "links": [
+        "Mandaluyong"
+      ],
+      "stated_as": "Member of the Mandaluyong City Council from the 1st district"
+    },
+    "P580": "1995-06-30",
+    "P582": "1998-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Mandaluyong"
+      ],
+      "stated_as": "Mayor of Mandaluyong"
+    },
+    "P580": "1998-06-30",
+    "P1365": {
+      "links": [
+        "Benjamin Abalos"
+      ],
+      "stated_as": "Benjamin Abalos"
+    },
+    "P582": "2004-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Neptali Gonzales II"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives of the Philippines",
+        "Legislative district of Mandaluyong"
+      ],
+      "stated_as": "Member of the House of Representatives from Mandaluyong"
+    },
+    "P580": "2004-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Neptali Gonzales II"
+    },
+    "P582": "2007-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Neptali Gonzales II"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Mandaluyong"
+      ],
+      "stated_as": "Mayor of Mandaluyong"
+    },
+    "P580": "2007-06-30",
+    "P1365": {
+      "links": [
+        "Neptali Gonzales II"
+      ],
+      "stated_as": "Neptali Gonzales II"
+    },
+    "P582": "2016-06-30",
+    "P1366": {
+      "links": [
+        "Carmelita Abalos"
+      ],
+      "stated_as": "Carmelita Abalos"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chairperson of the Metropolitan Manila Development Authority",
+        "Metro Manila Development Authority"
+      ],
+      "stated_as": "Chairman of the Metro Manila Development Authority"
+    },
+    "P580": "2021-01-11",
+    "P1365": {
+      "links": [
+        "Danilo Lim"
+      ],
+      "stated_as": "Danilo Lim"
+    },
+    "P582": "2022-02-07",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Romando Artes"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary of the Interior and Local Government"
+      ],
+      "stated_as": "Secretary of the Interior and Local Government Ad interim"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Eduardo Año"
+      ],
+      "stated_as": "Eduardo Año"
+    }
+  }
+]

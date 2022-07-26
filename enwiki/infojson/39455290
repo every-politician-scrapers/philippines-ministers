@@ -1,0 +1,84 @@
+[
+  {
+    "office": {
+      "links": [
+        "Legazpi, Albay"
+      ],
+      "stated_as": "Mayor of Legazpi"
+    },
+    "P580": "2001-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Imelda Meneses C. Roces"
+    },
+    "P582": "2010-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Carmen Geraldine Rosal"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Legazpi, Albay"
+      ],
+      "stated_as": "City Administrator of Legazpi"
+    },
+    "P580": "2010-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Edmundo Aragon"
+    },
+    "P582": "2013-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Vacant"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Legazpi, Albay"
+      ],
+      "stated_as": "Mayor of Legazpi"
+    },
+    "P580": "2013-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Carmen Geraldine Rosal"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Carmen Geraldine Rosal"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor of Albay"
+    },
+    "P1545": "29",
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Al Francis Bichara"
+      ],
+      "stated_as": "Al Francis Bichara"
+    }
+  }
+]

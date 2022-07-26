@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Vice Governor of Antique"
+    },
+    "P580": "2004-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Roberto Operanio"
+    },
+    "P582": "2010-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Rosie Dimamay"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Vice Governor of Antique"
+    },
+    "P580": "2013-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Rosie Dimamay"
+    },
+    "P582": "2015-02-02",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Edgar Denosta"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Antique"
+      ],
+      "stated_as": "Governor of Antique"
+    },
+    "P580": "2015-02-03",
+    "P1365": {
+      "links": [
+        "Exequiel Javier"
+      ],
+      "stated_as": "Exequiel Javier"
+    }
+  }
+]

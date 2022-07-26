@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "Agusan del Sur"
+      ],
+      "stated_as": "Vice Governor of Agusan del Sur"
+    },
+    "P580": "2016",
+    "P582": "2019",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Samuel Tortor"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Agusan del Sur"
+      ],
+      "stated_as": "Governor of Agusan del Sur"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Adolph Edward Plaza"
+    }
+  }
+]

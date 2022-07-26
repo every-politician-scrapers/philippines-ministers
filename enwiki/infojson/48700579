@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Department of Labor and Employment (Philippines)"
+      ],
+      "stated_as": "Undersecretary for the Department of Labor and Employment"
+    },
+    "P580": "2004",
+    "P582": "2009"
+  },
+  {
+    "office": {
+      "links": [
+        "Department of Migrant Workers"
+      ],
+      "stated_as": "Secretary of Migrant Workers Ad interim"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Abdullah Mama-o"
+      ],
+      "stated_as": "Abdullah Mama-o (Ad interim)"
+    }
+  }
+]

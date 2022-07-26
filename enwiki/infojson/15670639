@@ -1,0 +1,87 @@
+[
+  {
+    "office": {
+      "links": [
+        "Philippine House of Representatives",
+        "Legislative district of Apayao",
+        "Apayao"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Lone District of Apayao"
+    },
+    "P580": "2001-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Elias Bulut, Sr."
+    },
+    "P582": "2010-06-30",
+    "P1366": {
+      "links": [
+        "Eleonor Bulut Begtang"
+      ],
+      "stated_as": "Eleonor Bulut Begtang"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Apayao"
+      ],
+      "stated_as": "Governor of Apayao"
+    },
+    "P580": "2010-06-30",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Elias Bulut, Sr."
+    },
+    "P582": "2019-06-30",
+    "P1366": {
+      "links": [
+        "Eleonor Bulut Begtang"
+      ],
+      "stated_as": "Eleonor Bulut Begtang"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Philippine House of Representatives",
+        "Legislative district of Apayao",
+        "Apayao"
+      ],
+      "stated_as": "Member of the Philippine House of Representatives from Lone District of Apayao"
+    },
+    "P580": "2019-06-30",
+    "P1365": {
+      "links": [
+        "Eleonor Bulut Begtang"
+      ],
+      "stated_as": "Eleonor Bulut Begtang"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Eleanor Bulut Begtang"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Apayao"
+      ],
+      "stated_as": "Governor of Apayao"
+    },
+    "P580": "2022-06-30",
+    "P1365": {
+      "links": [
+        "Eleonor Bulut Begtang"
+      ],
+      "stated_as": "Eleonor Bulut Begtang"
+    }
+  }
+]
