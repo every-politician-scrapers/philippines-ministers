@@ -111,8 +111,9 @@
             "text": "Undersecretary for the Department of Labor and Employment",
             "links": [
               {
+                "text": "Department of Labor and Employment",
                 "type": "internal",
-                "page": "Department of Labor and Employment"
+                "page": "Department of Labor and Employment (Philippines)"
               }
             ]
           },
@@ -330,7 +331,7 @@
         {
           "sentences": [
             {
-              "text": "In 2022, president-elect Bongbong Marcos is set to appoint Ople as secretary of the newly-created Department of Migrant Workers.",
+              "text": "In 2022, president Bongbong Marcos appointed Ople as secretary of the newly-created Department of Migrant Workers.",
               "links": [
                 {
                   "type": "internal",

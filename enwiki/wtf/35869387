@@ -150,6 +150,9 @@
           "office": {
             "text": "13th and 16th [[National Economic and Development Authority#:List of NEDA Director-Generals and Socioeconomic Planning Secretaries|Director-General of the National Economic and Development Authority\nConcurrently Secretary of Socioeconomic Planning ]]"
           },
+          "status": {
+            "text": "Ad interim"
+          },
           "term_start": {
             "text": "June 30, 2022"
           },
@@ -229,6 +232,9 @@
           },
           "predecessor3": {
             "text": "Office Created"
+          },
+          "successor3": {
+            "text": "Johannes Benjamin R. Bernabe (OIC)"
           },
           "birth_name": {
             "text": "Arsenio Molina Balisacan"

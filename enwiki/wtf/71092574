@@ -92,6 +92,9 @@
               }
             ]
           },
+          "status": {
+            "text": "Ad interim"
+          },
           "term_start": {
             "text": "June 30, 2022"
           },

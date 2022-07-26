@@ -424,10 +424,17 @@
             "text": "Bongbong Marcos"
           },
           "image": {
-            "text": "Ferdinand Marcos Jr. Inauguration RTVM (Enhanced).png"
+            "text": "File:President Ferdinand R. Marcos, Jr. State of the Nation Address (SONA).png"
           },
           "caption": {
-            "text": "Marcos in 2022"
+            "text": "Marcos during his first State of the Nation Address.",
+            "links": [
+              {
+                "text": "first State of the Nation Address",
+                "type": "internal",
+                "page": "2022 State of the Nation Address (Philippines)"
+              }
+            ]
           },
           "office": {
             "text": "17th  President of the Philippines",

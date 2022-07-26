@@ -225,7 +225,7 @@
               ]
             },
             {
-              "text": "He is also widely credited for \"restoring Manila to its former glory in a short period of time\", despite disinformation against him by political rivals.",
+              "text": "He is also widely credited for \"restoring Manila to its former glory within a short period of time\", despite disinformation against him by political rivals.",
               "links": [
                 {
                   "text": "disinformation",
@@ -2777,6 +2777,20 @@
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Iskomorenoapr15mtrcdpic.jpg",
           "caption": "Moreno campaigning for mayor in 2019",
           "links": []
+        },
+        {
+          "file": "File:IskoMorenoMayorOathtaking.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoMayorOathtaking.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoMayorOathtaking.jpg",
+          "caption": "Moreno during his oathtaking as mayor, with his wife Dynee Ditan Domagoso as bible bearer (far right)",
+          "links": []
+        },
+        {
+          "file": "File:IskoMorenoFlagRaising.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoFlagRaising.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoFlagRaising.jpg",
+          "caption": "Moreno addressing his constituents at the Bonifacio Shrine beside the Manila City Hall in July 2019",
+          "links": []
         }
       ],
       "templates": [
@@ -3350,6 +3364,13 @@
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Isko_Moreno_and_Gazini_Ganados_on_September_3%2C_2019.jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Isko_Moreno_and_Gazini_Ganados_on_September_3%2C_2019.jpg",
           "caption": "Moreno with Miss Universe Philippines 2019 Gazini Ganados at the Manila City Hall. Both led the turnover of the first-ever financial assistance to student-athletes of Manila who participated in the Batang Pinoy finals in Puerto Princesa, Palawan in 2019.",
+          "links": []
+        },
+        {
+          "file": "File:IskoMorenoBinondominiumGroundbreaking.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoBinondominiumGroundbreaking.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoBinondominiumGroundbreaking.jpg",
+          "caption": "Moreno (second from left) and then-Vice Mayor Honey Lacuna (left) during the groundbreaking ceremony of the 15-story Binondominium",
           "links": []
         }
       ],
@@ -4002,7 +4023,7 @@
         {
           "sentences": [
             {
-              "text": "The city government also built in 52 days the Manila COVID-19 Field Hospital in Rizal Park, the first of its kind in the country, which began admitting patients on June 25, 2021.",
+              "text": "The city government also built in 52 days the Manila COVID-19 Field Hospital in Rizal Park, the first of its kind in the country, which began admitting patients on June 25, 2021 to both residents and non-residents of Manila.",
               "links": [
                 {
                   "type": "internal",
@@ -4107,7 +4128,14 @@
           "file": "File:Ninoy_Aquino_Stadium_COVID-19_quarantine_inspection.jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Ninoy_Aquino_Stadium_COVID-19_quarantine_inspection.jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Ninoy_Aquino_Stadium_COVID-19_quarantine_inspection.jpg",
-          "caption": "Moreno (far left), with Health Secretary Francisco Duque III (center) and House Speaker Alan Peter Cayetano (far right) during the Ninoy Aquino Stadium COVID-19 quarantine inspection",
+          "caption": "Moreno (far left), with then-Health Secretary Francisco Duque III (center) and then-House Speaker Alan Peter Cayetano (far right) during the Ninoy Aquino Stadium COVID-19 quarantine inspection",
+          "links": []
+        },
+        {
+          "file": "File:IskoMorenoHoneyLacunaFoodPacks.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoHoneyLacunaFoodPacks.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoHoneyLacunaFoodPacks.jpg",
+          "caption": "Moreno and then-Vice Mayor Honey Lacuna (right) inspecting the food packs to be distributed to over 700,000 families in Manila",
           "links": []
         }
       ],
@@ -4557,6 +4585,22 @@
           ]
         }
       ],
+      "images": [
+        {
+          "file": "File:IskoMorenoWaterwaysInspection.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoWaterwaysInspection.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoWaterwaysInspection.jpg",
+          "caption": "Moreno with former Department of Environment and Natural Resources (DENR) Secretary Roy Cimatu inspecting the different waterways in Estero de San Antonio Abad of Barangay 718, Malate, Manila that lead to the sea",
+          "links": []
+        },
+        {
+          "file": "File:IskoDestroyVideoKareraMachines.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IskoDestroyVideoKareraMachines.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/IskoDestroyVideoKareraMachines.jpg",
+          "caption": "Moreno (right) and then-Manila Police District director, Vicente Danao (left) leading the destruction of confiscated illegal video karera (online gambling game)",
+          "links": []
+        }
+      ],
       "templates": [
         {
           "amount": "10",
@@ -4875,6 +4919,13 @@
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Manila_Mayor_Isko_Moreno_and_Dr._Willie_Ong_filing_their_COCs.jpg",
           "caption": "Moreno (right) and Dr. Willie Ong filing their Certificates of Candidacy for president and vice president respectively",
           "links": []
+        },
+        {
+          "file": "File:IskoMorenoLeniRobredo2022Debate.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoLeniRobredo2022Debate.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoLeniRobredo2022Debate.jpg",
+          "caption": "Moreno with fellow presidential aspirants Leni Robredo (right) and Manny Pacquiao (left) during the 2nd PiliPinas Debates 2022",
+          "links": []
         }
       ],
       "templates": [
@@ -5020,12 +5071,655 @@
     {
       "title": "Political positions",
       "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Isko_Moreno_motorade_Bacoor_interview_harap_mukha_(Cavite;_03-18-2022).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Isko_Moreno_motorade_Bacoor_interview_harap_mukha_(Cavite%3B_03-18-2022).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Isko_Moreno_motorade_Bacoor_interview_harap_mukha_(Cavite%3B_03-18-2022).jpg",
+          "caption": "Moreno in a media interview in 2022",
+          "links": []
+        }
+      ],
       "templates": [
         {
           "list": [
             "Political positions of Isko Moreno"
           ],
           "template": "main"
+        }
+      ]
+    },
+    {
+      "title": "Domestic and social policies",
+      "depth": 1
+    },
+    {
+      "title": "Vandalism",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Moreno is also known for his consistent and controversial stand against vandalism and unauthorized tarpaulins."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On November 12, 2019, the left-leaning group Panday Sining, the cultural arm of Anakbayan, defaced the newly-painted and cleaned Lagusnilad Underpass located near the Manila City Hall.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anakbayan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lagusnilad Underpass"
+                },
+                {
+                  "type": "internal",
+                  "page": "Manila City Hall"
+                }
+              ]
+            },
+            {
+              "text": "Moreno slammed the group publicly and rejected their apology."
+            },
+            {
+              "text": "The mayor also proceeded with their arrest after another act of vandalism in Recto LRT Station was attributed to the group.",
+              "links": [
+                {
+                  "text": "Recto LRT Station",
+                  "type": "internal",
+                  "page": "Recto station"
+                }
+              ]
+            },
+            {
+              "text": "Panday Sining was officially declared as \"persona non grata\" in the city of Manila on December 6, 2019.",
+              "links": [
+                {
+                  "text": "persona non grata",
+                  "type": "internal",
+                  "page": "Persona non grata (Philippines)"
+                }
+              ]
+            },
+            {
+              "text": "Many left-leaning groups condemned the mayor's actions against them."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In October 2020, Moreno ordered the removal of the tarpaulins declaring the Communist Party of the Philippines, as well as the New People's Army and the National Democratic Front, as persona non grata in the National Capital Region.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Communist Party of the Philippines"
+                },
+                {
+                  "type": "internal",
+                  "page": "New People's Army"
+                },
+                {
+                  "text": "National Democratic Front",
+                  "type": "internal",
+                  "page": "National Democratic Front (Philippines)"
+                },
+                {
+                  "text": "persona non grata",
+                  "type": "internal",
+                  "page": "persona non grata"
+                }
+              ]
+            },
+            {
+              "text": "However this event prompted Lt. Gen. Antonio Parlade Jr., spokesperson of the National Task Force to End Local Communist Armed Conflict to ask if Mayor Isko is welcoming terrorists into Manila.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Antonio Parlade Jr."
+                },
+                {
+                  "type": "internal",
+                  "page": "National Task Force to End Local Communist Armed Conflict"
+                }
+              ]
+            },
+            {
+              "text": "Moreno responded that they have an ordinance against all forms of vandalism."
+            },
+            {
+              "text": "A few days after, Moreno publicly slammed and ordered the removal of graffiti painted by leftist advocates around Welcome Rotonda.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Welcome Rotonda"
+                }
+              ]
+            },
+            {
+              "text": "On December 7, 2020, in an interview posted on YouTube, Moreno vehemently denied any support for or affiliation with the terrorist groups.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "YouTube"
+                }
+              ]
+            },
+            {
+              "text": "Moreno is also against tarpaulins featuring faces of politicians even if they happen to be his partymates and had ordered the removal of tarpaulins that are political in nature since he assumed office."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "October 23, 2020",
+          "title": "Vandals should now face full-force-of-the-law",
+          "work": "Manila Bulletin",
+          "url": "https://mb.com.ph/2019/12/02/mayor-isko-panday-vandals-should-now-face-full-force-of-the-law/",
+          "access-date": "January 21, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "October 23, 2020",
+          "title": "Panday Sining declared as Persona Non Grata",
+          "work": "ABS-CBN News",
+          "url": "https://news.abs-cbn.com/news/12/06/19/panday-sining-declared-persona-non-grata-in-manila-over-vandalism",
+          "access-date": "January 21, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "October 21, 2020",
+          "title": "Isko wants anti-leftist tarps removed in Manila",
+          "work": "Metro News Central",
+          "url": "http://metronewscentral.net/manila/metro-cities/isko-wants-anti-leftist-tarps-removed-in-manila",
+          "access-date": "January 21, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "October 23, 2020",
+          "title": "Parlade asks: Is Mayor Isko welcoming 'terrorist' CPP-NPA in Manila?",
+          "work": "Philippine Daily Inquirer",
+          "url": "https://newsinfo.inquirer.net/1351744/fwd-parlade-asks-isko-this-time-are-you-welcoming-npa-into-manila",
+          "access-date": "January 21, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "October 23, 2020",
+          "title": "No Politics over Tarp Removal",
+          "work": "ABS-CBN",
+          "url": "https://tribune.net.ph/index.php/2020/10/25/no-politics-over-tarp-removal/",
+          "access-date": "January 21, 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "LGBT+ rights",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In October 2020, Moreno signed Ordinance 8695 protecting members of the LGBT community from any and all forms of discrimination and abuse, including the denial of employment and other opportunities on the basis of the person's sexual orientation, gender identity, and expression.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "LGBT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "However, he clarified in an interview that he is not in favor of same-sex marriage.",
+              "links": [
+                {
+                  "text": "same-sex marriage",
+                  "type": "internal",
+                  "page": "same-sex marriage"
+                }
+              ]
+            },
+            {
+              "text": "He added that \"it is our law and in a civilized world, we are guided by the law\".",
+              "links": [
+                {
+                  "text": "guided by the law",
+                  "type": "internal",
+                  "page": "Legalism (Western philosophy)"
+                }
+              ]
+            },
+            {
+              "text": "Nevertheless, Moreno supports same-sex civil unions.",
+              "links": [
+                {
+                  "text": "civil unions",
+                  "type": "internal",
+                  "page": "civil unions"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:IskoMorenoLGBTQIAPedestrianLane.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoLGBTQIAPedestrianLane.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoLGBTQIAPedestrianLane.jpg",
+          "caption": "Moreno (third from right) and then-Vice Mayor Honey Lacuna (second from right) during the inauguration of the rainbow-colored LGBT+ pedestrian lane in front of the Plaza Rajah Sulayman along Roxas Boulevard",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "date": "October 29, 2020",
+          "title": "PH capital Manila passes ordinance on LGBTQI protection",
+          "work": "ABS-CBN News",
+          "url": "https://news.abs-cbn.com/news/10/29/20/ph-capital-manila-passes-ordinance-on-lgbtqi-protection",
+          "access-date": "January 21, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "May 9, 2019",
+          "title": "Isko Vows to Restore Deteriorating Manila",
+          "work": "Manila Bulletin",
+          "url": "https://mb.com.ph/2019/05/09/isko-vows-to-restore-deteriorating-manila-opposes-manila-bay-reclamation-projects/",
+          "access-date": "May 9, 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Escosio",
+          "first": "Jan V.",
+          "date": "January 26, 2022",
+          "title": "Isko Moreno says he respects same-sex union: ‘LGBTQI not only recognized, they are part of my governance’",
+          "url": "https://newsinfo.inquirer.net/1545547/isko-moreno-says-he-respects-same-sex-union-lgbtqi-not-only-recognized-they-part-of-my-governance",
+          "work": "Philippine Daily Inquirer",
+          "access-date": "April 14, 2022",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Women's rights",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In November 2020, Moreno signed into law Ordinance 8681 known as the \"Gender and Development Code of the City of Manila\" or the \"GAD Code\" which prohibits and classifies cursing, ridiculing, catcalling, and wolf-whistling on women as forms of sexual harassment, along with acts like repeatedly asking for dates despite verbal rejections, making offensive hand gestures or persistently telling \"green jokes\" to someone who finds it offensive or humiliating.",
+              "links": [
+                {
+                  "text": "cursing",
+                  "type": "internal",
+                  "page": "profanity"
+                },
+                {
+                  "text": "catcalling",
+                  "type": "internal",
+                  "page": "catcalling"
+                },
+                {
+                  "text": "wolf-whistling",
+                  "type": "internal",
+                  "page": "wolf-whistling"
+                }
+              ]
+            },
+            {
+              "text": "It also mandates the city government to provide comprehensive support to survivors of violence, which includes immediate conduct of investigations, free counseling and medical services, and creation of community-based psychological programs and support groups.",
+              "links": [
+                {
+                  "text": "community-based",
+                  "type": "internal",
+                  "page": "community-based management"
+                },
+                {
+                  "text": "support groups",
+                  "type": "internal",
+                  "page": "support group"
+                }
+              ]
+            },
+            {
+              "text": "Women Crisis Centers in key districts of Manila shall also be established."
+            },
+            {
+              "text": "Additionally, the ordinance increased maternity leave benefits from 65 days under Republic Act 11210 to 105 days and paternity leave benefits for fathers' participation in the aid of their newborn child for 14 days from the seven days mandated by law under Republic Act 8187.",
+              "links": [
+                {
+                  "text": "maternity leave",
+                  "type": "internal",
+                  "page": "maternity leave"
+                },
+                {
+                  "text": "paternity leave",
+                  "type": "internal",
+                  "page": "paternity leave"
+                }
+              ]
+            },
+            {
+              "text": "It further provides for a yearly 12-day menstrual/menopausal leave for women employees in private offices and commercial/industrial establishments located in the city, who have rendered at least one year continuous service.",
+              "links": [
+                {
+                  "text": "menstrual",
+                  "type": "internal",
+                  "page": "menstrual leave"
+                },
+                {
+                  "text": "menopausal",
+                  "type": "internal",
+                  "page": "menopause in the workplace"
+                },
+                {
+                  "text": "leave",
+                  "type": "internal",
+                  "page": "paid leave"
+                }
+              ]
+            },
+            {
+              "text": "The ordinance also mandates the barangay GAD committee to organize elderly women within the barangay to advance their practical and strategic interests and needs.",
+              "links": [
+                {
+                  "text": "barangay",
+                  "type": "internal",
+                  "page": "barangay"
+                }
+              ]
+            },
+            {
+              "text": "Beauty contests which tend to commodify, abuse, humiliate and treat other persons especially women and homosexual as sex objects shall strictly be prohibited in schools, communities, barangays and the city government in its special celebrations.",
+              "links": [
+                {
+                  "text": "Beauty contests",
+                  "type": "internal",
+                  "page": "Beauty pageant"
+                }
+              ]
+            },
+            {
+              "text": "The city and the barangay council are also mandated to ensure that at least one-third of its members is composed of women."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Moreno has praised the country's female medical and health workers as well as the other women frontliners in various fields, acknowledging their roles as \"critical and crucial as much as their male counterparts\" in the country's response against COVID-19.",
+              "links": [
+                {
+                  "text": "medical and health workers",
+                  "type": "internal",
+                  "page": "Impact of the COVID-19 pandemic on healthcare workers"
+                },
+                {
+                  "text": "frontliners",
+                  "type": "internal",
+                  "page": "front line"
+                }
+              ]
+            },
+            {
+              "text": "He also lauded the mothers who need to leave their families in order to fulfill their duties as frontliners."
+            },
+            {
+              "text": "Moreno also recognized the efforts of his then-vice mayor Honey Lacuna, the first ever elected female vice mayor in the history of Manila, calling her an \"effective leader who has taken solid steps in gender equality and women empowerment\" and described her as like an older sister to him.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Honey Lacuna"
+                },
+                {
+                  "text": "gender equality",
+                  "type": "internal",
+                  "page": "gender equality"
+                },
+                {
+                  "text": "women empowerment",
+                  "type": "internal",
+                  "page": "women empowerment"
+                }
+              ]
+            },
+            {
+              "text": "He gave Lacuna executive functions on a par with his mayoral duties."
+            },
+            {
+              "text": "During Moreno's term as mayor, almost 50 percent of the City Hall's employees are women."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Manila approves gender code to expand benefits, protect violence survivors",
+          "url": "https://www.cnnphilippines.com/news/2020/11/10/Manila-approves-gender-code-to-expand-benefits-protect-violence-survivors--.html",
+          "date": "November 10, 2020",
+          "publisher": "CNN Philippines Staff",
+          "website": "CNN Philippines",
+          "access-date": "November 10, 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Isko Moreno hails women frontliners in fight vs COVID-19",
+          "url": "https://newsinfo.inquirer.net/1565329/isko-moreno-hails-women-frontliners-in-fight-vs-covid-19",
+          "date": "March 8, 2022",
+          "last": "Gutierrez",
+          "first": "Dennis",
+          "work": "Philippine Daily Inquirer",
+          "access-date": "March 8, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Mayor Isko pays tribute to women frontliners, vows equal opportunities on Int'l Women's Day",
+          "url": "https://mb.com.ph/2022/03/08/mayor-isko-pays-tribute-to-women-frontliners-vows-equal-opportunities-on-intl-womens-day/",
+          "date": "March 8, 2022",
+          "last": "Ramos",
+          "first": "Jaleen",
+          "work": "Manila Bulletin",
+          "access-date": "March 8, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Lacuna excels as Manila’s vice mayor",
+          "url": "https://journal.com.ph/lacuna-excels-as-manilas-vice-mayor/",
+          "date": "March 22, 2021",
+          "last": "Cabayan",
+          "first": "Itchie G.",
+          "work": "People's Journal",
+          "access-date": "March 22, 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Foreign policy",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Moreno expressed strong opinions on a foreign policy aligned with what he calls a \"Filipino-first\" policy, envisioning that the Philippines will forge contracts, organizations, and even trade agreements, for that matter, if it is only beneficial to Filipinos."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Moreno agrees that the Philippines is not \"militarily prepared\" for an encounter with China, and that order must be upheld such as the Law of the Sea.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "China"
+                },
+                {
+                  "type": "internal",
+                  "page": "Law of the Sea"
+                }
+              ]
+            },
+            {
+              "text": "He believes that the country's defense secretary should come from the navy, since the Philippines is an archipelagic country.",
+              "links": [
+                {
+                  "text": "defense secretary",
+                  "type": "internal",
+                  "page": "Secretary of National Defense (Philippines)"
+                },
+                {
+                  "text": "navy",
+                  "type": "internal",
+                  "page": "Philippine Navy"
+                },
+                {
+                  "text": "archipelagic country",
+                  "type": "internal",
+                  "page": "Archipelago"
+                }
+              ]
+            },
+            {
+              "text": "On the issue of the country's claim to the West Philippine Sea occupied by Chinese forces, he believes that the Philippines' approach should be \"fearless\" in asserting the claim and should be responsive to the plight of Filipino fishermen, while at the same time should be \"fair\" and \"sensible\" in dealing with other countries also occupying the South China Sea, especially in trade.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "West Philippine Sea"
+                },
+                {
+                  "type": "internal",
+                  "page": "South China Sea"
+                }
+              ]
+            },
+            {
+              "text": "Moreno has criticized the United Nations (UN), questioning what they are doing in light of China's disregard of the Permanent Court of Arbitration (PCA).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Nations"
+                },
+                {
+                  "type": "internal",
+                  "page": "Permanent Court of Arbitration"
+                }
+              ]
+            },
+            {
+              "text": "Moreno asserted that China needs to accept a 2016 arbitration award of the Hague ruling that made clear the Philippines' entitlements, including where it can fish and exploit offshore oil and gas, also citing the Velarde map as reference.",
+              "links": [
+                {
+                  "text": "2016 arbitration award",
+                  "type": "internal",
+                  "page": "Philippines v. China"
+                },
+                {
+                  "type": "internal",
+                  "page": "Velarde map"
+                }
+              ]
+            },
+            {
+              "text": "However, he also expressed opinion in forming partnerships with other countries as well as to prepare in terms of joint trade with China."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Moreno expressed support of the Philippines returning to the International Criminal Court (ICC).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "International Criminal Court"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://newsinfo.inquirer.net/1559963/isko-moreno-vows-to-adopt-filipino-first-foreign-policy",
+          "title": "Isko Moreno vows to adopt ‘Filipino first’ foreign policy",
+          "last": "Mendoza",
+          "first": "John Eric",
+          "date": "February 25, 2022",
+          "access-date": "February 25, 2022",
+          "work": "Philippine Daily Inquirer",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://ph.news.yahoo.com/where-does-isko-moreno-stand-on-key-issues-210022288.html",
+          "title": "Where does Isko Moreno stand on key issues?",
+          "last": "Famatigan",
+          "first": "Mark Ernest",
+          "date": "February 2, 2022",
+          "access-date": "February 2, 2022",
+          "work": "Yahoo! Philippines",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.philstar.com/headlines/2022/02/27/2163679/isko-morenos-foreign-policy-filipinos-safety-first",
+          "title": "Isko Moreno’s foreign policy: Filipinos’ safety first",
+          "last": "Ong",
+          "first": "Ghio",
+          "date": "February 27, 2022",
+          "access-date": "February 27, 2022",
+          "work": "The Philippine Star",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.rappler.com/nation/isko-moreno-open-to-philippines-rejoining-icc-under-watch/",
+          "title": "Isko Moreno open to Philippines rejoining ICC under his watch",
+          "last": "Ranada",
+          "first": "Pia",
+          "date": "September 23, 2021",
+          "access-date": "September 23, 2021",
+          "work": "Rappler",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.reuters.com/world/asia-pacific/manila-mayor-vows-take-china-philippines-president-2022-01-31/",
+          "title": "Manila mayor vows to take on China as Philippines president",
+          "last": "Lema",
+          "first": "Karen",
+          "date": "January 31, 2022",
+          "access-date": "January 31, 2022",
+          "work": "Reuters",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -5182,6 +5876,15 @@
               "text": "On the other hand, his colleagues and supporters describe him as a \"visionary\" and \"brilliant\"."
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:IskoMorenowithMarikinaSupporters.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenowithMarikinaSupporters.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenowithMarikinaSupporters.jpg",
+          "caption": "Moreno taking a selfie with his supporters",
+          "links": []
         }
       ],
       "templates": [
@@ -5495,6 +6198,15 @@
           ]
         }
       ],
+      "images": [
+        {
+          "file": "File:IskoMorenoTaekwondoSEAGames.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoTaekwondoSEAGames.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoTaekwondoSEAGames.jpg",
+          "caption": "Moreno watching a taekwondo match in the 30th Southeast Asian Games with his youngest son Drake",
+          "links": []
+        }
+      ],
       "references": [
         {
           "last": "Domingo",
@@ -5573,6 +6285,17 @@
           "lang": "fil",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "Isko Moreno: Life as a Regular Citizen and Being a Grandfather",
+          "url": "https://modernparenting.onemega.com/isko-moreno-regular-citizen-being-a-grandfather/",
+          "date": "July 25, 2022",
+          "last": "Villano",
+          "first": "Alexa",
+          "work": "Modern Parenting",
+          "access-date": "July 25, 2022",
+          "template": "citation",
+          "type": "web"
         },
         {
           "last": "Aro",
