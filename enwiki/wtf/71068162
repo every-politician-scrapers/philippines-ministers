@@ -48,6 +48,10 @@
       ],
       "templates": [
         {
+          "description": "Press Secretary of the Philippines",
+          "template": "short description"
+        },
+        {
           "date": "June 2022",
           "template": "use mdy"
         },
@@ -61,10 +65,12 @@
           "template": "philippine name"
         },
         {
-          "year": "1965",
-          "month": "03",
-          "day": "29",
-          "template": "birth date and age"
+          "template": "date",
+          "data": {
+            "year": 1965,
+            "month": 3,
+            "date": 29
+          }
         }
       ],
       "infoboxes": [
@@ -112,6 +118,15 @@
           },
           "birth_date": {
             "text": "March 29, 1965"
+          },
+          "birth_place": {
+            "text": "Manila, Philippines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Manila, Philippines"
+              }
+            ]
           },
           "nationality": {
             "text": "Filipino",

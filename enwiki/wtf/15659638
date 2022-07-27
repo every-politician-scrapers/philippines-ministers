@@ -2779,6 +2779,13 @@
           "links": []
         },
         {
+          "file": "File:IskoErapAfterElections.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IskoErapAfterElections.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/IskoErapAfterElections.jpg",
+          "caption": "Moreno paying a courtesy visit to then outgoing mayor Joseph Estrada (second from right) weeks after defeating the latter in the 2019 local elections",
+          "links": []
+        },
+        {
           "file": "File:IskoMorenoMayorOathtaking.jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoMayorOathtaking.jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoMayorOathtaking.jpg",
@@ -3181,7 +3188,18 @@
               "text": "Moreover, the city government ensures to impose conditions on how to protect the vendors, including that they should not be removed and that rent should not increase."
             },
             {
-              "text": "Payment obtained from the sale of the \"underutilized\" and \"least beneficial\" Divisoria market was used for putting up the Manila field hospital and 12 quarantine facilities, housing projects, procurement of antiviral medicines, and food packs for the 700,000 households of the city."
+              "text": "Payment obtained from the sale of the \"underutilized\" and \"least beneficial\" Divisoria market was used for putting up the Manila COVID-19 Field Hospital and 12 quarantine facilities, housing projects, procurement of antiviral medicines, and food packs for the 700,000 households of the city.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Manila COVID-19 Field Hospital"
+                },
+                {
+                  "text": "antiviral medicines",
+                  "type": "internal",
+                  "page": "antiviral medicine"
+                }
+              ]
             },
             {
               "text": "During the 2022 election, almost two years after the sale was settled, the subject matter resurfaced after Manila mayoral candidate Alex Lopez, son of Mel Lopez, alleged that its sale lacked transparency and threatened to press charges against Moreno and the city council.",
@@ -4137,6 +4155,13 @@
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoHoneyLacunaFoodPacks.jpg",
           "caption": "Moreno and then-Vice Mayor Honey Lacuna (right) inspecting the food packs to be distributed to over 700,000 families in Manila",
           "links": []
+        },
+        {
+          "file": "File:IskoHoneyIATFNTF.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IskoHoneyIATFNTF.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/IskoHoneyIATFNTF.jpg",
+          "caption": "Moreno (center), together with then-National Task Force Against COVID-19 (NTF) chief implementer and vaccine czar Carlito Galvez Jr. (right), and then-Vice Mayor Honey Lacuna (left), during the visit of the officials of the Inter-Agency Task Force (IATF) and the NTF at the Santa Ana Hospital, Manila, inspecting its cold storage facility that can store up to 900,000 COVID-19 vaccines at a time",
+          "links": []
         }
       ],
       "templates": [
@@ -4590,14 +4615,14 @@
           "file": "File:IskoMorenoWaterwaysInspection.jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoWaterwaysInspection.jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoWaterwaysInspection.jpg",
-          "caption": "Moreno with former Department of Environment and Natural Resources (DENR) Secretary Roy Cimatu inspecting the different waterways in Estero de San Antonio Abad of Barangay 718, Malate, Manila that lead to the sea",
+          "caption": "Moreno with then-Department of Environment and Natural Resources (DENR) Secretary Roy Cimatu (far right) inspecting the different waterways in Estero de San Antonio Abad of Barangay 718, Malate, Manila that lead to the sea",
           "links": []
         },
         {
           "file": "File:IskoDestroyVideoKareraMachines.jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IskoDestroyVideoKareraMachines.jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/IskoDestroyVideoKareraMachines.jpg",
-          "caption": "Moreno (right) and then-Manila Police District director, Vicente Danao (left) leading the destruction of confiscated illegal video karera (online gambling game)",
+          "caption": "Moreno (right) and then-Manila Police District director, Vicente Danao (left) leading the destruction of confiscated illegal video karera (online gambling game) machines",
           "links": []
         }
       ],
@@ -4924,7 +4949,7 @@
           "file": "File:IskoMorenoLeniRobredo2022Debate.jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoLeniRobredo2022Debate.jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/IskoMorenoLeniRobredo2022Debate.jpg",
-          "caption": "Moreno with fellow presidential aspirants Leni Robredo (right) and Manny Pacquiao (left) during the 2nd PiliPinas Debates 2022",
+          "caption": "Moreno (center) with fellow presidential aspirants Leni Robredo (right) and Manny Pacquiao (left) during the closing moments of the 2nd PiliPinas Debates 2022",
           "links": []
         }
       ],
@@ -5081,7 +5106,7 @@
           "file": "File:Isko_Moreno_motorade_Bacoor_interview_harap_mukha_(Cavite;_03-18-2022).jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Isko_Moreno_motorade_Bacoor_interview_harap_mukha_(Cavite%3B_03-18-2022).jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Isko_Moreno_motorade_Bacoor_interview_harap_mukha_(Cavite%3B_03-18-2022).jpg",
-          "caption": "Moreno in a media interview in 2022",
+          "caption": "Moreno during a media interview in 2022",
           "links": []
         }
       ],

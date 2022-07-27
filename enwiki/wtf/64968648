@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Maria Rosario Clarissa Singh Vergeire (born Maria Rosario Clarissa Dumandan Singh) is a Filipino physician and public health official serving as the Officer in Charge of the Department of Health since July 14, 2022 following her appointment by President Bongbong Marcos.",
+              "text": "Maria Rosario Clarissa Singh Vergeire (born Maria Rosario Clarissa Dumandan Singh) is a Filipino physician and public health official serving as the Officer in Charge of the Department of Health since July 14, 2022, following her appointment by President Bongbong Marcos.",
               "links": [
                 {
                   "text": "public health",
@@ -66,6 +66,10 @@
         }
       ],
       "templates": [
+        {
+          "date": "July 2022",
+          "template": "use mdy dates"
+        },
         {
           "list": [
             "Dumandan",
@@ -121,7 +125,7 @@
             ]
           },
           "image": {
-            "text": "File:Doh-usec-vergeiredoh-media-forum06-dec-2021.jpg"
+            "text": "Doh-usec-vergeiredoh-media-forum06-dec-2021.jpg"
           },
           "caption": {
             "text": "Vergeire in 2021"
@@ -136,7 +140,7 @@
             "text": "Maria Rosario Clarissa Dumandan Singh"
           },
           "alma_mater": {
-            "text": "University of Santo Tomas (BS) De La Salle Medical and Health Sciences Institute (MD) University of the Philippines Manila (MPH)",
+            "text": "University of Santo Tomas (BS)\nDe La Salle Medical and Health Sciences Institute (MD)\nUniversity of the Philippines Manila (MPH)",
             "links": [
               {
                 "type": "internal",
@@ -224,7 +228,7 @@
           "location": "Manila",
           "publisher": "Judicial and Bar Council",
           "url": "http://jbc.judiciary.gov.ph/pdffolder/shortlist/2021/Shortlist_SC-AJ_6-18-21.PDF",
-          "date": "2021-06-18",
+          "date": "June 18, 2021",
           "template": "citation",
           "type": "letter"
         },

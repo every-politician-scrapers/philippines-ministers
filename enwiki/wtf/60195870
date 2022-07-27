@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Ramon “Mon-Mon” Velicaria Guico III (born March 19, 1975) is a Filipino politician who is the representative for Pangasinan's 5th congressional district.",
+              "text": "Ramon “Mon-Mon” Velicaria Guico III (born March 19, 1975) is a Filipino politician who is the 31st and current Governor of Pangasinan since his inauguration in 2022.",
               "links": [
                 {
                   "text": "Filipino",
@@ -26,8 +26,13 @@
                   "page": "Philippines"
                 },
                 {
+                  "text": "Governor",
                   "type": "internal",
-                  "page": "Pangasinan's 5th congressional district"
+                  "page": "Governor of Pangasinan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pangasinan"
                 }
               ],
               "formatting": {
@@ -37,16 +42,20 @@
               }
             },
             {
-              "text": "Following the 2022 elections, Guico is the 31st Governor of Pangasinan.",
+              "text": "Prior to his governorship, he has served as representative for Pangasinan's 5th congressional district from 2019 to 2022 and as the mayor of Binalonan from 2010 to 2019.",
               "links": [
                 {
-                  "text": "Governor",
                   "type": "internal",
-                  "page": "Governor of Pangasinan"
+                  "page": "Pangasinan's 5th congressional district"
+                },
+                {
+                  "text": "mayor",
+                  "type": "internal",
+                  "page": "mayor"
                 },
                 {
                   "type": "internal",
-                  "page": "Pangasinan"
+                  "page": "Binalonan"
                 }
               ]
             }
@@ -77,7 +86,7 @@
             "text": "Ramon Guico III - 18th Congress.jpg"
           },
           "caption": {
-            "text": "Portrait during the 18th Congress",
+            "text": "Portrait as representative during the 18th Congress",
             "links": [
               {
                 "text": "18th Congress",
@@ -120,23 +129,22 @@
             "number": 4
           },
           "occupation": {
-            "text": "Public Servant",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Public Servant"
-              }
-            ]
+            "text": "Politician"
           },
           "office": {
             "text": "31st Governor of Pangasinan",
             "links": [
               {
-                "text": "31st Governor of Pangasinan",
                 "type": "internal",
                 "page": "Governor of Pangasinan"
               }
             ]
+          },
+          "1blankname": {
+            "text": "Vice Governor"
+          },
+          "1namedata": {
+            "text": "Mark Lambino"
           },
           "term_start": {
             "text": "June 30, 2022"
@@ -151,7 +159,7 @@
             ]
           },
           "office1": {
-            "text": "Member of the Philippine House of Representatives from the 5th District of Pangasinan",
+            "text": "Member of the Philippine House of Representatives from Pangasinan's 5th district",
             "links": [
               {
                 "type": "internal",
@@ -160,6 +168,11 @@
               {
                 "type": "internal",
                 "page": "Pangasinan"
+              },
+              {
+                "text": "5th",
+                "type": "internal",
+                "page": "Pangasinan's 5th congressional district"
               }
             ]
           },
@@ -215,15 +228,11 @@
             "text": "Ramon Guico Jr."
           },
           "office3": {
-            "text": "Vice-Mayor of Binalonan, Pangasinan",
+            "text": "Vice Mayor of Binalonan",
             "links": [
               {
                 "type": "internal",
                 "page": "Binalonan"
-              },
-              {
-                "type": "internal",
-                "page": "Pangasinan"
               }
             ]
           },
@@ -356,19 +365,7 @@
               ]
             },
             {
-              "text": "He also introduced the Vision and Mission of Binalonan as well as the Binalonan Hymn with the theme “Maka-Diyos, Marunong, at Malinis”.",
-              "links": [
-                {
-                  "text": "Vision and Mission",
-                  "type": "external",
-                  "site": "https://www.binalonan.gov.ph/about-binalonan/mission-vision-values/"
-                },
-                {
-                  "text": "Binalonan Hymn",
-                  "type": "external",
-                  "site": "https://www.binalonan.gov.ph/about-binalonan/history-of-binalonan/"
-                }
-              ]
+              "text": "He also introduced the Vision and Mission of Binalonan as well as the Binalonan Hymn with the theme “Maka-Diyos, Marunong, at Malinis”."
             },
             {
               "text": "Binalonan was able to achieve several awards, such as the Seal of Local Good Governance (for the years 2014, 2015, 2017, and 2018) and Most Statistically Developed LGU (2nd Runner-Up, 2013 and 2014) among others."

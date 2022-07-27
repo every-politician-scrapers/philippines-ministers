@@ -386,25 +386,77 @@
         {
           "sentences": [
             {
-              "text": "In the 2019 Philippine gubernatorial elections, he ran, unopposed, as governor of Ilocos Norte to replace his mother who ran as a senator.",
+              "text": "In October 2018, Manotoc filed his certificate of candidacy to run for vice governor of Ilocos Norte in the 2019 Philippine gubernatorial elections as the running mate of his grandmother, Imelda Marcos.",
               "links": [
                 {
                   "text": "2019 Philippine gubernatorial elections",
                   "type": "internal",
                   "page": "2019 Philippine gubernatorial elections"
+                },
+                {
+                  "type": "internal",
+                  "page": "Imelda Marcos"
                 }
               ]
             },
+            {
+              "text": "However, Marcos, having been convicted of graft, withdrew from the race in November 2018 and was substituted by Manotoc."
+            },
+            {
+              "text": "He then went on to win the race, unopposed after Rodolfo Fariñas withdrew days before the election, succeeding his mother who ran for senator.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rodolfo Fariñas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "Upon taking office, one of his objectives was to make health services more accessible and more inclusive by funding and upgrading medical facilities and public health programs."
             },
             {
               "text": "In October 2019, he launched his flagship program, “NariMAT nga Aglawlaw,” which aimed to strengthen Ilocos Norte's bid for cleaner, greener, and healthier environment."
+            },
+            {
+              "text": "He was reelected in 2022, this time defeating Fariñas."
             }
           ]
         }
       ],
       "references": [
+        {
+          "url": "https://newsinfo.inquirer.net/1043842/marcos-widow-grandson-run-for-ilocos-norte-governor-vice-governor",
+          "title": "Marcos widow, grandson run for Ilocos Norte governor, vice governor",
+          "date": "October 17, 2018",
+          "accessdate": "July 26, 2022",
+          "publisher": "Philippine Daily Inquirer",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.cnnphilippines.com/news/2018/11/30/matthew-manotoc-imelda-marcos-rodolfo-farinas-ilocos-norte-governor-2019-elections.html",
+          "date": "November 30, 2022",
+          "accessdate": "July 26, 2022",
+          "work": "CNN Philippines",
+          "title": "Imelda Marcos' grandson to replace her in gubernatorial race",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://newsinfo.inquirer.net/1112913/rudy-farinas-withdraws-ilocos-bid-says-he-is-retiring",
+          "title": "Rudy Fariñas withdraws Ilocos bid; says he is retiring",
+          "first": "Pathricia Ann",
+          "last": "Roxas",
+          "date": "May 2, 2022",
+          "accessdate": "July 26, 2022",
+          "website": "INQUIRER.net",
+          "template": "citation",
+          "type": "news"
+        },
         {
           "title": "GOVERNOR MATTHEW J. MARCOS MANOTOC",
           "url": "https://www.ilocosnorte.gov.ph/governor",
@@ -412,6 +464,16 @@
           "website": "Provincial Government of Ilocos Norte",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "url": "https://ilocosnorte.gov.ph/news/matthew-marcos-manotoc-re-elected-as-ilocos-norte-governor",
+          "author": "PGIN-CMO",
+          "date": "May 10, 2022",
+          "accessdate": "July 26, 2022",
+          "website": "Ilocos Norte",
+          "title": "Matthew Marcos Manotoc re-elected as Ilocos Norte governor",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
