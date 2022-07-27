@@ -23,6 +23,10 @@ class OfficeholderList < OfficeholderListBase
       super
     end
 
+    def itemLabel
+      super.split('(').first.tidy
+    end
+
     def raw_combo_date
       super.gsub(/\(.*?\)/, '').tidy.gsub(/(\w+ \d+) – (\w+ \d+), (\d+)/, '\1, \3 - \2, \3')
     end
