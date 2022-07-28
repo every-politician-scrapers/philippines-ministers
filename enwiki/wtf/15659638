@@ -30,7 +30,7 @@
         {
           "sentences": [
             {
-              "text": "Francisco Moreno Domagoso (born October 24, 1974), also known by his stage name Isko Moreno or Isko Moreno Domagoso, is a Filipino politician and actor who previously served as the 22nd mayor of Manila from 2019 to 2022.",
+              "text": "Francisco Moreno Domagoso (born October 24, 1974), popularly known by his stage name Isko Moreno or Isko Moreno Domagoso, is a Filipino politician and actor who previously served as the 22nd mayor of Manila from 2019 to 2022.",
               "links": [
                 {
                   "text": "stage name",
@@ -1605,6 +1605,18 @@
                   "page": "Liberal Party (Philippines)"
                 }
               ]
+            },
+            {
+              "text": "Both Lim and Moreno took part in the negotiation of the Manila hostage crisis.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Manila hostage crisis"
+                }
+              ]
+            },
+            {
+              "text": "Moreno had criticized the national government's urgency on the matter saying that the national government should have intervened early as it was already a national crisis level since foreign nationals were involved."
             }
           ]
         },
@@ -1638,6 +1650,53 @@
                   "page": "US State Department"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Between 2012 and 2013, the Commission on Audit (COA) found that Moreno's office had 623 ghost employees.",
+              "links": [
+                {
+                  "text": "Commission on Audit (COA)",
+                  "type": "internal",
+                  "page": "Commission on Audit (Philippines)"
+                },
+                {
+                  "text": "ghost employees",
+                  "type": "internal",
+                  "page": "No-show job"
+                }
+              ]
+            },
+            {
+              "text": "Cases filed against him were already dismissed by the Office of the Ombudsman.",
+              "links": [
+                {
+                  "text": "Office of the Ombudsman",
+                  "type": "internal",
+                  "page": "Ombudsman of the Philippines"
+                }
+              ]
+            },
+            {
+              "text": "Moreno believed that the allegations were headed and politically motivated by then-Mayor Lim which resulted in their falling-out."
+            },
+            {
+              "text": "Moreno said that he was only the signatory to the disbursement of the city council's employees and that the Office of the City Treasurer was the one who disburses employee salaries."
+            },
+            {
+              "text": "The Manila Regional Trial Court also ordered the reinstatement of Moreno's employees whom the court declared as unlawfully terminated by then-Mayor Lim.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Regional Trial Court"
+                }
+              ]
+            },
+            {
+              "text": "Judge Daniel Villanueva dismissed the then-mayor's allegations that some of the terminated workers could be ghost employees."
             }
           ]
         },
@@ -1701,53 +1760,6 @@
                   "page": "PDP-Laban"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Between 2012 and 2013, the Commission on Audit (COA) found that Moreno's office had 623 ghost employees.",
-              "links": [
-                {
-                  "text": "Commission on Audit (COA)",
-                  "type": "internal",
-                  "page": "Commission on Audit (Philippines)"
-                },
-                {
-                  "text": "ghost employees",
-                  "type": "internal",
-                  "page": "No-show job"
-                }
-              ]
-            },
-            {
-              "text": "Cases filed against him were already dismissed by the Office of the Ombudsman.",
-              "links": [
-                {
-                  "text": "Office of the Ombudsman",
-                  "type": "internal",
-                  "page": "Ombudsman of the Philippines"
-                }
-              ]
-            },
-            {
-              "text": "Moreno believed that the allegations were headed and politically motivated by then-Mayor Lim."
-            },
-            {
-              "text": "Moreno said that he was only the signatory to the disbursement of the city council's employees and that the Office of the City Treasurer was the one who disburses employee salaries."
-            },
-            {
-              "text": "The Manila Regional Trial Court also ordered the reinstatement of Moreno's employees whom the court declared as unlawfully terminated by then-Mayor Lim.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Regional Trial Court"
-                }
-              ]
-            },
-            {
-              "text": "Judge Daniel Villanueva dismissed the then-mayor's allegations that some of the terminated workers could be ghost employees."
             }
           ]
         },
@@ -1914,6 +1926,17 @@
           "access-date": "April 7, 2022",
           "archive-url": "https://web.archive.org/web/20091026044832/http://newsinfo.inquirer.net/breakingnews/metro/view/20091025-232197/Mayor-Lim-Vice-Mayor-Isko-a-team-in-Manila-polls",
           "archive-date": "October 26, 2009",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Isko: Hostage crisis was one of national concern",
+          "url": "https://news.abs-cbn.com/nation/09/04/10/isko-hostage-crisis-was-one-national-concern",
+          "date": "September 5, 2010",
+          "last": "Pedrasa",
+          "first": "Ira",
+          "work": "ABS-CBN News",
+          "access-date": "September 5, 2010",
           "template": "citation",
           "type": "news"
         },
@@ -2100,6 +2123,19 @@
           "access-date": "February 8, 2008",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Oh8LvIGK0bs",
+          "title": "Lim and Moreno: From friends to enemies",
+          "date": "February 19, 2013",
+          "publisher": "ABS-CBN News",
+          "access-date": "February 19, 2013",
+          "archive-url": "http://web.archive.org/web/20220727193341/https://www.youtube.com/watch?v=Oh8LvIGK0bs",
+          "archive-date": "July 28, 2022",
+          "url-status": "live",
+          "via": "YouTube",
+          "template": "citation",
+          "type": "av media"
         },
         {
           "title": "Gitirahan si Mo!",
@@ -2402,6 +2438,9 @@
                   "page": "2019 Philippine general election"
                 }
               ]
+            },
+            {
+              "text": "Moreno and Estrada had not been on speaking terms following Moreno's failed senatorial bid in 2016."
             }
           ]
         }
@@ -2557,6 +2596,14 @@
                   "text": "local elections",
                   "type": "internal",
                   "page": "2019 Manila local elections"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alfredo Lim"
+                },
+                {
+                  "type": "internal",
+                  "page": "Joseph Estrada"
                 }
               ]
             },
@@ -4058,7 +4105,7 @@
         {
           "sentences": [
             {
-              "text": "Manila residents were also given cash aid from the national government despite Moreno and then-President Rodrigo Duterte's falling out and brief verbal sparring, with Moreno even thanking Duterte for pushing through the aid."
+              "text": "Manila residents were also given cash aid from the national government despite Moreno and then-President Rodrigo Duterte's falling-out and brief verbal sparring, with Moreno even thanking Duterte for pushing through the aid."
             }
           ]
         },
@@ -4137,6 +4184,9 @@
                   "Time Out"
                 ]
               }
+            },
+            {
+              "text": "Manila was also voted the third most resilient city in the same survey."
             }
           ]
         }
@@ -5824,6 +5874,20 @@
                   "page": "commoner"
                 }
               ]
+            },
+            {
+              "text": "He is also known for his signature dance steps of the song (Dying Inside) To Hold You by Timmy Thomas, a dance he frequently performed during his early showbiz career.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Timmy Thomas"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "(Dying Inside) To Hold You"
+                ]
+              }
             },
             {
               "text": "Moreno was voted as one of the top performing mayors in the country's National Capital Region in opinion polls during his tenure as Manila city mayor.",

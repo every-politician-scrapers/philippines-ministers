@@ -3085,7 +3085,7 @@
         {
           "sentences": [
             {
-              "text": "On October 5, 2015, Marcos announced via his website his candidacy for vice president of the Philippines in the 2016 general election stating \"I have decided to run for vice president in the May 2016 elections.\"",
+              "text": "On October 5, 2015, Marcos announced via his website that he would run for vice president of the Philippines in the 2016 general election, stating \"I have decided to run for vice president in the May 2016 elections.\"",
               "links": [
                 {
                   "text": "2016 general election",
@@ -5579,6 +5579,9 @@
         {
           "sentences": [
             {
+              "text": "Aside from his common nickname \"Bongbong\", Marcos is known by his peers as \"Bonggets\"."
+            },
+            {
               "text": "Marcos is an avid listener of rock and roll, rhythm and blues, and jazz music.",
               "links": [
                 {
@@ -5633,7 +5636,17 @@
               }
             },
             {
+              "text": "Marcos can also play the saxophone."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
               "text": "Marcos exercises regularly and claims to abstain from consuming confections and soft drinks."
+            },
+            {
+              "text": "Marcos is also an avid reader, a movie lover, a good cook, and a gun enthusiast, where he holds a competition under his name."
             }
           ]
         },
@@ -5739,6 +5752,21 @@
           "language": "en",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "title": "The other side of Bongbong",
+          "url": "https://www.philstar.com/entertainment/2010/03/28/561639/other-side-bongbong",
+          "work": "Philstar.com",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Filipino politicians, guns, and power",
+          "url": "https://www.rappler.com/video/17211-bongbong-open-to-shooting-with-pnoy/",
+          "work": "RAPPLER",
+          "date": "15 December 2012",
+          "template": "citation",
+          "type": "news"
         },
         {
           "last": "Galvez",
@@ -6049,14 +6077,6 @@
         },
         {
           "list": [
-            "Philippines",
-            "Biography",
-            "Politics"
-          ],
-          "template": "portal bar"
-        },
-        {
-          "list": [
             "http://www.bongbongmarcos.com"
           ],
           "template": "official website"
@@ -6142,6 +6162,14 @@
           "template": "navboxes"
         },
         {
+          "list": [
+            "Philippines",
+            "Biography",
+            "Politics"
+          ],
+          "template": "portal bar"
+        },
+        {
           "template": "bongbong marcos"
         },
         {
@@ -6177,6 +6205,10 @@
         },
         {
           "template": "current apec leaders"
+        },
+        {
+          "title": "Articles related to Bongbong Marcos",
+          "template": "navboxes"
         }
       ],
       "lists": [

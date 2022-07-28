@@ -65,12 +65,10 @@
           "template": "philippine name"
         },
         {
-          "template": "date",
-          "data": {
-            "year": 1965,
-            "month": 3,
-            "date": 29
-          }
+          "year": "1965",
+          "month": "3",
+          "day": "29",
+          "template": "birth date and age"
         }
       ],
       "infoboxes": [
@@ -115,6 +113,9 @@
                 "page": "Bongbong Marcos"
               }
             ]
+          },
+          "birth_name": {
+            "text": "Rose Beatrix Laviña Cruz-Angeles"
           },
           "birth_date": {
             "text": "March 29, 1965"

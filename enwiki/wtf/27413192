@@ -121,10 +121,20 @@
             "text": "Lord Allan Jay Quinto Velasco"
           },
           "image": {
-            "text": "HoR Official Portrait Lord Allan Jay Velasco.jpg"
+            "text": "Rep. Lord Allan Jay Velasco (19th Congress).jpg"
           },
           "imagesize": {
             "text": "220px"
+          },
+          "caption": {
+            "text": "Portrait in the 19th Congress",
+            "links": [
+              {
+                "text": "19th Congress",
+                "type": "internal",
+                "page": "19th Congress of the Philippines"
+              }
+            ]
           },
           "order": {
             "text": "27th"

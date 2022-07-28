@@ -306,7 +306,7 @@
           "author": "PIA Caraga on November 10, 2017",
           "url": "http://pia.gov.ph/photos/10066",
           "title": "AgNor Gov. Ma. Angelica Rosedell M. Amante-Matba",
-          "publisher": "pia.gov.ph",
+          "work": "pia.gov.ph",
           "template": "citation",
           "type": "web"
         },
@@ -314,7 +314,7 @@
           "author": "PIA Caraga",
           "url": "http://pia.gov.ph/photos/10010",
           "title": "Agusan del Norte Gov. Ma. Angelica Rosedell Amante-Matba",
-          "publisher": "pia.gov.ph",
+          "work": "pia.gov.ph",
           "template": "citation",
           "type": "web"
         }
@@ -406,7 +406,7 @@
           "title": "Citizens group list RP's political dynasties",
           "pages": "A1",
           "work": "The Manila Times",
-          "url": "https://books.google.com.ph/books?id=O0xaAAAAIBAJ&pg=PA2&dq=angelica+amante+rosario&article_id=1599,15910129&hl=en&sa=X&ved=2ahUKEwjDvpS74tn4AhXQnFYBHdrWCP4Q6AF6BAgNEAI#v=onepage&q=citizens%20group%20lists&f=false",
+          "url": "https://books.google.com/books?id=O0xaAAAAIBAJ&q=citizens+group+lists&pg=PA2&article_id=1599,15910129#v=onepage",
           "access-date": "2 July 2022",
           "template": "citation",
           "type": "news"
@@ -521,7 +521,7 @@
           "title": "'Bagets' bets slay Goliaths",
           "pages": "6",
           "work": "Manila Standard",
-          "url": "https://books.google.com.ph/books?id=7JkVAAAAIBAJ&pg=PA34&dq=angelica+amante&article_id=6614,3962507&hl=en&sa=X&ved=2ahUKEwjEopa34dn4AhUMhVYBHeMjDCcQ6AF6BAgCEAI#v=onepage&q=angelica%20amante&f=false",
+          "url": "https://books.google.com/books?id=7JkVAAAAIBAJ&dq=angelica+amante&pg=PA34&article_id=6614,3962507",
           "access-date": "2 July 2022",
           "template": "citation",
           "type": "news"
@@ -529,8 +529,8 @@
         {
           "date": "29 April 2004",
           "title": "Mindanao: Landed, royal clans dominate",
-          "work": "Philippine Daily Inquirer",
-          "url": "https://books.google.com.ph/books?id=M1o1AAAAIBAJ&pg=PA11&dq=angelica+amante&article_id=1024,13498204&hl=en&sa=X&ved=2ahUKEwiY6vTz5dn4AhXwplYBHYGDClEQ6AF6BAgDEAI#v=onepage&q=angelica%20amante&f=false",
+          "newspaper": "Philippine Daily Inquirer",
+          "url": "https://books.google.com/books?id=M1o1AAAAIBAJ&dq=angelica+amante&pg=PA11&article_id=1024,13498204",
           "access-date": "2 July 2022",
           "template": "citation",
           "type": "news"
@@ -540,7 +540,7 @@
           "title": "Amante eager to join race for House speakership",
           "pages": "A7",
           "work": "The Manila Times",
-          "url": "https://books.google.com.ph/books?id=cZQ1AAAAIBAJ&pg=PA23&dq=angelica+amante&article_id=2377,6704478&hl=en&sa=X&ved=2ahUKEwip6dL46Nn4AhVrmVYBHSvkA0kQ6AF6BAgJEAI#v=onepage&q=angelica%20amante&f=false",
+          "url": "https://books.google.com/books?id=cZQ1AAAAIBAJ&dq=angelica+amante&pg=PA23&article_id=2377,6704478",
           "access-date": "2 July 2022",
           "template": "citation",
           "type": "news"
