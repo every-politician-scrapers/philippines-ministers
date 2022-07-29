@@ -5,6 +5,10 @@
     "Bongbong Marcos",
     "1957 births",
     "Living people",
+    "People from Santa Mesa",
+    "Presidents of the Philippines",
+    "Marcos family",
+    "Romualdez family",
     "Candidates in the 2016 Philippine vice-presidential election",
     "Candidates in the 2022 Philippine presidential election",
     "Children of presidents of the Philippines",
@@ -21,15 +25,10 @@
     "Ilocano people",
     "Alumni of the University of Oxford",
     "Kilusang Bagong Lipunan politicians",
-    "Marcos family",
     "Members of the House of Representatives of the Philippines from Ilocos Norte",
     "Nacionalista Party politicians",
     "Partido Federal ng Pilipinas politicians",
     "People educated at Worth School",
-    "People from Ilocos Norte",
-    "People from Makati",
-    "Presidents of the Philippines",
-    "Romualdez family",
     "Senators of the 15th Congress of the Philippines",
     "Senators of the 16th Congress of the Philippines",
     "Wharton School of the University of Pennsylvania alumni"
@@ -630,6 +629,12 @@
           },
           "term_end7": {
             "text": "March 23, 1983"
+          },
+          "1blankname7": {
+            "text": "Governor"
+          },
+          "1namedata7": {
+            "text": "Elizabeth Keon"
           },
           "birth_name": {
             "text": "Ferdinand Romualdez Marcos Jr."

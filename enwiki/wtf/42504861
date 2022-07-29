@@ -113,10 +113,7 @@
               ]
             },
             {
-              "text": "After her first term ended, she took a brief hiatus, returning to politics in 2016 after being elected again as Davao City mayor."
-            },
-            {
-              "text": "She was reelected in 2019."
+              "text": "After her first term ended, she took a brief hiatus, returning to politics in 2016 after being elected again as Davao City mayor and was reelected in 2019."
             },
             {
               "text": "During her second stint as mayor, she initiated the Byaheng DO30 and Peace 911 programs in the city, as well as overseeing the city government's COVID-19 pandemic response.",
@@ -177,6 +174,11 @@
             {
               "text": "Their ticket won in a landslide victory, becoming the first to win together since 2004 and the first to be elected by a majority since the establishment of the Fifth Republic in 1986.",
               "links": [
+                {
+                  "text": "2004",
+                  "type": "internal",
+                  "page": "2004 Philippine presidential election"
+                },
                 {
                   "text": "1986",
                   "type": "internal",
@@ -291,7 +293,7 @@
             ]
           },
           "office2": {
-            "text": "Secretary of Education Ad interim",
+            "text": "Secretary of Education",
             "links": [
               {
                 "text": "Secretary of Education",
@@ -965,7 +967,7 @@
         {
           "sentences": [
             {
-              "text": "A feud began between Duterte and one of her father's allies, then House Speaker Pantaleon Alvarez, after he criticized the formation of HNP, citing it as an example of the entrenchment of political dynasties in the country.",
+              "text": "Following the creation of HNP, a feud began between Duterte and one of her father's allies, then House Speaker Pantaleon Alvarez, citing its formation as an example of the entrenchment of political dynasties in the country.",
               "links": [
                 {
                   "text": "House Speaker",
@@ -979,7 +981,7 @@
               ]
             },
             {
-              "text": "In response, Duterte publicly berated Alvarez, and claimed that he has been calling mayors in the Davao region and tagging her as part of the opposition, as well as allegedly bragging about having the ability to impeach her father, both of which Alvarez denied."
+              "text": "In response, Duterte publicly berated Alvarez, and claimed that he has been calling mayors in the Davao region and tagging her as part of the opposition as well as allegedly bragging about having the ability to impeach her father, both of which Alvarez denied."
             },
             {
               "text": "Duterte also remarked that \"the Philippines will be a better country if he is not Speaker.\""
@@ -1771,7 +1773,7 @@
         {
           "sentences": [
             {
-              "text": "On May 11, 2022, Marcos announced that Duterte agreed to join his future cabinet as Secretary of Education.",
+              "text": "On May 11, 2022, Marcos announced that Duterte agreed to join his cabinet as Secretary of Education.",
               "links": [
                 {
                   "text": "Secretary of Education",
@@ -1829,7 +1831,7 @@
               ]
             },
             {
-              "text": "The Office of the Vice President would then be transferred from Quezon City Reception House to Mandaluyong, which is closer to the headquarters of the Department of Education in Pasig where she also holds office as its secretary.",
+              "text": "The seat of the Office of the Vice President would then be transferred from Quezon City Reception House to Cybergate Plaza in Mandaluyong, which is closer to the headquarters of the Department of Education in Pasig where she also holds office as its secretary.",
               "links": [
                 {
                   "type": "internal",
@@ -1849,6 +1851,9 @@
                   "page": "Pasig"
                 }
               ]
+            },
+            {
+              "text": "Duterte plans to establish a permanent office for the position."
             }
           ]
         }
@@ -2092,6 +2097,17 @@
           "type": "web"
         },
         {
+          "last": "Balancio",
+          "first": "Joyce",
+          "date": "July 26, 2022",
+          "title": "Sara Duterte names staff in OVP, DepEd",
+          "url": "https://news.abs-cbn.com/news/07/26/22/sara-duterte-names-staff-in-ovp-deped",
+          "access-date": "July 28, 2022",
+          "website": "ABS-CBN News",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "https://www.gmanetwork.com/news/topstories/nation/837307/sara-duterte-to-transfer-ovp-to-mandaluyong-says-source/story/",
           "title": "Sara Duterte to transfer OVP to Mandaluyong, says source",
           "date": "July 6, 2022",
@@ -2108,6 +2124,18 @@
           "work": "GMA News",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last": "Galvez",
+          "first": "Daphne",
+          "date": "2022-07-27",
+          "title": "VP Duterte eyes permanent home, office for succeeding VPs, staff",
+          "url": "https://newsinfo.inquirer.net/1635588/vp-duterte-eyes-permanent-home-office-for-succeeding-vps-staff",
+          "access-date": "2022-07-28",
+          "website": "INQUIRER.net",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         },
         {
           "date": "March 11, 2020",

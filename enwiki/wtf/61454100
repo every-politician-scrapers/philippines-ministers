@@ -729,7 +729,7 @@
         {
           "sentences": [
             {
-              "text": "On June 17, 2022, President-elect Bongbong Marcos nominated Guevarra as the next Solicitor General.",
+              "text": "On June 17, 2022, President-elect Bongbong Marcos nominated Guevarra as the next Solicitor General, of which he was sworn-in on the role on July 1, 2022 following the Inauguration of Bongbong Marcos as President.",
               "links": [
                 {
                   "type": "internal",
@@ -739,6 +739,10 @@
                   "text": "Solicitor General",
                   "type": "internal",
                   "page": "Solicitor General of the Philippines"
+                },
+                {
+                  "type": "internal",
+                  "page": "Inauguration of Bongbong Marcos"
                 }
               ]
             }
@@ -792,6 +796,15 @@
           "work": "Manila Bulletin",
           "date": "June 17, 2022",
           "accessdate": "June 17, 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.manilatimes.net/2022/07/01/news/national/president-swears-in-members-of-cabinet/1849382",
+          "title": "President swears in members of Cabinet",
+          "work": "The Manila Times",
+          "date": "July 1, 2022",
+          "accessdate": "July 28, 2022",
           "template": "citation",
           "type": "news"
         },
@@ -854,8 +867,8 @@
           "template": "s-prec"
         },
         {
-          "before": "Vacant",
-          "as": "Presidential Spokesperson",
+          "before": "Zenaida Angping",
+          "as": "Head of the Presidential Management Staff",
           "template": "s-bef"
         },
         {

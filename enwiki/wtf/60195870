@@ -95,6 +95,9 @@
               }
             ]
           },
+          "birth_name": {
+            "text": "Ramon Velicaria Guico III"
+          },
           "birth_date": {
             "text": "March 19, 1975"
           },
@@ -287,7 +290,7 @@
               ]
             },
             {
-              "text": "His mother is Arlyn Grace V. Guico, a pharmacist and President of World Citi, Inc."
+              "text": "His mother is Arlyn Grace V. Guico, a pharmacist and President/CEO of WorldCiti Medical Hospital."
             }
           ]
         }
@@ -340,6 +343,12 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "date": "July 2022",
+          "template": "cn"
+        }
+      ],
       "references": [
         {
           "template": "citation",
@@ -350,30 +359,21 @@
       ]
     },
     {
-      "title": "Political career",
+      "title": "Family",
       "depth": 0,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "During Guico's term as Municipal Mayor of Binalonan, he was awarded the Most Outstanding Presiding Officer in Pangasinan by the Department of the Interior and Local Government and the Philippine Councilor's League.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Department of the Interior and Local Government"
-                }
-              ]
-            },
-            {
-              "text": "He also introduced the Vision and Mission of Binalonan as well as the Binalonan Hymn with the theme “Maka-Diyos, Marunong, at Malinis”."
-            },
-            {
-              "text": "Binalonan was able to achieve several awards, such as the Seal of Local Good Governance (for the years 2014, 2015, 2017, and 2018) and Most Statistically Developed LGU (2nd Runner-Up, 2013 and 2014) among others."
-            },
-            {
-              "text": "It was also during his term when Binalonan transitioned from 3rd to 1st class municipality."
+              "text": "Guico and his wife, Maan Tuazon Guico, have four children."
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "July 2022",
+          "template": "cn"
         }
       ]
     },

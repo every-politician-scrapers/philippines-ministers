@@ -1191,58 +1191,17 @@
           "template": "s-inc"
         },
         {
-          "template": "s-off"
-        },
-        {
           "before": "Alan Peter Cayetano",
           "template": "s-bef"
         },
         {
           "title": "Speaker of the House of Representatives of the Philippines",
-          "years": "2020–present",
+          "years": "2020–2022",
           "template": "s-ttl"
         },
         {
-          "template": "s-inc"
-        },
-        {
-          "list": [
-            "Philippines"
-          ],
-          "template": "s-prec"
-        },
-        {
-          "before": "Vacant",
-          "as": "President of the Senate of the Philippines",
-          "template": "s-bef"
-        },
-        {
-          "title": "Order of Precedence of the Philippines\nas Speaker of the House of Representatives of the Philippines",
-          "template": "s-ttl"
-        },
-        {
-          "after": "Alexander Gesmundo",
-          "as": "Chief Justice of the Supreme Court of the Philippines",
+          "after": "Martin Romualdez",
           "template": "s-aft"
-        },
-        {
-          "list": [
-            "line"
-          ],
-          "template": "s-other"
-        },
-        {
-          "before": "Vacant",
-          "as": "President of the Senate of the Philippines",
-          "template": "s-bef"
-        },
-        {
-          "title": "Philippine presidential line of succession\nas Speaker of the House of Representatives of the Philippines",
-          "template": "s-ttl"
-        },
-        {
-          "reason": "Last",
-          "template": "s-non"
         },
         {
           "template": "mduquerep"

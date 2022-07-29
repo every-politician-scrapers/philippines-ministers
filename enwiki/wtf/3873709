@@ -4958,6 +4958,10 @@
           "template": "s-ttl"
         },
         {
+          "list": [
+            ""
+          ],
+          "rows": "2",
           "after": "Juan Miguel Zubiri",
           "template": "s-aft"
         },
@@ -4969,10 +4973,6 @@
           "title": "President of the Senate of the Philippines",
           "years": "2018–2022",
           "template": "s-ttl"
-        },
-        {
-          "after": "Juan Miguel Zubiri",
-          "template": "s-aft"
         },
         {
           "template": "s-ppo"

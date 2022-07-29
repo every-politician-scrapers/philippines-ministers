@@ -317,6 +317,26 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is the host of his public service brand Mission X, that eventually evolved into the Erwin Tulfo Action Center, which is now inactive due to his present appointment in the Marcos Jr. Administration."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was appointed DSWD Secretary by President Ferdinand Marcos Jr. in May 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "DSWD"
+                }
+              ]
+            }
+          ]
         }
       ],
       "references": [
@@ -330,6 +350,24 @@
           "accessdate": "July 2, 2021",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         }
       ]
     },
