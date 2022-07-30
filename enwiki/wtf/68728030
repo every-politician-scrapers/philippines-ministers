@@ -254,11 +254,16 @@
             ]
           },
           "alma_mater": {
-            "text": "Philippine Military Academy",
+            "text": "Philippine Military Academy(B.S.)",
             "links": [
               {
                 "type": "internal",
                 "page": "Philippine Military Academy"
+              },
+              {
+                "text": "B.S.",
+                "type": "internal",
+                "page": "Bachelor of Science"
               }
             ]
           },

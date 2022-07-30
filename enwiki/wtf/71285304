@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Raphael Lotilla is a Filipino lawyer, businessman and government official who is the current Secretary of Energy under the administration of President Bongbong Marcos.",
+              "text": "Raphael Lotilla is a Filipino lawyer, businessman and government official.",
               "links": [
                 {
                   "text": "Filipino",
@@ -40,7 +40,17 @@
                   "text": "government official",
                   "type": "internal",
                   "page": "government official"
-                },
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Raphael Lotilla"
+                ]
+              }
+            },
+            {
+              "text": "He is the Secretary of Energy under the administration of President Bongbong Marcos.",
+              "links": [
                 {
                   "text": "Secretary of Energy",
                   "type": "internal",
@@ -50,20 +60,9 @@
                   "type": "internal",
                   "page": "Bongbong Marcos"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Raphael Lotilla"
-                ]
-              }
+              ]
             }
           ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "July 2022",
-          "template": "copy edit"
         }
       ],
       "infoboxes": [
@@ -208,7 +207,23 @@
         {
           "sentences": [
             {
-              "text": "Before being appointed as the Secretary of Energy, Lotilla was the President and Chief Executive Officer of the Power Sector Assets and Liabilities Management Corporation (PSALM).",
+              "text": "Lotilla began his career as an assistant professor of law in 1985 at the University of the Philippines (UP).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of the Philippines"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Lotilla served as PSALM Chief Operating Officer."
+            },
+            {
+              "text": "He served as President and Chief Executive Officer of the Power Sector Assets and Liabilities Management Corporation (PSALM).",
               "links": [
                 {
                   "text": "Chief Executive Officer",
@@ -226,34 +241,36 @@
                   "page": "Liability (financial accounting)"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was Deputy Director-General (DDG) from 1996 to January 2004."
             },
             {
-              "text": "Before his appointment on PSALM, he briefly served as PSALM Chief Operating Officer and was previously Deputy Director-General (DDG) from 1996 to January 2004."
-            },
+              "text": "He was the supervising official of the secretariat of the Legislative-Executive Development Advisory Council (LEDAC)."
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "He was also the supervising official of the secretariat of the Legislative-Executive Development Advisory Council (LEDAC)."
-            },
-            {
-              "text": "Lotilla began his career as an assistant professor of law in 1985 at the University of the Philippines (UP).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "University of the Philippines"
-                }
-              ]
-            },
-            {
-              "text": "Lotilla's first term as the Secretary of Energy was under President Gloria Macapagal Arroyo from 2005 to 2007, and later returned for the second term on July 11, 2022, under President Bongbong Marcos.",
+              "text": "Lotilla's first term as the Secretary of Energy was under President Gloria Macapagal Arroyo from 2005 to 2007,",
               "links": [
                 {
                   "type": "internal",
                   "page": "Gloria Macapagal Arroyo"
-                },
-                {
-                  "type": "internal",
-                  "page": "Bongbong Marcos"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His second term began on July 11, 2022, under Marcos."
             }
           ]
         }
@@ -262,8 +279,8 @@
         {
           "title": "Secretary Raphael P.M. Lotilla",
           "url": "https://www.doe.gov.ph/secretary-raphael-pm-lotilla",
-          "website": "Department of Energy Philippines",
           "access-date": "July 13, 2022",
+          "website": "Department of Energy Philippines",
           "template": "citation",
           "type": "web"
         },

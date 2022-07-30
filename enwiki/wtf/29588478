@@ -815,6 +815,33 @@
           },
           {
             "Year": {
+              "text": "1998–2005"
+            },
+            "Title": {
+              "text": "The Correspondents",
+              "links": [
+                {
+                  "text": "The Correspondents",
+                  "type": "internal",
+                  "page": "The Correspondents (TV program)"
+                }
+              ]
+            },
+            "Character": {
+              "text": "Host"
+            },
+            "Network": {
+              "text": "ABS-CBN",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "ABS-CBN"
+                }
+              ]
+            }
+          },
+          {
+            "Year": {
               "text": "2001–2002"
             },
             "Title": {
@@ -901,15 +928,6 @@
             },
             "Character": {
               "text": "News Anchor"
-            },
-            "Network": {
-              "text": "ABS-CBN",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "ABS-CBN"
-                }
-              ]
             }
           },
           {
@@ -1236,7 +1254,7 @@
         [
           {
             "Year": {
-              "text": "2010–2018"
+              "text": "2010–2017"
             },
             "Title": {
               "text": "Punto Asintado",
@@ -1259,7 +1277,7 @@
           },
           {
             "Year": {
-              "text": "2018–2022"
+              "text": "2017–2022"
             },
             "Title": {
               "text": "Tutok Erwin Tulfo",

@@ -508,24 +508,23 @@
             "text": "Politician"
           },
           "alma_mater": {
-            "text": "San Pedro College (BS)\nSan Beda College School of Law\nSan Sebastian College - Recoletos College of Law (LL.B.)",
+            "text": "San Pedro College (B.S.)\nSan Beda College\nSan Sebastian College – Recoletos (LL.B.)",
             "links": [
               {
                 "type": "internal",
                 "page": "San Pedro College"
               },
               {
-                "text": "BS",
+                "text": "B.S.",
                 "type": "internal",
                 "page": "Bachelor of Science"
               },
               {
-                "text": "San Beda College School of Law",
+                "text": "San Beda College",
                 "type": "internal",
                 "page": "San Beda University"
               },
               {
-                "text": "San Sebastian College - Recoletos College of Law ",
                 "type": "internal",
                 "page": "San Sebastian College – Recoletos"
               },

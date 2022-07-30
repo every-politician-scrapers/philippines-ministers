@@ -56,7 +56,7 @@
         {
           "sentences": [
             {
-              "text": "Vicente \"Tito\" Castelo Sotto III (born August 24, 1948) is a Filipino politician, entertainer and athlete who served as Senate President from 2018 to 2022.",
+              "text": "Vicente Castelo Sotto III (born August 24, 1948), known as Tito Sotto, is a Filipino politician, entertainer and athlete who served as Senate President from 2018 to 2022.",
               "links": [
                 {
                   "text": "Senate President",
@@ -66,9 +66,8 @@
               ],
               "formatting": {
                 "bold": [
-                  "Vicente",
-                  "Tito",
-                  "Castelo Sotto III"
+                  "Vicente Castelo Sotto III",
+                  "Tito Sotto"
                 ]
               }
             },

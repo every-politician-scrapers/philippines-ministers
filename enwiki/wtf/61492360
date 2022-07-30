@@ -82,7 +82,7 @@
             ]
           },
           "name": {
-            "text": "Matthew Joseph M. Manotoc"
+            "text": "Matthew Manotoc"
           },
           "image": {
             "text": "Governor Manotoc Official Portrait.jpg"
@@ -376,6 +376,15 @@
               ]
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "section"
+          ],
+          "date": "July 2022",
+          "template": "unsourced"
         }
       ]
     },
